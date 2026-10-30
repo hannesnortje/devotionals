@@ -9,3 +9,14 @@
 @font-face { font-family: "Inter"; src: url("fonts/inter-latin-400-normal.woff2") format("woff2"); font-weight: 400; }
 @font-face { font-family: "Inter"; src: url("fonts/inter-latin-500-normal.woff2") format("woff2"); font-weight: 500; }
 @font-face { font-family: "Inter"; src: url("fonts/inter-latin-600-normal.woff2") format("woff2"); font-weight: 600; }
+@font-face { font-family: "Literata"; src: url("fonts/literata-greek-400-normal.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; unicode-range: U+0370-03FF; }
+@font-face { font-family: "Literata"; src: url("fonts/literata-greek-ext-400-normal.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; unicode-range: U+1F00-1FFF; }
+@font-face { font-family: "Literata"; src: url("fonts/literata-greek-600-normal.woff2") format("woff2"); font-weight: 600; font-style: normal; font-display: swap; unicode-range: U+0370-03FF; }
+@font-face { font-family: "Literata"; src: url("fonts/literata-greek-ext-600-normal.woff2") format("woff2"); font-weight: 600; font-style: normal; font-display: swap; unicode-range: U+1F00-1FFF; }
+@font-face { font-family: "Literata"; src: url("fonts/literata-greek-400-italic.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: swap; unicode-range: U+0370-03FF; }
+@font-face { font-family: "Literata"; src: url("fonts/literata-greek-ext-400-italic.woff2") format("woff2"); font-weight: 400; font-style: italic; font-display: swap; unicode-range: U+1F00-1FFF; }
+@font-face { font-family: "Literata"; src: url("fonts/literata-greek-600-italic.woff2") format("woff2"); font-weight: 600; font-style: italic; font-display: swap; unicode-range: U+0370-03FF; }
+@font-face { font-family: "Literata"; src: url("fonts/literata-greek-ext-600-italic.woff2") format("woff2"); font-weight: 600; font-style: italic; font-display: swap; unicode-range: U+1F00-1FFF; }
+@font-face { font-family: "Inter"; src: url("fonts/inter-greek-400-normal.woff2") format("woff2"); font-weight: 400; font-display: swap; unicode-range: U+0370-03FF, U+1F00-1FFF; }
+@font-face { font-family: "Inter"; src: url("fonts/inter-greek-500-normal.woff2") format("woff2"); font-weight: 500; font-display: swap; unicode-range: U+0370-03FF, U+1F00-1FFF; }
+@font-face { font-family: "Inter"; src: url("fonts/inter-greek-600-normal.woff2") format("woff2"); font-weight: 600; font-display: swap; unicode-range: U+0370-03FF, U+1F00-1FFF; }

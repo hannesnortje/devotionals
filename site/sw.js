@@ -5,7 +5,7 @@ var FILES = __FILES__;
 self.addEventListener('install', function (e) {
   e.waitUntil(caches.open(VERSION).then(function (c) {
     // add one by one so a single failure doesn't break installation
-    return Promise.all(FILES.map(function (f) { return c.add(f).catch(function () {}); }));
+    return Promise.all(FILES.map(function (f) { return c.add(new Request(f, { cache: 'reload' })).catch(function () {}); }));
   }).then(function () { return self.skipWaiting(); }));
 });
 

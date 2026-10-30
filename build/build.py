@@ -28,8 +28,20 @@ CHAPTER_WORDS = ("Kapitel", "Chapter", "Hoofstuk")
 HEBREW_RUN = re.compile(r"[֐-׿יִ-ﭏ](?:[֐-׿יִ-ﭏ\s־]*[֐-׿יִ-ﭏ])?")
 
 
+GREEK_RUN = re.compile(r"[\u0370-\u03FF\u1F00-\u1FFF](?:[\u0370-\u03FF\u1F00-\u1FFF\s\u0300-\u036F'’ʼ·]*[\u0370-\u03FF\u1F00-\u1FFF])?")
+
+
 def wrap_hebrew(s: str) -> str:
-    return HEBREW_RUN.sub(lambda m: f'<span class="he" lang="he" dir="rtl">{m.group(0)}</span>', s)
+    """Tag Hebrew (rtl) and Greek runs in text (outside tags)."""
+    parts = re.split(r"(<[^>]+>)", s)
+    out = []
+    for p in parts:
+        if p.startswith("<"):
+            out.append(p); continue
+        p = HEBREW_RUN.sub(lambda m: f'<span class="he" lang="he" dir="rtl">{m.group(0)}</span>', p)
+        p = GREEK_RUN.sub(lambda m: f'<span class="gr" lang="grc">{m.group(0)}</span>', p) if not 'class="he"' in p else p
+        out.append(p)
+    return "".join(out)
 
 
 DIVINE = re.compile(r"(?<![\w>])(HERRN|HERR|LORD|HERE)(?![\w<])")
@@ -230,9 +242,26 @@ def load_kit(lang, verses):
 DAYWORD = {l: STRINGS[l]["day"].lower() for l in LANGS}
 
 
+import os
+INCLUDE_DRAFTS = os.environ.get("DRAFTS") == "1"
+
+
+def series_dirs():
+    """Series to build; series marked `draft: true` only with DRAFTS=1."""
+    out = []
+    for p in sorted((ROOT / "series").iterdir()):
+        if not (p / "series.yml").exists():
+            continue
+        conf = yaml.safe_load((p / "series.yml").read_text(encoding="utf-8"))
+        if conf.get("draft") and not INCLUDE_DRAFTS:
+            continue
+        out.append(p)
+    return out
+
+
 def load_catalog():
     cat = []
-    for sdir in sorted(p for p in (ROOT / "series").iterdir() if (p / "series.yml").exists()):
+    for sdir in series_dirs():
         conf = yaml.safe_load((sdir / "series.yml").read_text(encoding="utf-8"))
         total = len(list((sdir / LANGS[0]).glob("[0-9][0-9]-*.md")))
         cat.append({"slug": conf["slug"], "order": conf.get("order", 99), "total": total,
@@ -340,7 +369,7 @@ def build():
     global CATALOG
     CATALOG = load_catalog()
     series_list, summary = [], {}
-    for sdir in sorted(p for p in (ROOT / "series").iterdir() if (p / "series.yml").exists()):
+    for sdir in series_dirs():
         conf, summ = build_series(env, sdir)
         series_list.append(conf)
         summary[conf["slug"]] = summ

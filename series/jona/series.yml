@@ -14,6 +14,20 @@ strings:
     whole_book: Das ganze Buch Jona
     whole_book_intro: Der vollständige Text des Buches Jona in der Übersetzung, die in diesen Andachten verwendet wird.
     kit_intro: Vier Treffen für Hauskreise und Kleingruppen – ein Treffen pro Kapitel, je 75 bis 90 Minuten. Jedes Treffen baut auf den Andachten der Woche auf.
+    k_hebrew: Ein Blick ins Hebräische
+    k_time_labels:
+      welcome: Ankommen & Einstieg
+      read: Bibeltext lesen
+      context: Hintergrund & Hebräisch
+      discussion: Gespräch
+      prayer: Anwendung & Gebet
+    how:
+    - Nimm dir für jeden Tag etwa 15 bis 20 Minuten Zeit, am besten an einem ruhigen Ort.
+    - Lies zuerst den Bibeltext langsam – gern auch laut. Er steht am Anfang jeder Andacht.
+    - „Tiefer graben“ führt dich in den Zusammenhang und in die Sprache des hebräischen Textes. „Für das Leben heute“ fragt, was das für dich bedeutet.
+    - Nimm dir Zeit für die Fragen. Vielleicht schreibst du deine Antworten auf.
+    - Schließe mit dem Gebet – und mit deinen eigenen Worten.
+    translation_note: 'Bibeltext: eigene Übersetzung aus dem Hebräischen (Masoretischer Text) von Dr. Johannes A. Nortjé. Die Verszählung folgt dem hebräischen Text.'
   en:
     series_title: Journey through Jonah
     series_subtitle: Ten devotionals on the book of Jonah
@@ -21,6 +35,20 @@ strings:
     whole_book: The whole book of Jonah
     whole_book_intro: 'The complete text of Jonah in the translation used in these devotionals. Verse numbers follow the Hebrew: English Bibles number 2:1 as 1:17 and 2:2–11 as 2:1–10.'
     kit_intro: Four sessions for home groups and small groups – one per chapter, 75 to 90 minutes each. Each session builds on that week's devotionals.
+    k_hebrew: A look at the Hebrew
+    k_time_labels:
+      welcome: Welcome & opener
+      read: Read the passage
+      context: Background & Hebrew
+      discussion: Discussion
+      prayer: Application & prayer
+    how:
+    - Set aside about 15 to 20 minutes for each day, ideally somewhere quiet.
+    - Read the Scripture passage first, slowly – aloud, if you can. It stands at the start of each devotional.
+    - “Digging Deeper” takes you into the context and the language of the Hebrew text. “Living It Out” asks what it means for you.
+    - Take your time with the questions. You may want to write your answers down.
+    - Close with the prayer – and with your own words.
+    translation_note: 'Scripture: own translation from the Hebrew (Masoretic Text) by Dr. Johannes A. Nortjé. Verse numbers follow the Hebrew text.'
   af:
     series_title: Reis deur Jona
     series_subtitle: Tien oordenkings oor die boek Jona
@@ -28,3 +56,17 @@ strings:
     whole_book: Die hele boek Jona
     whole_book_intro: Die volledige teks van Jona in die vertaling wat in hierdie oordenkings gebruik word.
     kit_intro: Vier byeenkomste vir huisgroepe en kleingroepe – een per hoofstuk, elk 75 tot 90 minute. Elke byeenkoms bou voort op daardie week se oordenkings.
+    k_hebrew: '''n Blik op die Hebreeus'
+    k_time_labels:
+      welcome: Verwelkoming & inleiding
+      read: Lees die gedeelte
+      context: Agtergrond & Hebreeus
+      discussion: Gesprek
+      prayer: Toepassing & gebed
+    how:
+    - Maak elke dag sowat 15 tot 20 minute oop, verkieslik op 'n stil plek.
+    - Lees eers die Skriflesing stadig – hardop, as jy kan. Dit staan aan die begin van elke oordenking.
+    - “Dieper Delf” neem jou in die konteks en die taal van die Hebreeuse teks in. “Praktiese Toepassing” vra wat dit vir jou beteken.
+    - Neem tyd vir die vrae. Skryf dalk jou antwoorde neer.
+    - Sluit af met die gebed – en met jou eie woorde.
+    translation_note: 'Skrifteks: eie vertaling uit die Hebreeus (Masoretiese Teks) deur Dr. Johannes A. Nortjé. Die versnommering volg die Hebreeuse teks.'

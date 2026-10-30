@@ -96,7 +96,7 @@
     if (!el) return;
     var n = prog(state, slug).read.length, T = total(slug) || 10;
     var label = el.querySelector('.label'), bar = el.querySelector('.bar span');
-    if (label) label.textContent = el.getAttribute('data-progress-template').replace('{n}', n);
+    if (label) label.textContent = el.getAttribute('data-progress-template').replace('{n}', n).replace('{total}', T);
     if (bar) bar.style.width = Math.round(100 * n / T) + '%';
   }
 
@@ -225,7 +225,26 @@
   }
 
   // ---------------------------------------------------------------- offline support
+  // Updates: pages always come fresh from the network when online. When a new version is
+  // published, the service worker swaps the offline copy. An installed app is often resumed
+  // rather than reloaded, so check for updates whenever it comes back to the foreground.
   if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) {
-    window.addEventListener('load', function () { navigator.serviceWorker.register(ROOT + 'sw.js').catch(function () {}); });
+    var hadController = !!navigator.serviceWorker.controller, resumedAt = Date.now(), reloading = false;
+    window.addEventListener('load', function () {
+      navigator.serviceWorker.register(ROOT + 'sw.js').then(function (reg) {
+        document.addEventListener('visibilitychange', function () {
+          if (document.visibilityState === 'visible') { resumedAt = Date.now(); reg.update().catch(function () {}); }
+        });
+        setInterval(function () { reg.update().catch(function () {}); }, 60 * 60 * 1000);
+      }).catch(function () {});
+    });
+    navigator.serviceWorker.addEventListener('controllerchange', function () {
+      if (!hadController) { hadController = true; return; }   // first install: nothing to refresh
+      if (reloading) return;
+      var justResumed = Date.now() - resumedAt < 8000, atTop = window.scrollY < 300;
+      if (justResumed || atTop) { reloading = true; location.reload(); return; }
+      var toast = document.querySelector('[data-update]');
+      if (toast) { toast.hidden = false; toast.addEventListener('click', function () { location.reload(); }); }
+    });
   }
 })();
