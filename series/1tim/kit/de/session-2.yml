@@ -1,0 +1,55 @@
+session: 2
+lang: de
+title: "Gebet für alle, Gottesdienst in Ordnung"
+ref: "2:1-2:15"
+days: [4, 5]
+big_idea: "Gott „will, dass alle Menschen gerettet werden“; darum ist das Gebet für alle die erste Aufgabe der Gemeinde – und ihr Gottesdienst soll versöhnte Herzen, ein heiliges Leben und Gottes gute Ordnung widerspiegeln."
+opening: "Für welche öffentliche Person – Politiker, Prominente, Manager – fällt es dir schwer zu beten? (Du musst nicht sagen, warum.)"
+context: >-
+  Nach der Warnung vor falscher Lehre wendet sich Paulus dem Leben der versammelten Gemeinde zu.
+  Zuerst ruft er zum Gebet für alle Menschen auf, auch für die Regierenden, weil es einen Gott und einen Mittler gibt.
+  Dann spricht er zu Männern und Frauen darüber, wie sie beten, sich kleiden, lernen und dienen – einige der meistdiskutierten Verse des Neuen Testaments.
+read_aloud_tip: "Ein Leser liest die Verse 1–7, das Bekenntnis in Vers 5–6 sprecht ihr gemeinsam; dann liest ein zweiter Leser langsam die Verse 8–15."
+hebrew:
+  - word: "mesitēs"
+    hebrew: "μεσίτης"
+    gloss: "Mittler"
+    point: "Ein Mittler steht zwischen zwei entfremdeten Parteien, um sie zu versöhnen. Es gibt nur einen „Mittler zwischen Gott und Menschen: der Mensch Christus Jesus“ (2,5) – eine andere Brücke ist weder nötig noch möglich."
+  - word: "antilytron"
+    hebrew: "ἀντίλυτρον"
+    gloss: "Lösegeld"
+    point: "Christus hat sich „selbst als Lösegeld für alle gegeben“ (2,6). Die Vorsilbe anti- bedeutet „an Stelle von“: Unsere Freiheit wurde mit seinem eigenen Leben bezahlt."
+  - word: "hēsychia"
+    hebrew: "ἡσυχία"
+    gloss: "Stille"
+    point: "Derselbe Wortstamm wie in 2,2, wo Paulus allen Gläubigen „ein ruhiges und stilles Leben“ wünscht. In 2,11–12 beschreibt er einen friedvollen, lernbereiten Geist – kein demütigendes Schweigen."
+discussion:
+  - q: "Paulus nennt „Bitten, Gebete, Fürbitten und Danksagungen“. Was davon ist in deinem Gebetsleben am stärksten, was am schwächsten?"
+    ref: "2:1"
+  - q: "Warum verbindet Paulus das Gebet für die Regierenden mit Gott, „der will, dass alle Menschen gerettet werden und zur Erkenntnis der Wahrheit kommen“?"
+    ref: "2:1-2:4"
+  - q: "Lest die Verse 5–6 noch einmal. Was ändert es im Alltag, dass es nur einen Mittler gibt?"
+    ref: "2:5-2:6"
+  - q: "Die Männer sollen „heilige Hände erheben, ohne Zorn und Streit“. Wie kann ungelöster Ärger unsere Gebete blockieren?"
+    ref: "2:8"
+  - q: "Paulus stellt äußeren Schmuck den „guten Werken“ gegenüber. Wo investieren wir mehr – in unser Image oder in unseren Charakter?"
+    ref: "2:9-2:10"
+  - q: "„Eine Frau soll … lernen“ – in ihrer Kultur ein bemerkenswertes Gebot. Was sagen die Verse 11–15, und was sagen sie nicht? Hört hier besonders gut aufeinander."
+    ref: "2:11-2:15"
+  - q: "Für wen fällt es dir am schwersten zu beten – und was würde sich ändern, wenn du regelmäßig für diesen Menschen betest?"
+application:
+  - "Wähle eine Person aus der Politik und einen Menschen, mit dem du nicht einverstanden bist, und bete diese Woche jeden Tag mit Namen für beide."
+  - "Wenn zwischen dir und jemandem Ärger oder Streit steht, geh bis nächste Woche einen Schritt auf Versöhnung zu."
+prayer: "Betet reihum für die Verantwortlichen in eurem Ort, eurem Land und der Welt – mit den vier Arten des Gebets aus Vers 1. Sprecht zum Abschluss gemeinsam die Verse 5–6 als Glaubensbekenntnis."
+leader_notes:
+  - "Gebt den Versen 1–7 wirklich Zeit: Sie sind das Herz des Kapitels und am praktischsten. Lasst nicht zu, dass die Verse 11–15 den ganzen Abend verschlingen."
+  - "Die Verse 11–15 werden von aufrichtigen Christen unterschiedlich verstanden. Die Andacht von Tag 5 vertritt die Position von Hannes: Gottes einander ergänzende Ordnung für Männer und Frauen in der Gemeinde, begründet in der Schöpfung (Vers 13), nicht in Über- oder Unterordnung des Wertes (Galater 3,28). Stell sie so vor und lass andere in der Gruppe sagen, wo sie es anders sehen."
+  - "Gib früh den Ton vor: Wir hören, um zu verstehen, nicht um zu gewinnen. Bleibt beim Text; die Übersetzungsnotizen erklären Entscheidungen wie „Autorität über einen Mann auszuüben“ (Vers 12) und „Stille“."
+  - "Vers 15 ist schwierig. Die Andacht von Tag 5 sagt, er kann nicht bedeuten, dass man sich das Heil durch Geburt verdient, und verweist auf 1. Mose 3,15 (die verheißene Nachkommenschaft). Manche Fragen dürfen offen bleiben."
+  - "Sei sensibel für Alleinstehende, Kinderlose, Verwitwete und für alle, die in diesem Bereich in der Gemeinde verletzt wurden. Biete ein Gespräch im Anschluss an."
+timing:
+  welcome: 10
+  read: 10
+  context: 10
+  discussion: 40
+  prayer: 15

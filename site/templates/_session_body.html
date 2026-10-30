@@ -17,7 +17,7 @@
 
 <h3>{{ t.k_hebrew }}</h3>
 <ul class="hebrew-list">
-  {% for h in s.hebrew %}<li><b><i>{{ h.word }}</i> – <span class="he" lang="he" dir="rtl">{{ h.hebrew }}</span></b> {{ t.qo }}{{ h.gloss }}{{ t.qc }}: {{ h.point }}</li>{% endfor %}
+  {% for h in s.hebrew %}<li><b><i>{{ h.word }}</i> – <span class="{{ 'he' if olang == 'he' else 'gr' }}" lang="{{ olang }}" dir="{{ 'rtl' if olang == 'he' else 'ltr' }}">{{ h.hebrew }}</span></b> {{ t.qo }}{{ h.gloss }}{{ t.qc }}: {{ h.point }}</li>{% endfor %}
 </ul>
 
 <h3>{{ t.k_discussion }}</h3>

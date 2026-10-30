@@ -1,0 +1,55 @@
+session: 1
+lang: de
+title: "Das Evangelium bewahren"
+ref: "1:1-1:20"
+days: [1, 2, 3]
+big_idea: "Gesunde Lehre erkennt man an ihrer Frucht – Liebe, gutes Gewissen und ungeheuchelter Glaube –, und in ihrem Zentrum steht das Evangelium von der Gnade für Sünder wie Paulus und wie uns."
+opening: "Denk an etwas Wertvolles, das dir jemand einmal anvertraut hat – einen Schlüssel, ein Kind, ein Geheimnis. Wie hat das dein Verhalten verändert?"
+context: >-
+  Paulus hat Timotheus in Ephesus zurückgelassen, einer belebten Hafenstadt voller Tempel und Ideen, um Leuten zu wehren, die eine andere Lehre verbreiteten.
+  Dieser Brief ist Paulus' Weisung, wie die Gemeinde als Haus Gottes leben soll.
+  Heute lesen wir Kapitel 1: die Gefahr falscher Lehre, Paulus' eigene Geschichte der Gnade und den Auftrag an Timotheus, im Kampf zu bleiben.
+read_aloud_tip: "Lest in drei Teilen mit drei Lesern: Verse 1–11 (das Problem in Ephesus), Verse 12–17 (Paulus' Zeugnis – langsam lesen, bis zum Lobpreis am Ende), Verse 18–20 (der Auftrag an Timotheus)."
+hebrew:
+  - word: "telos tēs parangelias"
+    hebrew: "τέλος τῆς παραγγελίας"
+    gloss: "das Ziel der Weisung"
+    point: "Das Ziel aller Lehre ist nicht, Diskussionen zu gewinnen, sondern „Liebe aus reinem Herzen, aus gutem Gewissen und aus ungeheucheltem Glauben“ (1,5). Lehre, die Stolz und Streit hervorbringt, hat ihr Ziel verfehlt."
+  - word: "pistos ho logos"
+    hebrew: "πιστὸς ὁ λόγος"
+    gloss: "das Wort ist zuverlässig"
+    point: "Das erste von fünf „zuverlässigen Worten“ in den Pastoralbriefen (1,15). Es verankert die Gemeinde in einem einfachen Bekenntnis: „Christus Jesus ist in die Welt gekommen, um Sünder zu retten.“"
+  - word: "strateia"
+    hebrew: "στρατεία"
+    gloss: "Feldzug"
+    point: "Timotheus soll „den guten Feldzug“ führen (1,18) – einen langen Feldzug, nicht eine einzelne Schlacht. Glaube und ein gutes Gewissen sind seine Ausrüstung; ohne sie erleidet der Glaube Schiffbruch."
+discussion:
+  - q: "Womit waren die falschen Lehrer in Ephesus nach den Versen 3–7 beschäftigt? Was könnte es heute im Gemeindeleben bedeuten, sich „mit Mythen und endlosen Geschlechtsregistern abzugeben“?"
+    ref: "1:3-1:7"
+  - q: "Paulus sagt, das Ziel der Weisung ist „Liebe aus reinem Herzen, aus gutem Gewissen und aus ungeheucheltem Glauben“. Woran erkennen wir, ob eine Lehre „gesund“ ist?"
+    ref: "1:5"
+  - q: "Paulus beschreibt sich als „ein Lästerer, ein Verfolger und ein Gewalttäter“. Warum erzählt er gerade an dieser Stelle seine eigene Geschichte?"
+    ref: "1:13"
+  - q: "Paulus sagt: „von denen ich der erste bin“ – in der Gegenwart, nicht in der Vergangenheit. Was sagt das darüber, wie ein reifer Christ sich selbst sieht?"
+    ref: "1:15"
+  - q: "Paulus' Zeugnis mündet in Anbetung (V. 17). Wann hat dich das Nachdenken über Gottes Gnade zuletzt zum Loben gebracht?"
+    ref: "1:17"
+  - q: "„Dieses haben einige von sich gestoßen und am Glauben Schiffbruch erlitten.“ Wie kann es unseren Glauben langsam zerstören, wenn wir das Gewissen übergehen?"
+    ref: "1:19"
+  - q: "Wo blinkt bei dir gerade die „Warnleuchte“ des Gewissens? Teile nur, was du teilen möchtest."
+application:
+  - "Schreib deine eigene kurze „Geschichte der Gnade“ auf (drei, vier Sätze, wie Paulus in den Versen 12–16) und erzähle sie diese Woche einem Menschen."
+  - "Frag Gott jeden Abend dieser Woche: „Gibt es etwas, das ich in meinem Gewissen beiseiteschiebe?“ – und setze eine Sache um, die er dir zeigt."
+prayer: "Lest zu Beginn gemeinsam Vers 17 als Lobpreis. Betet dann zu zweit: Dankt Gott für sein Erbarmen mit jedem von euch und betet für Menschen, die ihr kennt und die „am Glauben Schiffbruch erlitten“ haben, dass sie wiederhergestellt werden."
+leader_notes:
+  - "Dieses Treffen umfasst drei Andachten (Tag 1–3). Wählt vier oder fünf Fragen aus und lasst der letzten genug Zeit."
+  - "Die Liste in den Versen 9–10 (einschließlich „Männer, die mit Männern schlafen“) kann den Abend entgleisen lassen. Nimm sie wahr, weise darauf hin, dass es Paulus um den rechten Gebrauch des Gesetzes und um das Evangelium der Gnade für alle Sünder geht – auch für ihn selbst in Vers 13 – und bleib dabei."
+  - "Vers 20 („dem Satan übergeben“) wirft Fragen auf. Die Andacht von Tag 3 erklärt ihn als förmliche Gemeindezucht mit dem Ziel der Wiederherstellung („damit sie durch Zucht lernen, nicht mehr zu lästern“); ihr müsst nicht jedes Detail klären."
+  - "Manche tragen tiefe Scham über ihre Vergangenheit. Die Verse 12–16 sind gute Nachricht für sie – verweilt dabei, statt schnell weiterzugehen."
+  - "Ausblick: Nächste Woche geht es in Kapitel 2 um das Gebet „für alle Menschen“ und um den Gottesdienst der Gemeinde."
+timing:
+  welcome: 10
+  read: 10
+  context: 10
+  discussion: 40
+  prayer: 15

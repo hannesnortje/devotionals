@@ -307,7 +307,7 @@ def build_series(env, sdir: Path):
         ctx = dict(t=t, lang=lang, langs=LANGS, strings=all_t, days=days, year=YEAR,
                    copyright=t["copyright"].format(year=YEAR), whole=whole, series=slug,
                    pdf_name=f"{slug}-{lang}.pdf", collection="../../index.html",
-                   site_url=conf.get("site_url"))
+                   site_url=conf.get("site_url"), olang=conf.get("original_language", "he"))
         ctx["catalog_lang"] = catalog_for(lang)
         ldir = sdocs / lang
         ldir.mkdir(parents=True)

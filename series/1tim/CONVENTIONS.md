@@ -39,7 +39,7 @@ The originals put everything under "Dieper Delf" without sub-headings. Split it:
 
 ## Quotations
 - Quotations of 1 Timothy must match `bible/1tim-{lang}.md` word for word; key words per `bible/translation-notes.md` §1.
-- Greek words: *transliteration* (Greek) as in the originals, e.g. **„Getreu ist das Wort“ (*pistos ho logos* – πιστὸς ὁ λόγος)**. Fix obvious typos in the Greek (e.g. a Cyrillic letter inside a Greek word) against `/home/claude/src/greek/1Tim-clean.txt`.
+- Greek words: *transliteration* (Greek) as in the originals, e.g. **„Das Wort ist zuverlässig“ (*pistos ho logos* – πιστὸς ὁ λόγος)**. Fix obvious typos in the Greek (e.g. a Cyrillic letter inside a Greek word) against `/home/claude/src/greek/1Tim-clean.txt`.
 - Other Bible books: short (one verse), own rendering.
 - "Herr/Lord/Here" in normal case (NT).
 - German: "du".

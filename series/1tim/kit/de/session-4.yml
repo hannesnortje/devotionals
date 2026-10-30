@@ -1,0 +1,56 @@
+session: 4
+lang: de
+title: "Training in Gottesfurcht"
+ref: "4:1-4:16"
+days: [9, 10, 11]
+big_idea: "Falsche Frömmigkeit sagt „Fass das nicht an!“ und macht Menschen ängstlich; echte Gottesfurcht empfängt Gottes gute Gaben mit Dank und wird Tag für Tag eingeübt – zuerst im Leben dessen, der leitet."
+opening: "Wofür hast du schon einmal trainiert – einen Sport, ein Instrument, eine Sprache? Was hat dir geholfen, dranzubleiben, als es langweilig wurde?"
+context: >-
+  Kapitel 3 endete mit dem Christushymnus, dem „Geheimnis der Gottesfurcht“. Kapitel 4 zeigt nun die Fälschung:
+  Lehrer in Ephesus, die das Heiraten und bestimmte Speisen verbieten und das für Heiligkeit halten.
+  Paulus setzt zwei Dinge dagegen – dankbares Genießen von Gottes guter Schöpfung und einen jungen Leiter, der sich in der Gottesfurcht übt und auf sein eigenes Leben achtet.
+read_aloud_tip: "Lest das Kapitel in drei Teilen mit drei Lesern: Verse 1–5 (die Warnung), Verse 6–10 (das Training), Verse 11–16 (der junge Leiter). Macht zwischen den Teilen eine kurze Pause."
+hebrew:
+  - word: "gymnazō"
+    hebrew: "γύμναζε σεαυτὸν πρὸς εὐσέβειαν"
+    gloss: "übe dich in der Gottesfurcht"
+    point: "Das Wort, von dem „Gymnasium“ und „Gymnastik“ kommen. Gottesfurcht ist kein Gefühl, das über uns kommt, sondern etwas, das mit regelmäßiger, manchmal schweißtreibender Mühe eingeübt wird (4,7) – und anders als körperliche Übung lohnt sie sich in diesem und im kommenden Leben (4,8)."
+  - word: "kekaustēriasmenōn"
+    hebrew: "κεκαυστηριασμένων τὴν ἰδίαν συνείδησιν"
+    gloss: "in ihrem eigenen Gewissen gebrandmarkt"
+    point: "Ein Gewissen, das wie mit einem Brandeisen verödet ist, spürt nichts mehr (4,2). Die Irrlehrer konnten sehr streng klingen und innerlich doch tot sein."
+  - word: "typos"
+    hebrew: "τύπος"
+    gloss: "Vorbild"
+    point: "Timotheus' Antwort auf Menschen, die ihn wegen seiner Jugend geringschätzen, ist kein Titel, sondern ein Leben, das andere nachahmen können: „im Wort, im Lebenswandel, in der Liebe, im Glauben, in der Reinheit“ (4,12)."
+discussion:
+  - q: "Was genau haben die Irrlehrer verboten, und was antwortet Paulus? Schaut euch die Verse 3 bis 5 genau an."
+    ref: "4:3-4:5"
+  - q: "„Denn alles, was Gott geschaffen hat, ist gut, und nichts ist verwerflich, wenn es mit Danksagung empfangen wird.“ Wo machen Christen Heiligkeit heute noch zu einer Sache des Vermeidens statt des dankbaren Empfangens?"
+    ref: "4:4"
+  - q: "Paulus sagt: „Übe dich vielmehr in der Gottesfurcht.“ Wie könnte ein realistischer „Trainingsplan“ für Gottesfurcht in deiner Woche aussehen?"
+    ref: "4:7"
+  - q: "Körperliche Übung „nützt wenig“, die Gottesfurcht aber „ist für alles nützlich“. Wo zeigen unsere Zeit und unser Geld, was uns wirklich wichtiger ist?"
+    ref: "4:8"
+  - q: "„Niemand soll dich wegen deiner Jugend geringschätzen.“ Was soll Timotheus stattdessen tun, statt Respekt einzufordern? Was könnte das für jüngere Menschen in unserer Gemeinde bedeuten – und dafür, wie Ältere mit ihnen umgehen?"
+    ref: "4:12"
+  - q: "Paulus nennt das Vorlesen, das Ermahnen und das Lehren (4,13). Was davon ist in unserer Gruppe stark, und was vernachlässigen wir?"
+    ref: "4:13"
+  - q: "„Achte auf dich selbst und auf die Lehre.“ Warum gehört beides zusammen? Wo fällt es dir leichter, auf das eine zu achten und das andere zu vernachlässigen?"
+    ref: "4:16"
+application:
+  - "Wähle für diese Woche eine kleine, tägliche „Übung“ der Gottesfurcht (zum Beispiel zehn Minuten Bibel vor dem Handy oder ein Dankgebet vor jeder Mahlzeit) und sag einer Person aus der Gruppe, welche."
+  - "Achte auf eine gute Gabe Gottes, die du sonst für selbstverständlich hältst – Essen, Ruhe, eine Beziehung – und empfange sie diese Woche bewusst „mit Danksagung“."
+prayer: "Dankt Gott gemeinsam für seine guten Gaben und nennt konkrete. Betet dann zu zweit füreinander um das „Training“ in der Gottesfurcht und für jüngere Menschen in der Gemeinde, die dienen oder gerade damit anfangen."
+leader_notes:
+  - "Dieses Treffen umfasst drei Andachten (Tag 9–11). Wählt vier oder fünf Fragen aus; Frage 3 und Frage 7 sind das Herz des Kapitels."
+  - "Die „späteren Zeiten“ in 4,1 können zu Spekulationen über die Endzeit führen. Haltet den Blick auf dem, worauf der Text es anwendet: Lehre, die Menschen ängstlich statt dankbar macht."
+  - "Vers 4,8 kann sportliche Menschen sich verurteilt fühlen lassen. Weist wie Tag 10 darauf hin, dass Paulus körperliche Übung begrenzt nützlich nennt, nicht wertlos."
+  - "Wenn jüngere Leute in der Gruppe sind, lass sie bei Frage 5 zuerst antworten; die Älteren können oft am meisten durch Zuhören lernen."
+  - "Vers 4,10 („der Retter aller Menschen ist, besonders der Gläubigen“) kann Fragen aufwerfen. Nimm sie auf, aber lass sie nicht den Abend bestimmen; man kann sie gesondert besprechen."
+timing:
+  welcome: 10
+  read: 10
+  context: 10
+  discussion: 40
+  prayer: 15

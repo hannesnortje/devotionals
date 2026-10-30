@@ -1,7 +1,7 @@
 # Series settings and series-specific text
 slug: 1tim
 order: 2
-draft: true   # remove when ready to publish
+original_language: grc
 site_url: https://hannesnortje.github.io/devotionals/1tim/
 book:
   de: 1. Timotheus

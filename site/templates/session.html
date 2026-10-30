@@ -2,7 +2,7 @@
 {% block title %}{{ t.session }} {{ s.session }}: {{ s.title }} – {{ t.kit }}{% endblock %}
 {% block main %}
 <article class="wrap day session">
-  <p class="eyebrow"><a href="kit.html">{{ t.kit }}</a> · {{ t.session }} {{ s.session }} / 4</p>
+  <p class="eyebrow"><a href="kit.html">{{ t.kit }}</a> · {{ t.session }} {{ s.session }} / {{ sessions|length }}</p>
   <h1>{{ s.title }}</h1>
   <p class="session-links top"><a class="pill" href="{{ s.slides_slug }}.html">{{ t.present }} ▶</a></p>
   <div class="body kit-body">{% include "_session_body.html" %}</div>

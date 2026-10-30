@@ -39,7 +39,7 @@ divine_name: "Here = Kurios; God = Theos"
 ## Hoofstuk 2
 
 **1** Ek vra dus dat daar eerste van alles smekinge, gebede, voorbedes en danksegginge gedoen word vir alle mense,
-**2** vir konings en almal in hoë posisies, sodat ons 'n rustige en stil lewe kan lei in alle godsaligheid en waardigheid.
+**2** vir konings en almal in hoë posisies, sodat ons 'n rustige en stil lewe kan lei in alle godsvrug en waardigheid.
 **3** Dit is goed en aanvaarbaar voor God, ons Redder,
 **4** wat wil hê dat alle mense gered word en tot kennis van die waarheid kom.
 
@@ -78,7 +78,7 @@ divine_name: "Here = Kurios; God = Theos"
 
 **14** Ek skryf dit aan jou, al hoop ek om binnekort na jou toe te kom,
 **15** sodat jy, as ek vertraag word, sal weet hoe 'n mens jou in die huis van God moet gedra, wat die kerk van die lewende God is, 'n pilaar en fondament van die waarheid.
-**16** En sonder twyfel is die geheimenis van die godsaligheid groot:
+**16** En sonder twyfel is die geheimenis van die godsvrug groot:
 
 > Hy is geopenbaar in die vlees,
 > geregverdig deur die Gees,
@@ -96,8 +96,8 @@ divine_name: "Here = Kurios; God = Theos"
 **5** want dit word geheilig deur die woord van God en deur gebed.
 
 **6** As jy hierdie dinge aan die broers en susters voorlê, sal jy 'n goeie dienaar van Christus Jesus wees, gevoed deur die woorde van die geloof en van die goeie leer wat jy gevolg het.
-**7** Maar verwerp die goddelose, ouvroustories. Oefen jou eerder in die godsaligheid.
-**8** Want liggaamlike oefening is van min nut, maar godsaligheid is in alle opsigte nuttig; dit hou die belofte in van die lewe nou en van die lewe wat kom.
+**7** Maar verwerp die goddelose, ouvroustories. Oefen jou eerder in die godsvrug.
+**8** Want liggaamlike oefening is van min nut, maar godsvrug is in alle opsigte nuttig; dit hou die belofte in van die lewe nou en van die lewe wat kom.
 **9** Dit is 'n betroubare woord en dit verdien om volkome aanvaar te word.
 **10** Daarvoor werk ons hard en word ons beledig, omdat ons ons hoop gevestig het op die lewende God, wat die Redder van alle mense is, veral van die gelowiges.
 
@@ -114,7 +114,7 @@ divine_name: "Here = Kurios; God = Theos"
 **2** ouer vroue soos moeders, jonger vroue soos susters, in alle reinheid.
 
 **3** Eer die weduwees wat werklik weduwees is.
-**4** Maar as 'n weduwee kinders of kleinkinders het, moet hulle eers leer om teenoor hulle eie huisgesin godsaligheid te betoon en hulle ouers terug te betaal; want dit is aanvaarbaar voor God.
+**4** Maar as 'n weduwee kinders of kleinkinders het, moet hulle eers leer om teenoor hulle eie huisgesin godsvrug te betoon en hulle ouers terug te betaal; want dit is aanvaarbaar voor God.
 **5** Die vrou wat werklik weduwee en alleen is, het haar hoop op God gevestig en bly dag en nag by die smekinge en gebede.
 **6** Maar sy wat net vir plesier lewe, is dood terwyl sy lewe.
 **7** Gee ook hierdie opdragte, sodat hulle onberispelik kan wees.
@@ -143,16 +143,16 @@ divine_name: "Here = Kurios; God = Theos"
 **1** Almal wat as slawe onder die juk is, moet hulle eie eienaars alle eer waardig ag, sodat die Naam van God en die leer nie gelaster word nie.
 **2** Dié wat gelowige eienaars het, moet hulle nie geringskat omdat hulle broers is nie, maar hulle des te beter dien, omdat dié wat voordeel trek uit hulle goeie diens, gelowiges en geliefdes is. Leer hierdie dinge en vermaan daartoe.
 
-**3** As iemand 'n ander leer verkondig en nie instem met die gesonde woorde van ons Here Jesus Christus en met die leer wat by die godsaligheid pas nie,
+**3** As iemand 'n ander leer verkondig en nie instem met die gesonde woorde van ons Here Jesus Christus en met die leer wat by die godsvrug pas nie,
 **4** is hy verwaand en verstaan niks nie. Hy het 'n sieklike drang na twisvrae en woordestryd, waaruit afguns, rusie, lastering en kwade agterdog voortkom,
-**5** en voortdurende wrywing tussen mense wie se denke bederf is en wat van die waarheid beroof is, wat dink dat godsaligheid 'n manier is om wins te maak.
-**6** Godsaligheid saam met tevredenheid is wel 'n groot wins.
+**5** en voortdurende wrywing tussen mense wie se denke bederf is en wat van die waarheid beroof is, wat dink dat godsvrug 'n manier is om wins te maak.
+**6** Godsvrug saam met tevredenheid is wel 'n groot wins.
 **7** Want ons het niks in die wêreld ingebring nie, en ons kan ook niks daaruit saamneem nie.
 **8** As ons kos en klere het, sal ons daarmee tevrede wees.
 **9** Maar dié wat ryk wil word, val in versoeking en in 'n strik en in baie dwase en skadelike begeertes, wat die mense laat wegsink in verderf en ondergang.
 **10** Want die liefde vir geld is 'n wortel van allerlei kwaad. Sommige wat daarna gegryp het, het van die geloof afgedwaal en hulleself met baie pyn deurboor.
 
-**11** Maar jy, mens van God, vlug van hierdie dinge af. Jaag eerder geregtigheid, godsaligheid, geloof, liefde, volharding en sagmoedigheid na.
+**11** Maar jy, mens van God, vlug van hierdie dinge af. Jaag eerder geregtigheid, godsvrug, geloof, liefde, volharding en sagmoedigheid na.
 **12** Stry die goeie stryd van die geloof. Gryp die ewige lewe vas, waartoe jy geroep is en waarvoor jy die goeie belydenis voor baie getuies afgelê het.
 **13** Ek beveel jou voor God, wat aan alles lewe gee, en voor Christus Jesus, wat voor Pontius Pilatus die goeie belydenis afgelê het:
 **14** bewaar die gebod vlekloos en onberispelik tot by die verskyning van ons Here Jesus Christus,

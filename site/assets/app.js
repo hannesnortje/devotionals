@@ -147,9 +147,9 @@
     go.href = dayUrl(slug, DEV.lang, n);
     go.textContent = n === 'done' ? go.getAttribute('data-done')
       : started ? go.getAttribute('data-continue').replace('{n}', n) : go.getAttribute('data-start');
-    var lost = tile.querySelector('[data-lost]');
+    var lost = tile.querySelector('[data-lost]'), lostWrap = tile.querySelector('[data-lost-wrap]');
     if (lost && !started) {
-      lost.hidden = false;
+      if (lostWrap) lostWrap.hidden = false;
       lost.addEventListener('submit', function (e) {
         e.preventDefault();
         var k = +lost.querySelector('select').value, q = prog(state, slug);

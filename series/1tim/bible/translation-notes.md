@@ -8,13 +8,13 @@ Poetry: 1:17, 2:5–6, 3:16b and 6:15–16 are set as hymn or doxology lines.
 
 | Greek | Verses | DE | EN | AF |
 |---|---|---|---|---|
-| εὐσέβεια *eusebeia* (εὐσεβέω 5:4) | 2:2; 3:16; 4:7, 8; 6:3, 5, 6, 11 | Gottesfurcht | godliness | godsaligheid |
+| εὐσέβεια *eusebeia* (εὐσεβέω 5:4) | 2:2; 3:16; 4:7, 8; 6:3, 5, 6, 11 | Gottesfurcht | godliness | godsvrug |
 | θεοσέβεια *theosebeia* | 2:10 | Gottesverehrung | reverence for God | God vereer |
 | πιστὸς ὁ λόγος *pistos ho logos* | 1:15; 3:1; 4:9 | Das Wort ist zuverlässig | This is a trustworthy saying | Dit is 'n betroubare woord |
 | ὑγιαίνουσα διδασκαλία / ὑγιαίνοντες λόγοι | 1:10; 6:3 | gesunde Lehre / gesunde Worte | sound teaching / sound words | gesonde leer / gesonde woorde |
 | παραγγελία, παραγγέλλω *parangelia, parangellō* | 1:3, 5, 18; 4:11; 5:7; 6:13, 17 | Weisung, anweisen / gebieten (6:13, 17) | instruction, instruct / charge (6:13) | opdrag, opdrag gee / beveel (6:13) |
 | ἑτεροδιδασκαλέω *heterodidaskaleō* | 1:3; 6:3 | anders lehren | teach a different doctrine | 'n ander leer verkondig |
-| μῦθοι *mythoi* | 1:4; 4:7 | Mythen | myths | mites |
+| μῦθοι *mythoi* | 1:4; 4:7 | Mythen (4:7 Altweibermythen) | myths (4:7 old wives' myths) | mites (4:7 with *graōdeis*: ouvroustories) |
 | οἰκονομία θεοῦ *oikonomia theou* | 1:4 | Gottes Heilsordnung | God's ordering of things | God se heilsorde |
 | συνείδησις *syneidēsis* (ἀγαθή / καθαρά) | 1:5, 19; 3:9; 4:2 | (gutes / reines) Gewissen | (good / clear) conscience | (goeie / rein) gewete |
 | παραθήκη *parathēkē* (cf. παρατίθεμαι 1:18; ἐπιστεύθην 1:11) | 6:20 | das anvertraute Gut | what has been entrusted | wat aan jou toevertrou is |
@@ -71,7 +71,7 @@ Poetry: 1:17, 2:5–6, 3:16b and 6:15–16 are set as hymn or doxology lines.
 11. **6:10.** "*Eine* Wurzel aller Übel / *a* root of all kinds of evil / '*n* wortel van allerlei kwaad". The Greek has no article on *rhiza*, so not "*the* root of all evil". *Pantōn tōn kakōn* can mean "all evils" or "all kinds of evils".
 12. **1:4 *oikonomia theou*.** "Gottes Heilsordnung / God's ordering of things / God se heilsorde". Alternatives are "God's plan of salvation", "stewardship from God" or "God's training". The sentence in 1:3–4 is grammatically unfinished in Greek (an anacoluthon), so it ends with a dash.
 13. **1:15–16 *prōtos*.** "der erste / the first / die eerste" rather than "the worst" or "the chief", so that the link to 1:16 ("in me as the first") remains visible. The AF Day 2 title "Grootste van Sondaars" interprets the word and could stay as the title.
-14. **eusebeia.** DE „Gottesfurcht“ (alternatives: „Frömmigkeit“, „Gottseligkeit“); AF "godsaligheid" (decided 30 Oct 2026, to match the AF devotionals; alternative "godsvrug"). All other choices in §2 approved as proposed.
+14. **eusebeia.** DE „Gottesfurcht“ (alternatives: „Frömmigkeit“, „Gottseligkeit“); AF "godsvrug" (decided by Hannes 30 Oct 2026; the AF devotionals follow it instead of "godsaligheid"). All other choices in §2 approved as proposed.
 15. **4:14 *presbyterion*.** "Ältestenschaft / council of elders / ouderlingeraad".
 16. **6:20 *pseudōnymos gnōsis*.** "die fälschlich so genannte Erkenntnis / what is falsely called knowledge / die valslik sogenaamde kennis". This doesn't name a particular movement.
 

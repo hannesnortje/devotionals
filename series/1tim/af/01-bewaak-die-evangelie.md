@@ -9,7 +9,7 @@ ref: "1:1-1:11"
 
 ### Historiese, Kulturele en Literêre Konteks
 
-Vandag begin ons 'n reis van sestien dae deur Paulus se eerste brief aan Timoteus. Dit is 'n brief vol vaderlike sorg en apostoliese erns, geskryf aan 'n jong leier wat midde-in 'n moeilike gemeente moes staan. Dag vir dag sal ons ontdek hoe God se huis lyk wanneer dit volgens Sy Woord ingerig word: gesonde leer, gebed, getroue leiers, sorg vir die kwesbares, en 'n lewe van godsaligheid.
+Vandag begin ons 'n reis van sestien dae deur Paulus se eerste brief aan Timoteus. Dit is 'n brief vol vaderlike sorg en apostoliese erns, geskryf aan 'n jong leier wat midde-in 'n moeilike gemeente moes staan. Dag vir dag sal ons ontdek hoe God se huis lyk wanneer dit volgens Sy Woord ingerig word: gesonde leer, gebed, getroue leiers, sorg vir die kwesbares, en 'n lewe van godsvrug.
 
 Paulus skryf hierdie brief waarskynlik tussen 62 en 64 n.C., na sy vrylating uit sy eerste Romeinse gevangenskap. Hy het sy jong geestelike seun en medewerker, Timoteus, agtergelaat in Efese — 'n kosmopolitiese hawestad, bekend vir die reusagtige tempel van Artemis, magiese praktyke, handelsrykdom en 'n mengelmoes van godsdienstige ideologieë. Die gevaar wat die gemeente bedreig het, was egter nie slegs vervolging van buite af nie, maar verval van binne: leiers wat die evangelie begin vermeng het met mites, spekulatiewe geslagsregisters en 'n verwronge wettisisme.
 
@@ -18,9 +18,9 @@ Paulus skryf hierdie brief waarskynlik tussen 62 en 64 n.C., na sy vrylating uit
 In die Griekse grondteks tref Paulus dadelik die kern met doelgerigte woordeskat:
 
 - **"'n Ander leer verkondig" (*heterodidaskalein* – ἑτεροδιδασκαλεῖν, vers 3):** Paulus wil hê Timoteus moet sekere mense die opdrag gee om *"nie 'n ander leer te verkondig nie"*. Hierdie saamgestelde woord beteken letterlik om 'n leer van 'n vreemde, afwykende aard te verkondig. Enige lering wat die volkome verlossingswerk van Jesus Christus verskuif of vervang met menslike spekulasie, is vir Paulus 'n dodelike afwyking.
-- **"Die doel van die opdrag" (*telos tēs parangelias* – τέλος τῆς παραγγελίας, vers 5):** Paulus gebruik die woord *telos*, wat dui op die finale bestemming, die voldonge uitkoms. Die einddoel van alle gesonde Bybelse onderrig is nie intellektuele meerderwaardigheid of die wen van debatte nie, maar **liefde** (*agapē*) — goddelike, selfopofferende liefde. Hierdie liefde het 'n drieledige bron: *"'n rein hart"* (*kardia kathara*), *"'n goeie gewete"* (*syneidēsis agathē*) en *"'n opregte geloof"* (*pistis anypokritos* — letterlik 'n ongeveinsde geloof, geloof sonder 'n masker of toneelspel).
+- **"Die doel van die opdrag" (*telos tēs parangelias* – τέλος τῆς παραγγελίας, vers 5):** Paulus gebruik die woord *telos*, wat dui op die finale bestemming, die voldonge uitkoms. Die einddoel van alle gesonde Bybelse onderrig is nie intellektuele meerderwaardigheid of die wen van debatte nie, maar **liefde** (*agapē*) — goddelike, selfopofferende liefde. Hierdie liefde het 'n drieledige bron: *"'n rein hart"* (*kardia kathara*), *"'n goeie gewete"* (*syneidēsis agathē*) en *"'n opregte geloof"* (*pistis anypokritos* — letterlik 'n geloof sonder skynheiligheid, sonder 'n masker of toneelspel).
 - **"Leë gepraat" (*mataiologia* – ματαιολογία, vers 6):** Diegene wat van hierdie suiwer lyn afwyk, verval in *"leë gepraat"* — vrugtelose geredekawel wat geen ewige gewig dra nie.
-- **"Die gesonde leer" (*hygiainousa didaskalia* – ὑγιαινούσῃ διδασκαλίᾳ, vers 10):** Die frase kom van die werkwoord *hygiainō* (waarvan ons die woord *higiëne* kry). Dit dui op leer wat lewegewend, geestelik gesond en immuunversterkend is, in skrille kontras met die giftige gevolge van valse leerstellings.
+- **"Die gesonde leer" (*hygiainousē didaskalia* – ὑγιαινούσῃ διδασκαλίᾳ, vers 10):** Die frase kom van die werkwoord *hygiainō* (waarvan ons die woord *higiëne* kry). Dit dui op leer wat lewegewend, geestelik gesond en immuunversterkend is, in skrille kontras met die giftige gevolge van valse leerstellings.
 
 ### Kern Teologiese Waarhede
 
@@ -39,7 +39,7 @@ Wanneer jy die Skrif bestudeer, moet dit jou nie opblaas met trots nie, maar jou
 ### Vrae vir Persoonlike Selfondersoek
 
 - **Waaraan bestee ek my energie?** Bestee ek meer tyd en energie aan spekulatiewe, polariserende kwessies as aan die eenvoudige, kragtige kern van die Evangelie en dissipelskap?
-- **Is my geloof opreg?** As ek eerlik na my daaglikse lewe kyk, leef ek met 'n opregte, ongeveinsde geloof (sonder 'n masker), of probeer ek 'n vrome indruk skep terwyl my binnekamer leeg is?
+- **Is my geloof opreg?** As ek eerlik na my daaglikse lewe kyk, leef ek met 'n opregte geloof (sonder 'n masker), of probeer ek 'n vrome indruk skep terwyl my binnekamer leeg is?
 - **Spieël of hamer?** Gebruik ek God se waarheid as 'n spieël om myself te ondersoek en na genade te hardloop, of gebruik ek dit as 'n hamer om ander te veroordeel?
 
 ## Gebed

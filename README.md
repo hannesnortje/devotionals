@@ -6,7 +6,8 @@ Devotional series by Dr. Johannes A. Nortjé in German, English and Afrikaans �
 
 | Series | Website | Booklets | Small-group kit |
 |---|---|---|---|
-| Jona – *Unterwegs mit Jona / Journey through Jonah / Reis deur Jona* | [`/jona/`](https://hannesnortje.github.io/devotionals/jona/) | `docs/jona/pdf/jona-{de,en,af}.pdf` | `docs/jona/pdf/jona-kit-{lang}.pdf`, `jona-slides-{lang}.pdf` |
+| Jona – *Unterwegs mit Jona / Journey through Jonah / Reis deur Jona* (10 days, own translation from the Hebrew) | [`/jona/`](https://hannesnortje.github.io/devotionals/jona/) | `docs/jona/pdf/jona-{de,en,af}.pdf` | `docs/jona/pdf/jona-kit-{lang}.pdf`, `jona-slides-{lang}.pdf` |
+| 1 Timothy – *Treu im Haus Gottes / Faithful in God's Household / Getrou in God se Huis* (16 days, own translation from the Greek, SBLGNT) | [`/1tim/`](https://hannesnortje.github.io/devotionals/1tim/) | `docs/1tim/pdf/1tim-{de,en,af}.pdf` | `docs/1tim/pdf/1tim-kit-{lang}.pdf`, `1tim-slides-{lang}.pdf` |
 
 ## Layout
 
@@ -44,7 +45,7 @@ python3 build/test_flow.py /tmp/shots
 ## Adding a series
 
 1. Copy `series/jona/` to `series/<new-slug>/` and empty the day, kit and Bible folders.
-2. Edit `series.yml` (slug, order, book name, titles, site_url).
+2. Edit `series.yml` (slug, order, book name, titles, site_url, `original_language: he` or `grc`). Keep `draft: true` until it is ready; `DRAFTS=1 python3 build/build.py` builds drafts locally.
 3. Add the Bible translation as `bible/<new-slug>-{lang}.md`, the devotionals and (optionally) the kit sessions.
 4. Run the build. The new series appears on the collection page automatically.
 

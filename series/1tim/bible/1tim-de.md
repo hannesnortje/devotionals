@@ -81,7 +81,7 @@ divine_name: "Herr = Kyrios; Gott = Theos"
 **16** Und unbestreitbar groß ist das Geheimnis der Gottesfurcht:
 
 > Er wurde offenbart im Fleisch,
-> gerechtfertigt im Geist,
+> gerechtfertigt durch den Geist,
 > gesehen von Engeln,
 > verkündigt unter den Völkern,
 > geglaubt in der Welt,

@@ -1,0 +1,55 @@
+session: 1
+lang: af
+title: "Bewaak die Evangelie"
+ref: "1:1-1:20"
+days: [1, 2, 3]
+big_idea: "Gesonde leer word aan sy vrug geken – liefde, 'n goeie gewete en opregte geloof – en in die middel daarvan staan die evangelie van genade vir sondaars soos Paulus en soos ons."
+opening: "Dink aan iets kosbaars wat iemand eenkeer aan jou toevertrou het – 'n sleutel, 'n kind, 'n geheim. Hoe het dit jou optrede verander?"
+context: >-
+  Paulus het Timoteus in Efese agtergelaat, 'n besige hawestad vol tempels en idees, om mense teë te gaan wat 'n ander leer verkondig het.
+  Hierdie brief is Paulus se opdrag oor hoe die kerk as God se huis moet lewe.
+  Vanaand lees ons hoofstuk 1: die gevaar van dwaalleer, Paulus se eie verhaal van genade, en 'n opdrag aan Timoteus om in die stryd te bly.
+read_aloud_tip: "Lees in drie dele met drie lesers: verse 1–11 (die probleem in Efese), verse 12–17 (Paulus se getuienis – lees stadig, tot by die lofprysing aan die einde), verse 18–20 (die opdrag aan Timoteus)."
+hebrew:
+  - word: "telos tēs parangelias"
+    hebrew: "τέλος τῆς παραγγελίας"
+    gloss: "die doel van die opdrag"
+    point: "Die doel van alle leer is nie om debatte te wen nie, maar “liefde uit 'n rein hart, uit 'n goeie gewete en uit 'n opregte geloof” (1:5). Leer wat hoogmoed en twis oplewer, het sy doel gemis."
+  - word: "pistos ho logos"
+    hebrew: "πιστὸς ὁ λόγος"
+    gloss: "dit is 'n betroubare woord"
+    point: "Die eerste van vyf “betroubare woorde” in die Pastorale Briewe (1:15). Dit anker die kerk in 'n eenvoudige belydenis: “Christus Jesus het in die wêreld gekom om sondaars te red.”"
+  - word: "strateia"
+    hebrew: "στρατεία"
+    gloss: "veldtog"
+    point: "Timoteus moet “die goeie veldtog” voer (1:18) – 'n lang veldtog, nie 'n enkele geveg nie. Geloof en 'n goeie gewete is sy toerusting; sonder hulle ly die geloof skipbreuk."
+discussion:
+  - q: "Waarmee was die dwaalleraars in Efese volgens verse 3–7 besig? Hoe kan “mites en eindelose geslagsregisters” vandag in die kerklewe lyk?"
+    ref: "1:3-1:7"
+  - q: "Paulus sê die doel van die opdrag is “liefde uit 'n rein hart, uit 'n goeie gewete en uit 'n opregte geloof”. Hoe weet ons of 'n leer wat ons hoor, “gesond” is?"
+    ref: "1:5"
+  - q: "Paulus beskryf homself as “'n lasteraar, 'n vervolger en 'n geweldenaar”. Waarom vertel hy juis hier sy eie verhaal?"
+    ref: "1:13"
+  - q: "Paulus sê: “en van hulle is ek die eerste” – in die teenwoordige tyd, nie die verlede nie. Wat sê dit oor hoe 'n volwasse Christen homself of haarself sien?"
+    ref: "1:15"
+  - q: "Paulus se getuienis eindig in aanbidding (v. 17). Wanneer het nadenke oor God se genade jou laas tot lofprysing gelei?"
+    ref: "1:17"
+  - q: "“Sommige het die gewete van hulle weggestoot en skipbreuk gely wat die geloof betref.” Hoe kan dit ons geloof stadig vernietig as ons ons gewete ignoreer?"
+    ref: "1:19"
+  - q: "Waar flikker die “waarskuwingslig” van jou gewete op die oomblik? Deel net wat jy gemaklik voel om te deel."
+application:
+  - "Skryf jou eie kort “getuienis van genade” neer (drie of vier sinne, soos Paulus in verse 12–16) en vertel dit hierdie week vir een persoon."
+  - "Vra God elke aand hierdie week: “Is daar iets wat ek in my gewete opsy stoot?” – en doen een ding wat Hy vir jou wys."
+prayer: "Lees eers saam vers 17 hardop as lofprysing. Bid dan twee-twee: dank God vir sy barmhartigheid teenoor elkeen van julle, en bid vir mense wat julle ken wat “skipbreuk gely” het in hulle geloof, dat hulle herstel sal word."
+leader_notes:
+  - "Hierdie byeenkoms dek drie oordenkings (dag 1–3). Kies vier of vyf vrae en gee die laaste een genoeg tyd."
+  - "Die lys in verse 9–10 (insluitend “mans wat met mans slaap”) kan die aand laat ontspoor. Erken dit, wys daarop dat dit Paulus gaan oor die regte gebruik van die wet en oor die evangelie van genade vir alle sondaars – ook vir homself in vers 13 – en bly by daardie fokus."
+  - "Vers 20 (“aan die Satan oorgegee”) laat vrae ontstaan. Die oordenking van dag 3 verduidelik dit as formele kerklike tug met herstel as doel (“sodat hulle deur tug kan leer om nie te laster nie”); julle hoef nie elke detail op te los nie."
+  - "Sommige dra diep skaamte oor hulle verlede. Verse 12–16 is goeie nuus vir hulle – laat die groep daarby stilstaan eerder as om vinnig aan te gaan."
+  - "Vooruitskouing: volgende week gaan hoofstuk 2 oor gebed “vir alle mense” en oor die aanbidding van die gemeente."
+timing:
+  welcome: 10
+  read: 10
+  context: 10
+  discussion: 40
+  prayer: 15

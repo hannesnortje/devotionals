@@ -29,7 +29,7 @@ with sync_playwright() as p:
     check("first visit lands on German start page", path(pg) == "home/de.html", path(pg))
     pg.screenshot(path=str(shots / "01-home-de.png"), full_page=True)
     check("tile says start", "Mit Tag 1 beginnen" in pg.inner_text(".series-tile"))
-    check("lost-progress form visible", pg.is_visible("[data-lost]"))
+    check("lost-progress link visible", pg.is_visible(".lost-wrap summary"))
 
     # 2 start the series
     pg.click("[data-tile-go]"); pg.wait_for_url("**/jona/de/tag-01.html")
@@ -93,7 +93,7 @@ with sync_playwright() as p:
     ctx2 = b.new_context(viewport={"width": 390, "height": 844}, locale="en-GB")
     pg2 = ctx2.new_page(); pg2.goto(BASE); pg2.wait_for_url("**/home/en.html")
     check("English browser → English start page", path(pg2) == "home/en.html")
-    pg2.select_option("[data-lost] select", "5"); pg2.click("[data-lost] button"); pg2.wait_for_url("**/day-05.html")
+    pg2.click(".lost-wrap summary"); pg2.select_option("[data-lost] select", "5"); pg2.click("[data-lost] button"); pg2.wait_for_url("**/day-05.html")
     check("lost-progress jumps to day 5", path(pg2) == "jona/en/day-05.html")
     pg2.goto(BASE); pg2.wait_for_url("**/day-05.html")
     check("…and root continues there", path(pg2).endswith("day-05.html"))

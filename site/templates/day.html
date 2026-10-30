@@ -2,7 +2,7 @@
 {% block title %}{{ t.day }} {{ d.n }}: {{ d.title }} – {{ t.series_title }}{% endblock %}
 {% block main %}
 <article class="wrap day" data-day="{{ d.n }}">
-  <p class="eyebrow"><a href="index.html">{{ t.series_title }}</a> · {{ t.day }} {{ d.n }} / 10</p>
+  <p class="eyebrow"><a href="index.html">{{ t.series_title }}</a> · {{ t.day }} {{ d.n }} / {{ days|length }}</p>
   <h1>{{ d.title }}</h1>
 
   <section class="passage" aria-label="{{ t.scripture }}">

@@ -204,7 +204,9 @@ a:hover { color: var(--sea-2); }
 .btn-solid { display: inline-block; background: var(--sea); color: var(--paper); text-decoration: none; font: 600 .95rem/1 var(--sans); padding: .9rem 1.25rem; border-radius: 999px; }
 .btn-solid:hover { background: var(--sea-2); color: var(--paper); }
 .tile-more { font: 500 .88rem/1 var(--sans); text-decoration: none; }
-.lost { margin-top: 1rem; padding-top: .9rem; border-top: 1px dashed var(--rule); font: 400 .88rem/1.5 var(--sans); color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; }
+.lost-wrap { margin-top: .9rem; font: 400 .85rem/1.5 var(--sans); color: var(--ink-soft); }
+.lost-wrap summary { cursor: pointer; width: fit-content; }
+.lost { margin-top: .6rem; font: 400 .88rem/1.5 var(--sans); color: var(--ink-soft); display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; }
 .lost select, .lost button { font: 500 .88rem/1 var(--sans); padding: .45rem .6rem; border-radius: .5rem; border: 1px solid var(--rule); background: var(--paper); color: var(--ink); }
 .lost button { border-color: var(--sea); color: var(--sea); cursor: pointer; }
 .muted { color: var(--ink-soft); }

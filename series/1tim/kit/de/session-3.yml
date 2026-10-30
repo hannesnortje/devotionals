@@ -1,0 +1,55 @@
+session: 3
+lang: de
+title: "Verantwortliche für das Haus Gottes"
+ref: "3:1-3:16"
+days: [6, 7, 8]
+big_idea: "Die Gemeinde ist Gottes Haus und „Pfeiler und Fundament der Wahrheit“; darum werden ihre Verantwortlichen mehr nach bewährtem Charakter als nach Begabung ausgewählt – und alle Gottesfurcht entspringt dem Geheimnis Christi."
+opening: "Wenn du jemanden einstellen müsstest, der ein Jahr lang auf dein Haus und deine Familie aufpasst, während du weg bist – was wäre dir am wichtigsten?"
+context: >-
+  Die Krise in Ephesus war im Kern eine Leitungskrise.
+  In Kapitel 3 beschreibt Paulus, wie Aufseher und Diakone sein sollen – fast alles betrifft den Charakter, kaum etwas die Fähigkeiten.
+  Dann erklärt er, warum: Die Gemeinde ist das Haus des lebendigen Gottes. Er schließt mit einem frühchristlichen Hymnus auf Christus.
+read_aloud_tip: "Ein Leser für die Verse 1–7 (Aufseher), ein zweiter für die Verse 8–13 (Diakone), ein dritter für die Verse 14–15; den Hymnus in Vers 16 lest ihr dann alle gemeinsam, Zeile für Zeile."
+hebrew:
+  - word: "anepilēmptos"
+    hebrew: "ἀνεπίλημπτος"
+    gloss: "untadelig"
+    point: "Die Überschrift über die ganze Liste (3,2): ein Bild aus dem Ringkampf – jemand, an dem der Gegner keinen Griff findet. Nicht sündlos, aber ohne offensichtliche Angriffsflächen."
+  - word: "dokimazō"
+    hebrew: "δοκιμάζω"
+    gloss: "geprüft werden"
+    point: "Von den Diakonen sagt Paulus: „Auch sie sollen zuerst geprüft werden“ (3,10) – das Wort für das Prüfen von Edelmetall im Feuer. Charakter bewährt sich über Zeit, bevor eine öffentliche Aufgabe übertragen wird."
+  - word: "eusebeia"
+    hebrew: "εὐσέβεια"
+    gloss: "Gottesfurcht"
+    point: "Das Schlüsselwort des Briefes. „… groß ist das Geheimnis der Gottesfurcht“ (3,16): Echte Gottesfurcht entsteht nicht aus Willenskraft, sie entspringt dem Staunen darüber, wer Christus ist und was er getan hat."
+discussion:
+  - q: "Geht die Eigenschaften in den Versen 2–7 durch. Wie viele betreffen Fähigkeiten, wie viele den Charakter? Was sagt uns das?"
+    ref: "3:2-3:7"
+  - q: "Warum ist die Art, wie jemand seinem eigenen Haus vorsteht, ein Prüfstein dafür, ob er „für die Gemeinde Gottes sorgen“ kann?"
+    ref: "3:4-3:5"
+  - q: "Warum soll ein Verantwortlicher „ein gutes Zeugnis von denen haben, die draußen sind“? Wie sehen Kollegen und Nachbarn unsere Gemeinde – und uns?"
+    ref: "3:7"
+  - q: "Diakone sollen „nicht doppelzüngig“ sein. Warum ist Verlässlichkeit in unseren Worten in einer Gemeindefamilie so wichtig?"
+    ref: "3:8"
+  - q: "Die Gemeinde ist das „Haus Gottes … Pfeiler und Fundament der Wahrheit“. Behandeln wir unsere Gemeinde eher wie ein Zuhause oder wie einen Dienstleister?"
+    ref: "3:15"
+  - q: "Lest den Hymnus in Vers 16 langsam. Welche Zeile spricht dich heute am meisten an, und warum?"
+    ref: "3:16"
+  - q: "Diese Eigenschaften gelten für Verantwortliche, beschreiben aber jeden reifen Christen. Welche davon möchtest du dir von Gott schenken lassen?"
+application:
+  - "Bete diese Woche mit Namen für die Verantwortlichen deiner Gemeinde – für jeden mit einer Eigenschaft aus den Versen 2–13."
+  - "Übernimm diese Woche eine stille, unsichtbare Aufgabe in deiner Gemeinde oder zu Hause, ohne es jemandem zu erzählen."
+prayer: "Betet für die Aufseher, Ältesten und Diakone eurer Gemeinde. Lest dann den Hymnus aus Vers 16 noch einmal laut und macht aus jeder Zeile einen kurzen Satz des Lobes."
+leader_notes:
+  - "Dieses Treffen umfasst drei Andachten (Tag 6–8). Wählt vier oder fünf Fragen aus; Frage 6 zum Hymnus eignet sich gut als Abschluss."
+  - "Achte darauf, dass der Abend nicht zur Kritik an den jetzigen Verantwortlichen der Gemeinde wird. Bleibt bei dem, was Gott wichtig ist, und bei unserem eigenen Charakter."
+  - "Formulierungen wie „Mann einer einzigen Frau“ (3,2.12) und „die Frauen“ (3,11 – Ehefrauen der Diakone oder Diakoninnen; die Andacht von Tag 7 lässt beides offen) können zu langen Debatten führen. Nimm die Fragen auf und kehre zum Hauptpunkt zurück: bewährter Charakter."
+  - "Manche fühlen sich vielleicht wegen Scheidung, familiärer Schwierigkeiten oder früheren Versagens ausgeschlossen. Erinnere an das Thema der letzten Wochen: Gnade für den größten Sünder."
+  - "Vers 16 lautet „Er wurde offenbart im Fleisch“; ältere Bibeln haben „Gott“. Unsere Übersetzung folgt dem zugrunde liegenden griechischen Text (SBLGNT); die Andacht von Tag 8 erklärt den Unterschied. So oder so spricht der Hymnus eindeutig von Christus."
+timing:
+  welcome: 10
+  read: 10
+  context: 10
+  discussion: 40
+  prayer: 15

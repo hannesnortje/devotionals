@@ -22,10 +22,13 @@
          data-start="{{ t.start }}" data-continue="{{ t.continue_at }}" data-done="{{ t.completed }} ✓">{{ t.start }}</a>
       <a class="tile-more" href="../{{ c.slug }}/{{ lang }}/index.html">{{ t.series_overview }}</a>
     </p>
-    <form class="lost" data-lost hidden>
-      <label>{{ t.lost_q }} <select>{% for n in range(2, c.total + 1) %}<option value="{{ n }}">{{ t.day }} {{ n }}</option>{% endfor %}</select></label>
-      <button type="submit">{{ t.lost_btn }}</button>
-    </form>
+    <details class="lost-wrap" data-lost-wrap hidden>
+      <summary>{{ t.lost_short }}</summary>
+      <form class="lost" data-lost>
+        <label>{{ t.lost_q }} <select>{% for n in range(2, c.total + 1) %}<option value="{{ n }}">{{ t.day }} {{ n }}</option>{% endfor %}</select></label>
+        <button type="submit">{{ t.lost_btn }}</button>
+      </form>
+    </details>
   </article>
   {% endfor %}
   <p class="muted more-soon">{{ t.more_soon }}</p>
