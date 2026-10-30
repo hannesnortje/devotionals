@@ -1,6 +1,9 @@
 # Imprint details. address_lines: street, postcode + town, country (leave empty until known).
 name: "Dr. Johannes A. Nortjé"
-address_lines: []
+address_lines:
+  - "Am Kindergarten 19"
+  - "33165 Lichtenau"
+  - "Deutschland"
 email: "biborgs@gmail.com"
 # Licence for the texts (empty = all rights reserved)
 licence: 'Die Andachten und die Bibelübersetzung stehen unter der Lizenz <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de">Creative Commons Namensnennung – Nicht kommerziell – Keine Bearbeitungen 4.0 International (CC BY-NC-ND 4.0)</a>. Du darfst sie unverändert und nicht kommerziell weitergeben, ausdrucken und in Gemeinde oder Kleingruppe verwenden, sofern du den Autor und diese Website nennst. Für Bearbeitungen, Übersetzungen oder kommerzielle Nutzung frag bitte per E-Mail an.'

@@ -17,7 +17,7 @@
   {% endif %}
   <p class="address">{{ legal.name }}<br>{% for a in legal.address_lines or [] %}{{ a }}<br>{% endfor %}
   {% if lang == 'de' %}E-Mail{% elif lang == 'en' %}Email{% else %}E-pos{% endif %}: <a href="mailto:{{ legal.email }}">{{ legal.email }}</a></p>
-  <p>{% if lang == 'de' %}Verantwortlich für den Inhalt{% elif lang == 'en' %}Responsible for the content{% else %}Verantwoordelik vir die inhoud{% endif %}: {{ legal.name }}, {% if lang == 'de' %}Kontakt wie oben{% elif lang == 'en' %}contact as above{% else %}kontak soos hierbo{% endif %}.</p>
+  <p>{% if lang == 'de' %}Verantwortlich für den Inhalt{% elif lang == 'en' %}Responsible for the content{% else %}Verantwoordelik vir die inhoud{% endif %}: {{ legal.name }}, {% if lang == 'de' %}Anschrift wie oben{% elif lang == 'en' %}address as above{% else %}adres soos hierbo{% endif %}.</p>
 
   {% if lang == 'de' %}
   <h2>Urheberrecht</h2>
