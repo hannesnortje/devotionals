@@ -1,4 +1,4 @@
-# Series settings and series-specific text
+# Series settings and series-specific text – see PLAYBOOK.md
 slug: jona
 order: 1
 site_url: https://hannesnortje.github.io/devotionals/jona/
@@ -70,3 +70,16 @@ strings:
     - Neem tyd vir die vrae. Skryf dalk jou antwoorde neer.
     - Sluit af met die gebed – en met jou eie woorde.
     translation_note: 'Skrifteks: eie vertaling uit die Hebreeus (Masoretiese Teks) deur Dr. Johannes A. Nortjé. Die versnommering volg die Hebreeuse teks.'
+avoid_words:
+  af:
+  - Maak jou klaar
+  - preek daarteen
+  - reisgeld daarvoor
+  de:
+  - Mache dich auf
+  - Fährgeld
+  - Tharsis
+  - gen Japho
+  en:
+  - Arise,
+  - prepared a great fish

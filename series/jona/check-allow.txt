@@ -1,0 +1,26 @@
+# Reviewed quotations that intentionally differ from our Bible text (prayers, paraphrases,
+# older readings quoted on purpose). check_series.py skips quotes containing any line below.
+# Reviewed 2026-10-30.
+om by die droë land (*yabbashah* — presies dieselfde woord w
+seegras om jou kop gedraai
+Die boodskap wat Ek vir jou sê
+'n groot stad vir God
+te bly sit en ons
+vor dem Angesicht des HERRN stehen
+an den HERRN zu denken
+Die Botschaft, die ich dir sage
+eine große Stadt für Gott
+„Und er glaubte dem HERRN“
+„die Gewalt, die an seinen Händen klebt“
+„Warum ist dein Zorn entbrannt?“
+seaweed wrapped around your head
+cry out to her the cry that I am speaking to you
+a great city to God
+Wat is op die oomblik jou \
+voor die aangesig van die HERE te staan
+"die skip het gedink om te breek."
+aan die HERE te dink
+"Waarom het jou toorn ontvlam?"
+Wie het die boek Jona vertel?
+to stand before the face of the LORD
+I went down … you brought up

@@ -44,6 +44,8 @@ python3 build/test_flow.py /tmp/shots
 
 ## Adding a series
 
+**Full procedure: [PLAYBOOK.md](PLAYBOOK.md)** (and [CLAUDE.md](CLAUDE.md) for Claude sessions). Short version:
+
 1. Copy `series/jona/` to `series/<new-slug>/` and empty the day, kit and Bible folders.
 2. Edit `series.yml` (slug, order, book name, titles, site_url, `original_language: he` or `grc`). Keep `draft: true` until it is ready; `DRAFTS=1 python3 build/build.py` builds drafts locally.
 3. Add the Bible translation as `bible/<new-slug>-{lang}.md`, the devotionals and (optionally) the kit sessions.
