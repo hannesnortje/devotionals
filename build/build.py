@@ -227,6 +227,35 @@ def load_kit(lang, verses):
 
 
 # ---------------------------------------------------------------- Build
+DAYWORD = {l: STRINGS[l]["day"].lower() for l in LANGS}
+
+
+def load_catalog():
+    cat = []
+    for sdir in sorted(p for p in (ROOT / "series").iterdir() if (p / "series.yml").exists()):
+        conf = yaml.safe_load((sdir / "series.yml").read_text(encoding="utf-8"))
+        total = len(list((sdir / LANGS[0]).glob("[0-9][0-9]-*.md")))
+        cat.append({"slug": conf["slug"], "order": conf.get("order", 99), "total": total,
+                    "strings": conf["strings"]})
+    cat.sort(key=lambda c: c["order"])
+    return cat
+
+
+def catalog_for(lang):
+    return [{"slug": c["slug"], "total": c["total"], "title": c["strings"][lang]["series_title"],
+             "subtitle": c["strings"][lang]["series_subtitle"]} for c in CATALOG]
+
+
+def dev_json(lang, root, series=None, day=None, total=None, page=None):
+    return json.dumps({"root": root, "lang": lang, "series": series, "day": day, "total": total,
+                       "page": page, "langs": LANGS, "dayword": DAYWORD,
+                       "catalog": [{"slug": c["slug"], "total": c["total"]} for c in CATALOG]},
+                      ensure_ascii=False)
+
+
+CATALOG = []
+
+
 def build_series(env, sdir: Path):
     global SERIES, BOOK
     conf = yaml.safe_load((sdir / "series.yml").read_text(encoding="utf-8"))
@@ -250,15 +279,24 @@ def build_series(env, sdir: Path):
                    copyright=t["copyright"].format(year=YEAR), whole=whole, series=slug,
                    pdf_name=f"{slug}-{lang}.pdf", collection="../../index.html",
                    site_url=conf.get("site_url"))
+        ctx["catalog_lang"] = catalog_for(lang)
         ldir = sdocs / lang
         ldir.mkdir(parents=True)
         web = dict(root="../../")
-        (ldir / "index.html").write_text(env.get_template("index.html").render(**ctx, **web), encoding="utf-8")
-        (ldir / "book.html").write_text(env.get_template("bible.html").render(**ctx, **web, page="bible"), encoding="utf-8")
+        total = len(days)
+
+        def W(page=None, day=None, fname="index.html"):
+            return dict(web, page=page, alt={l: f"../{l}/{fname}" for l in LANGS},
+                        dev_json=dev_json(lang, "../../", slug, day, total, page))
+        (ldir / "index.html").write_text(env.get_template("index.html").render(**ctx, **W("series")), encoding="utf-8")
+        (ldir / "done.html").write_text(env.get_template("done.html").render(**ctx, **W("done", fname="done.html")), encoding="utf-8")
+        (ldir / "book.html").write_text(env.get_template("bible.html").render(**ctx, **W("bible", fname="book.html")), encoding="utf-8")
         for i, d in enumerate(days):
             prev = days[i - 1] if i > 0 else None
             nxt = days[i + 1] if i + 1 < len(days) else None
-            page = env.get_template("day.html").render(**ctx, **web, d=d, prev=prev, next=nxt)
+            w = W("day", d["n"])
+            w["alt"] = {l: f"../{l}/{DAYWORD[l]}-{d['n']:02d}.html" for l in LANGS}
+            page = env.get_template("day.html").render(**ctx, **w, d=d, prev=prev, next=nxt)
             (ldir / f"{d['slug']}.html").write_text(page, encoding="utf-8")
         prt = dict(root=str(SITE) + "/")
         (sout / f"booklet-{lang}.html").write_text(env.get_template("booklet.html").render(**ctx, **prt), encoding="utf-8")
@@ -266,10 +304,10 @@ def build_series(env, sdir: Path):
         if sessions:
             days_by_n = {d["n"]: d for d in days}
             kctx = dict(ctx, sessions=sessions, days_by_n=days_by_n)
-            (ldir / "kit.html").write_text(env.get_template("kit.html").render(**kctx, **web, page="kit"), encoding="utf-8")
+            (ldir / "kit.html").write_text(env.get_template("kit.html").render(**kctx, **W("kit", fname="kit.html")), encoding="utf-8")
             for s in sessions:
                 (ldir / f"{s['slug']}.html").write_text(
-                    env.get_template("session.html").render(**kctx, **web, s=s, page="kit"), encoding="utf-8")
+                    env.get_template("session.html").render(**kctx, **W("kit", fname=s["slug"] + ".html"), s=s), encoding="utf-8")
                 (ldir / f"{s['slides_slug']}.html").write_text(
                     env.get_template("slides.html").render(**kctx, **web, decks=[{"s": s, "chunks": s["chunks"]}]), encoding="utf-8")
             (sout / f"kit-{lang}.html").write_text(env.get_template("kit_print.html").render(**kctx, **prt), encoding="utf-8")
@@ -280,7 +318,8 @@ def build_series(env, sdir: Path):
                          "verses": len({(x["ch"], x["v"]) for x in verses})}
     all_t = {l: dict(STRINGS[l], **conf["strings"][l]) for l in LANGS}
     (sdocs / "index.html").write_text(
-        env.get_template("landing.html").render(langs=LANGS, strings=all_t, year=YEAR, root="../", series=slug),
+        env.get_template("router.html").render(langs=LANGS, strings=STRINGS, root="../",
+                                               dev_json=dev_json("de", "../", slug, None, None, "series-router")),
         encoding="utf-8")
     return conf, summary
 
@@ -298,16 +337,48 @@ def build():
             shutil.rmtree(child) if child.is_dir() else child.unlink()
     shutil.copytree(SITE / "assets", DOCS / "assets")
     (DOCS / ".nojekyll").write_text("")
+    global CATALOG
+    CATALOG = load_catalog()
     series_list, summary = [], {}
     for sdir in sorted(p for p in (ROOT / "series").iterdir() if (p / "series.yml").exists()):
         conf, summ = build_series(env, sdir)
         series_list.append(conf)
         summary[conf["slug"]] = summ
     series_list.sort(key=lambda c: c.get("order", 99))
-    (DOCS / "index.html").write_text(
-        env.get_template("collection.html").render(series_list=series_list, langs=LANGS, strings=STRINGS, year=YEAR),
-        encoding="utf-8")
+    legal = yaml.safe_load((SITE / "legal" / "legal.yml").read_text(encoding="utf-8"))
+    for sub in ("home", "legal"):
+        (DOCS / sub).mkdir(exist_ok=True)
+    for lang in LANGS:
+        t = STRINGS[lang]
+        base = dict(t=t, lang=lang, langs=LANGS, strings=STRINGS, year=YEAR, root="../", series=None, days=None,
+                    catalog_lang=catalog_for(lang), copyright=t["copyright"].format(year=YEAR))
+        (DOCS / "home" / f"{lang}.html").write_text(env.get_template("home.html").render(
+            **base, page="home", alt={l: f"{l}.html" for l in LANGS},
+            dev_json=dev_json(lang, "../", page="home")), encoding="utf-8")
+        (DOCS / "legal" / f"{lang}.html").write_text(env.get_template("legal.html").render(
+            **base, page="legal", alt={l: f"{l}.html" for l in LANGS}, legal=legal,
+            legal_date=datetime.date.today().strftime("%d.%m.%Y"),
+            dev_json=dev_json(lang, "../", page="legal")), encoding="utf-8")
+    (DOCS / "index.html").write_text(env.get_template("router.html").render(
+        langs=LANGS, strings=STRINGS, root="", dev_json=dev_json("de", "", page="router")), encoding="utf-8")
+    shutil.copy(SITE / "manifest.webmanifest", DOCS / "manifest.webmanifest")
+    write_service_worker()
     print(json.dumps(summary))
+
+
+def write_service_worker():
+    """Offline support: precache every page and asset (PDFs are cached when first opened)."""
+    import hashlib
+    files = sorted(str(p.relative_to(DOCS)) for p in DOCS.rglob("*")
+                   if p.is_file() and p.suffix != ".pdf" and p.name not in ("sw.js", ".nojekyll"))
+    h = hashlib.sha1()
+    for f in files:
+        h.update(f.encode()); h.update((DOCS / f).read_bytes())
+    version = h.hexdigest()[:10]
+    urls = ["./"] + [f for f in files if not f.endswith("index.html") or f.count("/") > 0]
+    js = (SITE / "sw.js").read_text(encoding="utf-8")
+    js = js.replace("__VERSION__", version).replace("__FILES__", json.dumps(urls))
+    (DOCS / "sw.js").write_text(js, encoding="utf-8")
 
 
 if __name__ == "__main__":

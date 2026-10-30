@@ -20,7 +20,15 @@ Devotional series by Dr. Johannes A. Nortjé in German, English and Afrikaans �
 | `series/<slug>/CONVENTIONS.md` | Writing conventions for the series |
 | `build/` | `build.py` (website), `pdf.py` (PDFs), `strings.py` (interface text) |
 | `site/` | Templates, styles and fonts shared by all series |
+| `site/legal/legal.yml` | Imprint details (name, address, email) and licence text |
 | `docs/` | Generated website (GitHub Pages) – don't edit by hand |
+
+## How the site behaves
+
+- `/` is a router: first-time visitors go to the start page in their browser's language (`/home/{lang}.html`); returning readers go straight to their next devotional.
+- "Next" = the day just read stays on screen for the rest of that calendar day; from the next day on, the first unread day opens. When a series is finished, its "completed" page opens.
+- Progress is shared across languages and stored only in the browser (`localStorage` key `dev-state`). The ☰ menu on every page leads to the start page, all days, other series, language, legal page and "reset progress".
+- The site is installable ("Add to Home Screen") and works offline via `docs/sw.js`.
 
 ## Build
 
@@ -29,6 +37,8 @@ pip install markdown pyyaml jinja2 playwright
 python -m playwright install chromium   # once
 python3 build/build.py   # website → docs/
 python3 build/pdf.py     # PDFs → docs/<slug>/pdf/
+# test the reading flow: serve a folder containing devotionals → docs on :8765, then
+python3 build/test_flow.py /tmp/shots
 ```
 
 ## Adding a series
@@ -40,4 +50,4 @@ python3 build/pdf.py     # PDFs → docs/<slug>/pdf/
 
 Fonts: Literata, Inter and Noto Serif Hebrew (SIL Open Font License), in `site/assets/fonts/`.
 
-© Dr. Johannes A. Nortjé. All rights reserved.
+© Dr. Johannes A. Nortjé · Texts licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Code (build scripts, templates) © Dr. Johannes A. Nortjé.

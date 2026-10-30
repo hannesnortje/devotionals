@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block title %}{{ t.home_title }} – {{ t.author_name }}{% endblock %}
+{% block main %}
+<section class="hero home-hero">
+  <div class="wrap">
+    <p class="eyebrow">{{ t.author_name }}</p>
+    <h1>{{ t.home_title }}</h1>
+    <p class="hero-lead">{{ t.home_lead }}</p>
+  </div>
+  <svg class="waves" viewBox="0 0 1200 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 30 Q 75 0 150 30 T 300 30 T 450 30 T 600 30 T 750 30 T 900 30 T 1050 30 T 1200 30 V60 H0Z"/></svg>
+</section>
+
+<section class="wrap series-list">
+  {% for c in catalog_lang %}
+  <article class="series-tile" data-series-tile="{{ c.slug }}" data-total="{{ c.total }}" data-dayword="{{ t.day|lower }}">
+    <p class="eyebrow">{{ t.series_word }} · {{ t.days_n.format(n=c.total) }}</p>
+    <h2>{{ c.title }}</h2>
+    <p class="sub">{{ c.subtitle }}</p>
+    <p class="progress" data-progress-template="{{ t.progress }}"><span class="bar"><span></span></span><span class="label"></span></p>
+    <p class="tile-actions">
+      <a class="btn-solid" href="../{{ c.slug }}/{{ lang }}/{{ t.day|lower }}-01.html" data-tile-go
+         data-start="{{ t.start }}" data-continue="{{ t.continue_at }}" data-done="{{ t.completed }} ✓">{{ t.start }}</a>
+      <a class="tile-more" href="../{{ c.slug }}/{{ lang }}/index.html">{{ t.series_overview }}</a>
+    </p>
+    <form class="lost" data-lost hidden>
+      <label>{{ t.lost_q }} <select>{% for n in range(2, c.total + 1) %}<option value="{{ n }}">{{ t.day }} {{ n }}</option>{% endfor %}</select></label>
+      <button type="submit">{{ t.lost_btn }}</button>
+    </form>
+  </article>
+  {% endfor %}
+  <p class="muted more-soon">{{ t.more_soon }}</p>
+</section>
+
+<section class="wrap how">
+  <h2>{{ t.home_how_title }}</h2>
+  <ol>{% for h in t.home_how %}<li>{{ h }}</li>{% endfor %}</ol>
+  <p class="install-tip" data-install-tip>{{ t.install_tip }}</p>
+</section>
+{% endblock %}

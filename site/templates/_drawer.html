@@ -1,0 +1,55 @@
+{# Slide-out menu, shared by all pages. Needs: t, root, lang, langs, strings, alt, catalog_lang, (series, days, d) #}
+<div class="drawer-overlay" data-drawer-close hidden></div>
+<nav id="drawer" class="drawer" aria-label="{{ t.menu }}" aria-hidden="true" inert>
+  <div class="drawer-head">
+    <span class="drawer-title">{{ t.menu }}</span>
+    <button class="icon-btn" type="button" data-drawer-close aria-label="{{ t.close }}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button>
+  </div>
+
+  <a class="drawer-continue" href="{{ root }}index.html" data-continue hidden>{{ t.continue }} <span data-continue-label data-dayword="{{ t.day }}"></span> →</a>
+
+  <ul class="drawer-links">
+    <li><a href="{{ root }}home/{{ lang }}.html">{{ t.home }}</a></li>
+  </ul>
+
+  {% if series and days %}
+  <section class="drawer-sec">
+    <h2>{{ t.this_series }} · {{ t.series_title }}</h2>
+    <ol class="drawer-days" data-series-days="{{ series }}">
+      {% for x in days %}
+      <li data-day="{{ x.n }}"{% if d and d.n == x.n %} aria-current="page"{% endif %}><a href="{{ x.slug }}.html"><span class="dn">{{ x.n }}</span><span class="dt">{{ x.title }}</span><span class="tick" aria-hidden="true"></span></a></li>
+      {% endfor %}
+    </ol>
+    <ul class="drawer-links small">
+      <li><a href="index.html">{{ t.series_overview }}</a></li>
+      <li><a href="book.html">{{ t.whole_book }}</a></li>
+      <li><a href="kit.html">{{ t.kit }}</a></li>
+      <li><a href="../pdf/{{ series }}-{{ lang }}.pdf">{{ t.pdf }}</a></li>
+    </ul>
+  </section>
+  {% endif %}
+
+  <section class="drawer-sec">
+    <h2>{% if series %}{{ t.other_series }}{% else %}{{ t.home_title }}{% endif %}</h2>
+    {% set others = catalog_lang | rejectattr("slug", "equalto", series) | list %}
+    {% if others %}
+    <ul class="drawer-links">
+      {% for c in others %}<li><a href="{{ root }}{{ c.slug }}/{{ lang }}/index.html">{{ c.title }} <small data-series-progress="{{ c.slug }}" data-total="{{ c.total }}"></small></a></li>{% endfor %}
+    </ul>
+    {% else %}
+    <p class="drawer-note">{{ t.more_soon }}</p>
+    {% endif %}
+  </section>
+
+  <section class="drawer-sec">
+    <h2>{{ t.choose_lang }}</h2>
+    <div class="langs drawer-langs">
+      {% for l in langs %}<a href="{{ alt[l] }}" lang="{{ l }}" data-set-lang="{{ l }}"{% if l == lang %} aria-current="true"{% endif %}>{{ strings[l].lang_name }}</a>{% endfor %}
+    </div>
+  </section>
+
+  <ul class="drawer-links small foot">
+    <li><a href="{{ root }}legal/{{ lang }}.html">{{ t.legal }}</a></li>
+    <li><button type="button" class="link-btn" data-reset data-confirm="{{ t.reset_confirm }}" data-done="{{ t.reset_done }}"{% if series %} data-series="{{ series }}"{% endif %}>{{ t.reset }}</button></li>
+  </ul>
+</nav>

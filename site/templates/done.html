@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}{{ t.done_title }} – {{ t.series_title }}{% endblock %}
+{% block main %}
+<article class="wrap day done">
+  <p class="eyebrow"><a href="index.html">{{ t.series_title }}</a></p>
+  <div class="done-mark" aria-hidden="true"><svg viewBox="0 0 48 48"><circle cx="24" cy="24" r="22" fill="currentColor"/><path d="M14 25l7 7 13-15" fill="none" stroke="#f6f2ea" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+  <h1>{{ t.done_title }}</h1>
+  <p class="lead">{{ t.done_text }}</p>
+  <h2 class="done-h">{{ t.done_more }}</h2>
+  <ul class="done-list">
+    <li><a href="kit.html">{{ t.kit }}</a></li>
+    <li><a href="../pdf/{{ series }}-{{ lang }}.pdf">{{ t.pdf }}</a></li>
+    <li><a href="book.html">{{ t.whole_book }}</a></li>
+    {% set others = catalog_lang | rejectattr("slug", "equalto", series) | list %}
+    {% for c in others %}<li><a href="../../{{ c.slug }}/{{ lang }}/index.html">{{ c.title }}</a></li>{% else %}<li class="muted">{{ t.more_soon }}</li>{% endfor %}
+  </ul>
+  <p><button class="mark-read" type="button" data-restart="{{ series }}" data-href="{{ days[0].slug }}.html">{{ t.read_again }}</button></p>
+</article>
+{% endblock %}

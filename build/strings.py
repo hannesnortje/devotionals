@@ -48,7 +48,7 @@ STRINGS = {
             "Schließe mit dem Gebet – und mit deinen eigenen Worten.",
         ],
         "translation_note": "Bibeltext: eigene Übersetzung aus dem Hebräischen (Masoretischer Text) von Dr. Johannes A. Nortjé. Die Verszählung folgt dem hebräischen Text.",
-        "copyright": "© {year} Dr. Johannes A. Nortjé. Alle Rechte vorbehalten.",
+        "copyright": "© {year} Dr. Johannes A. Nortjé · CC BY-NC-ND 4.0",
         "privacy": "Dein Lesefortschritt wird nur in diesem Browser gespeichert.",
         "choose_lang": "Sprache",
         "read_online": "Online lesen",
@@ -100,7 +100,7 @@ STRINGS = {
             "Close with the prayer – and with your own words.",
         ],
         "translation_note": "Scripture: own translation from the Hebrew (Masoretic Text) by Dr. Johannes A. Nortjé. Verse numbers follow the Hebrew text.",
-        "copyright": "© {year} Dr. Johannes A. Nortjé. All rights reserved.",
+        "copyright": "© {year} Dr. Johannes A. Nortjé · CC BY-NC-ND 4.0",
         "privacy": "Your reading progress is stored only in this browser.",
         "choose_lang": "Language",
         "read_online": "Read online",
@@ -152,7 +152,7 @@ STRINGS = {
             "Sluit af met die gebed – en met jou eie woorde.",
         ],
         "translation_note": "Skrifteks: eie vertaling uit die Hebreeus (Masoretiese Teks) deur Dr. Johannes A. Nortjé. Die versnommering volg die Hebreeuse teks.",
-        "copyright": "© {year} Dr. Johannes A. Nortjé. Alle regte voorbehou.",
+        "copyright": "© {year} Dr. Johannes A. Nortjé · CC BY-NC-ND 4.0",
         "privacy": "Jou leesvordering word net in hierdie blaaier gestoor.",
         "choose_lang": "Taal",
         "read_online": "Lees aanlyn",
@@ -161,3 +161,81 @@ STRINGS = {
 
 LANGS = ["de", "en", "af"]
 REF_SEP = {"de": ",", "en": ":", "af": ":"}
+
+# ---- Navigation, landing page and reading flow
+NAV = {
+    "de": {
+        "menu": "Menü", "close": "Schließen", "continue": "Weiterlesen", "home": "Startseite",
+        "this_series": "Diese Reihe", "series_overview": "Übersicht der Reihe", "other_series": "Weitere Reihen",
+        "more_soon": "Weitere Andachtsreihen folgen.", "legal": "Impressum & Datenschutz",
+        "reset": "Fortschritt zurücksetzen", "reset_confirm": "Wirklich zurücksetzen? Zum Bestätigen nochmal tippen.",
+        "reset_done": "Fortschritt zurückgesetzt.", "tomorrow": "Morgen geht es weiter mit Tag {n}",
+        "read_done_today": "Für heute geschafft.", "home_title": "Andachten",
+        "home_lead": "Kurze Andachten für jeden Tag – mit dem Bibeltext, einem Blick in den Grundtext, Fragen zum Nachdenken und einem Gebet.",
+        "home_how_title": "So funktioniert es",
+        "home_how": [
+            "Wähle eine Reihe und lies jeden Tag eine Andacht.",
+            "Wenn du fertig bist, tippe auf „Als gelesen markieren“.",
+            "Ab dem nächsten Tag öffnet sich diese Seite automatisch bei der nächsten Andacht.",
+            "Dein Fortschritt wird nur auf diesem Gerät gespeichert – nirgendwo sonst.",
+        ],
+        "start": "Mit Tag 1 beginnen", "continue_at": "Weiter mit Tag {n}", "completed": "Abgeschlossen",
+        "lost_q": "Schon angefangen? Weiter bei", "lost_btn": "Los",
+        "install_tip": "Tipp: Füge diese Seite zu deinem Startbildschirm hinzu. Dann funktioniert sie wie eine App – auch offline – und dein Fortschritt bleibt sicher erhalten.",
+        "done_title": "Geschafft!",
+        "done_text": "Du hast alle Andachten dieser Reihe gelesen. Danke, dass du dir die Zeit genommen hast.",
+        "done_more": "Wie geht es weiter?", "read_again": "Noch einmal von vorn lesen",
+        "day_of": "Tag {n} von {total}", "days_n": "{n} Tage", "series_word": "Reihe",
+    },
+    "en": {
+        "menu": "Menu", "close": "Close", "continue": "Continue reading", "home": "Home",
+        "this_series": "This series", "series_overview": "Series overview", "other_series": "Other series",
+        "more_soon": "More devotional series are coming.", "legal": "Legal notice & privacy",
+        "reset": "Reset progress", "reset_confirm": "Really reset? Tap again to confirm.",
+        "reset_done": "Progress reset.", "tomorrow": "Tomorrow: Day {n}",
+        "read_done_today": "Done for today.", "home_title": "Devotionals",
+        "home_lead": "Short devotionals for every day – with the Bible passage, a look at the original language, questions for reflection and a prayer.",
+        "home_how_title": "How it works",
+        "home_how": [
+            "Choose a series and read one devotional a day.",
+            "When you have finished, tap “Mark as read”.",
+            "From the next day on, this page opens automatically at the next devotional.",
+            "Your progress is stored only on this device – nowhere else.",
+        ],
+        "start": "Start with Day 1", "continue_at": "Continue with Day {n}", "completed": "Completed",
+        "lost_q": "Already started? Continue at", "lost_btn": "Go",
+        "install_tip": "Tip: add this page to your home screen. It then works like an app – even offline – and your progress is kept safe.",
+        "done_title": "Well done!",
+        "done_text": "You have read every devotional in this series. Thank you for taking the time.",
+        "done_more": "What next?", "read_again": "Read again from the start",
+        "day_of": "Day {n} of {total}", "days_n": "{n} days", "series_word": "Series",
+    },
+    "af": {
+        "menu": "Kieslys", "close": "Maak toe", "continue": "Lees verder", "home": "Tuisblad",
+        "this_series": "Hierdie reeks", "series_overview": "Oorsig van die reeks", "other_series": "Ander reekse",
+        "more_soon": "Nog oordenkingsreekse is op pad.", "legal": "Regskennisgewing & privaatheid",
+        "reset": "Herstel vordering", "reset_confirm": "Regtig herstel? Tik weer om te bevestig.",
+        "reset_done": "Vordering herstel.", "tomorrow": "Môre: Dag {n}",
+        "read_done_today": "Klaar vir vandag.", "home_title": "Oordenkings",
+        "home_lead": "Kort oordenkings vir elke dag – met die Skriflesing, 'n blik op die oorspronklike taal, vrae om oor na te dink en 'n gebed.",
+        "home_how_title": "Hoe dit werk",
+        "home_how": [
+            "Kies 'n reeks en lees elke dag een oordenking.",
+            "As jy klaar is, tik op “Merk as gelees”.",
+            "Vanaf die volgende dag maak hierdie blad outomaties by die volgende oordenking oop.",
+            "Jou vordering word net op hierdie toestel gestoor – nêrens anders nie.",
+        ],
+        "start": "Begin met Dag 1", "continue_at": "Gaan voort met Dag {n}", "completed": "Voltooi",
+        "lost_q": "Al begin? Gaan voort by", "lost_btn": "Gaan",
+        "install_tip": "Wenk: voeg hierdie blad by jou tuisskerm. Dan werk dit soos 'n toep – selfs aflyn – en jou vordering bly veilig behoue.",
+        "done_title": "Klaar!",
+        "done_text": "Jy het al die oordenkings in hierdie reeks gelees. Dankie dat jy die tyd geneem het.",
+        "done_more": "Wat nou?", "read_again": "Lees weer van voor af",
+        "day_of": "Dag {n} van {total}", "days_n": "{n} dae", "series_word": "Reeks",
+    },
+}
+for _l, _d in NAV.items():
+    STRINGS[_l].update(_d)
+
+for _l in STRINGS:
+    STRINGS[_l]["author_name"] = "Dr. Johannes A. Nortjé"

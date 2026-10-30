@@ -14,6 +14,7 @@
 
   <div class="read-row">
     <button class="mark-read" type="button" data-label="{{ t.mark_read }}" data-done="{{ t.is_read }} ✓">{{ t.mark_read }}</button>
+    <p class="read-note" data-read-note hidden>{{ t.read_done_today }}{% if next %} <a href="{{ next.slug }}.html">{{ t.tomorrow.format(n=next.n) }} →</a>{% else %} <a href="done.html">{{ t.done_title }} →</a>{% endif %}</p>
   </div>
 
   <nav class="pager">

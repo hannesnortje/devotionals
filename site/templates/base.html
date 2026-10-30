@@ -2,39 +2,47 @@
 <html lang="{{ lang }}">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{% block title %}{{ t.series_title }}{% endblock %}</title>
-<meta name="description" content="{{ t.series_subtitle }} – {{ t.author }}">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{% block title %}{{ t.series_title or t.home_title }}{% endblock %}</title>
+<meta name="description" content="{{ t.series_subtitle or t.home_lead }}">
 <meta property="og:title" content="{{ self.title() }}">
-<meta property="og:description" content="{{ t.series_subtitle }}">
+<meta property="og:description" content="{{ t.series_subtitle or t.home_lead }}">
 <meta property="og:type" content="website">
 <meta name="theme-color" content="#16465a">
 <link rel="icon" href="{{ root }}assets/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{{ root }}assets/icon-180.png">
+<link rel="manifest" href="{{ root }}manifest.webmanifest">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <link rel="stylesheet" href="{{ root }}assets/style.css">
+<script>window.DEV = {{ dev_json }};</script>
 </head>
-<body data-lang="{{ lang }}" data-series="{{ series }}">
+<body data-lang="{{ lang }}" data-series="{{ series or '' }}" data-page="{{ page or '' }}">
 <a class="skip" href="#main">↓</a>
 <header class="site-header">
-  <div class="wrap header-inner">
-    <a class="brand" href="index.html">
+  <div class="header-inner">
+    <button class="icon-btn menu-btn" type="button" aria-controls="drawer" aria-expanded="false" aria-label="{{ t.menu }}">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    </button>
+    <a class="brand" href="{{ root }}home/{{ lang }}.html">
       <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true"><path d="M3 20c3.5 0 3.5-3 7-3s3.5 3 7 3 3.5-3 7-3 3.5 3 5 3" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M3 26c3.5 0 3.5-3 7-3s3.5 3 7 3 3.5-3 7-3 3.5 3 5 3" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" opacity=".5"/><circle cx="23" cy="9" r="4" fill="currentColor"/></svg>
-      <span>{{ t.series_title }}</span>
+      <span>{{ t.series_title or t.home_title }}</span>
     </a>
+    {% if d %}<span class="where">{{ t.day_of.format(n=d.n, total=days|length) }}</span>{% endif %}
     <nav class="langs" aria-label="{{ t.choose_lang }}">
-      {% for l in langs %}
-      <a href="../{{ l }}/{% if d %}{{ strings[l].day|lower }}-{{ '%02d'|format(d.n) }}.html{% elif page == 'bible' %}book.html{% elif s is defined and s.slug %}{{ s.slug }}.html{% elif page == 'kit' %}kit.html{% else %}index.html{% endif %}" lang="{{ l }}" {% if l == lang %}aria-current="true"{% endif %}>{{ l|upper }}</a>
-      {% endfor %}
+      {% for l in langs %}<a href="{{ alt[l] }}" lang="{{ l }}" data-set-lang="{{ l }}"{% if l == lang %} aria-current="true"{% endif %}>{{ l|upper }}</a>{% endfor %}
     </nav>
   </div>
 </header>
+{% include "_drawer.html" %}
 <main id="main">
 {% block main %}{% endblock %}
 </main>
 <footer class="site-footer">
   <div class="wrap">
-    <p>{{ t.translation_note }}</p>
+    {% if series %}<p>{{ t.translation_note }}</p>{% endif %}
     <p>{{ copyright }} · {{ t.privacy }}</p>
-    <p><a href="{{ collection }}">{{ t.all_series }}</a></p>
+    <p><a href="{{ root }}legal/{{ lang }}.html">{{ t.legal }}</a></p>
   </div>
 </footer>
 <script src="{{ root }}assets/app.js"></script>
