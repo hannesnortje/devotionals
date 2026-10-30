@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block title %}{{ t.whole_book }} – {{ t.series_title }}{% endblock %}
+{% block main %}
+<article class="wrap day bible">
+  <p class="eyebrow"><a href="index.html">{{ t.series_title }}</a></p>
+  <h1>{{ t.whole_book }}</h1>
+  <p class="lead">{{ t.whole_book_intro }}</p>
+  <div class="passage-text whole">{{ whole }}</div>
+</article>
+{% endblock %}

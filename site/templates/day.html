@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}{{ t.day }} {{ d.n }}: {{ d.title }} – {{ t.series_title }}{% endblock %}
+{% block main %}
+<article class="wrap day" data-day="{{ d.n }}">
+  <p class="eyebrow"><a href="index.html">{{ t.series_title }}</a> · {{ t.day }} {{ d.n }} / 10</p>
+  <h1>{{ d.title }}</h1>
+
+  <section class="passage" aria-label="{{ t.scripture }}">
+    <h2 class="passage-ref"><span>{{ t.scripture }}</span> {{ d.ref_label }}</h2>
+    <div class="passage-text">{{ d.passage }}</div>
+  </section>
+
+  <div class="body">{{ d.html }}</div>
+
+  <div class="read-row">
+    <button class="mark-read" type="button" data-label="{{ t.mark_read }}" data-done="{{ t.is_read }} ✓">{{ t.mark_read }}</button>
+  </div>
+
+  <nav class="pager">
+    {% if prev %}<a class="prev" href="{{ prev.slug }}.html"><small>← {{ t.prev }}</small><span>{{ prev.title }}</span></a>{% else %}<span></span>{% endif %}
+    {% if next %}<a class="next" href="{{ next.slug }}.html"><small>{{ t.next }} →</small><span>{{ next.title }}</span></a>{% else %}<a class="next" href="index.html"><small>{{ t.overview }} →</small><span>{{ t.series_title }}</span></a>{% endif %}
+  </nav>
+</article>
+{% endblock %}

@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}{{ t.kit }} – {{ t.series_title }}{% endblock %}
+{% block main %}
+<article class="wrap day kit">
+  <p class="eyebrow"><a href="index.html">{{ t.series_title }}</a></p>
+  <h1>{{ t.kit }}</h1>
+  <p class="lead">{{ t.kit_intro }}</p>
+  <p class="kit-downloads"><a class="pill" href="../pdf/{{ series }}-kit-{{ lang }}.pdf">{{ t.guide_pdf }}</a> <a class="pill" href="../pdf/{{ series }}-slides-{{ lang }}.pdf">{{ t.slides_pdf }}</a></p>
+  <ol class="sessions">
+    {% for s in sessions %}
+    <li>
+      <p class="eyebrow">{{ t.session }} {{ s.session }} · {{ s.ref_label }}</p>
+      <h2>{{ s.title }}</h2>
+      <p>{{ s.big_idea }}</p>
+      <p class="session-links"><a href="{{ s.slug }}.html">{{ t.leader_guide }} →</a> <a href="{{ s.slides_slug }}.html">{{ t.present }} ▶</a></p>
+    </li>
+    {% endfor %}
+  </ol>
+</article>
+{% endblock %}

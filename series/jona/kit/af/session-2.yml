@@ -1,0 +1,54 @@
+session: 2
+lang: af
+title: "Uit die Diepte"
+ref: "2:1-2:11"
+days: [4, 5]
+big_idea: "Op die laagste punt van sy vlug ontdek Jona dat God heeltyd in beheer was – en dat die redding van die HERE alleen is."
+opening: "Dink aan 'n keer toe jy heeltemal vasgesit het – 'n pap band, 'n verlore sleutel, 'n gekanselleerde vlug. Wat het deur jou kop gegaan?"
+context: >-
+  Jona is in die see gewerp, en die storm het opgehou. Maar die verhaal is nie verby nie: die HERE beskik 'n groot vis.
+  Uit die ingewande van die vis, in volslae duisternis, bid Jona. Die versnommering volg die Hebreeuse teks, soos in die 1933/53-vertaling.
+read_aloud_tip: "Een persoon lees 2:1–2 en 2:11 (die verteller), en 'n ander lees die psalm (2:3–10) stadig, as 'n gebed."
+hebrew:
+  - word: "manah"
+    hebrew: "מָנָה"
+    gloss: "beskik"
+    point: "God beskik die groot vis (2:1) – en later die komkommerplant, die wurm en die wind (4:6–8). Die vis is nie 'n toeval of 'n straf nie, maar God se gekose middel tot redding."
+  - word: "chesed"
+    hebrew: "חֶסֶד"
+    gloss: "goedertierenheid"
+    point: "God se trou verbondsliefde wat nooit opgee nie. \"Die wat aan nietige afgode vashou, verlaat hulle goedertierenheid\" (2:9): waaraan ons ons vasklou in plaas van aan God, beroof ons daarvan."
+  - word: "yeshu'ah"
+    hebrew: "יְשׁוּעָה"
+    gloss: "redding"
+    point: "\"Die redding is van die HERE!\" (2:10). Die naam Jeshua – Jesus – kom van dieselfde stam."
+discussion:
+  - q: "Hoe lees julle die groot vis: as straf of as redding? Wat suggereer die woord \"beskik\"?"
+    ref: "2:1"
+  - q: "Jona sê vir God: \"U het my in die diepte gewerp\" – hoewel die matrose hom gewerp het. Wat beteken dit om God se hand agter ons krisis te sien?"
+    ref: "2:4"
+  - q: "\"Ek is verdryf, weg van voor u oë. Tog sal ek weer opkyk na u heilige tempel.\" Wat is die \"tog\" van geloof, en waar het jy dit nodig gehad?"
+    ref: "2:5"
+  - q: "\"Na die wortels van die berge het ek afgeklim … Maar U het my lewe uit die kuil laat opkom.\" Hoe voltooi hierdie vers die \"afklim\" van hoofstuk 1?"
+    ref: "2:7"
+  - q: "Toe sy siel in hom versmag het, sê Jona, \"het ek aan die HERE gedink\". Wat help jou om aan God te dink wanneer jy uitgeput is?"
+    ref: "2:8"
+  - q: "Jona loof God voordat hy uit die vis is. Waarom is lof in die donker so kragtig – en so moeilik?"
+    ref: "2:10"
+  - q: "Jesus noem sy dood en opstanding \"die teken van Jona\" (Matteus 12:40). Waar sien julle die evangelie in hierdie hoofstuk?"
+application:
+  - "Leer hierdie week een vers uit Jona se psalm uit jou kop, sodat jy God se woord saam met jou in \"donker\" dae in neem."
+  - "Noem een \"nietige afgod\" waaraan jy jou vasklou, en sê eerder elke dag hardop: \"Die redding is van die HERE!\""
+prayer: "Lees 2:3 saam hardop. Laat elkeen wat wil, dan een situasie noem waar hy of sy 'n \"tog\" van geloof nodig het, en bid kortliks vir mekaar. Sê aan die einde saam: \"Die redding is van die HERE!\""
+leader_notes:
+  - "Party sal wil praat oor of die visverhaal letterlik is. Erken die vraag kortliks en lei dan na wat die teks beklemtoon: God se soewereiniteit en Jona se gebed."
+  - "Wie 'n Engelse Bybel gebruik, vind 2:1 daar as 1:17. Noem dit kortliks aan die begin."
+  - "Jona se psalm eggo baie Psalms. As julle groep hulle ken, laat hulle die eggo's ontdek (bv. Psalm 42:8; 31:7)."
+  - "Party sit dalk self in die \"ingewande van die vis\" – siekte, verlies, werkloosheid. Wees sagkens en moenie suggereer dat elke krisis 'n straf is nie."
+  - "Vooruitskouing: Jona het belowe om sy geloftes te betaal (2:10). Volgende week sien ons of hy dit doen."
+timing:
+  welcome: 10
+  read: 10
+  context: 10
+  discussion: 40
+  prayer: 15

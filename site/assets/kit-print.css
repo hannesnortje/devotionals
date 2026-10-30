@@ -1,0 +1,44 @@
+/* Jona small-group leader's guide – A4 */
+@import url("fonts.css");
+@page { size: A4; margin: 16mm 17mm 18mm; @bottom-center { content: counter(page); font: 400 8pt "Inter", sans-serif; color: #6b767b; } }
+@page :first { @bottom-center { content: none; } }
+:root { --ink: #1d2a31; --soft: #4d5b62; --sea: #16465a; --sea-2: #2a6f87; --tint: #e6eef0; --sand: #a86f30; --rule: #d6cdbd; --paper2: #f1ece2; }
+* { box-sizing: border-box; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { margin: 0; color: var(--ink); font: 400 10pt/1.5 "Literata", "Noto Serif Hebrew", serif; hyphens: auto; }
+.k-eyebrow { font: 600 7.5pt/1.4 "Inter", sans-serif; letter-spacing: .16em; text-transform: uppercase; color: var(--sand); margin: 0 0 2mm; }
+.kcover { break-after: page; padding-top: 50mm; }
+.kcover h1 { font: 600 30pt/1.1 "Literata", serif; color: var(--sea); margin: 0 0 6mm; }
+.k-intro { font-size: 12pt; line-height: 1.5; max-width: 140mm; }
+.k-toc { list-style: none; padding: 0; margin: 12mm 0; border-top: .4pt solid var(--rule); }
+.k-toc li { padding: 3mm 0; border-bottom: .4pt solid var(--rule); font-size: 11.5pt; }
+.k-toc b { font: 600 8pt "Inter", sans-serif; color: var(--sand); letter-spacing: .06em; text-transform: uppercase; display: inline-block; width: 34mm; }
+.k-toc small { font: 400 8pt "Inter", sans-serif; color: var(--soft); margin-left: 2mm; }
+.k-colo { font: 400 7.5pt/1.5 "Inter", sans-serif; color: var(--soft); margin-top: 40mm; }
+.ksession { break-before: page; }
+.ksession h1 { font: 600 20pt/1.15 "Literata", serif; margin: 0 0 5mm; color: var(--ink); }
+.big-idea { background: var(--sea); color: #f4efe6; padding: 4mm 5mm; border-radius: 2mm; font-size: 12pt; line-height: 1.4; margin-bottom: 5mm; }
+.big-idea span { display: block; font: 600 7pt/1.4 "Inter", sans-serif; letter-spacing: .16em; text-transform: uppercase; color: #d9a46a; margin-bottom: 1mm; }
+.timing { float: right; width: 56mm; margin: 0 0 4mm 6mm; background: var(--paper2); padding: 3mm 4mm; border-radius: 2mm; font: 400 8pt/1.4 "Inter", sans-serif; }
+.timing h3 { margin-top: 0 !important; }
+.timing ul { list-style: none; padding: 0; margin: 0; }
+.timing li { margin: 0 0 1.2mm; }
+.timing b { display: inline-block; width: 13mm; color: var(--sea); }
+.kmain h3, .timing h3 { font: 600 7.5pt/1.4 "Inter", sans-serif; letter-spacing: .13em; text-transform: uppercase; color: var(--sand); margin: 5mm 0 1.5mm; break-after: avoid; }
+.kmain p { margin: 0 0 2mm; }
+.kmain ul, .kmain ol { margin: 0 0 2mm; padding-left: 5mm; }
+.kmain li { margin-bottom: 1.4mm; }
+.tip { color: var(--soft); font-style: italic; }
+.questions li { margin-bottom: 2.2mm; }
+.qref { font: 400 8pt "Inter", sans-serif; color: var(--soft); }
+.leader-notes { background: var(--tint); padding: 1mm 5mm 2mm; border-radius: 2mm; margin-top: 4mm; break-inside: avoid; font-size: 9.2pt; }
+.related { font: 400 8pt/1.5 "Inter", sans-serif; color: var(--soft); margin-top: 4mm; }
+.he { font-family: "Noto Serif Hebrew", serif; unicode-bidi: isolate; }
+.sc { font-variant-caps: all-small-caps; letter-spacing: .03em; }
+.kpassage { break-before: page; }
+.kpassage h2 { font: 600 16pt/1.2 "Literata", serif; color: var(--sea); margin: 0 0 5mm; }
+.cols { columns: 2; column-gap: 9mm; font-size: 10.5pt; line-height: 1.55; }
+.cols p { margin: 0 0 2.5mm; }
+.vn { font: 600 6.5pt/0 "Inter", sans-serif; color: var(--sea-2); margin-right: .25em; vertical-align: .6em; }
+.poetry { margin: 0 0 2.5mm; break-inside: auto; }
+.poetry .line { display: block; padding-left: 5mm; text-indent: -5mm; }

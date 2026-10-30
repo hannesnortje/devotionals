@@ -1,0 +1,55 @@
+session: 1
+lang: de
+title: "Auf der Flucht"
+ref: "1:1-1:16"
+days: [1, 2, 3]
+big_idea: "Gottes Ruf lässt uns nicht los, wenn wir weglaufen – er schickt einen Sturm der Gnade, der uns und die Menschen um uns herum zu ihm zurückbringt."
+opening: "Was hast du als Kind gemacht, um dich vor einer lästigen Aufgabe zu drücken – und hat es funktioniert?"
+context: >-
+  Jona war ein bekannter Prophet in Israel, der seinem eigenen Volk gute Nachrichten verkündet hatte (2. Könige 14,25).
+  Jetzt schickt Gott ihn nach Ninive, eine Hauptstadt des brutalen assyrischen Reiches – Israels gefürchtetster Feind.
+  Heute folgen wir Jona vom Ruf Gottes auf ein Schiff in die entgegengesetzte Richtung und hinein in den Sturm.
+read_aloud_tip: "Lest mit verteilten Rollen: Erzähler, der HERR, der Kapitän und die Seeleute (als Gruppe) – Jonas eigene Worte kann eine fünfte Person lesen."
+hebrew:
+  - word: "qum"
+    hebrew: "קוּם"
+    gloss: "steh auf"
+    point: "Gott sagt: „Steh auf, geh“ (1,2). Jona steht tatsächlich auf – aber um zu fliehen (1,3). Und später rüttelt ihn der heidnische Kapitän mit demselben Wort wach: „Steh auf, rufe zu deinem Gott!“ (1,6)."
+  - word: "jarad"
+    hebrew: "יָרַד"
+    gloss: "hinabsteigen"
+    point: "Jona steigt hinab nach Jafo, hinab in das Schiff, hinab in den untersten Raum des Schiffes (1,3.5). Jeder Schritt weg von Gottes Ruf ist ein Schritt nach unten – während die Bosheit Ninives vor Gottes Angesicht „heraufgestiegen“ ist (1,2)."
+  - word: "tul"
+    hebrew: "טוּל"
+    gloss: "schleudern"
+    point: "Der HERR schleudert einen großen Wind (1,4), die Seeleute schleudern die Ladung (1,5) und schließlich Jona ins Meer (1,15). Dasselbe Verb zeigt, wer den Sturm wirklich in der Hand hat."
+discussion:
+  - q: "Was genau soll Jona tun, und was tut er stattdessen? Achtet genau auf die Worte in Vers 2 und 3."
+    ref: "1:2-1:3"
+  - q: "Für Jona läuft alles glatt: Ein Schiff liegt bereit, und er kann den Fahrpreis bezahlen. Warum ist eine „offene Tür“ nicht immer ein Beweis für Gottes Willen?"
+    ref: "1:3"
+  - q: "Während die Seeleute beten und arbeiten, schläft Jona. Was sagt dieses Bild über geistliche Betäubung?"
+    ref: "1:5-1:6"
+  - q: "Jona sagt: „Ein Hebräer bin ich, und den HERRN, den Gott des Himmels, fürchte ich.“ Inwiefern ist sein Bekenntnis richtig, und inwiefern widerspricht sein Leben ihm?"
+    ref: "1:9"
+  - q: "Die Männer „ruderten mit aller Kraft“ (wörtlich: sie „gruben“), um an Land zu kommen. Wo versuchen wir mit eigener Kraft zu lösen, was nur Gehorsam lösen kann?"
+    ref: "1:13"
+  - q: "Der Sturm beginnt mit Männern, die das Meer fürchten, und endet damit: „Da fürchteten die Männer den HERRN mit großer Furcht.“ Was hat Gott durch Jonas Ungehorsam getan?"
+    ref: "1:16"
+  - q: "Was ist im Moment dein „Ninive“ – und dein „Tarsis“? Teile nur, was du teilen möchtest."
+application:
+  - "Benenne ein konkretes „Ninive“ (ein Gespräch, eine Vergebung, eine Aufgabe) und geh diese Woche einen kleinen Schritt darauf zu."
+  - "Achte auf ein „Tarsis“, mit dem du Gottes Stimme ausweichst (Dauerbeschäftigung, Bildschirme, Arbeit), und nimm dir stattdessen jeden Tag zehn stille Minuten."
+prayer: "Betet zu zweit oder zu dritt: Dankt Gott, dass er uns nachgeht, auch wenn wir weglaufen, und bittet ihn um Mut, in dem genannten Bereich „aufzustehen“. Betet zum Schluss gemeinsam für Menschen, die unter unseren eigenen „Stürmen“ leiden."
+leader_notes:
+  - "Diese Einheit umfasst drei Andachten; ihr werdet nicht alle Fragen schaffen. Wählt vier oder fünf aus und gebt der letzten genug Zeit."
+  - "Gruppen bleiben leicht an der Frage hängen, ob ein Mensch in einem Fisch überleben kann – das ist nächste Woche dran. Lenkt den Blick freundlich auf Jonas Flucht."
+  - "Vers 1,6 ist reich: Ein heidnischer Kapitän sagt dem Propheten, was Gott gesagt hat. Lasst die Gruppe das selbst entdecken, bevor ihr darauf hinweist."
+  - "Die Frage nach dem „Ninive“ kann schmerzhafte Beziehungen berühren. Drängt niemanden zum Erzählen; bietet ein Gespräch im Anschluss an."
+  - "Ausblick: In 1,15–16 wird Jona ins Meer geschleudert, damit andere leben. Die Verbindung zu Christus könnt ihr für nächste Woche offenlassen."
+timing:
+  welcome: 10
+  read: 10
+  context: 10
+  discussion: 40
+  prayer: 15

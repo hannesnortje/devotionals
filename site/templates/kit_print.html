@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+<head><meta charset="utf-8"><title>{{ t.kit }} – {{ t.series_title }}</title>
+<link rel="stylesheet" href="{{ root }}assets/kit-print.css"></head>
+<body>
+<section class="kcover">
+  <p class="k-eyebrow">{{ t.series_title }}</p>
+  <h1>{{ t.kit }}</h1>
+  <p class="k-intro">{{ t.kit_intro }}</p>
+  <ol class="k-toc">{% for s in sessions %}<li><b>{{ t.session }} {{ s.session }}</b> {{ s.title }} <small>{{ s.ref_label }}</small></li>{% endfor %}</ol>
+  <p class="k-colo">{{ t.translation_note }}<br>{{ copyright }}</p>
+</section>
+{% for s in sessions %}
+<article class="ksession">
+  <p class="k-eyebrow">{{ t.session }} {{ s.session }} · {{ s.ref_label }}</p>
+  <h1>{{ s.title }}</h1>
+  <div class="kgrid">
+    <div class="kmain">{% include "_session_body.html" %}</div>
+  </div>
+</article>
+<article class="kpassage">
+  <p class="k-eyebrow">{{ t.session }} {{ s.session }} · {{ t.k_read }}</p>
+  <h2>{{ s.ref_label }}</h2>
+  <div class="passage-text cols">{{ s.passage }}</div>
+</article>
+{% endfor %}
+</body>
+</html>

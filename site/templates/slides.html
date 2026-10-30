@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if decks|length == 1 %}{{ t.session }} {{ decks[0].s.session }}: {{ decks[0].s.title }}{% else %}{{ t.slides }}{% endif %} – {{ t.series_title }}</title>
+<link rel="icon" href="{{ root }}assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="{{ root }}assets/slides.css">
+</head>
+<body class="deck-body">
+<div class="deck" id="deck">
+{% for deck in decks %}{% set s = deck.s %}
+  <section class="slide title-slide">
+    <div class="sl-inner">
+      <p class="sl-eyebrow">{{ t.series_title }} · {{ t.session }} {{ s.session }}</p>
+      <h1>{{ s.title }}</h1>
+      <p class="sl-ref">{{ s.ref_label }}</p>
+    </div>
+    <svg class="sl-waves" viewBox="0 0 1200 80" preserveAspectRatio="none" aria-hidden="true"><path d="M0 40 Q 75 10 150 40 T 300 40 T 450 40 T 600 40 T 750 40 T 900 40 T 1050 40 T 1200 40 V80 H0Z"/></svg>
+  </section>
+  <section class="slide"><div class="sl-inner">
+    <p class="sl-label">{{ t.k_opening }}</p>
+    <p class="sl-big">{{ s.opening }}</p>
+  </div></section>
+  <section class="slide"><div class="sl-inner">
+    <p class="sl-label">{{ t.k_context }}</p>
+    <p class="sl-mid">{{ s.context }}</p>
+  </div></section>
+  {% for chunk in deck.chunks %}
+  <section class="slide scripture"><div class="sl-inner">
+    <p class="sl-label">{{ t.k_read }} · {{ chunk.label }}</p>
+    <div class="sl-text passage-text">{{ chunk.html }}</div>
+  </div></section>
+  {% endfor %}
+  {% for h in s.hebrew %}
+  <section class="slide hebrew"><div class="sl-inner">
+    <p class="sl-label">{{ t.k_hebrew }}</p>
+    <p class="sl-he" lang="he" dir="rtl">{{ h.hebrew }}</p>
+    <p class="sl-word"><i>{{ h.word }}</i> · {{ t.qo }}{{ h.gloss }}{{ t.qc }}</p>
+    <p class="sl-mid">{{ h.point }}</p>
+  </div></section>
+  {% endfor %}
+  <section class="slide"><div class="sl-inner">
+    <p class="sl-label">{{ t.k_big_idea }}</p>
+    <p class="sl-big">{{ s.big_idea }}</p>
+  </div></section>
+  {% for q in s.discussion %}
+  <section class="slide question"><div class="sl-inner">
+    <p class="sl-label">{{ t.k_discussion }} · {{ loop.index }}/{{ loop.length }}</p>
+    <p class="sl-big">{{ q.q }}</p>
+    {% if q.ref %}<p class="sl-ref-small">{{ q.ref_label }}</p>{% endif %}
+  </div></section>
+  {% endfor %}
+  <section class="slide"><div class="sl-inner">
+    <p class="sl-label">{{ t.k_application }}</p>
+    <ul class="sl-list">{% for a in s.application %}<li>{{ a }}</li>{% endfor %}</ul>
+  </div></section>
+  <section class="slide closing"><div class="sl-inner">
+    <p class="sl-label">{{ t.k_prayer }}</p>
+    <p class="sl-mid">{{ s.prayer }}</p>
+  </div></section>
+{% endfor %}
+</div>
+<div class="sl-nav" aria-hidden="true"><span id="sl-count"></span></div>
+<script>
+(function(){
+  var slides=[].slice.call(document.querySelectorAll('.slide')), i=0;
+  function show(n){ i=Math.max(0,Math.min(slides.length-1,n)); slides.forEach(function(s,k){s.classList.toggle('active',k===i)}); document.getElementById('sl-count').textContent=(i+1)+' / '+slides.length; try{history.replaceState(null,'','#'+(i+1))}catch(e){} }
+  document.addEventListener('keydown',function(e){ if(['ArrowRight','PageDown',' ','Enter'].indexOf(e.key)>-1){e.preventDefault();show(i+1)} if(['ArrowLeft','PageUp','Backspace'].indexOf(e.key)>-1){e.preventDefault();show(i-1)} if(e.key==='Home')show(0); if(e.key==='End')show(slides.length-1); if(e.key==='f'&&document.documentElement.requestFullscreen)document.documentElement.requestFullscreen(); });
+  document.getElementById('deck').addEventListener('click',function(e){ show(e.clientX < innerWidth/3 ? i-1 : i+1) });
+  var x0=null; document.addEventListener('touchstart',function(e){x0=e.touches[0].clientX},{passive:true});
+  document.addEventListener('touchend',function(e){ if(x0===null)return; var dx=e.changedTouches[0].clientX-x0; if(Math.abs(dx)>40)show(dx<0?i+1:i-1); x0=null });
+  window.addEventListener('hashchange',function(){ var n=(parseInt(location.hash.slice(1),10)||1)-1; if(n!==i) show(n); });
+  show((parseInt(location.hash.slice(1),10)||1)-1);
+})();
+</script>
+</body>
+</html>

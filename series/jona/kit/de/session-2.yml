@@ -1,0 +1,54 @@
+session: 2
+lang: de
+title: "Aus der Tiefe"
+ref: "2:1-2:11"
+days: [4, 5]
+big_idea: "Am tiefsten Punkt seiner Flucht entdeckt Jona, dass Gott die ganze Zeit die Fäden in der Hand hielt – und dass die Rettung allein beim HERRN ist."
+opening: "Denk an eine Situation, in der du völlig festgesteckt hast – eine Panne, ein verlorener Schlüssel, ein gestrichener Flug. Was ging dir durch den Kopf?"
+context: >-
+  Jona wurde ins Meer geschleudert, und der Sturm hat aufgehört. Doch die Geschichte ist nicht zu Ende: Der HERR bestellt einen großen Fisch.
+  Aus seinem Bauch, in völliger Dunkelheit, betet Jona. Die Verszählung folgt dem hebräischen Text, wie in der Lutherbibel.
+read_aloud_tip: "Eine Person liest 2,1–2 und 2,11 (Erzähler), eine andere liest den Psalm (2,3–10) langsam, als Gebet."
+hebrew:
+  - word: "manah"
+    hebrew: "מָנָה"
+    gloss: "bestellen"
+    point: "Gott bestellt den großen Fisch (2,1) – und später die Rizinusstaude, den Wurm und den Wind (4,6–8). Der Fisch ist kein Zufall und keine Strafe, sondern Gottes gewähltes Mittel zur Rettung."
+  - word: "chesed"
+    hebrew: "חֶסֶד"
+    gloss: "Gnade"
+    point: "Gottes treue Bundesliebe, die nie aufgibt. „Die an nichtigen Götzen festhalten, verlassen ihre Gnade“ (2,9): Woran wir uns statt an Gott klammern, das raubt sie uns."
+  - word: "jeschuʿa"
+    hebrew: "יְשׁוּעָה"
+    gloss: "Rettung"
+    point: "„Die Rettung ist beim HERRN!“ (2,10). Der Name Jeschua – Jesus – kommt aus derselben Wurzel."
+discussion:
+  - q: "Wie lest ihr den großen Fisch: als Strafe oder als Rettung? Was legt das Wort „bestellte“ nahe?"
+    ref: "2:1"
+  - q: "Jona sagt zu Gott: „Du hattest mich in die Tiefe geworfen“ – obwohl die Seeleute ihn geworfen haben. Was heißt es, Gottes Hand hinter unserer Krise zu sehen?"
+    ref: "2:4"
+  - q: "„Verstoßen bin ich, weg von deinen Augen. Doch ich werde wieder schauen zu deinem heiligen Tempel.“ Was ist das „Doch“ des Glaubens, und wo hast du es gebraucht?"
+    ref: "2:5"
+  - q: "„Zu den Wurzeln der Berge stieg ich hinab … Da holtest du mein Leben aus der Grube herauf.“ Wie vollendet dieser Vers das „Hinabsteigen“ aus Kapitel 1?"
+    ref: "2:7"
+  - q: "Als seine Seele verschmachtete, „dachte ich an den HERRN“, sagt Jona. Was hilft dir, an Gott zu denken, wenn du erschöpft bist?"
+    ref: "2:8"
+  - q: "Jona lobt Gott, bevor er aus dem Fisch heraus ist. Warum ist Lob im Dunkeln so kraftvoll – und so schwer?"
+    ref: "2:10"
+  - q: "Jesus nennt seinen Tod und seine Auferstehung „das Zeichen des Jona“ (Matthäus 12,40). Wo seht ihr das Evangelium in diesem Kapitel?"
+application:
+  - "Lerne diese Woche einen Vers aus Jonas Psalm auswendig, damit du Gottes Wort mit in „dunkle“ Tage nimmst."
+  - "Benenne einen „nichtigen Götzen“, an dem du dich festhältst, und sprich stattdessen jeden Tag laut aus: „Die Rettung ist beim HERRN!“"
+prayer: "Lest 2,3 gemeinsam laut. Dann nennt jede und jeder, wer möchte, eine Situation, in der sie oder er ein „Doch“ des Glaubens braucht, und betet kurz füreinander. Sprecht zum Schluss gemeinsam: „Die Rettung ist beim HERRN!“"
+leader_notes:
+  - "Manche wollen darüber reden, ob die Fischgeschichte wörtlich zu nehmen ist. Nehmt die Frage kurz auf und lenkt dann auf das, was der Text betont: Gottes Souveränität und Jonas Gebet."
+  - "Wer eine englische Bibel benutzt, findet 2,1 dort als 1,17. Erwähnt das am Anfang kurz."
+  - "Jonas Psalm klingt an viele Psalmen an. Wenn eure Gruppe sie kennt, lasst sie die Anklänge entdecken (z. B. Psalm 42,8; 31,7)."
+  - "Manche stecken vielleicht gerade selbst im „Bauch des Fisches“ – Krankheit, Verlust, Arbeitslosigkeit. Seid behutsam und sagt nicht, jede Krise sei eine Strafe."
+  - "Ausblick: Jona hat versprochen, seine Gelübde zu erfüllen (2,10). Nächste Woche sehen wir, ob er es tut."
+timing:
+  welcome: 10
+  read: 10
+  context: 10
+  discussion: 40
+  prayer: 15

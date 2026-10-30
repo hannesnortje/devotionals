@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% block title %}{{ t.session }} {{ s.session }}: {{ s.title }} – {{ t.kit }}{% endblock %}
+{% block main %}
+<article class="wrap day session">
+  <p class="eyebrow"><a href="kit.html">{{ t.kit }}</a> · {{ t.session }} {{ s.session }} / 4</p>
+  <h1>{{ s.title }}</h1>
+  <p class="session-links top"><a class="pill" href="{{ s.slides_slug }}.html">{{ t.present }} ▶</a></p>
+  <div class="body kit-body">{% include "_session_body.html" %}</div>
+  <section class="passage" aria-label="{{ t.scripture }}">
+    <h2 class="passage-ref"><span>{{ t.scripture }}</span> {{ s.ref_label }}</h2>
+    <div class="passage-text">{{ s.passage }}</div>
+  </section>
+</article>
+{% endblock %}

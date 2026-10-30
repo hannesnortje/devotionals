@@ -1,0 +1,55 @@
+session: 1
+lang: af
+title: "Op die Vlug"
+ref: "1:1-1:16"
+days: [1, 2, 3]
+big_idea: "God se roeping los ons nie wanneer ons weghardloop nie – Hy stuur 'n storm van genade wat ons, en die mense rondom ons, na Hom terugbring."
+opening: "Wat het jy as kind gedoen om onder 'n vervelige taak uit te kom – en het dit gewerk?"
+context: >-
+  Jona was 'n bekende profeet in Israel wat goeie nuus vir sy eie volk verkondig het (2 Konings 14:25).
+  Nou stuur God hom na Ninevé, 'n hoofstad van die wrede Assiriese Ryk – Israel se mees gevreesde vyand.
+  Vanaand volg ons Jona van die roeping af, op 'n skip in die teenoorgestelde rigting, tot in die storm in.
+read_aloud_tip: "Lees met verdeelde rolle: 'n verteller, die HERE, die kaptein en die matrose (as groep) – Jona se eie woorde kan deur 'n vyfde persoon gelees word."
+hebrew:
+  - word: "qum"
+    hebrew: "קוּם"
+    gloss: "staan op"
+    point: "God sê: \"Staan op, gaan\" (1:2). Jona staan wel op – maar om te vlug (1:3). En later skud die heidense kaptein hom wakker met presies dieselfde woord: \"Staan op, roep tot jou god!\" (1:6)."
+  - word: "yarad"
+    hebrew: "יָרַד"
+    gloss: "afklim"
+    point: "Jona klim af na Jafo, af in die skip, af na die binneste van die skip (1:3, 5). Elke tree weg van God se roeping af is 'n tree ondertoe – terwyl Ninevé se boosheid voor God se aangesig \"opgestyg\" het (1:2)."
+  - word: "tul"
+    hebrew: "טוּל"
+    gloss: "werp"
+    point: "Die HERE werp 'n groot wind (1:4), die matrose werp die vrag (1:5) en uiteindelik vir Jona in die see (1:15). Dieselfde werkwoord wys wie werklik in beheer van die storm is."
+discussion:
+  - q: "Wat presies vra God van Jona, en wat doen Jona eerder? Kyk mooi na die woorde in verse 2 en 3."
+    ref: "1:2-1:3"
+  - q: "Alles loop glad vir Jona: 'n skip is gereed en hy kan die vaargeld betaal. Waarom is 'n \"oop deur\" nie altyd 'n bewys van God se wil nie?"
+    ref: "1:3"
+  - q: "Terwyl die matrose bid en werk, slaap Jona. Wat sê hierdie beeld oor geestelike verdowing?"
+    ref: "1:5-1:6"
+  - q: "Jona sê: \"'n Hebreër is ek, en die HERE, die God van die hemel, vrees ek.\" Hoe is sy belydenis reg, en hoe weerspreek sy lewe dit?"
+    ref: "1:9"
+  - q: "Die manne het \"uit alle mag geroei\" (letterlik: hulle het \"gegrawe\") om land te bereik. Waar probeer ons met eie krag oplos wat net gehoorsaamheid kan oplos?"
+    ref: "1:13"
+  - q: "Die storm begin met manne wat die see vrees en eindig so: \"Toe het die manne die HERE gevrees met 'n groot vrees.\" Wat het God deur Jona se ongehoorsaamheid gedoen?"
+    ref: "1:16"
+  - q: "Wat is op die oomblik jou \"Ninevé\" – en jou \"Tarsis\"? Deel net wat jy gemaklik voel om te deel."
+application:
+  - "Noem een spesifieke \"Ninevé\" ('n gesprek, 'n daad van vergifnis, 'n taak) en gee hierdie week een klein treetjie daarheen."
+  - "Let op een \"Tarsis\" wat jy gebruik om God se stem te ontvlug (oorbesigheid, skerms, werk) en maak eerder elke dag tien stil minute oop."
+prayer: "Bid in pare of drietalle: dank God dat Hy ons agternagaan, selfs wanneer ons weghardloop, en vra Hom vir moed om \"op te staan\" in die area wat elkeen genoem het. Sluit saam af deur te bid vir mense wat ly onder ons eie \"storms\"."
+leader_notes:
+  - "Hierdie sessie dek drie oordenkings; julle sal nie by al die vrae uitkom nie. Kies vier of vyf en gee die laaste een genoeg tyd."
+  - "Groepe raak maklik vas by die vraag of 'n mens in 'n vis kan oorleef – dit kom volgende week. Lei die fokus vriendelik terug na Jona se vlug."
+  - "Vers 1:6 is ryk: 'n heidense kaptein sê vir die profeet wat God gesê het. Laat die groep dit self ontdek voordat jy dit uitwys."
+  - "Die vraag oor \"Ninevé\" kan pynlike verhoudings raak. Moenie iemand dwing om te deel nie; bied aan om ná die tyd te gesels."
+  - "Vooruitskouing: in 1:15–16 word Jona in die see gewerp sodat ander kan lewe. Die verband met Christus kan vir volgende week oopgelaat word."
+timing:
+  welcome: 10
+  read: 10
+  context: 10
+  discussion: 40
+  prayer: 15

@@ -1,0 +1,43 @@
+# Devotionals · Andachten · Oordenkings
+
+Devotional series by Dr. Johannes A. Nortjé in German, English and Afrikaans – as a website, A5 PDF booklets and small-group kits.
+
+**Website:** https://hannesnortje.github.io/devotionals/
+
+| Series | Website | Booklets | Small-group kit |
+|---|---|---|---|
+| Jona – *Unterwegs mit Jona / Journey through Jonah / Reis deur Jona* | [`/jona/`](https://hannesnortje.github.io/devotionals/jona/) | `docs/jona/pdf/jona-{de,en,af}.pdf` | `docs/jona/pdf/jona-kit-{lang}.pdf`, `jona-slides-{lang}.pdf` |
+
+## Layout
+
+| Path | What |
+|---|---|
+| `series/<slug>/series.yml` | Series settings: titles, book name, website address |
+| `series/<slug>/bible/<slug>-{lang}.md` | Own Bible translation for the series (Hebrew verse numbering) |
+| `series/<slug>/bible/translation-notes.md` | Key-word renderings and translation choices |
+| `series/<slug>/{af,de,en}/NN-*.md` | Devotionals, one per day per language; the build inserts the Bible passage from `ref` |
+| `series/<slug>/kit/{lang}/session-N.yml` | Small-group sessions (format: `series/jona/kit/SPEC.md`) |
+| `series/<slug>/CONVENTIONS.md` | Writing conventions for the series |
+| `build/` | `build.py` (website), `pdf.py` (PDFs), `strings.py` (interface text) |
+| `site/` | Templates, styles and fonts shared by all series |
+| `docs/` | Generated website (GitHub Pages) – don't edit by hand |
+
+## Build
+
+```bash
+pip install markdown pyyaml jinja2 playwright
+python -m playwright install chromium   # once
+python3 build/build.py   # website → docs/
+python3 build/pdf.py     # PDFs → docs/<slug>/pdf/
+```
+
+## Adding a series
+
+1. Copy `series/jona/` to `series/<new-slug>/` and empty the day, kit and Bible folders.
+2. Edit `series.yml` (slug, order, book name, titles, site_url).
+3. Add the Bible translation as `bible/<new-slug>-{lang}.md`, the devotionals and (optionally) the kit sessions.
+4. Run the build. The new series appears on the collection page automatically.
+
+Fonts: Literata, Inter and Noto Serif Hebrew (SIL Open Font License), in `site/assets/fonts/`.
+
+© Dr. Johannes A. Nortjé. All rights reserved.

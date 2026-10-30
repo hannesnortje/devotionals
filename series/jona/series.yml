@@ -1,0 +1,30 @@
+# Series settings and series-specific text
+slug: jona
+order: 1
+site_url: https://hannesnortje.github.io/devotionals/jona/
+book:
+  de: Jona
+  en: Jonah
+  af: Jona
+strings:
+  de:
+    series_title: Unterwegs mit Jona
+    series_subtitle: Zehn Andachten zum Buch Jona
+    author: Dr. Johannes A. Nortjé
+    whole_book: Das ganze Buch Jona
+    whole_book_intro: Der vollständige Text des Buches Jona in der Übersetzung, die in diesen Andachten verwendet wird.
+    kit_intro: Vier Treffen für Hauskreise und Kleingruppen – ein Treffen pro Kapitel, je 75 bis 90 Minuten. Jedes Treffen baut auf den Andachten der Woche auf.
+  en:
+    series_title: Journey through Jonah
+    series_subtitle: Ten devotionals on the book of Jonah
+    author: Dr. Johannes A. Nortjé
+    whole_book: The whole book of Jonah
+    whole_book_intro: 'The complete text of Jonah in the translation used in these devotionals. Verse numbers follow the Hebrew: English Bibles number 2:1 as 1:17 and 2:2–11 as 2:1–10.'
+    kit_intro: Four sessions for home groups and small groups – one per chapter, 75 to 90 minutes each. Each session builds on that week's devotionals.
+  af:
+    series_title: Reis deur Jona
+    series_subtitle: Tien oordenkings oor die boek Jona
+    author: Dr. Johannes A. Nortjé
+    whole_book: Die hele boek Jona
+    whole_book_intro: Die volledige teks van Jona in die vertaling wat in hierdie oordenkings gebruik word.
+    kit_intro: Vier byeenkomste vir huisgroepe en kleingroepe – een per hoofstuk, elk 75 tot 90 minute. Elke byeenkoms bou voort op daardie week se oordenkings.

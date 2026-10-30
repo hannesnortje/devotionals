@@ -1,0 +1,11 @@
+@font-face { font-family: "Literata"; src: url("fonts/literata-latin-400-normal.woff2") format("woff2"); font-weight: 400; font-style: normal; }
+@font-face { font-family: "Literata"; src: url("fonts/literata-latin-ext-400-normal.woff2") format("woff2"); font-weight: 400; font-style: normal; unicode-range: U+0100-024F, U+0149, U+1E00-1EFF; }
+@font-face { font-family: "Literata"; src: url("fonts/literata-latin-400-italic.woff2") format("woff2"); font-weight: 400; font-style: italic; }
+@font-face { font-family: "Literata"; src: url("fonts/literata-latin-600-normal.woff2") format("woff2"); font-weight: 600; font-style: normal; }
+@font-face { font-family: "Literata"; src: url("fonts/literata-latin-600-italic.woff2") format("woff2"); font-weight: 600; font-style: italic; }
+@font-face { font-family: "Literata"; src: url("fonts/literata-latin-700-normal.woff2") format("woff2"); font-weight: 700; font-style: normal; }
+@font-face { font-family: "Noto Serif Hebrew"; src: url("fonts/noto-serif-hebrew-hebrew-400-normal.woff2") format("woff2"); font-weight: 400; }
+@font-face { font-family: "Noto Serif Hebrew"; src: url("fonts/noto-serif-hebrew-hebrew-600-normal.woff2") format("woff2"); font-weight: 600 700; }
+@font-face { font-family: "Inter"; src: url("fonts/inter-latin-400-normal.woff2") format("woff2"); font-weight: 400; }
+@font-face { font-family: "Inter"; src: url("fonts/inter-latin-500-normal.woff2") format("woff2"); font-weight: 500; }
+@font-face { font-family: "Inter"; src: url("fonts/inter-latin-600-normal.woff2") format("woff2"); font-weight: 600; }

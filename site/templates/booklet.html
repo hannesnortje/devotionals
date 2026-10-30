@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="{{ lang }}">
+<head>
+<meta charset="utf-8">
+<title>{{ t.series_title }} – {{ t.series_subtitle }}</title>
+<link rel="stylesheet" href="{{ root }}assets/booklet.css">
+</head>
+<body>
+
+<section class="cover">
+  <svg class="cover-mark" viewBox="0 0 32 32" aria-hidden="true"><path d="M3 20c3.5 0 3.5-3 7-3s3.5 3 7 3 3.5-3 7-3 3.5 3 5 3" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><path d="M3 26c3.5 0 3.5-3 7-3s3.5 3 7 3 3.5-3 7-3 3.5 3 5 3" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" opacity=".5"/><circle cx="23" cy="9" r="4" fill="#d9a46a"/></svg>
+  <div class="cover-text">
+    <p class="cover-sub">{{ t.series_subtitle }}</p>
+    <h1>{{ t.series_title }}</h1>
+    <p class="cover-author">{{ t.author }}</p>
+  </div>
+  <svg class="cover-waves" viewBox="0 0 600 80" preserveAspectRatio="none" aria-hidden="true"><path d="M0 40 Q 37.5 10 75 40 T 150 40 T 225 40 T 300 40 T 375 40 T 450 40 T 525 40 T 600 40 V80 H0Z" fill="#f6f2ea"/></svg>
+</section>
+
+<section class="colophon">
+  <div class="how-box">
+    <h2 class="how-title">{{ t.how_title }}</h2>
+    <ol class="how">{% for h in t.how %}<li>{{ h }}</li>{% endfor %}</ol>
+  </div>
+  <div class="colo">
+  <p><strong>{{ t.series_title }}</strong><br>{{ t.series_subtitle }}</p>
+  <p>{{ t.translation_note }}</p>
+  <p>{{ copyright }}</p>
+  {% if site_url %}<p>{{ t.read_online }}: {{ site_url }}{{ lang }}/</p>{% endif %}
+  </div>
+</section>
+
+<section class="toc">
+  <h2>{{ t.contents }}</h2>
+  <ol>
+    {% for d in days %}<li><span class="toc-n">{{ t.day }} {{ d.n }}</span><span class="toc-t">{{ d.title }}<small>{{ d.ref_label }}</small></span></li>{% endfor %}
+    <li class="toc-extra"><span class="toc-n"></span><span class="toc-t">{{ t.whole_book }}</span></li>
+  </ol>
+</section>
+
+{% for d in days %}
+<article class="day">
+  <p class="eyebrow">{{ t.day }} {{ d.n }}</p>
+  <h1>{{ d.title }}</h1>
+  <section class="passage">
+    <h2 class="passage-ref"><span>{{ t.scripture }}</span> {{ d.ref_label }}</h2>
+    <div class="passage-text">{{ d.passage }}</div>
+  </section>
+  <div class="body">{{ d.html }}</div>
+</article>
+{% endfor %}
+
+<article class="day whole-book">
+  <h1>{{ t.whole_book }}</h1>
+  <p class="lead">{{ t.whole_book_intro }}</p>
+  <div class="passage-text whole">{{ whole }}</div>
+</article>
+
+</body>
+</html>

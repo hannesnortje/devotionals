@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% block main %}
+<section class="hero">
+  <div class="wrap">
+    <p class="eyebrow">{{ t.series_subtitle }}</p>
+    <h1>{{ t.series_title }}</h1>
+    <p class="byline">{{ t.author }}</p>
+    <div class="hero-actions">
+      <a class="btn primary" href="{{ days[0].slug }}.html">{{ t.day }} 1 →</a>
+      <a class="btn" href="../pdf/{{ pdf_name }}">{{ t.pdf }}</a>
+      <a class="btn" href="book.html">{{ t.whole_book }}</a>
+      <a class="btn" href="kit.html">{{ t.kit }}</a>
+    </div>
+  </div>
+  <svg class="waves" viewBox="0 0 1200 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 30 Q 75 0 150 30 T 300 30 T 450 30 T 600 30 T 750 30 T 900 30 T 1050 30 T 1200 30 V60 H0Z"/></svg>
+</section>
+
+<section class="wrap plan">
+  <div class="plan-head">
+    <h2>{{ t.days }}</h2>
+    <p class="progress" data-progress-template="{{ t.progress }}"><span class="bar"><span></span></span><span class="label"></span></p>
+  </div>
+  <ol class="days">
+    {% for d in days %}
+    <li data-day="{{ d.n }}">
+      <a href="{{ d.slug }}.html">
+        <span class="num">{{ d.n }}</span>
+        <span class="txt"><span class="ttl">{{ d.title }}</span><span class="ref">{{ d.ref_label }}</span></span>
+        <span class="tick" aria-hidden="true"></span>
+      </a>
+    </li>
+    {% endfor %}
+  </ol>
+</section>
+
+<section class="wrap how">
+  <h2>{{ t.how_title }}</h2>
+  <ol>{% for h in t.how %}<li>{{ h }}</li>{% endfor %}</ol>
+</section>
+{% endblock %}

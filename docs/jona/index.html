@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Unterwegs mit Jona · Journey through Jonah · Reis deur Jona</title>
+<meta name="theme-color" content="#16465a">
+<link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body class="landing">
+<main class="landing-main">
+  <svg class="brand-mark big" viewBox="0 0 32 32" aria-hidden="true"><path d="M3 20c3.5 0 3.5-3 7-3s3.5 3 7 3 3.5-3 7-3 3.5 3 5 3" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/><path d="M3 26c3.5 0 3.5-3 7-3s3.5 3 7 3 3.5-3 7-3 3.5 3 5 3" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" opacity=".5"/><circle cx="23" cy="9" r="4" fill="currentColor"/></svg>
+  <ul class="lang-cards">
+    
+    <li><a href="de/index.html" lang="de">
+      <span class="lc-lang">Deutsch</span>
+      <span class="lc-title">Unterwegs mit Jona</span>
+      <span class="lc-sub">Zehn Andachten zum Buch Jona</span>
+    </a></li>
+    
+    <li><a href="en/index.html" lang="en">
+      <span class="lc-lang">English</span>
+      <span class="lc-title">Journey through Jonah</span>
+      <span class="lc-sub">Ten devotionals on the book of Jonah</span>
+    </a></li>
+    
+    <li><a href="af/index.html" lang="af">
+      <span class="lc-lang">Afrikaans</span>
+      <span class="lc-title">Reis deur Jona</span>
+      <span class="lc-sub">Tien oordenkings oor die boek Jona</span>
+    </a></li>
+    
+  </ul>
+  <p class="landing-author">Dr. Johannes A. Nortjé</p>
+</main>
+<script>
+// Send returning visitors to the language they used last time.
+try { var l = localStorage.getItem('jona-lang'); if (l && ['de','en','af'].indexOf(l) > -1 && !location.hash) location.replace(l + '/index.html'); } catch (e) {}
+</script>
+</body>
+</html>

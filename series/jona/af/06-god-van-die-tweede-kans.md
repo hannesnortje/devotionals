@@ -1,0 +1,57 @@
+---
+day: 6
+lang: af
+title: "Die God van die Tweede Kans en die Roepstem in Ninevé"
+ref: "3:1-3:4"
+---
+
+## Dieper Delf: Konteks en Betekenis
+
+### Historiese, Kulturele en Literêre Konteks
+
+Gister het ons gesien hoe die vis Jona op die droë land uitgespoeg het. Vandag begin die tweede groot bedryf van die boek — en hoofstuk 3 open met 'n asemrowende literêre spieëlbeeld van hoofstuk 1. Die skrywer gebruik byna woord vir woord dieselfde openingsformule as in Jona 1:1–2. Ná die diepte druk God as 't ware die "herstel-knoppie" van Jona se lewe en bediening. Waar Jona in hoofstuk 1 opgestaan het om te *vlug*, staan hy in hoofstuk 3 op om te *gaan*.
+
+Die reis vanaf die Middellandse Seekus na Ninevé (geleë aan die oostelike oewer van die Tigrisrivier, teenoor die huidige Mosoel in Noord-Irak) was 'n uitmergelende voettog van ongeveer 800 tot 900 kilometer deur bergpasse en dor vlaktes. Dit sou Jona byna 'n maand van stap in die brandende son gekos het — 'n maand waarin elke voetstap sy nuwe gehoorsaamheid getoets het.
+
+Histories leef Jona in die eerste helfte van die agtste eeu v.C. (ongeveer 780–750 v.C.). Assiriese kronieke (die sogenaamde *Eponieme-kanon*) werp fassinerende lig op waarom Ninevé juis in hierdie tydperk so ontvanklik sou wees vir 'n boodskap van oordeel. Gedurende die regering van die Assiriese koning Asjoer-dan III het die ryk deur 'n reeks traumatiese krisisse gegaan: binnelandse opstande, hongersnood, twee verwoestende pesepidemies (in 765 en 759 v.C.) en 'n totale sonsverduistering op 15 Junie 763 v.C. In die antieke Mesopotamiese wêreldbeeld is sulke natuurrampe en kosmiese tekens beskou as bewyse dat die gode woedend was. Toe hierdie vreemde profeet uit Israel dus by die stadspoorte instap — dalk nog steeds met 'n vel en hare wat deur die maagsuur van die vis gebleik is — het God reeds die historiese grond van Ninevé voorberei.
+
+Wat beteken dit in vers 3 dat Ninevé **"drie dagreise deur"** was? In die taalgebruik van die antieke Nabye Ooste verwys dit na een van twee dinge (of albei): eerstens na die groter metropolitaanse distrik van Ninevé en sy omliggende satellietstede (vgl. Genesis 10:11–12), wat 'n omtrek van sowat 90 kilometer gehad het; of tweedens na die diplomatieke protokol van daardie tyd, waar 'n amptelike boodskapper drie dae geneem het om 'n groot stad te besoek: dag een vir aankoms en ontvangs, dag twee vir die amptelike proklamasie in die stadskern, en dag drie vir vertrek.
+
+### Insigte uit die Hebreeus
+
+Elke woord in hierdie vier verse dra 'n besondere teologiese gewig in die Hebreeuse grondteks:
+
+- **"Vir die tweede keer" (*shenit* – שֵׁנִית):** Hierdie eenvoudige bywoord bevat 'n oseaan van genade. God kon Jona op daardie strand agtergelaat het as 'n gediskwalifiseerde dienskneg en 'n ander profeet gekies het. Maar die woord van die HERE kom *shenit* — 'n tweede keer. God se roeping berus op Sy trou, nie op ons feilbaarheid nie.
+- **"Die boodskap wat Ek vir jou sê" (*et-ha-qeri'ah asher anokhi dover eleikha* – אֶת־הַקְּרִיאָה אֲשֶׁר אָנֹכִי דֹּבֵר אֵלֶיךָ):** Let op die subtiele verandering tussen God se opdrag in 1:2 en 3:2. In 1:2 het God gesê: *"Roep teen haar uit"* (*qera aleha*). Nou sê Hy: *"Roep vir haar die boodskap uit wat Ek vir jou sê"* (*qera eleha*) — letterlik: "roep tot haar die uitroep wat Ek besig is om met jou te spreek". Die werkwoord *dover* is 'n deelwoord (teenwoordige tyd). God gee nie vir Jona die hele preek vooraf in Jafo nie; Jona moet in afhanklikheid vertrek en stap vir stap hoor wat die Here vir hom gee om te sê.
+- **"'n Groot stad – groot selfs voor God" (*ir-gedolah le-Elohim* – עִיר־גְּדוֹלָה לֵאלֹהִים):** Baie vertalings (soos die 1933/53-vertaling) gee dit weer as "'n geweldig groot stad". Maar in Hebreeus staan daar letterlik: **"'n groot stad vir God"** (of "voor God"), en ons vertaling hou dit doelbewus so. Hoewel dit as 'n Hebreeuse oortreffende trap gelees kan word, lê die dieper betekenis op die oppervlak: vir Jona was Ninevé 'n veragtelike vyandstad, maar *vir God* was dit 'n stad van onskatbare waarde en belangrikheid.
+- **"Nog veertig dae, en Ninevé word omgekeer!" (*od arba'im yom we-Nineveh nehpakhet* – עוֹד אַרְבָּעִים יוֹם וְנִינְוֵה נֶהְפָּכֶת):** Jona se hele preek bestaan in Hebreeus uit slegs **vyf woorde**! Maar die laaste woord — *nehpakhet* (van die stam *hafakh*, הָפַךְ) — is 'n meesterstuk van Goddelike dubbelsinnigheid. Aan die een kant beteken *hafakh* om **"omgekeer"** in die sin van **"vernietig"** te word (dit is presies die woord wat gebruik word vir die verwoesting van Sodom en Gomorra in Genesis 19:25). Aan die ander kant beteken *hafakh* ook om **"radikaal te verander"** of **"omgekeer te word ten goede"** (soos Saul wat in 'n ander mens verander is in 1 Samuel 10:6, of rou wat in dans verander word in Psalm 30:12). Daarom vertaal ons doelbewus met "omgekeer" eerder as "verwoes". Jona dink hy kondig net verwoesting aan, maar in God se mond dra dieselfde woord reeds die belofte: *Oor veertig dae gaan Ninevé onderstebo gekeer word — óf deur oordeel, óf deur bekering!*
+
+### Kern Teologiese Waarhede
+
+1. **Die God van herstel en tweede kanse:** Mislukking in die verlede beteken nie diskwalifikasie vir die toekoms nie. Net soos die opgestane Christus later vir Petrus op 'n strand langs die See van Galilea sou herstel ná sy verloëning (Johannes 21), herstel God Sy wegloper-profeet op die strand van die Middellandse See en gee hom Sy opdrag terug.
+2. **God verander nie Sy standaard om by ons aan te pas nie:** Toe die woord vir die tweede keer tot Jona kom, gee God hom nie 'n makliker opdrag nie. Hy stuur hom nie na 'n veilige dorpie in Galilea nie; die opdrag bly **Ninevé**. God se genade red ons uit die diepte, maar dit bring ons altyd terug na die presiese punt waar ons laas ongehoorsaam was.
+3. **Die getrouheid aan die boodskap:** 'n Ware boodskapper van God skep nie sy eie boodskap om by die gehoor gewild te wees nie; hy spreek slegs dit wat God hom beveel. Die getal **veertig** in die Bybel (soos die 40 dae van die sondvloed of die 40 jaar in die woestyn) is dikwels die tydperk van beproewing en genade-uitstel. Selfs in 'n oordeelsboodskap is 'n tydperk van veertig dae 'n bewys van God se geduld wat ruimte laat vir bekering.
+4. **Die krag lê in die Woord, nie in die prediker nie:** Jona hou die kortste, mees onvriendelike preek in die Bybel — vyf Hebreeuse woorde sonder 'n enkele uitnodiging tot genade, sonder musiek en sonder slim retoriek. Tog gaan hierdie vyf woorde die grootste stadsbekering in die oudheid ontketen. Dit bewys dat geestelike ontwaking die werk van God se Gees en Woord is, nie van menslike welsprekendheid nie.
+
+## Praktiese Toepassing
+
+Hoeveel van ons loop vandag rond met die verlammende gevoel dat ons ons kans by die Here verbeur het? Jy kyk terug na 'n seisoen waar jy na jou eie "Tarsis" gevlug het, en al weet jy dat die Here jou vergewe het en jou uit die diepte opgetrek het, voel jy soos 'n tweedehandse gelowige wat maar net op die kantlyn moet sit. Jona 3:1 breek deur daardie leuen met hierdie bevrydende woorde: *"Die woord van die HERE het vir die tweede keer tot Jona gekom."* Jou littekens van die verlede diskwalifiseer jou nie; inteendeel, die man wat uit die ingewande van die vis kom, dra 'n gesag en 'n getuienis wat hy nooit tevore gehad het nie!
+
+Let egter op dat 'n tweede kans altyd vra vir **nuwe gehoorsaamheid**. Toe God weer praat, het Jona nie weer gaan sit en redeneer nie; hy het opgestaan en die lang, stowwerige pad na Ninevé aangedurf. Waar roep die Here jou vandag terug na daardie saak waarvan jy voorheen weggehardloop het?
+
+Miskien voel die opdrag voor jou soos 'n stad van "drie dagreise" — oorweldigend groot, intimiderend en onmoontlik om te oorkom. Kyk na vers 4: Jona het begin deur **een dagreis** ver in te stap. Jy hoef nie vandag die hele berg te versit nie; gehoorsaamheid begin deur vandag die eerste dagreis aan te pak en getrou die woorde te spreek wat die Here op jou hart lê. En onthou: jy is nie verantwoordelik vir hoe mense reageer nie; jou taak is net om die vyf woorde wat God jou gee, eerlik af te lewer en die "omkering" (*hafakh*) van menseharte aan Hom oor te laat.
+
+### Vrae vir Persoonlike Selfondersoek
+
+- **Glo ek regtig dat God vir my 'n God van die tweede kans is?** Laat ek toe dat skuldgevoelens oor gister se vlugtogte my vandag verlam, of is ek gereed om Sy hernieude roeping oor my lewe te aanvaar?
+- **Het ek al teruggekeer na my "punt van ongehoorsaamheid"?** Watter oorspronklike opdrag van die Here wag steeds op my gehoorsaamheid nadat Hy my uit 'n krisis gered het?
+- **Kyk ek na die wêreld om my soos God daarna kyk?** Sien ek die moeilike, gebroke mense en plekke rondom my bloot as 'n bedreiging, of sien ek dat hulle "groot selfs voor God" (*le-Elohim*) is?
+- **Wat is my "een dagreis" vir vandag?** Watter eerste, konkrete tree van gehoorsaamheid kan ek vandag gee in 'n saak wat vir my soos 'n onmoontlike "drie-dag-uitdaging" lyk?
+
+## Gebed
+
+*Here, God van die tweede kans, my hart buig vandag in diepe dankbaarheid voor U. Dankie dat u Woord nie stilraak wanneer ek struikel en faal nie, maar dat U in u onbegryplike genade "vir die tweede keer" met u kinders praat. Dankie dat U my nie op die strand van my verlede agterlaat nie, maar my optel, skoonwas en weer bruikbaar maak in u koninkryk.*
+
+*Here, ek bely dat ek dikwels geïntimideer voel deur die grootte van die uitdagings en die hardheid van die wêreld waarheen U my stuur. Wanneer ek na my eie "Ninevé" kyk, lyk dit vir my te groot en te gevaarlik. Maar vandag kies ek om nie meer na my eie swakheid te kyk nie, maar na die krag van u Woord.*
+
+*Gee my die genade om op te staan en die eerste dagreis van gehoorsaamheid te stap. Leer my om in daaglikse afhanklikheid na u stem te luister en net te spreek wat U my beveel — sonder vrees en sonder kompromie. Ek vertrou U dat u Woord vandag nog die krag het om dit wat verwoes is, heeltemal om te keer tot u eer. Amen.*

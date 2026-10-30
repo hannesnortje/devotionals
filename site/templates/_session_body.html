@@ -1,0 +1,39 @@
+{# Shared body of a leader's guide session (web + print). Expects s, t, days_by_n #}
+<div class="big-idea"><span>{{ t.k_big_idea }}</span>{{ s.big_idea }}</div>
+
+<div class="timing">
+  <h3>{{ t.k_timing }}</h3>
+  <ul>{% for k, v in s.timing.items() %}<li><b>{{ v }} {{ t.minutes }}</b> {{ t.k_time_labels[k] }}</li>{% endfor %}</ul>
+</div>
+
+<h3>{{ t.k_opening }}</h3>
+<p>{{ s.opening }}</p>
+
+<h3>{{ t.k_read }} · {{ s.ref_label }}</h3>
+<p class="tip">{{ s.read_aloud_tip }}</p>
+
+<h3>{{ t.k_context }}</h3>
+<p>{{ s.context }}</p>
+
+<h3>{{ t.k_hebrew }}</h3>
+<ul class="hebrew-list">
+  {% for h in s.hebrew %}<li><b><i>{{ h.word }}</i> – <span class="he" lang="he" dir="rtl">{{ h.hebrew }}</span></b> {{ t.qo }}{{ h.gloss }}{{ t.qc }}: {{ h.point }}</li>{% endfor %}
+</ul>
+
+<h3>{{ t.k_discussion }}</h3>
+<ol class="questions">
+  {% for q in s.discussion %}<li>{{ q.q }}{% if q.ref %} <span class="qref">({{ q.ref_label }})</span>{% endif %}</li>{% endfor %}
+</ol>
+
+<h3>{{ t.k_application }}</h3>
+<ul>{% for a in s.application %}<li>{{ a }}</li>{% endfor %}</ul>
+
+<h3>{{ t.k_prayer }}</h3>
+<p>{{ s.prayer }}</p>
+
+<div class="leader-notes">
+  <h3>{{ t.k_leader }}</h3>
+  <ul>{% for n in s.leader_notes %}<li>{{ n }}</li>{% endfor %}</ul>
+</div>
+
+<p class="related"><b>{{ t.k_devotionals }}:</b> {% for n in s.days %}{% set d = days_by_n[n] %}{{ t.day }} {{ n }} – {{ d.title }}{% if not loop.last %} · {% endif %}{% endfor %}</p>

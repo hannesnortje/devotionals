@@ -1,0 +1,43 @@
+/* Jona small-group slides – 16:9 */
+@import url("fonts.css");
+:root { --sea: #16465a; --sea-2: #2a6f87; --paper: #f6f2ea; --ink: #1d2a31; --soft: #55636a; --sand: #b0793a; --tint: #e3ecee; }
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; background: #0b1d25; }
+body { font-family: "Literata", "Noto Serif Hebrew", Georgia, serif; color: var(--ink); }
+.deck { position: relative; width: 100vw; height: 100vh; overflow: hidden; }
+.slide { position: absolute; inset: 0; margin: auto; width: min(100vw, 177.78vh); height: min(56.25vw, 100vh); background: var(--paper); display: none; overflow: hidden; font-size: min(1.85vw, 3.3vh); }
+.slide.active { display: flex; }
+.sl-inner { margin: auto; width: 82%; }
+.sl-label, .sl-eyebrow { font: 600 .72em/1.3 "Inter", sans-serif; letter-spacing: .16em; text-transform: uppercase; color: var(--sand); margin: 0 0 1.4em; }
+.sl-big { font-size: 1.95em; line-height: 1.3; font-weight: 600; margin: 0; }
+.sl-mid { font-size: 1.35em; line-height: 1.5; margin: 0; }
+.sl-ref-small { font: 500 .8em/1 "Inter", sans-serif; color: var(--soft); margin-top: 1.6em; }
+.sl-list { font-size: 1.3em; line-height: 1.45; padding-left: 1.1em; margin: 0; }
+.sl-list li { margin-bottom: .7em; }
+.title-slide { background: var(--sea); color: #f4efe6; }
+.title-slide .sl-eyebrow { color: #c6dbe2; }
+.title-slide h1 { font-size: 3.6em; line-height: 1.05; margin: 0 0 .35em; font-weight: 600; }
+.sl-ref { font: 500 1.05em/1 "Inter", sans-serif; color: #c6dbe2; margin: 0; }
+.sl-waves { position: absolute; left: 0; right: 0; bottom: 0; width: 100%; height: 12%; fill: var(--paper); }
+.scripture { background: var(--tint); }
+.sl-text { font-size: 1.12em; line-height: 1.55; }
+.sl-text p { margin: 0 0 .6em; }
+.vn { font: 600 .55em/0 "Inter", sans-serif; color: var(--sea-2); margin-right: .25em; vertical-align: .6em; }
+.poetry .line { display: block; padding-left: 1.4em; text-indent: -1.4em; }
+.hebrew .sl-inner { text-align: center; }
+.sl-he { font: 600 4.2em/1.3 "Noto Serif Hebrew", serif; color: var(--sea); margin: 0 0 .15em; }
+.sl-word { font: 500 1.05em/1.3 "Inter", sans-serif; color: var(--soft); margin: 0 0 1.4em; }
+.hebrew .sl-mid { max-width: 34em; margin: 0 auto; font-size: 1.2em; }
+.question .sl-big { font-size: 1.8em; }
+.closing { background: var(--sea); color: #f4efe6; }
+.closing .sl-label { color: #d9a46a; }
+.sc { font-variant-caps: all-small-caps; letter-spacing: .03em; }
+.sl-nav { position: fixed; right: 1rem; bottom: .7rem; font: 500 12px "Inter", sans-serif; color: rgba(255,255,255,.45); }
+
+@media print {
+  @page { size: 297mm 167.06mm; margin: 0; }
+  html, body { background: none; height: auto; }
+  .deck { width: auto; height: auto; overflow: visible; }
+  .slide { display: flex !important; position: relative; width: 297mm; height: 167.06mm; font-size: 5.5mm; break-after: page; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .sl-nav { display: none; }
+}
