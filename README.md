@@ -1,6 +1,6 @@
 # Devotionals · Andachten · Oordenkings
 
-Devotional series by Dr. Johannes A. Nortjé in German, English and Afrikaans – as a website, A5 PDF booklets and small-group kits.
+Devotional series by Dr. Johannes (Hannes) A. Nortjé in German, English and Afrikaans – as a website, A5 PDF booklets and small-group kits.
 
 **Website:** https://hannesnortje.github.io/devotionals/
 
@@ -53,4 +53,4 @@ python3 build/test_flow.py /tmp/shots
 
 Fonts: Literata, Inter and Noto Serif Hebrew (SIL Open Font License), in `site/assets/fonts/`.
 
-© Dr. Johannes A. Nortjé · Texts licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Code (build scripts, templates) © Dr. Johannes A. Nortjé.
+© Dr. Johannes (Hannes) A. Nortjé · Texts licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/). Code (build scripts, templates) © Dr. Johannes (Hannes) A. Nortjé.

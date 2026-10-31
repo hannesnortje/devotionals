@@ -24,12 +24,12 @@ LOOK = {
     "grc": {"de": "Ein Blick ins Griechische", "en": "A look at the Greek", "af": "'n Blik op die Grieks"},
 }
 NOTE = {
-    "he": {"de": "Bibeltext: eigene Übersetzung aus dem Hebräischen (Masoretischer Text) von Dr. Johannes A. Nortjé. Die Verszählung folgt dem hebräischen Text.",
-           "en": "Scripture: own translation from the Hebrew (Masoretic Text) by Dr. Johannes A. Nortjé. Verse numbers follow the Hebrew text.",
-           "af": "Skrifteks: eie vertaling uit die Hebreeus (Masoretiese Teks) deur Dr. Johannes A. Nortjé. Die versnommering volg die Hebreeuse teks."},
-    "grc": {"de": "Bibeltext: eigene Übersetzung aus dem Griechischen von Dr. Johannes A. Nortjé. Grundtext: SBL Greek New Testament, © 2010 Society of Biblical Literature und Logos Bible Software (CC BY 4.0).",
-            "en": "Scripture: own translation from the Greek by Dr. Johannes A. Nortjé. Base text: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (CC BY 4.0).",
-            "af": "Skrifteks: eie vertaling uit die Grieks deur Dr. Johannes A. Nortjé. Grondteks: SBL Greek New Testament, © 2010 Society of Biblical Literature en Logos Bible Software (CC BY 4.0)."},
+    "he": {"de": "Bibeltext: eigene Übersetzung aus dem Hebräischen (Masoretischer Text) von Dr. Johannes (Hannes) A. Nortjé. Die Verszählung folgt dem hebräischen Text.",
+           "en": "Scripture: own translation from the Hebrew (Masoretic Text) by Dr. Johannes (Hannes) A. Nortjé. Verse numbers follow the Hebrew text.",
+           "af": "Skrifteks: eie vertaling uit die Hebreeus (Masoretiese Teks) deur Dr. Johannes (Hannes) A. Nortjé. Die versnommering volg die Hebreeuse teks."},
+    "grc": {"de": "Bibeltext: eigene Übersetzung aus dem Griechischen von Dr. Johannes (Hannes) A. Nortjé. Grundtext: SBL Greek New Testament, © 2010 Society of Biblical Literature und Logos Bible Software (CC BY 4.0).",
+            "en": "Scripture: own translation from the Greek by Dr. Johannes (Hannes) A. Nortjé. Base text: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (CC BY 4.0).",
+            "af": "Skrifteks: eie vertaling uit die Grieks deur Dr. Johannes (Hannes) A. Nortjé. Grondteks: SBL Greek New Testament, © 2010 Society of Biblical Literature en Logos Bible Software (CC BY 4.0)."},
 }
 
 
@@ -51,15 +51,15 @@ def main():
         # words from older Bible translations that must not appear in this series (checked by check_series.py)
         "avoid_words": {"af": [], "de": [], "en": []},
         "strings": {
-            "de": {"series_title": "TODO", "series_subtitle": f"TODO Andachten zum Buch {de}", "author": "Dr. Johannes A. Nortjé",
+            "de": {"series_title": "TODO", "series_subtitle": f"TODO Andachten zum Buch {de}", "author": "Dr. Johannes (Hannes) A. Nortjé",
                    "whole_book": f"Das ganze Buch {de}", "whole_book_intro": f"Der vollständige Text des Buches {de} in der Übersetzung, die in diesen Andachten verwendet wird.",
                    "kit_intro": "TODO Treffen für Hauskreise und Kleingruppen – ein Treffen pro Kapitel, je 75 bis 90 Minuten.",
                    "k_hebrew": LOOK[ol]["de"], "translation_note": NOTE[ol]["de"]},
-            "en": {"series_title": "TODO", "series_subtitle": f"TODO devotionals on {en}", "author": "Dr. Johannes A. Nortjé",
+            "en": {"series_title": "TODO", "series_subtitle": f"TODO devotionals on {en}", "author": "Dr. Johannes (Hannes) A. Nortjé",
                    "whole_book": f"The whole book of {en}", "whole_book_intro": f"The complete text of {en} in the translation used in these devotionals.",
                    "kit_intro": "TODO sessions for home groups and small groups – one per chapter, 75 to 90 minutes each.",
                    "k_hebrew": LOOK[ol]["en"], "translation_note": NOTE[ol]["en"]},
-            "af": {"series_title": "TODO", "series_subtitle": f"TODO oordenkings oor {af}", "author": "Dr. Johannes A. Nortjé",
+            "af": {"series_title": "TODO", "series_subtitle": f"TODO oordenkings oor {af}", "author": "Dr. Johannes (Hannes) A. Nortjé",
                    "whole_book": f"Die hele boek {af}", "whole_book_intro": f"Die volledige teks van {af} in die vertaling wat in hierdie oordenkings gebruik word.",
                    "kit_intro": "TODO byeenkomste vir huisgroepe en kleingroepe – een per hoofstuk, elk 75 tot 90 minute.",
                    "k_hebrew": LOOK[ol]["af"], "translation_note": NOTE[ol]["af"]},

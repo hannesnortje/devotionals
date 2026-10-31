@@ -47,8 +47,8 @@ STRINGS = {
             "Nimm dir Zeit für die Fragen. Vielleicht schreibst du deine Antworten auf.",
             "Schließe mit dem Gebet – und mit deinen eigenen Worten.",
         ],
-        "translation_note": "Bibeltext: eigene Übersetzung aus dem Grundtext von Dr. Johannes A. Nortjé.",
-        "copyright": "© {year} Dr. Johannes A. Nortjé · CC BY-NC-ND 4.0",
+        "translation_note": "Bibeltext: eigene Übersetzung aus dem Grundtext von Dr. Johannes (Hannes) A. Nortjé.",
+        "copyright": "© {year} Dr. Johannes (Hannes) A. Nortjé · CC BY-NC-ND 4.0",
         "privacy": "Dein Lesefortschritt wird nur in diesem Browser gespeichert.",
         "choose_lang": "Sprache",
         "read_online": "Online lesen",
@@ -99,8 +99,8 @@ STRINGS = {
             "Take your time with the questions. You may want to write your answers down.",
             "Close with the prayer – and with your own words.",
         ],
-        "translation_note": "Scripture: own translation from the original language by Dr. Johannes A. Nortjé.",
-        "copyright": "© {year} Dr. Johannes A. Nortjé · CC BY-NC-ND 4.0",
+        "translation_note": "Scripture: own translation from the original language by Dr. Johannes (Hannes) A. Nortjé.",
+        "copyright": "© {year} Dr. Johannes (Hannes) A. Nortjé · CC BY-NC-ND 4.0",
         "privacy": "Your reading progress is stored only in this browser.",
         "choose_lang": "Language",
         "read_online": "Read online",
@@ -151,8 +151,8 @@ STRINGS = {
             "Neem tyd vir die vrae. Skryf dalk jou antwoorde neer.",
             "Sluit af met die gebed – en met jou eie woorde.",
         ],
-        "translation_note": "Skrifteks: eie vertaling uit die grondteks deur Dr. Johannes A. Nortjé.",
-        "copyright": "© {year} Dr. Johannes A. Nortjé · CC BY-NC-ND 4.0",
+        "translation_note": "Skrifteks: eie vertaling uit die grondteks deur Dr. Johannes (Hannes) A. Nortjé.",
+        "copyright": "© {year} Dr. Johannes (Hannes) A. Nortjé · CC BY-NC-ND 4.0",
         "privacy": "Jou leesvordering word net in hierdie blaaier gestoor.",
         "choose_lang": "Taal",
         "read_online": "Lees aanlyn",
@@ -238,4 +238,4 @@ for _l, _d in NAV.items():
     STRINGS[_l].update(_d)
 
 for _l in STRINGS:
-    STRINGS[_l]["author_name"] = "Dr. Johannes A. Nortjé"
+    STRINGS[_l]["author_name"] = "Dr. Johannes (Hannes) A. Nortjé"

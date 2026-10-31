@@ -1,6 +1,6 @@
 # Devotionals – instructions for Claude
 
-Website and booklets of devotional series by Dr. Johannes A. Nortjé (Hannes) in German, English and Afrikaans: https://hannesnortje.github.io/devotionals/
+Website and booklets of devotional series by Dr. Johannes (Hannes) A. Nortjé (Hannes) in German, English and Afrikaans: https://hannesnortje.github.io/devotionals/
 
 ## Adding a new series
 Follow **PLAYBOOK.md** step by step. Don't skip the two reviews by Hannes (Bible translation; list of content changes). Record every decision in `series/<slug>/DECISIONS.md`.
