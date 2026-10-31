@@ -24,12 +24,12 @@ LOOK = {
     "grc": {"de": "Ein Blick ins Griechische", "en": "A look at the Greek", "af": "'n Blik op die Grieks"},
 }
 NOTE = {
-    "he": {"de": "Bibeltext: eigene Übersetzung aus dem Hebräischen (Masoretischer Text) von Dr. Johannes (Hannes) A. Nortjé. Die Verszählung folgt dem hebräischen Text.",
-           "en": "Scripture: own translation from the Hebrew (Masoretic Text) by Dr. Johannes (Hannes) A. Nortjé. Verse numbers follow the Hebrew text.",
-           "af": "Skrifteks: eie vertaling uit die Hebreeus (Masoretiese Teks) deur Dr. Johannes (Hannes) A. Nortjé. Die versnommering volg die Hebreeuse teks."},
-    "grc": {"de": "Bibeltext: eigene Übersetzung aus dem Griechischen von Dr. Johannes (Hannes) A. Nortjé. Grundtext: SBL Greek New Testament, © 2010 Society of Biblical Literature und Logos Bible Software (CC BY 4.0).",
-            "en": "Scripture: own translation from the Greek by Dr. Johannes (Hannes) A. Nortjé. Base text: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (CC BY 4.0).",
-            "af": "Skrifteks: eie vertaling uit die Grieks deur Dr. Johannes (Hannes) A. Nortjé. Grondteks: SBL Greek New Testament, © 2010 Society of Biblical Literature en Logos Bible Software (CC BY 4.0)."},
+    "he": {"de": "Bibeltext: eigene Übersetzung aus dem Hebräischen (Masoretischer Text) von Dr. Johannes A. Nortjé. Die Verszählung folgt dem hebräischen Text.",
+           "en": "Scripture: own translation from the Hebrew (Masoretic Text) by Dr. Johannes A. Nortjé. Verse numbers follow the Hebrew text.",
+           "af": "Skrifteks: eie vertaling uit die Hebreeus (Masoretiese Teks) deur Dr. Johannes A. Nortjé. Die versnommering volg die Hebreeuse teks."},
+    "grc": {"de": "Bibeltext: eigene Übersetzung aus dem Griechischen von Dr. Johannes A. Nortjé. Grundtext: SBL Greek New Testament, © 2010 Society of Biblical Literature und Logos Bible Software (CC BY 4.0).",
+            "en": "Scripture: own translation from the Greek by Dr. Johannes A. Nortjé. Base text: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (CC BY 4.0).",
+            "af": "Skrifteks: eie vertaling uit die Grieks deur Dr. Johannes A. Nortjé. Grondteks: SBL Greek New Testament, © 2010 Society of Biblical Literature en Logos Bible Software (CC BY 4.0)."},
 }
 
 

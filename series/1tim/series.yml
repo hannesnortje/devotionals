@@ -16,7 +16,7 @@ strings:
     whole_book_intro: Der vollständige Text des ersten Briefes an Timotheus in der Übersetzung, die in diesen Andachten verwendet wird.
     kit_intro: Sechs Treffen für Hauskreise und Kleingruppen – ein Treffen pro Kapitel, je 75 bis 90 Minuten. Jedes Treffen baut auf den Andachten der Woche auf.
     k_hebrew: Ein Blick ins Griechische
-    translation_note: 'Bibeltext: eigene Übersetzung aus dem Griechischen von Dr. Johannes (Hannes) A. Nortjé. Grundtext: SBL Greek New Testament, © 2010 Society of Biblical Literature und Logos Bible Software (CC BY 4.0).'
+    translation_note: 'Bibeltext: eigene Übersetzung aus dem Griechischen von Dr. Johannes A. Nortjé. Grundtext: SBL Greek New Testament, © 2010 Society of Biblical Literature und Logos Bible Software (CC BY 4.0).'
   en:
     series_title: Faithful in God's Household
     series_subtitle: 16 devotionals on First Timothy
@@ -25,7 +25,7 @@ strings:
     whole_book_intro: The complete text of Paul's first letter to Timothy in the translation used in these devotionals.
     kit_intro: Six sessions for home groups and small groups – one per chapter, 75 to 90 minutes each. Each session builds on that week's devotionals.
     k_hebrew: A look at the Greek
-    translation_note: 'Scripture: own translation from the Greek by Dr. Johannes (Hannes) A. Nortjé. Base text: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (CC BY 4.0).'
+    translation_note: 'Scripture: own translation from the Greek by Dr. Johannes A. Nortjé. Base text: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (CC BY 4.0).'
   af:
     series_title: Getrou in God se Huis
     series_subtitle: 16 oordenkings oor die eerste brief aan Timoteus
@@ -34,7 +34,7 @@ strings:
     whole_book_intro: Die volledige teks van Paulus se eerste brief aan Timoteus in die vertaling wat in hierdie oordenkings gebruik word.
     kit_intro: Ses byeenkomste vir huisgroepe en kleingroepe – een per hoofstuk, elk 75 tot 90 minute. Elke byeenkoms bou voort op daardie week se oordenkings.
     k_hebrew: '''n Blik op die Grieks'
-    translation_note: 'Skrifteks: eie vertaling uit die Grieks deur Dr. Johannes (Hannes) A. Nortjé. Grondteks: SBL Greek New Testament, © 2010 Society of Biblical Literature en Logos Bible Software (CC BY 4.0).'
+    translation_note: 'Skrifteks: eie vertaling uit die Grieks deur Dr. Johannes A. Nortjé. Grondteks: SBL Greek New Testament, © 2010 Society of Biblical Literature en Logos Bible Software (CC BY 4.0).'
 avoid_words:
   af:
   - godsaligheid
