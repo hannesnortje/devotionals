@@ -10,3 +10,4 @@ Record every decision Hannes makes for this series (date, what, why). Later sess
 | 2026-11-02 | Key words and decisions of 1 Timothy carry over (series/1tim/DECISIONS.md and translation-notes §1), incl. AF *eusebeia* = "godsvrug" → Day 6 title AF "Swaar Tye en 'n Skyn van Godsvrug" (3:5). |
 | 2026-11-02 | 3:16 predicative: "Alle Schrift ist von Gott eingegeben und nützlich / All Scripture is God-breathed and useful / Die hele Skrif is deur God ingegee en nuttig" (exact wording in the Bible translation); the attributive reading gets a note in Day 7. |
 | 2026-11-02 | Small-group kit: 4 sessions, one per chapter. |
+| 2026-11-02 | Bible translation approved (review a). 1:12 *parathēkē mou* left open ("mein anvertrautes Gut / my entrusted deposit / my toevertroude goed"); 4:14 future "wird vergelten / will repay / sal vergeld" (SBLGNT); AF *skeuos* = "voorwerp (tot eer)" – Day 5 title kept; all other §2 choices as proposed. |

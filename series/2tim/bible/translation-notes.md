@@ -58,7 +58,7 @@ Verse count checked against the base text: chapter 1 = 18, 2 = 26, 3 = 17, 4 = 2
 | ἐκείνη ἡ ἡμέρα | 1:12, 18; 4:8 | jener Tag | that day | daardie dag |
 | ὀρθοτομέω *orthotomeō* | 2:15 | geradlinig umgehen mit | handle accurately | reguit werk met (see §2.6) |
 | δόκιμος / ἀδόκιμος | 2:15 / 3:8 | bewährt / unbewährt | approved / failed the test | goedgekeur / die toets nie deurstaan nie |
-| σκεῦος *skeuos* | 2:20, 21 | Gefäß | vessel | houer |
+| σκεῦος *skeuos* (εἰς τιμήν) | 2:20, 21 | Gefäß (zu Ehren) | vessel (for honour) | voorwerp (tot eer) – Hannes 2 Nov |
 | εὔχρηστος *euchrēstos* | 2:21; 4:11 | brauchbar | useful | bruikbaar |
 | δοῦλος κυρίου | 2:24 | Knecht des Herrn | servant of the Lord | kneg van die Here |
 | θεόπνευστος *theopneustos* | 3:16 | von Gott eingegeben | God-breathed | deur God ingegee |
@@ -91,7 +91,7 @@ Verse count checked against the base text: chapter 1 = 18, 2 = 26, 3 = 17, 4 = 2
    - (b) "cut a straight path" for the word – a road image
    - (c) "rightly divide" (KJV) – avoided, it is in `avoid_words`, and AF 1983 "reg hanteer" was avoided too.
 7. **2:19 the two "seal" quotations.** The first is Num 16:5 LXX almost word for word ("The Lord knows those who are his" – Korah's rebellion). The second is no exact quotation: it combines Num 16:26 ("turn away from the tents of these wicked men"), Isa 26:13 LXX ("we name your name") and Sir 17:26 / Isa 52:11 ("turn away from wrongdoing"). Both are in quotation marks; a note in Day 5 could say the second is an allusion, not a verse.
-8. **2:20–21 vessels.** 2:21 *apo toutōn* "von diesen / from these / van hulle" can mean the dishonourable vessels (= the false teachers) or the things in 2:16–18. I kept it open. *Skeuos* "Gefäß / vessel / houer": AF "houer" chosen over "voorwerp" (1953/83); "vessel" carries the image best in EN.
+8. **2:20–21 vessels.** 2:21 *apo toutōn* "von diesen / from these / van hulle" can mean the dishonourable vessels (= the false teachers) or the things in 2:16–18. I kept it open. *Skeuos* "Gefäß / vessel / voorwerp": AF "voorwerp (tot eer)" – Hannes's decision (2 Nov), matching his Day 5 title; "houer" was proposed.
 9. **2:26 *eis to ekeinou thelēma*.** Literally "captured by him for *that one's* will". Readings:
    - captured by the devil to do the devil's will (most translations)
    - they escape from the devil, (now) captured by God (or the Lord's servant) for God's will

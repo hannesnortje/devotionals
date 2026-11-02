@@ -63,8 +63,8 @@ divine_name: "Here = Kurios; God = Theos"
 **18** wat ten opsigte van die waarheid die doel gemis het deur te sê dat die opstanding reeds plaasgevind het, en hulle bring die geloof van sommige tot 'n val.
 **19** Tog staan die vaste fondament van God, en dit dra hierdie seël: "Die Here ken dié wat aan Hom behoort", en: "Elkeen wat die Naam van die Here noem, moet hom van ongeregtigheid afkeer."
 
-**20** In 'n groot huis is daar nie net houers van goud en silwer nie, maar ook van hout en klei – sommige vir eervolle gebruik, ander vir oneervolle.
-**21** As iemand homself dan van hulle reinig, sal hy 'n houer vir eervolle gebruik wees: geheilig, bruikbaar vir die eienaar, gereed vir elke goeie werk.
+**20** In 'n groot huis is daar nie net voorwerpe van goud en silwer nie, maar ook van hout en klei – sommige tot eer, ander tot oneer.
+**21** As iemand homself dan van hulle reinig, sal hy 'n voorwerp tot eer wees: geheilig, bruikbaar vir die eienaar, gereed vir elke goeie werk.
 **22** Vlug weg van die begeertes van die jeug; strewe eerder na geregtigheid, geloof, liefde en vrede, saam met almal wat die Here uit 'n rein hart aanroep.
 **23** Laat jou nie in met dwase en onopgevoede twisvrae nie; jy weet dat dit net rusie veroorsaak.
 **24** En 'n kneg van die Here moet nie rusie maak nie, maar vriendelik wees teenoor almal, bekwaam om te leer, geduldig wanneer hom onreg aangedoen word,
