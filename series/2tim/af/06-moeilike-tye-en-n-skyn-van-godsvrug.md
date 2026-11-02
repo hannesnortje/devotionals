@@ -1,7 +1,7 @@
 ---
 day: 6
 lang: af
-title: "Swaar Tye en 'n Skyn van Godsvrug"
+title: "Moeilike Tye en 'n Skyn van Godsvrug"
 ref: "3:1-3:9"
 ---
 
