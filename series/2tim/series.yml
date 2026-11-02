@@ -1,0 +1,50 @@
+# Series settings – see PLAYBOOK.md
+slug: 2tim
+order: 3
+draft: true
+original_language: grc
+site_url: https://hannesnortje.github.io/devotionals/2tim/
+book:
+  de: 2. Timotheus
+  en: 2 Timothy
+  af: 2 Timoteus
+avoid_words:
+  af:
+  - godsaligheid
+  - ongeveinsde
+  - lankmoedigheid
+  - bewaar die pand
+  de:
+  - Gottseligkeit
+  - gewisslich wahr
+  en:
+  - faithful saying
+  - rightly dividing
+strings:
+  de:
+    series_title: Bis zum Ende treu
+    series_subtitle: 9 Andachten zum zweiten Timotheusbrief
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: Der ganze zweite Timotheusbrief
+    whole_book_intro: Der vollständige Text des zweiten Briefes an Timotheus in der Übersetzung, die in diesen Andachten verwendet wird.
+    kit_intro: Vier Treffen für Hauskreise und Kleingruppen – ein Treffen pro Kapitel, je 75 bis 90 Minuten. Jedes Treffen baut auf den Andachten auf.
+    k_hebrew: Ein Blick ins Griechische
+    translation_note: 'Bibeltext: eigene Übersetzung aus dem Griechischen von Dr. Johannes A. Nortjé. Grundtext: SBL Greek New Testament, © 2010 Society of Biblical Literature und Logos Bible Software (CC BY 4.0).'
+  en:
+    series_title: Faithful to the End
+    series_subtitle: 9 devotionals on Second Timothy
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: The whole of Second Timothy
+    whole_book_intro: The complete text of Paul's second letter to Timothy in the translation used in these devotionals.
+    kit_intro: Four sessions for home groups and small groups – one per chapter, 75 to 90 minutes each. Each session builds on the devotionals.
+    k_hebrew: A look at the Greek
+    translation_note: 'Scripture: own translation from the Greek by Dr. Johannes A. Nortjé. Base text: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (CC BY 4.0).'
+  af:
+    series_title: Getrou tot die Einde
+    series_subtitle: 9 oordenkings oor die tweede brief aan Timoteus
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: Die hele tweede brief aan Timoteus
+    whole_book_intro: Die volledige teks van Paulus se tweede brief aan Timoteus in die vertaling wat in hierdie oordenkings gebruik word.
+    kit_intro: Vier byeenkomste vir huisgroepe en kleingroepe – een per hoofstuk, elk 75 tot 90 minute. Elke byeenkoms bou voort op die oordenkings.
+    k_hebrew: '''n Blik op die Grieks'
+    translation_note: 'Skrifteks: eie vertaling uit die Grieks deur Dr. Johannes A. Nortjé. Grondteks: SBL Greek New Testament, © 2010 Society of Biblical Literature en Logos Bible Software (CC BY 4.0).'
