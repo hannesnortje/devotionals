@@ -11,7 +11,7 @@ ref: "2:8-2:13"
 
 Nadat Paulus in die eerste sewe verse van hoofstuk 2 vir Timoteus opgeroep het om met die enkelvoudige fokus van 'n soldaat, die selfdissipline van 'n atleet en die taai uithouvermoë van 'n landbouer te volhard, wys hy hom nou op die hoogste Voorbeeld en die diepste motivering vir volharding: **Jesus Christus self**.
 
-Stel jou die toneel voor. Paulus sit in 'n donker sel in Rome – volgens oorlewering 'n ondergrondse kerker. Sy polse is gekneus deur swaar ysterkettings. Volgens die Romeinse regstelsel is hy geklassifiseer as 'n staatsgevaarlike misdadiger wat op sy vonnis wag. Vir die buitewêreld – en selfs vir bang Christene in Éfese – het dit gelyk asof Paulus se bediening op 'n tragiese mislukking uitgeloop het. Maar vanuit daardie klam kerker klink geen klaaglied op nie; daar klink 'n oorwinningskreet op wat deur die eeue heen weergalm het.
+Stel jou die toneel voor. Paulus sit in 'n donker sel in Rome – volgens oorlewering 'n ondergrondse kerker. Sy polse is gekneus deur swaar ysterkettings. Volgens die Romeinse regstelsel is hy geklassifiseer as 'n staatsgevaarlike misdadiger wat op sy vonnis wag. Vir die buitewêreld – en selfs vir bang Christene in Efese – het dit gelyk asof Paulus se bediening op 'n tragiese mislukking uitgeloop het. Maar vanuit daardie klam kerker klink geen klaaglied op nie; daar klink 'n oorwinningskreet op wat deur die eeue heen weergalm het.
 
 ### Insigte uit die Grieks
 
@@ -45,13 +45,13 @@ Laastens, laat die lied van verse 11 tot 13 jou vandag sowel wakker skud as vert
 ### Vrae vir Persoonlike Selfondersoek
 
 - Wanneer ek deur 'n moeilike seisoen of teenstand gaan, wat oorheers my gedagtes: die grootte van my omstandighede, of die lewende werklikheid van die opgestane Jesus Christus?
-- Is daar 'n situasie waarin ek tans voel dat my hande afgekap of "geboei" is, en hoe kan ek daarop vertrou dat God se ongeboeide Woord selfs deur my beperkings heen sy doel sal bereik?
+- Is daar 'n situasie waarin ek tans voel dat my hande vasgebind of "geboei" is, en hoe kan ek daarop vertrou dat God se ongeboeide Woord selfs deur my beperkings heen sy doel sal bereik?
 - Rus my diepste geloofsekerheid vandag op my eie vermoë om altyd sterk te staan, of rus ek in die onveranderlike getrouheid van 'n Verlosser wat Homself nooit kan verloën nie?
 
 ## Gebed
 
 *Opgestane en lewende Here Jesus Christus, Seun van Dawid en Koning van die ewigheid, vergewe my dat ek so gou vergeet wie U is wanneer die storms van die lewe om my losbars. Ek bely dat my oë so maklik vasstaar teen my eie kettings, my beperkings en my vrese, asof ek 'n dooie Verlosser dien. Help my vandag om U gedurig voor oë te hou – U wat die graf oopgebreek het en vir ewig lewe!*
 
-*Ek loof U dat u Woord deur geen menslike mag, geen vyandige kultuur en geen moeilike omstandigheid geboei kan word nie. Gebruik my lewe – selfs my beproewinge en die plekke waar ek seerkry – sodat ander mense daardeur die redding en die ewige heerlikheid wat in U is, kan leer ken. Gee my die genade om in alles met geduld te volhard ter wille van dié wat U nog na U toe wil trek.*
+*Ek loof U dat U Woord deur geen menslike mag, geen vyandige kultuur en geen moeilike omstandigheid geboei kan word nie. Gebruik my lewe – selfs my beproewinge en die plekke waar ek seerkry – sodat ander mense daardeur die redding en die ewige heerlikheid wat in U is, kan leer ken. Gee my die genade om in alles met geduld te volhard ter wille van dié wat U nog na U toe wil trek.*
 
-*Here, ek dank U uit die diepte van my siel vir die belofte dat ek, omdat ek saam met U gesterf het, ook vir ewig saam met U sal lewe en regeer. En wanneer my eie krag min raak en my geloof wankel, dank ek U dat u getrouheid nooit verander nie. Hou my vas in u genade, want U kan Uself nie verloën nie. In u onoorwinlike en getroue Naam. Amen.*
+*Here, ek dank U uit die diepte van my siel vir die belofte dat ek, omdat ek saam met U gesterf het, ook vir ewig saam met U sal lewe en regeer. En wanneer my eie krag min raak en my geloof wankel, dank ek U dat U getrouheid nooit verander nie. Hou my vas in U genade, want U kan Uself nie verloën nie. In U onoorwinlike en getroue Naam. Amen.*

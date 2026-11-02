@@ -1,7 +1,7 @@
 ---
 day: 5
 lang: de
-title: "Ein bewährter Arbeiter und ein Gefäß zur Ehre"
+title: "Ein bewährter Arbeiter und ein ehrenvolles Gefäß"
 ref: "2:14-2:26"
 ---
 
@@ -23,7 +23,7 @@ Der griechische Grundtext erschließt den Reichtum dieses Abschnitts:
 - **„Das feste Fundament Gottes“ (*stereos themelios* – στερεὸς θεμέλιος; *sphragida* – σφραγῖδα, V. 19):** Wenn Menschen wie Hymenäus und Philetus abfallen, kann es so aussehen, als zerbröckle die Kirche. Paulus gibt jedoch eine felsenfeste Zusicherung: „Doch das feste Fundament Gottes steht“! In der Antike brachte man mitunter eine Inschrift oder ein Siegel (*sphragis*) am Grund- oder Eckstein eines Gebäudes an, um Besitz und Zweck anzuzeigen. Gottes Fundament trägt eine doppelte Inschrift, die auf den Aufstand Korachs in 4. Mose 16 zurückweist – die erste ist ein Zitat aus 4. Mose 16,5, die zweite eine Anspielung auf 4. Mose 16,26 (vgl. Jesaja 52,11):
   1. *Die unsichtbare, göttliche Seite (ewige Geborgenheit):* „Der Herr kennt die, die zu ihm gehören.“ Kein Irrlehrer kann ein echtes Kind Gottes aus seiner Hand reißen.
   2. *Die sichtbare, menschliche Seite (praktische Heiligung):* „Jeder, der den Namen des Herrn nennt, wende sich ab von der Ungerechtigkeit.“ Echte Erwählung zeigt sich immer in einem Leben, das sich von der Sünde abwendet.
-- **„Ein Gefäß für Ehrenvolles“ (*skeuos eis timēn* – σκεῦος εἰς τιμήν, V. 20–21):** Paulus vergleicht die sichtbare Kirche mit einem „großen Haus“, in dem es goldene und silberne Schalen für den ehrenvollen Gebrauch am Esstisch gibt, aber auch Töpfe aus Holz und Ton für unehrenhafte Zwecke (um Abfall und Unrat hinauszutragen). Doch dann macht Paulus eine überraschende Wendung: Anders als ein toter Tontopf, der nie zu Gold werden kann, wird *jeder*, der sich „von diesen reinigt“ (*ekkathairō* – ἐκκαθάρῃ, gründlich säubern) – von den falschen Lehrern und ihrer Gottlosigkeit –, „ein Gefäß für Ehrenvolles sein: geheiligt, brauchbar für seinen Besitzer“ (*euchrēston* – εὔχρηστον, überaus brauchbar und dienlich in der Hand des Hausherrn).
+- **„Ein Gefäß für Ehrenvolles“ (*skeuos eis timēn* – σκεῦος εἰς τιμήν, V. 20–21):** Paulus vergleicht die sichtbare Kirche mit einem „großen Haus“, in dem es goldene und silberne Schalen für den ehrenvollen Gebrauch am Esstisch gibt, aber auch Töpfe aus Holz und Ton für unehrenhafte Zwecke (um Abfall und Unrat hinauszutragen). Doch dann macht Paulus eine überraschende Wendung: Anders als ein toter Tontopf, der nie zu Gold werden kann, wird *jeder*, der sich „von diesen reinigt“ (*ekkathairō* – ἐκκαθαίρω, gründlich säubern) – von den falschen Lehrern und ihrer Gottlosigkeit –, „ein Gefäß für Ehrenvolles sein: geheiligt, brauchbar für seinen Besitzer“ (*euchrēston* – εὔχρηστον, überaus brauchbar und dienlich in der Hand des Hausherrn).
 - **Gütig, duldsam, sanftmütig (*ēpion* – ἤπιον; *anexikakon* – ἀνεξίκακον; *en praütēti* – ἐν πραΰτητι, V. 24–26):** Wie soll Timotheus denen begegnen, die durch Irrlehre verführt sind und gegen ihn streiten? Ein Knecht (*doulos*) des Herrn soll nicht streiten (*machesthai* – μάχεσθαι), sondern *ēpios* sein (zart und freundlich, wie fürsorgliche Eltern), fähig zu lehren, und *anexikakos* – „geduldig, wenn ihm Unrecht geschieht“, einer, der Böses ertragen kann, ohne sich zu rächen oder bitter zu werden. Er soll Widersacher „mit Sanftmut“ (*praütēs* – Kraft unter Kontrolle) zurechtweisen. Warum? Weil allein Gott Umkehr (*metanoia*) im Herzen eines Menschen schenken kann, sodass die Verführten „wieder nüchtern“ werden (*ananēphō* – aus einem Rausch oder einer Betäubung aufwachen) und der Falle entkommen, in der der Teufel sie lebendig gefangen hält (*ezōgrēmenoi* – ἐζωγρημένοι).
 
 ### Zentrale theologische Wahrheiten
@@ -46,7 +46,7 @@ Schließlich verändern die Verse 24 bis 26 unseren Blick auf Familienangehörig
 ### Fragen zur persönlichen Besinnung
 
 - Gehe ich an die Bibel mit dem Eifer und der Redlichkeit eines Handwerkers heran, der mit dem Wort der Wahrheit geradlinig umgehen will – oder verbrauche ich meine Kraft für nutzlose Streitfragen, die eher Spaltung als Erbauung bringen?
-- Von welchen konkreten Dingen, Gewohnheiten oder Haltungen („Begierden der Jugend“) muss ich mich heute gründlich reinigen, damit ich ein sauberes, brauchbares Gefäß zur Ehre in der Hand meines Herrn sein kann?
+- Von welchen konkreten Dingen, Gewohnheiten oder Haltungen („Begierden der Jugend“) muss ich mich heute gründlich reinigen, damit ich ein sauberes, brauchbares Gefäß für Ehrenvolles in der Hand meines Herrn sein kann?
 - Wenn jemand sich mir widersetzt oder meinem Glauben feindselig begegnet – reagiere ich mit Streitlust und Selbstverteidigung oder mit der Sanftmut und Geduld eines Knechtes, der für die geistliche Befreiung dieses Menschen betet?
 
 ## Gebet

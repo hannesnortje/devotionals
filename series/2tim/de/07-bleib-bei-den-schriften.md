@@ -54,7 +54,7 @@ Lass die vierfache Chirurgie des *theopneustos*-Wortes heute ihr ganzes Werk in 
 
 - Wenn jemand mein tägliches Leben so aus der Nähe beobachten würde, wie Timotheus Paulus beobachtet hat – meine Ziele, meine Geduld unter Druck und meine Reaktion auf Mühsal –, würde ihn das näher zu Christus ziehen?
 - Erwarte ich, dass das christliche Leben immer bequem und ohne Widerstand sein muss – oder bin ich bereit, um eines Lebens in Gottesfurcht in Christus willen das Missverständnis und die Ablehnung der Welt zu tragen?
-- Lasse ich die „von Gott ausgehauchte“ Schrift mich nicht nur trösten, sondern mich auch *überführen* und *zurechtbiegen*, wo mein Leben von Gottes Willen abgewichen ist?
+- Lasse ich die Schrift, die von Gott eingegeben (wörtlich: von Gott ausgehaucht) ist, mich nicht nur trösten, sondern mich auch *überführen* und *zurechtbiegen*, wo mein Leben von Gottes Willen abgewichen ist?
 
 ## Gebet
 

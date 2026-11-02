@@ -58,7 +58,7 @@ Verse count checked against the base text: chapter 1 = 18, 2 = 26, 3 = 17, 4 = 2
 | ἐκείνη ἡ ἡμέρα | 1:12, 18; 4:8 | jener Tag | that day | daardie dag |
 | ὀρθοτομέω *orthotomeō* | 2:15 | geradlinig umgehen mit | handle accurately | reguit werk met (see §2.6) |
 | δόκιμος / ἀδόκιμος | 2:15 / 3:8 | bewährt / unbewährt | approved / failed the test | goedgekeur / die toets nie deurstaan nie |
-| σκεῦος *skeuos* (εἰς τιμήν) | 2:20, 21 | Gefäß (zu Ehren) | vessel (for honour) | voorwerp (tot eer) – Hannes 2 Nov |
+| σκεῦος *skeuos* (εἰς τιμήν) | 2:20, 21 | Gefäß (für Ehrenvolles) | vessel (for honour) | voorwerp (tot eer) – Hannes 2 Nov |
 | εὔχρηστος *euchrēstos* | 2:21; 4:11 | brauchbar | useful | bruikbaar |
 | δοῦλος κυρίου | 2:24 | Knecht des Herrn | servant of the Lord | kneg van die Here |
 | θεόπνευστος *theopneustos* | 3:16 | von Gott eingegeben | God-breathed | deur God ingegee |

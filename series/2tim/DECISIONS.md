@@ -12,3 +12,4 @@ Record every decision Hannes makes for this series (date, what, why). Later sess
 | 2026-11-02 | Small-group kit: 4 sessions, one per chapter. |
 | 2026-11-02 | Bible translation approved (review a). 1:12 *parathēkē mou* left open ("mein anvertrautes Gut / my entrusted deposit / my toevertroude goed"); 4:14 future "wird vergelten / will repay / sal vergeld" (SBLGNT); AF *skeuos* = "voorwerp (tot eer)" – Day 5 title kept; all other §2 choices as proposed. |
 | 2026-11-02 | Content changes approved (review b, list in review/2tim-changes.md). Day 2 presents both readings of 1:12 (Hannes's first); Day 6 keeps the sentence on *gynaikaria*; Day 6 AF title "Moeilike Tye en 'n Skyn van Godsvrug" (matches 3:1). |
+| 2026-11-02 | Day 7 AF title stays "Volhard in die Heilige, Geïnspireerde Skrifte" (Hannes's wording, although 3:16 reads "deur God ingegee"). DE Day 5 title "Ein bewährter Arbeiter und ein ehrenvolles Gefäß" (no Luther wording). |

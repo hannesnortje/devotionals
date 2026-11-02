@@ -8,6 +8,7 @@ Devotional series by Dr. Johannes (Hannes) A. Nortjé in German, English and Afr
 |---|---|---|---|
 | Jona – *Unterwegs mit Jona / Journey through Jonah / Reis deur Jona* (10 days, own translation from the Hebrew) | [`/jona/`](https://hannesnortje.github.io/devotionals/jona/) | `docs/jona/pdf/jona-{de,en,af}.pdf` | `docs/jona/pdf/jona-kit-{lang}.pdf`, `jona-slides-{lang}.pdf` |
 | 1 Timothy – *Treu im Haus Gottes / Faithful in God's Household / Getrou in God se Huis* (16 days, own translation from the Greek, SBLGNT) | [`/1tim/`](https://hannesnortje.github.io/devotionals/1tim/) | `docs/1tim/pdf/1tim-{de,en,af}.pdf` | `docs/1tim/pdf/1tim-kit-{lang}.pdf`, `1tim-slides-{lang}.pdf` |
+| 2 Timothy – *Bis zum Ende treu / Faithful to the End / Getrou tot die Einde* (9 days, own translation from the Greek, SBLGNT) | [`/2tim/`](https://hannesnortje.github.io/devotionals/2tim/) | `docs/2tim/pdf/2tim-{de,en,af}.pdf` | `docs/2tim/pdf/2tim-kit-{lang}.pdf`, `2tim-slides-{lang}.pdf` |
 
 ## Layout
 

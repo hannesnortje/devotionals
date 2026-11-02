@@ -37,9 +37,9 @@ The Greek text opens a treasure chest of images from the courtroom, the altar, t
 
 This passage challenges us to the very marrow of our spiritual lives: **How do we listen to the Word – and how will we finish our race?**
 
-First, look at the diagnosis of "itching ears" in verses 3 and 4. In the first century, people had to travel far to find a false teacher who would soothe their conscience. Today, with the internet and social media, anyone can "pile up" thousands of voices on a screen within seconds, all saying exactly what they want to hear. If you want to keep living in a particular sin, or if you are only looking for a message that strokes your ego and promises you earthly prosperity without ever speaking of repentance, self-denial and the cross, you will find plenty of preachers to scratch your ears.
+First, look at the diagnosis in verses 3 and 4: people gather teachers "because their ears itch". In the first century, people had to travel far to find a false teacher who would soothe their conscience. Today, with the internet and social media, anyone can "pile up" thousands of voices on a screen within seconds, all saying exactly what they want to hear. If you want to keep living in a particular sin, or if you are only looking for a message that strokes your ego and promises you earthly prosperity without ever speaking of repentance, self-denial and the cross, you will find plenty of preachers to scratch your ears.
 
-But a doctor who only tells you how well you look while a deadly tumour grows in your body does not love you! We should thank God every time the preaching of his Word "reproves, rebukes" us – when the Holy Spirit makes us uncomfortable about our sin – because that is the operating theatre where God saves our souls and makes them whole.
+But a doctor who only tells you how well you look while a deadly tumour grows in your body does not love you! We should thank God every time the preaching of his Word reproves and rebukes us – when the Holy Spirit makes us uncomfortable about our sin – because that is the operating theatre where God saves our souls and makes them whole.
 
 Second, look at Paul's testimony at the end of his road (vv. 6–8). Each of our own *analysis* – the day our mooring ropes on this earth are loosed – is drawing nearer. We do not know whether we have thirty years or thirty hours left. The most important question on your deathbed will not be how much money you made, how popular you were or how comfortable your life was. The only question that will matter then is whether you can say with Paul: **I stayed in the arena, I ran my lane all the way to the white line, and I held on to the treasure of the faith!**
 
@@ -55,7 +55,7 @@ And how do you manage to finish like that? Verse 8 gives the secret: by belongin
 
 *Lord Jesus Christ, living King and righteous Judge, before whose eyes my whole life lies open and bare:*
 
-*I bow before you today in holy reverence. When I think of the day of your glorious appearing and your kingdom, the noise and the emptiness of this world fade away. Keep my heart from ever growing tired of the pure, sound teaching of your Word. Heal me of "itching ears" that only want to be soothed; give me a hunger for the whole truth – even when your Word reproves me, breaks my pride and calls me to repentance.*
+*I bow before you today in holy reverence. When I think of the day of your glorious appearing and your kingdom, the noise and the emptiness of this world fade away. Keep my heart from ever growing tired of the pure, sound teaching of your Word. Heal me of ears that itch and only want to be soothed; give me a hunger for the whole truth – even when your Word reproves me, breaks my pride and calls me to repentance.*
 
 *Lord, make me spiritually sober and awake in a world intoxicated by myths and lies. Give me the courage to bear witness to your grace whether the time is right or not, and to carry out fully, to the last drop, the calling you have placed on my life.*
 
