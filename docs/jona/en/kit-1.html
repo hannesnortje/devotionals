@@ -15,6 +15,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <link rel="stylesheet" href="../../assets/style.css">
+<script>try{var f=(JSON.parse(localStorage.getItem("dev-state")||"{}")||{}).fontSize;if(f>=0&&f<=4&&f!==1)document.documentElement.setAttribute("data-fs",f)}catch(e){}</script>
 <script>window.DEV = {"root": "../../", "lang": "en", "series": "jona", "day": null, "total": 10, "page": "kit", "langs": ["de", "en", "af"], "dayword": {"de": "tag", "en": "day", "af": "dag"}, "catalog": [{"slug": "jona", "total": 10}, {"slug": "1tim", "total": 16}, {"slug": "2tim", "total": 9}]};</script>
 </head>
 <body data-lang="en" data-series="jona" data-page="kit">
@@ -29,11 +30,22 @@
       <span>Journey through Jonah</span>
     </a>
     
+    <button class="icon-btn size-btn" type="button" data-size-open aria-controls="size-panel" aria-expanded="false" aria-label="Text size" title="Text size"><span>A<small>a</small></span></button>
     <nav class="langs" aria-label="Language">
       <a href="../de/kit-1.html" lang="de" data-set-lang="de">DE</a><a href="../en/kit-1.html" lang="en" data-set-lang="en" aria-current="true">EN</a><a href="../af/kit-1.html" lang="af" data-set-lang="af">AF</a>
     </nav>
   </div>
 </header>
+<div class="size-panel" id="size-panel" role="dialog" aria-label="Text size" hidden>
+  <h2>Text size</h2>
+  <div class="size-row" data-size-row data-names='["Small", "Standard", "Large", "Very large", "Extra large"]'>
+  <button type="button" data-size-step="-1" aria-label="Smaller" title="Smaller">A−</button>
+  <div><div class="size-name" data-size-name aria-live="polite">Standard</div><div class="size-dots" aria-hidden="true"><i></i><i class="on"></i><i></i><i></i><i></i></div></div>
+  <button type="button" data-size-step="1" aria-label="Larger" title="Larger">A+</button>
+</div>
+  <p class="size-sample">This is how the text looks at this size.</p>
+  <button class="size-reset" type="button" data-size-reset>Standard</button>
+</div>
 
 <div class="drawer-overlay" data-drawer-close hidden></div>
 <nav id="drawer" class="drawer" aria-label="Menu" aria-hidden="true" inert>
@@ -91,6 +103,15 @@
       <li><a href="../../1tim/en/index.html">Faithful in God's Household <small data-series-progress="1tim" data-total="16"></small></a></li><li><a href="../../2tim/en/index.html">Faithful to the End <small data-series-progress="2tim" data-total="9"></small></a></li>
     </ul>
     
+  </section>
+
+  <section class="drawer-sec">
+    <h2>Text size</h2>
+    <div class="size-row" data-size-row data-names='["Small", "Standard", "Large", "Very large", "Extra large"]'>
+  <button type="button" data-size-step="-1" aria-label="Smaller" title="Smaller">A−</button>
+  <div><div class="size-name" data-size-name aria-live="polite">Standard</div><div class="size-dots" aria-hidden="true"><i></i><i class="on"></i><i></i><i></i><i></i></div></div>
+  <button type="button" data-size-step="1" aria-label="Larger" title="Larger">A+</button>
+</div>
   </section>
 
   <section class="drawer-sec">

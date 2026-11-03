@@ -162,6 +162,44 @@
   var tip = document.querySelector('[data-install-tip]');
   if (tip && ((window.matchMedia && matchMedia('(display-mode: standalone)').matches) || navigator.standalone)) tip.hidden = true;
 
+  // ---------------------------------------------------------------- text size
+  // Five steps (0 small … 1 standard … 4 extra large); only the reading area scales.
+  // Stored in "dev-state".fontSize; an inline script in <head> applies it before the first paint.
+  function fsGet() { var f = +state.fontSize; return f >= 0 && f <= 4 ? f : 1; }
+  function fsApply(f) {
+    if (f === 1) document.documentElement.removeAttribute('data-fs');
+    else document.documentElement.setAttribute('data-fs', f);
+    document.querySelectorAll('[data-size-row]').forEach(function (row) {
+      var names = []; try { names = JSON.parse(row.getAttribute('data-names')); } catch (e) {}
+      var nm = row.querySelector('[data-size-name]'); if (nm && names[f]) nm.textContent = names[f];
+      row.querySelectorAll('.size-dots i').forEach(function (d, i) { d.classList.toggle('on', i === f); });
+      var dn = row.querySelector('[data-size-step="-1"]'), up = row.querySelector('[data-size-step="1"]');
+      if (dn) dn.disabled = f <= 0; if (up) up.disabled = f >= 4;
+    });
+  }
+  function fsSet(f) {
+    f = Math.max(0, Math.min(4, f));
+    if (f === 1) delete state.fontSize; else state.fontSize = f;
+    save(state); fsApply(f);
+  }
+  fsApply(fsGet());
+  document.querySelectorAll('[data-size-step]').forEach(function (b) {
+    b.addEventListener('click', function () { fsSet(fsGet() + (+b.getAttribute('data-size-step'))); });
+  });
+  document.querySelectorAll('[data-size-reset]').forEach(function (b) { b.addEventListener('click', function () { fsSet(1); }); });
+  var sizeBtn = document.querySelector('[data-size-open]'), sizePanel = document.getElementById('size-panel');
+  function sizeClose() { if (!sizePanel || sizePanel.hidden) return; sizePanel.hidden = true; sizeBtn.setAttribute('aria-expanded', 'false'); }
+  if (sizeBtn && sizePanel) {
+    sizeBtn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      var open = sizePanel.hidden; sizePanel.hidden = !open; sizeBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      if (open) { var first = sizePanel.querySelector('button:not([disabled])'); if (first) first.focus({ preventScroll: true }); }
+    });
+    sizePanel.addEventListener('click', function (e) { e.stopPropagation(); });
+    document.addEventListener('click', sizeClose);
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !sizePanel.hidden) { sizeClose(); sizeBtn.focus(); } });
+  }
+
   // ---------------------------------------------------------------- menu
   var drawer = document.getElementById('drawer');
   var menuBtn = document.querySelector('.menu-btn');

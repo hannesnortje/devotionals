@@ -15,6 +15,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <link rel="stylesheet" href="../assets/style.css">
+<script>try{var f=(JSON.parse(localStorage.getItem("dev-state")||"{}")||{}).fontSize;if(f>=0&&f<=4&&f!==1)document.documentElement.setAttribute("data-fs",f)}catch(e){}</script>
 <script>window.DEV = {"root": "../", "lang": "en", "series": null, "day": null, "total": null, "page": "legal", "langs": ["de", "en", "af"], "dayword": {"de": "tag", "en": "day", "af": "dag"}, "catalog": [{"slug": "jona", "total": 10}, {"slug": "1tim", "total": 16}, {"slug": "2tim", "total": 9}]};</script>
 </head>
 <body data-lang="en" data-series="" data-page="legal">
@@ -29,11 +30,22 @@
       <span>Devotionals</span>
     </a>
     
+    <button class="icon-btn size-btn" type="button" data-size-open aria-controls="size-panel" aria-expanded="false" aria-label="Text size" title="Text size"><span>A<small>a</small></span></button>
     <nav class="langs" aria-label="Language">
       <a href="de.html" lang="de" data-set-lang="de">DE</a><a href="en.html" lang="en" data-set-lang="en" aria-current="true">EN</a><a href="af.html" lang="af" data-set-lang="af">AF</a>
     </nav>
   </div>
 </header>
+<div class="size-panel" id="size-panel" role="dialog" aria-label="Text size" hidden>
+  <h2>Text size</h2>
+  <div class="size-row" data-size-row data-names='["Small", "Standard", "Large", "Very large", "Extra large"]'>
+  <button type="button" data-size-step="-1" aria-label="Smaller" title="Smaller">A−</button>
+  <div><div class="size-name" data-size-name aria-live="polite">Standard</div><div class="size-dots" aria-hidden="true"><i></i><i class="on"></i><i></i><i></i><i></i></div></div>
+  <button type="button" data-size-step="1" aria-label="Larger" title="Larger">A+</button>
+</div>
+  <p class="size-sample">This is how the text looks at this size.</p>
+  <button class="size-reset" type="button" data-size-reset>Standard</button>
+</div>
 
 <div class="drawer-overlay" data-drawer-close hidden></div>
 <nav id="drawer" class="drawer" aria-label="Menu" aria-hidden="true" inert>
@@ -58,6 +70,15 @@
       <li><a href="../jona/en/index.html">Journey through Jonah <small data-series-progress="jona" data-total="10"></small></a></li><li><a href="../1tim/en/index.html">Faithful in God's Household <small data-series-progress="1tim" data-total="16"></small></a></li><li><a href="../2tim/en/index.html">Faithful to the End <small data-series-progress="2tim" data-total="9"></small></a></li>
     </ul>
     
+  </section>
+
+  <section class="drawer-sec">
+    <h2>Text size</h2>
+    <div class="size-row" data-size-row data-names='["Small", "Standard", "Large", "Very large", "Extra large"]'>
+  <button type="button" data-size-step="-1" aria-label="Smaller" title="Smaller">A−</button>
+  <div><div class="size-name" data-size-name aria-live="polite">Standard</div><div class="size-dots" aria-hidden="true"><i></i><i class="on"></i><i></i><i></i><i></i></div></div>
+  <button type="button" data-size-step="1" aria-label="Larger" title="Larger">A+</button>
+</div>
   </section>
 
   <section class="drawer-sec">
@@ -103,12 +124,12 @@
   <h3>No cookies, no tracking</h3>
   <p>This website uses no cookies, no analytics or tracking tools and no embedded third-party content. Fonts are loaded from this website itself, not from external servers.</p>
   <h3>Storage on your device</h3>
-  <p>So that the site knows which devotional comes next, it stores your language choice and reading progress in your browser's local storage (localStorage). This information stays on your device and is not transmitted to us or to anyone else. The site also keeps a copy of its pages in your browser so that it works offline. You can delete your progress at any time via "Reset progress" in the menu, or remove all data in your browser settings. The legal basis is § 25(2) no. 2 TDDDG, as this storage is strictly necessary for the function you request.</p>
+  <p>So that the site knows which devotional comes next, it stores your language choice, your reading progress and the text size you chose in your browser's local storage (localStorage). This information stays on your device and is not transmitted to us or to anyone else. The site also keeps a copy of its pages in your browser so that it works offline. You can delete your progress at any time via "Reset progress" in the menu, or remove all data in your browser settings. The legal basis is § 25(2) no. 2 TDDDG, as this storage is strictly necessary for the function you request.</p>
   <h3>Contact by email</h3>
   <p>If you contact us by email, your details are used only to deal with your enquiry (Art. 6(1)(f) GDPR) and are then deleted, unless statutory retention obligations apply.</p>
   <h3>Your rights</h3>
   <p>You have the right of access, rectification, erasure, restriction of processing, data portability and objection (Art. 15–21 GDPR). You can also lodge a complaint with a data protection supervisory authority, for example the State Commissioner for Data Protection and Freedom of Information of North Rhine-Westphalia.</p>
-  <p class="muted">Last updated: 02.11.2026</p>
+  <p class="muted">Last updated: 03.11.2026</p>
 
   
 </article>

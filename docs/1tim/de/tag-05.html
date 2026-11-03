@@ -15,6 +15,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <link rel="stylesheet" href="../../assets/style.css">
+<script>try{var f=(JSON.parse(localStorage.getItem("dev-state")||"{}")||{}).fontSize;if(f>=0&&f<=4&&f!==1)document.documentElement.setAttribute("data-fs",f)}catch(e){}</script>
 <script>window.DEV = {"root": "../../", "lang": "de", "series": "1tim", "day": 5, "total": 16, "page": "day", "langs": ["de", "en", "af"], "dayword": {"de": "tag", "en": "day", "af": "dag"}, "catalog": [{"slug": "jona", "total": 10}, {"slug": "1tim", "total": 16}, {"slug": "2tim", "total": 9}]};</script>
 </head>
 <body data-lang="de" data-series="1tim" data-page="day">
@@ -29,11 +30,22 @@
       <span>Treu im Haus Gottes</span>
     </a>
     <span class="where">Tag 5 von 16</span>
+    <button class="icon-btn size-btn" type="button" data-size-open aria-controls="size-panel" aria-expanded="false" aria-label="Schriftgröße" title="Schriftgröße"><span>A<small>a</small></span></button>
     <nav class="langs" aria-label="Sprache">
       <a href="../de/tag-05.html" lang="de" data-set-lang="de" aria-current="true">DE</a><a href="../en/day-05.html" lang="en" data-set-lang="en">EN</a><a href="../af/dag-05.html" lang="af" data-set-lang="af">AF</a>
     </nav>
   </div>
 </header>
+<div class="size-panel" id="size-panel" role="dialog" aria-label="Schriftgröße" hidden>
+  <h2>Schriftgröße</h2>
+  <div class="size-row" data-size-row data-names='["Klein", "Standard", "Gro\u00df", "Sehr gro\u00df", "Extra gro\u00df"]'>
+  <button type="button" data-size-step="-1" aria-label="Kleiner" title="Kleiner">A−</button>
+  <div><div class="size-name" data-size-name aria-live="polite">Standard</div><div class="size-dots" aria-hidden="true"><i></i><i class="on"></i><i></i><i></i><i></i></div></div>
+  <button type="button" data-size-step="1" aria-label="Größer" title="Größer">A+</button>
+</div>
+  <p class="size-sample">So sieht der Text in dieser Größe aus.</p>
+  <button class="size-reset" type="button" data-size-reset>Standard</button>
+</div>
 
 <div class="drawer-overlay" data-drawer-close hidden></div>
 <nav id="drawer" class="drawer" aria-label="Menü" aria-hidden="true" inert>
@@ -103,6 +115,15 @@
       <li><a href="../../jona/de/index.html">Unterwegs mit Jona <small data-series-progress="jona" data-total="10"></small></a></li><li><a href="../../2tim/de/index.html">Bis zum Ende treu <small data-series-progress="2tim" data-total="9"></small></a></li>
     </ul>
     
+  </section>
+
+  <section class="drawer-sec">
+    <h2>Schriftgröße</h2>
+    <div class="size-row" data-size-row data-names='["Klein", "Standard", "Gro\u00df", "Sehr gro\u00df", "Extra gro\u00df"]'>
+  <button type="button" data-size-step="-1" aria-label="Kleiner" title="Kleiner">A−</button>
+  <div><div class="size-name" data-size-name aria-live="polite">Standard</div><div class="size-dots" aria-hidden="true"><i></i><i class="on"></i><i></i><i></i><i></i></div></div>
+  <button type="button" data-size-step="1" aria-label="Größer" title="Größer">A+</button>
+</div>
   </section>
 
   <section class="drawer-sec">

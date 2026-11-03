@@ -165,6 +165,7 @@ REF_SEP = {"de": ",", "en": ":", "af": ":"}
 # ---- Navigation, landing page and reading flow
 NAV = {
     "de": {
+        "text_size": "Schriftgröße", "smaller": "Kleiner", "larger": "Größer", "size_reset": "Standard", "size_sample": "So sieht der Text in dieser Größe aus.", "size_names": ["Klein", "Standard", "Groß", "Sehr groß", "Extra groß"],
         "menu": "Menü", "close": "Schließen", "continue": "Weiterlesen", "home": "Startseite",
         "this_series": "Diese Reihe", "series_overview": "Übersicht der Reihe", "other_series": "Weitere Reihen",
         "more_soon": "Weitere Andachtsreihen folgen.", "legal": "Impressum & Datenschutz",
@@ -188,6 +189,7 @@ NAV = {
         "day_of": "Tag {n} von {total}", "update_ready": "Neue Version geladen – tippen zum Aktualisieren", "days_n": "{n} Tage", "series_word": "Reihe",
     },
     "en": {
+        "text_size": "Text size", "smaller": "Smaller", "larger": "Larger", "size_reset": "Standard", "size_sample": "This is how the text looks at this size.", "size_names": ["Small", "Standard", "Large", "Very large", "Extra large"],
         "menu": "Menu", "close": "Close", "continue": "Continue reading", "home": "Home",
         "this_series": "This series", "series_overview": "Series overview", "other_series": "Other series",
         "more_soon": "More devotional series are coming.", "legal": "Legal notice & privacy",
@@ -211,6 +213,7 @@ NAV = {
         "day_of": "Day {n} of {total}", "update_ready": "New version ready – tap to refresh", "days_n": "{n} days", "series_word": "Series",
     },
     "af": {
+        "text_size": "Lettergrootte", "smaller": "Kleiner", "larger": "Groter", "size_reset": "Standaard", "size_sample": "So lyk die teks in hierdie grootte.", "size_names": ["Klein", "Standaard", "Groot", "Baie groot", "Ekstra groot"],
         "menu": "Kieslys", "close": "Maak toe", "continue": "Lees verder", "home": "Tuisblad",
         "this_series": "Hierdie reeks", "series_overview": "Oorsig van die reeks", "other_series": "Ander reekse",
         "more_soon": "Nog oordenkingsreekse is op pad.", "legal": "Regskennisgewing & privaatheid",

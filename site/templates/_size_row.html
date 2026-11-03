@@ -1,0 +1,5 @@
+<div class="size-row" data-size-row data-names='{{ t.size_names|tojson }}'>
+  <button type="button" data-size-step="-1" aria-label="{{ t.smaller }}" title="{{ t.smaller }}">A−</button>
+  <div><div class="size-name" data-size-name aria-live="polite">{{ t.size_names[1] }}</div><div class="size-dots" aria-hidden="true">{% for i in range(5) %}<i{% if i == 1 %} class="on"{% endif %}></i>{% endfor %}</div></div>
+  <button type="button" data-size-step="1" aria-label="{{ t.larger }}" title="{{ t.larger }}">A+</button>
+</div>

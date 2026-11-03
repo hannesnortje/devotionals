@@ -15,6 +15,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <link rel="stylesheet" href="../../assets/style.css">
+<script>try{var f=(JSON.parse(localStorage.getItem("dev-state")||"{}")||{}).fontSize;if(f>=0&&f<=4&&f!==1)document.documentElement.setAttribute("data-fs",f)}catch(e){}</script>
 <script>window.DEV = {"root": "../../", "lang": "af", "series": "1tim", "day": 16, "total": 16, "page": "day", "langs": ["de", "en", "af"], "dayword": {"de": "tag", "en": "day", "af": "dag"}, "catalog": [{"slug": "jona", "total": 10}, {"slug": "1tim", "total": 16}, {"slug": "2tim", "total": 9}]};</script>
 </head>
 <body data-lang="af" data-series="1tim" data-page="day">
@@ -29,11 +30,22 @@
       <span>Getrou in God se Huis</span>
     </a>
     <span class="where">Dag 16 van 16</span>
+    <button class="icon-btn size-btn" type="button" data-size-open aria-controls="size-panel" aria-expanded="false" aria-label="Lettergrootte" title="Lettergrootte"><span>A<small>a</small></span></button>
     <nav class="langs" aria-label="Taal">
       <a href="../de/tag-16.html" lang="de" data-set-lang="de">DE</a><a href="../en/day-16.html" lang="en" data-set-lang="en">EN</a><a href="../af/dag-16.html" lang="af" data-set-lang="af" aria-current="true">AF</a>
     </nav>
   </div>
 </header>
+<div class="size-panel" id="size-panel" role="dialog" aria-label="Lettergrootte" hidden>
+  <h2>Lettergrootte</h2>
+  <div class="size-row" data-size-row data-names='["Klein", "Standaard", "Groot", "Baie groot", "Ekstra groot"]'>
+  <button type="button" data-size-step="-1" aria-label="Kleiner" title="Kleiner">A−</button>
+  <div><div class="size-name" data-size-name aria-live="polite">Standaard</div><div class="size-dots" aria-hidden="true"><i></i><i class="on"></i><i></i><i></i><i></i></div></div>
+  <button type="button" data-size-step="1" aria-label="Groter" title="Groter">A+</button>
+</div>
+  <p class="size-sample">So lyk die teks in hierdie grootte.</p>
+  <button class="size-reset" type="button" data-size-reset>Standaard</button>
+</div>
 
 <div class="drawer-overlay" data-drawer-close hidden></div>
 <nav id="drawer" class="drawer" aria-label="Kieslys" aria-hidden="true" inert>
@@ -103,6 +115,15 @@
       <li><a href="../../jona/af/index.html">Reis deur Jona <small data-series-progress="jona" data-total="10"></small></a></li><li><a href="../../2tim/af/index.html">Getrou tot die Einde <small data-series-progress="2tim" data-total="9"></small></a></li>
     </ul>
     
+  </section>
+
+  <section class="drawer-sec">
+    <h2>Lettergrootte</h2>
+    <div class="size-row" data-size-row data-names='["Klein", "Standaard", "Groot", "Baie groot", "Ekstra groot"]'>
+  <button type="button" data-size-step="-1" aria-label="Kleiner" title="Kleiner">A−</button>
+  <div><div class="size-name" data-size-name aria-live="polite">Standaard</div><div class="size-dots" aria-hidden="true"><i></i><i class="on"></i><i></i><i></i><i></i></div></div>
+  <button type="button" data-size-step="1" aria-label="Groter" title="Groter">A+</button>
+</div>
   </section>
 
   <section class="drawer-sec">

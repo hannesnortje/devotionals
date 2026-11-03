@@ -15,6 +15,7 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <link rel="stylesheet" href="{{ root }}assets/style.css">
+<script>try{var f=(JSON.parse(localStorage.getItem("dev-state")||"{}")||{}).fontSize;if(f>=0&&f<=4&&f!==1)document.documentElement.setAttribute("data-fs",f)}catch(e){}</script>
 <script>window.DEV = {{ dev_json }};</script>
 </head>
 <body data-lang="{{ lang }}" data-series="{{ series or '' }}" data-page="{{ page or '' }}">
@@ -29,11 +30,18 @@
       <span>{{ t.series_title or t.home_title }}</span>
     </a>
     {% if d %}<span class="where">{{ t.day_of.format(n=d.n, total=days|length) }}</span>{% endif %}
+    <button class="icon-btn size-btn" type="button" data-size-open aria-controls="size-panel" aria-expanded="false" aria-label="{{ t.text_size }}" title="{{ t.text_size }}"><span>A<small>a</small></span></button>
     <nav class="langs" aria-label="{{ t.choose_lang }}">
       {% for l in langs %}<a href="{{ alt[l] }}" lang="{{ l }}" data-set-lang="{{ l }}"{% if l == lang %} aria-current="true"{% endif %}>{{ l|upper }}</a>{% endfor %}
     </nav>
   </div>
 </header>
+<div class="size-panel" id="size-panel" role="dialog" aria-label="{{ t.text_size }}" hidden>
+  <h2>{{ t.text_size }}</h2>
+  {% include "_size_row.html" %}
+  <p class="size-sample">{{ t.size_sample }}</p>
+  <button class="size-reset" type="button" data-size-reset>{{ t.size_reset }}</button>
+</div>
 {% include "_drawer.html" %}
 <main id="main">
 {% block main %}{% endblock %}

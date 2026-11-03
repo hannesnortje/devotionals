@@ -42,6 +42,11 @@
   </section>
 
   <section class="drawer-sec">
+    <h2>{{ t.text_size }}</h2>
+    {% include "_size_row.html" %}
+  </section>
+
+  <section class="drawer-sec">
     <h2>{{ t.choose_lang }}</h2>
     <div class="langs drawer-langs">
       {% for l in langs %}<a href="{{ alt[l] }}" lang="{{ l }}" data-set-lang="{{ l }}"{% if l == lang %} aria-current="true"{% endif %}>{{ strings[l].lang_name }}</a>{% endfor %}

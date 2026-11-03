@@ -30,6 +30,7 @@ Devotional series by Dr. Johannes (Hannes) A. Nortjé in German, English and Afr
 - `/` is a router: first-time visitors go to the start page in their browser's language (`/home/{lang}.html`); returning readers go straight to their next devotional.
 - "Next" = the day just read stays on screen for the rest of that calendar day; from the next day on, the first unread day opens. When a series is finished, its "completed" page opens.
 - Progress is shared across languages and stored only in the browser (`localStorage` key `dev-state`). The ☰ menu on every page leads to the start page, all days, other series, language, legal page and "reset progress".
+- Text size: the "Aa" button in the header (and the ☰ menu) has five steps (90–150 %). Only the reading area (`article.day`, CSS variable `--fs`) scales; header and buttons keep their size. Stored as `dev-state.fontSize` and applied by an inline script in `<head>` before the first paint.
 - The site is installable ("Add to Home Screen") and works offline via `docs/sw.js`.
 
 ## Build
