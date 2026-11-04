@@ -1,0 +1,49 @@
+# Series settings – see PLAYBOOK.md
+slug: hebr
+order: 4
+draft: true
+original_language: grc
+site_url: https://hannesnortje.github.io/devotionals/hebr/
+book:
+  de: Hebräer
+  en: Hebrews
+  af: Hebreërs
+avoid_words:
+  af:
+  - godsaligheid
+  - lankmoedigheid
+  - Publieke Domein
+  de:
+  - Gottseligkeit
+  - Anfänger und Vollender
+  en:
+  - author and finisher
+  - so great a cloud of witnesses
+strings:
+  de:
+    series_title: Den Blick auf Jesus gerichtet
+    series_subtitle: 28 Andachten zum Hebräerbrief
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: Der ganze Hebräerbrief
+    whole_book_intro: Der vollständige Text des Briefes an die Hebräer in der Übersetzung, die in diesen Andachten verwendet wird.
+    kit_intro: Dreizehn Treffen für Hauskreise und Kleingruppen – ein Treffen pro Kapitel, je 75 bis 90 Minuten. Jedes Treffen baut auf den Andachten auf.
+    k_hebrew: Ein Blick ins Griechische
+    translation_note: 'Bibeltext: eigene Übersetzung aus dem Griechischen von Dr. Johannes A. Nortjé. Grundtext: SBL Greek New Testament, © 2010 Society of Biblical Literature und Logos Bible Software (CC BY 4.0).'
+  en:
+    series_title: Eyes Fixed on Jesus
+    series_subtitle: 28 devotionals on Hebrews
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: The whole of Hebrews
+    whole_book_intro: The complete text of the letter to the Hebrews in the translation used in these devotionals.
+    kit_intro: Thirteen sessions for home groups and small groups – one per chapter, 75 to 90 minutes each. Each session builds on the devotionals.
+    k_hebrew: A look at the Greek
+    translation_note: 'Scripture: own translation from the Greek by Dr. Johannes A. Nortjé. Base text: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (CC BY 4.0).'
+  af:
+    series_title: Die Oë op Jesus Gevestig
+    series_subtitle: 28 oordenkings oor die brief aan die Hebreërs
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: Die hele brief aan die Hebreërs
+    whole_book_intro: Die volledige teks van die brief aan die Hebreërs in die vertaling wat in hierdie oordenkings gebruik word.
+    kit_intro: Dertien byeenkomste vir huisgroepe en kleingroepe – een per hoofstuk, elk 75 tot 90 minute. Elke byeenkoms bou voort op die oordenkings.
+    k_hebrew: '''n Blik op die Grieks'
+    translation_note: 'Skrifteks: eie vertaling uit die Grieks deur Dr. Johannes A. Nortjé. Grondteks: SBL Greek New Testament, © 2010 Society of Biblical Literature en Logos Bible Software (CC BY 4.0).'
