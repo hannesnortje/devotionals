@@ -15,7 +15,7 @@ Maar dan breek vers 11 oop met twee van die kragtigste woorde in die Bybel: **"M
 
 Agter hierdie verse staan twee Ou-Testamentiese rituele. Die eerste is *Jom Kippoer*, die Groot Versoendag (Levitikus 16). Daarop moes Aäron meer as een keer agter die voorhangsel ingaan: met die wierook, met die bloed van 'n bul vir sy eie sondes, en met die bloed van 'n bok vir die volk se sondes. En twaalf maande later moes hy dit alles weer van voor af doen. Die tweede is die **"as van 'n vers"** (Numeri 19). Wanneer 'n Israeliet seremonieel onrein geword het deur aan 'n dooie liggaam te raak, is die as van 'n verbrande rooi vers met lopende water gemeng en met hisop op die persoon gesprinkel. Daardie besprinkeling was genoeg om die persoon uiterlik weer rein te verklaar, sodat hy na die gemeenskap rondom die tent kon terugkeer.
 
-In verse 13 en 14 gebruik die skrywer weer die rabbynse *qal wachomer*-argument (van die mindere na die meerdere): *as* dit waar was van dierebloed, *hoeveel te meer* van Christus se bloed!
+In verse 13 en 14 gebruik die skrywer weer die rabbynse *qal wahomer*-argument (van die mindere na die meerdere): *as* dit waar was van dierebloed, *hoeveel te meer* van Christus se bloed!
 
 ### Insigte uit die Grieks
 

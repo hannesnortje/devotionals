@@ -52,7 +52,7 @@ Dink vandag aan die oorweldigende troos van vers 19 en 20 vir jou eie lewe:
 
 ## Gebed
 
-*Onveranderlike en waaragtige God, ek aanbid U vandag as die Een vir wie dit onmoontlik is om te lieg. Dankie dat U my brose, twyfelende menslike hart so goed ken dat U nie net vir my u kosbare beloftes gegee het nie, maar dit ook met 'n onherroeplike eed by u eie Naam gewaarborg het.*
+*Onveranderlike en waaragtige God, ek aanbid U vandag as die Een vir wie dit onmoontlik is om te lieg. Dankie dat U my brose, twyfelende menslike hart so goed ken dat U nie net vir my U kosbare beloftes gegee het nie, maar dit ook met 'n onherroeplike eed by U eie Naam gewaarborg het.*
 
 *Here Jesus, ek dank U dat ek na U toe mag vlug as my enigste veilige vrystad. Wanneer die storms van hierdie lewe teen my siel slaan en my eie krag my begewe, kies ek vandag om nie na die golwe te kyk nie, maar om vas te hou aan die onwrikbare hoop wat voor my lê. Dankie dat hierdie hoop 'n seker en vaste anker vir my siel is wat nooit kan breek of glip nie.*
 

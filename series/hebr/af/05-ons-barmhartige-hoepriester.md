@@ -1,7 +1,7 @@
 ---
 day: 5
 lang: af
-title: "Ons Genadige Hoëpriester: Die Baanbreker wat saam met ons Ly"
+title: "Ons Barmhartige Hoëpriester: Die Baanbreker wat saam met ons Ly"
 ref: "2:10-2:18"
 ---
 
@@ -50,7 +50,7 @@ Derdens, onthou wie Hy is wanneer jy **versoek en beproef** word. Wanneer versoe
 
 ## Gebed
 
-*Here Jesus, my Baanbreker en my Genadige Hoëpriester, my hart loop vandag oor van dankbaarheid. Dit gaan my verstand te bowe dat U, deur wie en vir wie alle dinge geskape is, gewillig was om vlees en bloed aan te neem en in alle opsigte soos ek te word — behalwe die sonde.*
+*Here Jesus, my Baanbreker en my Barmhartige Hoëpriester, my hart loop vandag oor van dankbaarheid. Dit gaan my verstand te bowe dat U, deur wie en vir wie alle dinge geskape is, gewillig was om vlees en bloed aan te neem en in alle opsigte soos ek te word — behalwe die sonde.*
 
 *Dankie dat U U nie vir my skaam nie. Al ken U elke swakheid, elke litteken en elke mislukking in my lewe, noem U my steeds U broer, U suster, en sing U oor my in die teenwoordigheid van die Vader. Dankie dat U deur U kruisdood die duiwel se mag oor die dood verbreek het en die volle versoening vir my sondes bewerk het.*
 

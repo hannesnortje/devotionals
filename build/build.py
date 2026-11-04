@@ -189,8 +189,9 @@ def chunk_verses(vs, limit=600):
     """Split a chapter into slide-sized chunks (by characters, never inside a verse)."""
     chunks, cur, size = [], [], 0
     for x in vs:
-        # poetry lines take a full line each on screen
-        n = sum(len(p) for p in x["parts"]) + (28 * len(x["parts"]) if x["kind"] == "poetry" else 0)
+        # estimate screen lines: every part starts a new line (poetry lines, and the short prose lines
+        # between quotations in books like Hebrews), long parts wrap at about 68 characters
+        n = sum(68 * (-(-len(p) // 68)) for p in x["parts"]) + (28 * len(x["parts"]) if x["kind"] == "poetry" else 0)
         if cur and size + n > limit and not x.get("cont"):
             chunks.append(cur); cur, size = [], 0
         cur.append(x); size += n

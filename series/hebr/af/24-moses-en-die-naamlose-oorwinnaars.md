@@ -30,7 +30,7 @@ Kom ons ondersoek die oorspronklike Griekse insigte en die teologiese struktuur 
 1. **Geloof bepaal waarde in die lig van die ewigheid:** Moses het die smaad van die Christus as groter rykdom geag as die skatte van Egipte, omdat sy oë op die beloning gerig was.
 2. **Geloof sien die Onsigbare:** Wanneer jy die onsigbare Koning met die oog van geloof sien, krimp die woede van aardse magte tot nietigheid.
 3. **Geloof het twee kante wat God ewe veel eer:** Dieselfde geloof wat sommige uit die leeukuil gered het, het ander in staat gestel om onder marteling getrou te sterf, met die oog op 'n beter opstanding.
-4. **Saam tot volmaaktheid gebring:** In God se groot verlossingsplan het selfs Abraham, Moses en Dawid se finaal voltooide saligheid en gewetensreiniging gewag op die kruisdood en hoëpriesterlike werk van Jesus Christus wat in ons Nuwe-Testamentiese tyd aangebreek het. Ons en die Ou-Testamentiese gelowiges word **saam** deur die een offer van Christus tot ons ewige eindbestemming gebring!
+4. **Saam tot volmaaktheid gebring:** In God se groot verlossingsplan het selfs Abraham, Moses en Dawid se finaal voltooide redding en gewetensreiniging gewag op die kruisdood en hoëpriesterlike werk van Jesus Christus wat in ons Nuwe-Testamentiese tyd aangebreek het. Ons en die Ou-Testamentiese gelowiges word **saam** deur die een offer van Christus tot ons ewige eindbestemming gebring!
 
 ## Praktiese Toepassing
 

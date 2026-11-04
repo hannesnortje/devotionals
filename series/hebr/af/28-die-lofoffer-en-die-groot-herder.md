@@ -58,4 +58,4 @@ So sluit ons reis deur Hebreërs waar dit begin het: by die Seun deur wie God aa
 
 *Ek dank U dat U die groot Herder van die skape, ons Here Jesus, deur die kosbare bloed van 'n ewige verbond uit die dode opgebring het! Here Jesus, U is nie net my Hoëpriester in die hemel nie, maar ook my getroue Herder op elke tree van my aardse pelgrimspad. Seën en versterk ook elkeen wat U aangestel het om oor ons siele te waak en U Woord te bedien; gee dat hulle hul diens met blydskap en 'n skoon gewete sal vervul.*
 
-*En nou, o God van vrede, neem my lewe in U hande: herstel wat gebreek is, en rus my volkome toe met alles wat goed is om U wil te doen. Werk self deur U Gees in my binneste dit wat behaaglik is voor U aangesig deur Jesus Christus – aan wie al die lof, die eer en die heerlikheid toekom, gister, vandag en tot in alle ewigheid! Amen.*
+*En nou, o God van vrede, neem my lewe in U hande: herstel wat gebreek is, en rus my volkome toe met alles wat goed is om U wil te doen. Werk self deur U Gees in my binneste dit wat behaaglik is voor U aangesig deur Jesus Christus – aan wie al die lof, die eer en die heerlikheid toekom, gister, vandag en vir ewig! Amen.*

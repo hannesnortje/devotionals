@@ -52,8 +52,8 @@ Derdens roep Abraham se reaksie in vers 4 ons op tot **dankbare oorgawe van ons 
 
 ## Gebed
 
-*Allerhoogste God, Skepper van hemel en aarde, ek buig vandag in diepe verwondering voor U neer. Ek dank U dat U deur die eeue heen u volmaakte verlossingsplan uitgerol het en vir my 'n Hoëpriester gegee het wat oneindig groter is as enige menslike of aardse instelling.*
+*Allerhoogste God, Skepper van hemel en aarde, ek buig vandag in diepe verwondering voor U neer. Ek dank U dat U deur die eeue heen U volmaakte verlossingsplan uitgerol het en vir my 'n Hoëpriester gegee het wat oneindig groter is as enige menslike of aardse instelling.*
 
-*Here Jesus, ek aanbid U vandag as my ware Melgisedek! U is my Koning van Geregtigheid wat deur u vlekkelose lewe en kruisdood my skuld ten volle betaal het en my met u eie geregtigheid beklee het. En U is my Koning van Salem wat vrede maak tussen my en die Vader en die storms in my binneste stilmaak. U het geen begin van dae of einde van lewe nie, en u priesterskap staan vas tot in alle ewigheid.*
+*Here Jesus, ek aanbid U vandag as my ware Melgisedek! U is my Koning van Geregtigheid wat deur U vlekkelose lewe en kruisdood my skuld ten volle betaal het en my met U eie geregtigheid beklee het. En U is my Koning van Salem wat vrede maak tussen my en die Vader en die storms in my binneste stilmaak. U het geen begin van dae of einde van lewe nie, en U priesterskap staan vas tot in alle ewigheid.*
 
 *Open vandag my geestelike oë om opnuut op te merk hoe groot en heerlik U is. Net soos Abraham voor Melgisedek gebuig het, buig ek vandag alles wat ek is en het voor U neer. Ek wil U nie dien uit koue, wettiese plig nie, maar uit 'n oorlopende hart van dankbaarheid. Neem vandag die eerste en beste deel van my tyd, my gedagtes, my werk en my liefde as 'n dankoffer aan U, die lewende Seun van God wat my met elke hemelse seën verryk. Amen.*

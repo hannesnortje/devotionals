@@ -11,7 +11,7 @@ ref: "4:14-5:10"
 
 In Hebrews 4:12–13 the author confronted us with the sharp, double-edged sword of God's word, before which all things are "naked and laid bare". It is easy to lose heart and shrink back in fear. How can a broken sinner ever stand before so all-knowing and holy a God? The author's answer in 4:14–5:10 is one of the most comforting passages in all of Scripture: the One before whose eyes we lie exposed is at the same time our **great high priest**, who intercedes for us.
 
-For Jewish Christians the Levitical high priest was the centre of their worship. Once a year, on the Day of Atonement (*Yom Kippur*), the high priest passed with fear and trembling through three curtains – from the outer court, through the Holy Place, into the Most Holy Place, where the ark of the covenant with its atonement cover (*kapporet* – כַּפֹּרֶת) stood. But now the author shows that Jesus has done something infinitely greater.
+For Jewish Christians the Levitical high priest was the centre of their worship. Once a year, on the Day of Atonement (*Yom Kippur*), the high priest passed with fear and trembling through three curtains – from the outer court, through the Holy Place, into the Most Holy Place. In the tabernacle, which Hebrews describes, the ark of the covenant with its atonement cover (*kapporet* – כַּפֹּרֶת) stood there; in the Second Temple of the readers' own day that room was empty. But now the author shows that Jesus has done something infinitely greater.
 
 ### Insights from the Greek
 

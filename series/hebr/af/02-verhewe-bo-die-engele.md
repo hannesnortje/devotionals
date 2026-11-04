@@ -49,6 +49,6 @@ Tweedens, **besef hoe kosbaar jy vir God is in Christus**. Dink aan die asemrowe
 
 *Ewige Koning Jesus, saam met al die engele van God val ek vandag in aanbidding voor U neer. U is nie bloot 'n boodskapper of 'n goeie leermeester nie; U troon, o God, staan tot in alle ewigheid, en die septer van opregtheid is die septer van U koninkryk.*
 
-*Here, in 'n wêreld waar alles om my voortdurend verander, verouder en verslyt soos 'n ou kleed, anker ek my siel vandag opnuut in wie U is. U is dieselfde, gister, vandag en tot in alle ewigheid. Wanneer my omstandighede skud, herinner my dat U die Een is wat die fondamente van die aarde gelê het en dat U op hierdie oomblik in volle oorwinning aan die regterhand van die Vader sit.*
+*Here, in 'n wêreld waar alles om my voortdurend verander, verouder en verslyt soos 'n ou kleed, anker ek my siel vandag opnuut in wie U is. U is gister en vandag dieselfde, en vir ewig. Wanneer my omstandighede skud, herinner my dat U die Een is wat die fondamente van die aarde gelê het en dat U op hierdie oomblik in volle oorwinning aan die regterhand van die Vader sit.*
 
 *Suiwer my hart sodat ek, net soos U, geregtigheid sal liefhê en elke vorm van sonde en wetteloosheid sal haat. Vul my met die olie van jubel deur U Gees. En dankie, Vader, vir die onbeskryflike genade dat U selfs U magtige engele uitstuur as dienende geeste om my te dra en te bewaar op die pad na die ewige redding. Ek vertrou U met my lewe. Amen.*

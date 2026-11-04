@@ -11,7 +11,7 @@ ref: "4:14-5:10"
 
 In Hebräer 4,12–13 hat uns der Verfasser mit dem scharfen, zweischneidigen Schwert des Wortes Gottes konfrontiert, vor dem alles „nackt und bloßgelegt“ liegt. Da kann man leicht mutlos werden und erschrocken zurückweichen. Wie soll ein zerbrochener Sünder je vor einem so allwissenden, heiligen Gott bestehen? Die Antwort des Verfassers in 4,14–5,10 gehört zu den tröstlichsten Abschnitten der ganzen Schrift: Der, vor dessen Augen wir aufgedeckt daliegen, ist zugleich unser **großer Hoherpriester**, der für uns eintritt.
 
-Für die jüdischen Christen war der levitische Hohepriester der Mittelpunkt ihres Gottesdienstes. Einmal im Jahr, am Großen Versöhnungstag (*Jom Kippur*), ging der Hohepriester mit Furcht und Zittern durch drei Vorhänge – vom Vorhof durch das Heilige bis hinein ins Allerheiligste, wo die Bundeslade mit dem Sühnedeckel (*kapporet* – כַּפֹּרֶת) stand. Nun aber zeigt der Verfasser: Jesus hat etwas unendlich Größeres getan.
+Für die jüdischen Christen war der levitische Hohepriester der Mittelpunkt ihres Gottesdienstes. Einmal im Jahr, am Großen Versöhnungstag (*Jom Kippur*), ging der Hohepriester mit Furcht und Zittern durch drei Vorhänge – vom Vorhof durch das Heilige bis hinein ins Allerheiligste. In der Stiftshütte, die der Hebräerbrief beschreibt, stand dort die Bundeslade mit dem Sühnedeckel (*kapporet* – כַּפֹּרֶת); im zweiten Tempel zur Zeit der Leser war dieser Raum leer. Nun aber zeigt der Verfasser: Jesus hat etwas unendlich Größeres getan.
 
 ### Einsichten aus dem Griechischen
 

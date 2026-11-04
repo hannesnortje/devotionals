@@ -15,7 +15,7 @@ Doch dann setzt Vers 11 mit zwei der kraftvollsten Worte der Bibel ein: **„Chr
 
 Hinter diesen Versen stehen zwei Rituale des Alten Testaments. Das erste ist *Jom Kippur*, der Große Versöhnungstag (3. Mose 16). An diesem Tag musste Aaron mehr als einmal hinter den Vorhang gehen: mit dem Räucherwerk, mit dem Blut eines Stieres für seine eigenen Sünden und mit dem Blut eines Bockes für die Sünden des Volkes. Und zwölf Monate später musste er alles wieder von vorn tun. Das zweite ist **„die Asche einer jungen Kuh“** (4. Mose 19). Wurde ein Israelit kultisch unrein, weil er einen Toten berührt hatte, so mischte man die Asche einer verbrannten roten Kuh mit fließendem Wasser und besprengte ihn mit Ysop. Diese Besprengung genügte, um ihn äußerlich wieder für rein zu erklären, sodass er in die Gemeinschaft um das Zelt zurückkehren konnte.
 
-In den Versen 13 und 14 verwendet der Verfasser wieder das rabbinische *Qal-wachomer*-Argument (vom Geringeren zum Größeren): *Wenn* das schon vom Tierblut galt, *wie viel mehr* vom Blut Christi!
+In den Versen 13 und 14 verwendet der Verfasser wieder das rabbinische Argument *qal wahomer* (vom Geringeren zum Größeren): *Wenn* das schon vom Tierblut galt, *wie viel mehr* vom Blut Christi!
 
 ### Einsichten aus dem Griechischen
 

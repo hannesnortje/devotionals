@@ -16,7 +16,7 @@ Die skrywer fokus bewustelik op die oorspronklike woestyntabernakel van Moses (e
 Dieper binne-in, afgeskerm deur 'n dik, swaar tweede voorhangsel, was die binneste kubusvormige vertrek: die Allerheiligste. Volgens vers 4 het dit "'n goue reukofferaltaar gehad en die ark van die verbond". In Eksodus 30:6 het die reukofferaltaar fisies net *voor* die voorhangsel in die Heilige gestaan, maar teologies en funksioneel het dit onlosmaaklik aan die Allerheiligste behoort: die geurige rook moes deur die voorhangsel trek om die Allerheiligste te vul, en op die Groot Versoendag moes die hoëpriester die wierookpan binne-in die Allerheiligste indra (Levitikus 16:12–13). Binne-in (of vlak by) die ark, "rondom met goud oorgetrek", was drie gedenkstukke van Israel se geskiedenis:
 
 - **"'n Goue kruik met die manna"** (Eksodus 16:33) — herinnering aan God se getroue voorsiening én die volk se ondankbare murmurering oor sy brood.
-- **"Die staf van Aäron wat gebot het"** (Numeri 17:8) — herinnering aan God se verkiesing van die priesterskap te midde van die volk se opstand teen sy gesag.
+- **"Die staf van Aäron wat gebot het"** (Numeri 17:23) — herinnering aan God se verkiesing van die priesterskap te midde van die volk se opstand teen sy gesag.
 - **"Die tafels van die verbond"** (Deuteronomium 10:5) — die wet van God wat die volk gebreek het. Bo-oor die ark was "die gérubs van die heerlikheid, wat die versoeningsdeksel oorskadu het" (vers 5) — die presiese plek waar die bloed gesprinkel is om die oordeel van die oortrede wet binne-in die ark te bedek!
 
 ### Insigte uit die Grieks
@@ -60,8 +60,8 @@ Hierdie teks berei ons harte voor om die glorie van Christus (waaroor ons môre 
 
 ## Gebed
 
-*Heilige en Drie-enige God, met diepe eerbied dink ek vandag na oor die skoonheid en heiligheid van u ou tabernakel. Elke stukkie goud, elke voorhangsel en elke offer het getuig van u vlekkelose suiwerheid en het vir ons gewys hoe ernstig my sonde in u oë is.*
+*Heilige en Drie-enige God, met diepe eerbied dink ek vandag na oor die skoonheid en heiligheid van U ou tabernakel. Elke stukkie goud, elke voorhangsel en elke offer het getuig van U vlekkelose suiwerheid en het vir ons gewys hoe ernstig my sonde in U oë is.*
 
 *Here, ek bely vandag dat geen uiterlike godsdienstige ritueel, geen goeie voorneme en geen poging van my eie hande ooit my gewete voor U volkome kan skoonmaak nie. Net soos die items binne-in die verbondsark, getuig my eie geskiedenis dikwels van gebroke wette en ondankbaarheid. As U my volgens my eie werke moes oordeel, sou ek nooit voor U kon bly staan nie.*
 
-*Maar ek loof U dat die tyd van herstel in Jesus Christus aangebreek het! Dankie dat die skaduwees gewyk het vir die volle sonlig van u genade, en dat Jesus self my Versoeningsdeksel geword het wat al my oortredinge voor u heilige oë bedek. Maak my hart vandag los van alle dooie vormgodsdiens en berei my voor om die volle krag van Christus se kosbare bloed vir my gewete te verstaan en te ontvang. Amen.*
+*Maar ek loof U dat die tyd van herstel in Jesus Christus aangebreek het! Dankie dat die skaduwees gewyk het vir die volle sonlig van U genade, en dat Jesus self my Versoeningsdeksel geword het wat al my oortredinge voor U heilige oë bedek. Maak my hart vandag los van alle dooie vormgodsdiens en berei my voor om die volle krag van Christus se kosbare bloed vir my gewete te verstaan en te ontvang. Amen.*

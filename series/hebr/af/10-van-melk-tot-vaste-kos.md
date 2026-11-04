@@ -49,8 +49,8 @@ Kyk na die skrywer se geheim vir geestelike groei in vers 14: **die geestelike g
 
 ## Gebed
 
-*Hemelse Vader, ek buig vandag voor U met 'n oop en leerbare hart. Vergewe my vir die tye wanneer ek geestelik lui en traag geword het om na u stem te luister. Vergewe my wanneer ek tevrede geraak het om op dieselfde plek te bly staan en net geestelike melk te soek wat my gemaklik laat voel, terwyl U my roep tot volwasse toewyding en diens.*
+*Hemelse Vader, ek buig vandag voor U met 'n oop en leerbare hart. Vergewe my vir die tye wanneer ek geestelik lui en traag geword het om na U stem te luister. Vergewe my wanneer ek tevrede geraak het om op dieselfde plek te bly staan en net geestelike melk te soek wat my gemaklik laat voel, terwyl U my roep tot volwasse toewyding en diens.*
 
-*Here Jesus, dankie vir die onwrikbare fondament van my geloof — dat U my gered het van dooie werke en my die sekere hoop op die opstanding gegee het. Maar ek wil nie net by die fondament bly sit nie. Deur die krag van u Heilige Gees wil ek voortgaan na volwassenheid. Ek wil die diepte en rykdom van u woord van geregtigheid verstaan en uitleef.*
+*Here Jesus, dankie vir die onwrikbare fondament van my geloof — dat U my gered het van dooie werke en my die sekere hoop op die opstanding gegee het. Maar ek wil nie net by die fondament bly sit nie. Deur die krag van U Heilige Gees wil ek voortgaan na volwassenheid. Ek wil die diepte en rykdom van U woord van geregtigheid verstaan en uitleef.*
 
-*Oefen vandag my geestelike sintuie in die gimnasium van die alledaagse lewe. Gee my 'n skerp onderskeidingsvermoë om in elke keuse goed van kwaad te onderskei, en maak my bekwaam om ander rondom my met wysheid en liefde in u waarheid te onderrig en te bemoedig. Amen.*
+*Oefen vandag my geestelike sintuie in die gimnasium van die alledaagse lewe. Gee my 'n skerp onderskeidingsvermoë om in elke keuse goed van kwaad te onderskei, en maak my bekwaam om ander rondom my met wysheid en liefde in U waarheid te onderrig en te bemoedig. Amen.*

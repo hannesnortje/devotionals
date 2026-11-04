@@ -1,7 +1,7 @@
 ---
 day: 25
 lang: af
-title: "Die Wedloop van Volharding: Die Oë op Jesus Gevestig en die Vader se Dissipline"
+title: "Die Wedloop van Volharding: Die Oë op Jesus Gevestig en die Vader se Tug"
 ref: "12:1-12:13"
 ---
 

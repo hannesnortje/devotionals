@@ -15,7 +15,7 @@ But then verse 11 breaks open with two of the most powerful words in the Bible: 
 
 Behind these verses stand two Old Testament rituals. The first is *Yom Kippur*, the Day of Atonement (Leviticus 16). On that day Aaron had to go behind the curtain more than once: with the incense, with the blood of a bull for his own sins, and with the blood of a goat for the sins of the people. And twelve months later he had to do it all over again. The second is **"the sprinkled ashes of a heifer"** (Numbers 19). When an Israelite became ritually unclean by touching a dead body, the ashes of a burnt red heifer were mixed with running water and sprinkled on the person with hyssop. That sprinkling was enough to declare the person outwardly clean again, so that he could return to the community gathered around the tent.
 
-In verses 13 and 14 the author again uses the rabbinic *qal wachomer* argument (from the lesser to the greater): *if* this was true of animal blood, *how much more* of the blood of Christ!
+In verses 13 and 14 the author again uses the rabbinic *qal wahomer* argument (from the lesser to the greater): *if* this was true of animal blood, *how much more* of the blood of Christ!
 
 ### Insights from the Greek
 

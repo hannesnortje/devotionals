@@ -14,7 +14,7 @@ Nadat die skrywer in hoofstuk 1 'n asemrowende teologiese portret van Jesus Chri
 Die skrywer gebruik ook 'n klassieke Joodse rabbynse redeneermetode bekend as *qal wahomer* (קַל וָחֹמֶר, letterlik "lig en swaar": as iets waar is in 'n mindere geval, hoeveel te meer is dit waar in 'n meerdere geval!):
 
 - **Die Mindere:** *"Die woord wat deur engele gespreek is"* verwys na die Wet van Moses op Sinai (Handelinge 7:53). Onder die Ou Verbond is opsetlike oortreding en ongehoorsaamheid streng en regverdig gestraf (bv. Numeri 15:30–31).
-- **Die Meerdere:** As God se verbondswoord deur diensknegte (engele) so ernstig opgeneem is, *"hoe sal ons ontkom"* as ons die finale verlossingswoord van die **Seun self** ignoreer?
+- **Die Meerdere:** As God se verbondswoord deur diensknegte (engele) so ernstig opgeneem is, *"hoe sal ons ontkom"* as ons die finale reddingswoord van die **Seun self** ignoreer?
 
 ### Insigte uit die Grieks
 
