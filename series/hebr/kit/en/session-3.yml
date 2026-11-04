@@ -1,0 +1,57 @@
+session: 3
+lang: en
+title: "Today"
+ref: "3:1-3:19"
+days: [6, 7]
+big_idea: "Jesus, the Son over God's house, is greater than Moses, the faithful servant in it – so we consider him closely, do not harden our hearts when he speaks today, and encourage one another every day, because holding fast to the end shows that we have truly become partners of Christ."
+opening: "Think of something you kept putting off until tomorrow – a phone call, a repair, a conversation. What happened in the end?"
+context: >-
+  After the prophets and the angels, the author now comes to the greatest figure in Israel's history: Moses.
+  He honours Moses as faithful, then shows that Jesus is the builder and the Son over the house (vv. 1–6).
+  Then he opens the second warning passage with Psalm 95: the generation that saw God's works for forty years still could not enter his rest because of unbelief (vv. 7–19).
+read_aloud_tip: "Verses 1–6 by one reader; Psalm 95 (vv. 7–11) by a second reader as the voice of the Holy Spirit; verses 12–19 by a third. Let the whole group say the word “Today” together each time it occurs (vv. 7, 13, 15)."
+hebrew:
+  - word: "katanoēsate"
+    hebrew: "κατανοήσατε"
+    gloss: "consider closely"
+    point: "Not a quick glance, but fixing your thoughts deeply on something, studying it carefully and getting to the bottom of it. The object is Jesus in his double office as apostle and high priest – the only place in the New Testament where he is called an apostle (3:1)."
+  - word: "therapōn"
+    hebrew: "θεράπων"
+    gloss: "servant"
+    point: "Not the ordinary word for a slave (doulos) but an honourable word for a trusted servant and confidant of his master (Numbers 12:7). Moses was faithful in the house as a servant; Christ is faithful as a Son over the house – the heir to whom the whole house belongs (3:5–6)."
+  - word: "sklērynō"
+    hebrew: "σκληρύνω"
+    gloss: "harden"
+    point: "The source of the medical term sclerosis: something soft and living gradually stiffens and becomes numb. It happens through the deceitfulness of sin (apatē), which never comes with a warning label (3:8, 13, 15)."
+discussion:
+  - q: "“Consider closely the apostle and high priest of our confession, Jesus.” What gets your deepest attention on an ordinary day – and what would it look like to consider Jesus closely this week?"
+    ref: "3:1"
+  - q: "Moses was faithful as a servant in the house; Christ is faithful “as a Son over his house”. The author honours Moses and does not run him down. Which servants in the house – leaders, traditions, churches – are we tempted to build our security on instead of on the Son?"
+    ref: "3:2-3:6"
+  - q: "“And we are his house.” What does it mean for our group – and for you personally – that God's house is no longer a building of stone but his people?"
+    ref: "3:6"
+  - q: "The author introduces Psalm 95 with “as the Holy Spirit says” – in the present tense. Is there an area where the Spirit has been speaking to your conscience, while you keep saying: not today, Lord?"
+    ref: "3:7-3:11"
+  - q: "The exodus generation saw God's works for forty years and still went astray in their heart. How does hardening happen gradually – and how does “the deceitfulness of sin” work in practice?"
+    ref: "3:8-3:13"
+  - q: "God's remedy is shared: “encourage one another every day”. Who has the freedom to speak God's truth into your life – and whom could you encourage this week?"
+    ref: "3:13"
+  - q: "“For we have become partners of Christ – if indeed we hold the assurance we had at the beginning firm to the end.” How does this verse comfort us, and how does it challenge us?"
+    ref: "3:14-3:19"
+application:
+  - "Take one matter where you have been putting God off until tomorrow, and obey this week – today."
+  - "Encourage one believer every day this week – a message, a call or a word in person that points them to the faithfulness of Christ."
+prayer: "Read verses 7–8 aloud together. Pray in pairs: ask the Lord for a soft heart that answers when he calls, name one place where you need to obey today, and pray for each other by name. Close by thanking God together that we are his house."
+leader_notes:
+  - "Two devotionals (days 6–7). Verses 7–19 are the centre of the evening; don't spend too long on Moses."
+  - "3:6 and 3:14 (“if we hold fast …”, “if indeed we hold …”) touch a question on which Christians hold different convictions: can a true believer finally fall away? The devotionals of days 6–7 read these conditions as showing that perseverance is the evidence of genuine faith: we do not become partners of Christ by persevering at the end; persevering to the end shows that we truly became partners from the beginning. Present this as the devotionals' reading, let members say respectfully how their tradition reads it, and keep the group on what all can agree on: the warning is real, and the remedy is holding fast to Christ and encouraging one another every day."
+  - "Verse 6: some older translations add firm to the end here. Those words are not in the oldest manuscripts; the author does use them in verse 14. If someone's Bible has them in verse 6, that is the reason."
+  - "Meribah and Massah (Exodus 17:1–7): in Hebrew the names mean quarrel and testing; the Greek text that Hebrews quotes has rebellion and testing instead of the names. Our translation follows the Greek, as Hebrews has it."
+  - "Some may hear verse 12 as a verdict on honest doubt. The day 7 devotional makes the distinction: in Hebrews unbelief is not intellectual doubt or an honest wrestling with questions, but a decision of the will to distrust God's promises and shrink back from obedience. Make room for honest questions in the group."
+  - "Point ahead: next week chapter 4 – the promise of rest, the living word of God, and the throne of grace."
+timing:
+  welcome: 10
+  read: 10
+  context: 10
+  discussion: 40
+  prayer: 15
