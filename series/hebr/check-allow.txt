@@ -1,0 +1,7 @@
+# Reviewed quotations that intentionally differ from our Bible text (prayers, paraphrases,
+# quotations of other books). check_series.py skips quotes containing any line below.
+# Reviewed 2026-11-04.
+Ek hoop alles werk uit
+Dit is my bloed van die verbond
+Das ist mein Blut des Bundes
+This is my blood of the covenant
