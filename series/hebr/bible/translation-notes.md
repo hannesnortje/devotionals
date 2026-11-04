@@ -226,7 +226,7 @@ The tables cover the **whole letter**, so parts 2–3 use the same renderings. V
 | (συγ)κακουχέομαι | 11:25, 37; 13:3 | misshandelt werden | be mistreated | mishandel word |
 | ἀπολύτρωσις | 11:35 | Freilassung | release | vrylating – **this departs from** part 2's row (9:15 "Erlösung / redemption / loskoping"). In 11:35 it is release bought by recanting under torture; "nahmen die Erlösung nicht an / refused redemption" would sound theological. AF "loskoping" would also work here. Please decide |
 | μετάνοια (2 Tim 2:25) | 12:17 (6:1, 6 part 2) | Umkehr | repentance | bekering |
-| χάρις | 12:15; 13:9, 25 (2:9 not in SBLGNT) | Gnade | grace | genade |
+| χάρις | 2:9 (majority reading, see §2.1); 12:15; 13:9, 25 | Gnade | grace | genade |
 | λατρεύω | 12:28; 13:10 | (Gott) dienen; 13:10 dem Zelt dienen | worship; 13:10 worship at the tent | (God) dien; 13:10 die tent dien | as part 2's row |
 | ἡγούμενοι | 13:7, 17, 24 | Leiter | leaders | leiers |
 | ἀναστροφή / ἀναστρέφομαι | 13:7 / 13:18 | Lebensführung / ein gutes Leben führen | way of life / live | lewenswandel / lewe |
@@ -244,6 +244,8 @@ The tables cover the **whole letter**, so parts 2–3 use the same renderings. V
 ## 2. Choices you should check
 
 ### Chapters 1–5
+
+> **Decided by Hannes (4 Nov 2026): "by the grace of God" (*chariti theou*, majority reading, NA28) – the only deliberate departure from SBLGNT in this translation. Text: "damit er durch Gottes Gnade für jeden den Tod schmeckte / so that by the grace of God he might taste death for everyone / sodat Hy deur die genade van God vir elkeen die dood sou smaak".**
 
 1. **2:9 *chōris theou* "ohne Gott / apart from God / sonder God".** Note first: SBLGNT does **not** read *chariti theou* here. It is one of the few editions that prints the minority reading χωρὶς θεοῦ ("apart from God"; a few manuscripts and patristic writers known to Origen and Jerome). Most manuscripts and NA28 read χάριτι θεοῦ, "by the grace of God" (Luther, 1933/53, 1983, ESV, NIV). I followed the base text as everywhere else: "damit er ohne Gott für jeden den Tod schmeckte / so that apart from God he might taste death for everyone / sodat Hy sonder God vir elkeen die dood sou smaak". Readings of *chōris theou*:
    - abandoned by God in his death (cf. Mark 15:34)

@@ -77,7 +77,7 @@ And again:
 > **8** you subjected everything under his feet.
 
 For in subjecting everything to him, he left nothing that is not subject to him. As it is, we do not yet see everything subjected to him.
-**9** But we do see the one who was made a little lower than the angels, Jesus, crowned with glory and honour because of the suffering of death, so that apart from God he might taste death for everyone.
+**9** But we do see the one who was made a little lower than the angels, Jesus, crowned with glory and honour because of the suffering of death, so that by the grace of God he might taste death for everyone.
 
 **10** For it was fitting for him, for whose sake everything exists and through whom everything exists, in bringing many sons to glory, to make the pioneer of their salvation perfect through sufferings.
 **11** For the one who makes holy and those who are made holy are all from one. That is why he is not ashamed to call them brothers and sisters,

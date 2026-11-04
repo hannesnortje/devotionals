@@ -77,7 +77,7 @@ En weer:
 > **8** alles het U aan hom onderwerp, onder sy voete.
 
 Want deurdat Hy alles aan hom onderwerp het, het Hy niks oorgelaat wat nie aan hom onderwerp is nie. Maar nou sien ons nog nie dat alles aan hom onderwerp is nie.
-**9** Wel sien ons Hom wat 'n bietjie laer as die engele gestel is, Jesus, met heerlikheid en eer gekroon weens die lyding van die dood, sodat Hy sonder God vir elkeen die dood sou smaak.
+**9** Wel sien ons Hom wat 'n bietjie laer as die engele gestel is, Jesus, met heerlikheid en eer gekroon weens die lyding van die dood, sodat Hy deur die genade van God vir elkeen die dood sou smaak.
 
 **10** Want dit het Hom gepas, ter wille van wie alles bestaan en deur wie alles bestaan, om, terwyl Hy baie seuns tot heerlikheid lei, die baanbreker van hulle redding deur lyding tot volmaaktheid te bring.
 **11** Want Hy wat heilig maak en dié wat geheilig word, kom almal uit een. Daarom skaam Hy Hom nie om hulle broers en susters te noem nie,

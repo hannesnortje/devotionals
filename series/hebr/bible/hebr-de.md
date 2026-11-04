@@ -77,7 +77,7 @@ Und wiederum:
 > **8** alles hast du ihm zu Füßen unterworfen.
 
 Denn indem er ihm alles unterwarf, ließ er nichts übrig, was ihm nicht unterworfen wäre. Jetzt aber sehen wir noch nicht, dass ihm alles unterworfen ist.
-**9** Wir sehen aber den, der ein wenig geringer gemacht worden war als die Engel, Jesus, wegen des Todesleidens mit Herrlichkeit und Ehre gekrönt, damit er ohne Gott für jeden den Tod schmeckte.
+**9** Wir sehen aber den, der ein wenig geringer gemacht worden war als die Engel, Jesus, wegen des Todesleidens mit Herrlichkeit und Ehre gekrönt, damit er durch Gottes Gnade für jeden den Tod schmeckte.
 
 **10** Denn es war angemessen für ihn, um dessentwillen alles ist und durch den alles ist, als er viele Söhne zur Herrlichkeit führte, den Wegbereiter ihrer Rettung durch Leiden zur Vollendung zu bringen.
 **11** Denn der, der heiligt, und die, die geheiligt werden, stammen alle von einem. Aus diesem Grund schämt er sich nicht, sie Geschwister zu nennen,
