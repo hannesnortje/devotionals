@@ -1,0 +1,53 @@
+# Series settings – see PLAYBOOK.md
+slug: nahum
+order: 6
+original_language: he
+site_url: https://hannesnortje.github.io/devotionals/nahum/
+book:
+  de: Nahum
+  en: Nahum
+  af: Nahum
+avoid_words:
+  af:
+  - wrekende God
+  - dag van benoudheid
+  - bloedskuld
+  - Hussab
+  de:
+  - ein Rächer
+  - Feste zur Zeit der Not
+  - eines guten Boten
+  en:
+  - revengeth
+  - reserveth wrath
+  - strong hold in the day of trouble
+  - good tidings
+  - Huzzab
+strings:
+  de:
+    series_title: Eine Zuflucht am Tag der Not
+    series_subtitle: 6 Andachten zum Buch Nahum
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: Das ganze Buch Nahum
+    whole_book_intro: Der vollständige Text des Buches Nahum in der Übersetzung, die in diesen Andachten verwendet wird.
+    kit_intro: Drei Treffen für Hauskreise und Kleingruppen – ein Treffen pro Kapitel, je 75 bis 90 Minuten.
+    k_hebrew: Ein Blick ins Hebräische
+    translation_note: 'Bibeltext: eigene Übersetzung aus dem Hebräischen (Masoretischer Text) von Dr. Johannes A. Nortjé. Die Verszählung folgt dem hebräischen Text.'
+  en:
+    series_title: A Refuge in the Day of Distress
+    series_subtitle: 6 devotionals on Nahum
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: The whole book of Nahum
+    whole_book_intro: The complete text of Nahum in the translation used in these devotionals.
+    kit_intro: Three sessions for home groups and small groups – one per chapter, 75 to 90 minutes each.
+    k_hebrew: A look at the Hebrew
+    translation_note: 'Scripture: own translation from the Hebrew (Masoretic Text) by Dr. Johannes A. Nortjé. Verse numbers follow the Hebrew text.'
+  af:
+    series_title: "'n Toevlug op die Dag van Nood"
+    series_subtitle: 6 oordenkings oor Nahum
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: Die hele boek Nahum
+    whole_book_intro: Die volledige teks van Nahum in die vertaling wat in hierdie oordenkings gebruik word.
+    kit_intro: Drie byeenkomste vir huisgroepe en kleingroepe – een per hoofstuk, elk 75 tot 90 minute.
+    k_hebrew: '''n Blik op die Hebreeus'
+    translation_note: 'Skrifteks: eie vertaling uit die Hebreeus (Masoretiese Teks) deur Dr. Johannes A. Nortjé. Die versnommering volg die Hebreeuse teks.'
