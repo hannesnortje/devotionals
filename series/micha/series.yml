@@ -1,0 +1,49 @@
+# Series settings – see PLAYBOOK.md
+slug: micha
+order: 5
+original_language: he
+site_url: https://hannesnortje.github.io/devotionals/micha/
+book:
+  de: Micha
+  en: Micah
+  af: Miga
+avoid_words:
+  af:
+  - mensevorsies
+  - goëlaars
+  - bende-dogter
+  - sy uitgange is uit
+  de:
+  - Es ist dir gesagt, Mensch
+  - die du klein bist
+  en:
+  - doth the LORD
+  - of thee
+strings:
+  de:
+    series_title: Wer ist ein Gott wie du?
+    series_subtitle: 14 Andachten zum Buch Micha
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: Das ganze Buch Micha
+    whole_book_intro: Der vollständige Text des Buches Micha in der Übersetzung, die in diesen Andachten verwendet wird.
+    kit_intro: Sieben Treffen für Hauskreise und Kleingruppen – ein Treffen pro Kapitel, je 75 bis 90 Minuten.
+    k_hebrew: Ein Blick ins Hebräische
+    translation_note: 'Bibeltext: eigene Übersetzung aus dem Hebräischen (Masoretischer Text) von Dr. Johannes A. Nortjé. Die Verszählung folgt dem hebräischen Text.'
+  en:
+    series_title: Who Is a God Like You?
+    series_subtitle: 14 devotionals on Micah
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: The whole book of Micah
+    whole_book_intro: The complete text of Micah in the translation used in these devotionals.
+    kit_intro: Seven sessions for home groups and small groups – one per chapter, 75 to 90 minutes each.
+    k_hebrew: A look at the Hebrew
+    translation_note: 'Scripture: own translation from the Hebrew (Masoretic Text) by Dr. Johannes A. Nortjé. Verse numbers follow the Hebrew text.'
+  af:
+    series_title: "Wie is 'n God soos U?"
+    series_subtitle: 14 oordenkings oor Miga
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: Die hele boek Miga
+    whole_book_intro: Die volledige teks van Miga in die vertaling wat in hierdie oordenkings gebruik word.
+    kit_intro: Sewe byeenkomste vir huisgroepe en kleingroepe – een per hoofstuk, elk 75 tot 90 minute.
+    k_hebrew: '''n Blik op die Hebreeus'
+    translation_note: 'Skrifteks: eie vertaling uit die Hebreeus (Masoretiese Teks) deur Dr. Johannes A. Nortjé. Die versnommering volg die Hebreeuse teks.'
