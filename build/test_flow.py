@@ -141,10 +141,10 @@ with sync_playwright() as p:
     pg4.wait_for_timeout(2500)
     ctx4.set_offline(True)
     try:
-        pg4.goto(BASE + f"{SLUG}/de/tag-06.html")
-        check("works offline (day 6)", len(pg4.inner_text("main")) > 1500)
+        pg4.goto(BASE + f"{SLUG}/de/tag-{min(TOTAL, 6):02d}.html")
+        check("works offline (late day)", len(pg4.inner_text("main")) > 1500)
     except Exception as e:
-        check("works offline (day 6)", False, str(e)[:80])
+        check("works offline (late day)", False, str(e)[:80])
     b.close()
 
 print(f"\n{sum(1 for _, c in ok if c)}/{len(ok)} checks passed")

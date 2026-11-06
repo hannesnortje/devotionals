@@ -13,6 +13,7 @@ Devotional series by Dr. Johannes (Hannes) A. Nortjé in German, English and Afr
 | Micah – *Wer ist ein Gott wie du? / Who Is a God Like You? / Wie is 'n God soos U?* (14 days, own translation from the Hebrew, WLC; Hebrew verse numbering) | [`/micha/`](https://hannesnortje.github.io/devotionals/micha/) | `docs/micha/pdf/micha-{de,en,af}.pdf` | `docs/micha/pdf/micha-kit-{lang}.pdf`, `micha-slides-{lang}.pdf` |
 | Nahum – *Eine Zuflucht am Tag der Not / A Refuge in the Day of Distress / 'n Toevlug op die Dag van Nood* (6 days, own translation from the Hebrew, WLC; Hebrew verse numbering) | [`/nahum/`](https://hannesnortje.github.io/devotionals/nahum/) | `docs/nahum/pdf/nahum-{de,en,af}.pdf` | `docs/nahum/pdf/nahum-kit-{lang}.pdf`, `nahum-slides-{lang}.pdf` |
 | Habakkuk – *Dennoch will ich jubeln / Yet I Will Rejoice / Tog sal ek Jubel* (6 days, own translation from the Hebrew, WLC) | [`/habakuk/`](https://hannesnortje.github.io/devotionals/habakuk/) | `docs/habakuk/pdf/habakuk-{de,en,af}.pdf` | `docs/habakuk/pdf/habakuk-kit-{lang}.pdf`, `habakuk-slides-{lang}.pdf` |
+| Zephaniah – *Er jubelt über dich / He Rejoices over You / Hy Jubel oor Jou* (5 days, own translation from the Hebrew, WLC) | [`/zefanja/`](https://hannesnortje.github.io/devotionals/zefanja/) | `docs/zefanja/pdf/zefanja-{de,en,af}.pdf` | `docs/zefanja/pdf/zefanja-kit-{lang}.pdf`, `zefanja-slides-{lang}.pdf` |
 
 ## Layout
 

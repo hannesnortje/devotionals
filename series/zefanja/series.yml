@@ -1,0 +1,72 @@
+# Series settings – see PLAYBOOK.md
+slug: zefanja
+order: 8
+original_language: he
+site_url: https://hannesnortje.github.io/devotionals/zefanja/
+book:
+  de: Zefanja
+  en: Zephaniah
+  af: Sefanja
+avoid_words:
+  af:
+  - "Hy sal Hom oor jou verbly met vreugde"
+  - "Hy sal oor jou juig met gejubel"
+  - "'n dag van benoudheid en angs"
+  - "verwoesting en vernieling"
+  - "die ootmoediges van die land"
+  - "miskien sal julle verberg word"
+  - "'n rein lip"
+  de:
+  - "Tag des Grimmes"
+  - "Trübsal und Angst"
+  - "Wetter und Ungestüm"
+  - "Posaune und Drommete"
+  - "ihr Elenden im Lande"
+  - "dir freundlich sein"
+  - "er wird dir vergeben in seiner Liebe"
+  - "reine Lippen geben"
+  - "einträchtig dienen"
+  - "Jauchze, du Tochter Zion"
+  - "ein starker Heiland"
+  en:
+  - "trouble and distress"
+  - "wasteness and desolation"
+  - "darkness and gloominess"
+  - "trumpet and alarm"
+  - "all ye meek of the earth"
+  - "ye shall be hid"
+  - "a pure language"
+  - "with one consent"
+  - "he will rest in his love"
+  - "joy over thee with singing"
+  - "rejoice over thee with joy"
+  - "rejoice over you with singing"
+  - "quiet you by his love"
+strings:
+  de:
+    series_title: Er jubelt über dich
+    series_subtitle: 5 Andachten zum Buch Zefanja
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: Das ganze Buch Zefanja
+    whole_book_intro: Der vollständige Text des Buches Zefanja in der Übersetzung, die in diesen Andachten verwendet wird.
+    kit_intro: Drei Treffen für Hauskreise und Kleingruppen – ein Treffen pro Kapitel, je 75 bis 90 Minuten.
+    k_hebrew: Ein Blick ins Hebräische
+    translation_note: 'Bibeltext: eigene Übersetzung aus dem Hebräischen (Masoretischer Text) von Dr. Johannes A. Nortjé. Die Verszählung folgt dem hebräischen Text.'
+  en:
+    series_title: He Rejoices over You
+    series_subtitle: 5 devotionals on Zephaniah
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: The whole book of Zephaniah
+    whole_book_intro: The complete text of Zephaniah in the translation used in these devotionals.
+    kit_intro: Three sessions for home groups and small groups – one per chapter, 75 to 90 minutes each.
+    k_hebrew: A look at the Hebrew
+    translation_note: 'Scripture: own translation from the Hebrew (Masoretic Text) by Dr. Johannes A. Nortjé. Verse numbers follow the Hebrew text.'
+  af:
+    series_title: Hy Jubel oor Jou
+    series_subtitle: 5 oordenkings oor Sefanja
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: Die hele boek Sefanja
+    whole_book_intro: Die volledige teks van Sefanja in die vertaling wat in hierdie oordenkings gebruik word.
+    kit_intro: Drie byeenkomste vir huisgroepe en kleingroepe – een per hoofstuk, elk 75 tot 90 minute.
+    k_hebrew: '''n Blik op die Hebreeus'
+    translation_note: 'Skrifteks: eie vertaling uit die Hebreeus (Masoretiese Teks) deur Dr. Johannes A. Nortjé. Die versnommering volg die Hebreeuse teks.'
