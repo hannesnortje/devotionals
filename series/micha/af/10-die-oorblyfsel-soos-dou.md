@@ -23,7 +23,7 @@ Vervolgens skilder Miga in vers 6–7 die tweevoudige roeping van die gelowige o
 - **Viervoudige "Ek wis uit" (*wehikhratti* – וְהִכְרַתִּי):** In vers 9 tot 12 gebruik die Here vier keer die kragtige werkwoord *hikhratti* ("Ek sny af / wis uit"), gevolg deur *wenatashti* ("Ek ruk uit", v. 13). Dit is dieselfde werkwoord wat gebruik word wanneer 'n verbond "gesny" (gesluit) word, en ook vir die afkap van 'n boom (vgl. Jeremia 10:3). Let op die twee groepe valse stutte wat God uit sy volk wegsny:
 
 1. **Militêre selfvertroue:** Perde (*susim*), strydwaens (*merkavot*) en vestings (*mivtsarim*). (Deuteronomium 17:16 het Israel se konings reeds verbied om baie perde aan te hou sodat hulle nie op menslike mag sou roem nie.)
-2. **Geestelike manipulasie en afgodery:** Towerye (*keshafim* – pogings om die toekoms buite God om te beheer), waarsêers (*me'onenim*), gesnede beelde (*pesilim*), klippilare (*matsevot*) en Asjeras (*asherim*).
+2. **Geestelike manipulasie en afgodery:** Towerye (*keshafim* – pogings om die toekoms buite God om te beheer), waarsêers (*me'onenim*), gesnede beelde (*pesilim*), klippilare (*matsevot*) en Asjeras (*asherim*, v. 13 – houtkultuspale of gestileerde heilige bome wat langs altare opgerig is en met die Kanaänitiese godin Asjera verbind was; vgl. Deuteronomium 16:21; 2 Konings 23:6).
 
 ### Kern Teologiese Waarhede
 

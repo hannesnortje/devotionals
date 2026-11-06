@@ -23,7 +23,7 @@ Dann malt Micha in den Versen 6–7 die doppelte Berufung des gläubigen Restes 
 - **Das vierfache „Ich tilge“ (*wehikhratti* – וְהִכְרַתִּי):** In den Versen 9 bis 12 gebraucht der HERR viermal das kraftvolle Verb *hikhratti* („ich schneide ab, ich tilge“), gefolgt von *wenataschti* („ich reiße aus“, V. 13). Es ist dasselbe Verb, mit dem man einen Bund „schneidet“ (schließt), und es wird auch für das Fällen eines Baumes gebraucht (vgl. Jeremia 10,3). Achte auf die zwei Gruppen falscher Stützen, die Gott aus seinem Volk herausschneidet:
 
 1. **Militärisches Selbstvertrauen:** Pferde (*susim*), Wagen (*merkavot*) und Festungen (*mivtsarim*). (Schon 5. Mose 17,16 hatte Israels Königen verboten, viele Pferde zu halten, damit sie sich nicht menschlicher Macht rühmen.)
-2. **Geistliche Manipulation und Götzendienst:** Zaubereien (*keschafim* – Versuche, die Zukunft an Gott vorbei zu beherrschen), Zeichendeuter (*me'onenim*), Schnitzbilder (*pesilim*), Steinmale (*matsevot*) und Ascheren (*ascherim*).
+2. **Geistliche Manipulation und Götzendienst:** Zaubereien (*keschafim* – Versuche, die Zukunft an Gott vorbei zu beherrschen), Zeichendeuter (*me'onenim*), Schnitzbilder (*pesilim*), Steinmale (*matsevot*) und Ascheren (*ascherim*, V. 13 – hölzerne Kultpfähle oder stilisierte heilige Bäume, die neben Altären aufgestellt wurden und mit der kanaanäischen Göttin Aschera verbunden waren; vgl. 5. Mose 16,21; 2. Könige 23,6).
 
 ### Zentrale theologische Wahrheiten
 

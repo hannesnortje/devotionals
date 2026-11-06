@@ -23,7 +23,7 @@ Next, in verses 6–7 (English 5:7–8), Micah paints the twofold calling of the
 - **The fourfold "I will cut off" (*wehikhratti* – וְהִכְרַתִּי):** In verses 9 to 12 (English 5:10–13) the LORD uses the forceful verb *hikhratti* ("I will cut off") four times, followed by *wenatashti* ("I will uproot", v. 13). It is the same verb used when a covenant is "cut" (made), and also for cutting down a tree (cf. Jeremiah 10:3). Notice the two groups of false supports that God cuts away from his people:
 
 1. **Military self-confidence:** horses (*susim*), chariots (*merkavot*) and fortresses (*mivtsarim*). (Deuteronomy 17:16 had already forbidden Israel's kings to keep many horses, so that they would not boast in human power.)
-2. **Spiritual manipulation and idolatry:** sorceries (*keshafim* – attempts to control the future apart from God), fortune-tellers (*me'onenim*), carved images (*pesilim*), sacred pillars (*matsevot*) and Asherah poles (*asherim*).
+2. **Spiritual manipulation and idolatry:** sorceries (*keshafim* – attempts to control the future apart from God), fortune-tellers (*me'onenim*), carved images (*pesilim*), sacred pillars (*matsevot*) and Asherah poles (*asherim*, v. 13, English 5:14 – wooden cult poles or stylised sacred trees set up beside altars and linked with the Canaanite goddess Asherah; cf. Deuteronomy 16:21; 2 Kings 23:6).
 
 ### Core Theological Truths
 
