@@ -22,7 +22,7 @@ Kom ons delf in die rykdom van die oorspronklike Griekse terme in hierdie ses ve
 - **Die dienaar in die huis teenoor die Seun oor die huis (*therapōn* – θεράπων teenoor *huios* – υἱός, verse 5–6a):** In vers 5 word Moses 'n *"dienaar"* genoem. Die skrywer gebruik nie die gewone Griekse woord vir 'n slaaf (*doulos* – δοῦλος) nie, maar die baie edel woord *therapōn*. 'n *Therapōn* was 'n vertroude, geëerde dienaar, 'n persoonlike vertroueling van sy heer. Moses se hoë roeping as *therapōn* in die huis was *"om te getuig van wat later gespreek sou word"* — met ander woorde, alles wat Moses gedoen en geskryf het (die tabernakel, die offers, die uittog), was 'n profetiese vooruitskouing wat na die toekomstige koms van Christus gewys het. Maar kyk na die kontras in vers 6: Moses was 'n dienaar **in** (*en* – ἐν) die huis, maar Christus is *"as Seun oor sy huis"* — **oor** (*epi* – ἐπί) die huis! Die dienaar voer opdragte uit binne die huishouding, maar die Seun is die regmatige Erfgenaam en Heerser aan wie die hele huis behoort.
 - **Ons is sy huis (*parrēsia* – παρρησία en *kauchēma* – καύχημα, vers 6b):** *Parrēsia* beteken vrymoedige openhartigheid en onbeskaamde sekerheid om voor God te staan, en *kauchēma* beteken 'n jubelende trots of blydskap in die hoop wat op ons wag. (Die woorde ‘tot die einde toe onwrikbaar’ wat ouer vertalings hier in vers 6 het, staan nie in die oudste handskrifte nie; die skrywer gebruik dit wel in vers 14.)
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Jesus is Apostel en Hoëpriester in een Persoon:** In die Ou Verbond was Moses die gestuurde en Aäron die hoëpriester. In die Nuwe Verbond vervul Jesus **albei** hierdie ampte volmaak in een Persoon: as Apostel kom Hy van God na ons toe om die Vader bekend te maak; as Hoëpriester gaan Hy namens ons na God toe om versoening te doen.
 2. **Christus is die goddelike Bouer, nie deel van die gebou nie:** Moses was self deel van die "huis" (die geloofsgemeenskap); hy was 'n verloste sondaar binne Israel wat self genade nodig gehad het. Moses is 'n eerbare deel van die gebou, maar Christus is die goddelike Argitek wat die hele huishouding én die heelal tot stand gebring het.
@@ -39,7 +39,7 @@ Hebreërs 3:1 gee vir ons die eenvoudige, kragtige teenmiddel vir geestelike moe
 - Wanneer jy skuldig en onwaardig voel, kyk na Jesus as jou **Hoëpriester**: Hy staan namens jou voor die Vader en pleit sy eie bloed vir jou vryspraak.
 - Wanneer jy bekommerd is oor die kerk, jou gesin of jou eie geestelike groei, kyk na Jesus as die **Bouer en Seun oor die huis**: Jy hoef nie die dak van jou lewe met jou eie krag op te hou nie. Jy behoort aan sy huishouding, en die Seun regeer oor sy eie huis.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Waarop oefen jy jou aandag (*katanoeō*)?** As jy eerlik kyk na dit waaroor jy die meeste deur die dag dink en peins, kry Jesus as jou Apostel en Hoëpriester jou diepste fokus, of kry Hy net die oorskiet-oomblikke van jou aandag?
 - **Dienaars teenoor die Seun:** Het jy dalk jou geestelike sekuriteit gekoppel aan 'n menslike leier, 'n gemeente of 'n tradisie ("dienaars in die huis"), in plaas daarvan om jou direk aan die Seun te anker wat *oor* die huis regeer?

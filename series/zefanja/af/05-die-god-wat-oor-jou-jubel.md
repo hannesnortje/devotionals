@@ -25,7 +25,7 @@ Hierdie slotgedeelte is die geestelike kruin van Sefanja – en die laaste dag v
 - **Hy jubel oor jou met 'n vreugdelied (*yagil 'alayikh berinnah* – יָגִיל עָלַיִךְ בְּרִנָּה):** Die woord *gil* word soms verbind met "in die rondte draai" – dans van vreugde – al is dié afleiding nie seker nie; dit is in elk geval uitbundige vreugde, vergesel van 'n harde jubellied (*rinnah*). *Rinnah* kom van dieselfde stam as *ranan* in vers 14: Sion word geroep om te sing – en dan hoor sy dat God oor háár sing.
 - **Die kreupele en die verstotene (*hatsole'ah … hanniddachah* – הַצֹּלֵעָה … הַנִּדָּחָה):** Herderstaal vir skape wat seergekry het, mank loop en deur roofdiere verstrooi is (vgl. Miga 4:6–7).
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die Vryspraak en die Teenwoordigheid van die Koning (verse 14–16):** Waarom kan 'n stad wat kort tevore nog onder 'n swaar oordeel gestaan het, nou so uitbundig feesvier? Vers 15 gee die dubbele rede:
    - **Regverdigmaking:** *"Die HERE het die vonnisse teen jou weggeneem"*. Die vonnis is gekanselleer en die aanklagstaat is skoongevee.
@@ -47,7 +47,7 @@ Sefanja 3:14–20 breek daardie verdraaide godsbeeld in stukke. Vir elkeen wat i
 
 Wanneer die Heilige Gees in jou woon, is die Koning *in jou midde* (vers 15). En wat doen Hy? Hy **swyg in sy liefde** – Hy bring nie jou belyde sondes van gister weer teen jou op nie. Nog meer verbasend: Hy **sing oor jou**! Wanneer jou hande vandag slap hang van moedeloosheid, uitputting of selfverwyt, herinner Sefanja jou dat jy nie hoef te probeer om deur jou eie krag na God op te klim nie. Die magtige Held het reeds na jou toe neergedaal. Hy tel die "kreupele" en gebroke dele van jou lewe op, verander jou skande in 'n getuienis van sy genade, en nooi jou om stil te word en te luister na die lied van verlossing wat Hy oor jou lewe sing.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Glo jy werklik in jou diepste binneste dat God van *blydskap* oor jou straal en met 'n vreugdelied oor jou jubel, of leef jy steeds asof jy sy goedkeuring moet verdien? Wat verhinder jou om sy vreugde oor jou te aanvaar?
 - In watter area van jou lewe hang jou hande tans slap van moedeloosheid (vers 16)? Hoe verander die wete dat die Here as *"'n held wat red"* binne-in daardie situasie teenwoordig is, jou moed vandag?

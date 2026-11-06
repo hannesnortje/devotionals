@@ -30,7 +30,7 @@ Die Hebreeuse teks skilder die spanning tussen menslike magteloosheid en Goddeli
 - **"Opgehou om te woed" (*wayyaamod mizzapo* – וַיַּעֲמֹד מִזַּעְפּוֹ):** Die woord *zaaf* verwys na hewige toorn of raserny. Letterlik staan daar: *"En die see het stilgestaan van sy woede."* Net soos toe Jesus later op die See van Galilea die storm bestraf het (Markus 4:39), sak die kolkende deining nie geleidelik oor ure af nie — dit gaan staan oombliklik doodstil.
 - **"Die HERE gevrees met 'n groot vrees" (*wayyireu haanashim yirah gedolah et-YHWH* – וַיִּירְאוּ הָאֲנָשִׁים יִרְאָה גְדוֹלָה אֶת־יְהוָה):** Toe die storm woed, was hulle bang; toe die doodse stilte toesak, word hulle eers regtig bevrees! Waarom? Omdat hulle besef het dat hulle in die onmiddellike teenwoordigheid staan van die Lewende God wat volle gesag oor die skepping voer. Hul paniek verander in aanbidding (*'n slagoffer en geloftes*).
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die Futiliteit van "Harder Roei" Teen God se Wil:** Vers 13 is die tydlose beeld van die mens wat probeer om 'n geestelike krisis met menslike sweet op te los. Jy kan jou arms stukkend "grawe" in die golwe van die lewe, maar menslike inspanning kan nooit die plek van oorgawe aan God se woord inneem nie.
 2. **God se Soewereine Vryheid:** In hul gebed in vers 14 bely die matrose: *"Want U, HERE, het gedoen soos dit U behaag het."* In 'n wêreld van wispelturige natuurgode verkondig hierdie bekeerde seeliede die hart van Bybelse teologie: Jahwe regeer soewerein oor goed en kwaad, oor wind en menslike lotgevalle (Psalm 115:3).
@@ -45,7 +45,7 @@ Waak ook teen Jona se vrome fatalisme in vers 12. Dit is moontlik om jou skuld v
 
 Laastens nooi hierdie gedeelte ons tot diepe aanbidding. Toe die matrose sien hoe die woedende see in 'n oogwink voor die aangesig van die Here bedaar, is hulle met heilige ontsag gevul en het hulle 'n offer gebring. Wanneer laas het jy stilgestaan by die kruis van Christus en besef dat die geweldige storm van oordeel wat jou moes verswelg, heeltemal gestil is omdat Jesus in jou plek in die diepte gewerp is? Laat daardie besef jou vandag van blote godsdienstige roetine na ware, dankbare aanbidding verskuif.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Waar "grawe" ek tans met my eie roeispane?** In watter situasie probeer ek deur uiterste menslike beheer en eie krag 'n oplossing afdwing, terwyl die Here eintlik net vra dat ek moet oorgee?
 - **Kies ek soms selfverwyt bo gehoorsaamheid?** Is ek geneig om soos Jona in passiewe skuldgevoelens te verval (*"Alles is my skuld, los my maar"*) in plaas daarvan om daadwerklik na God terug te draai en reg te maak wat verkeerd is?

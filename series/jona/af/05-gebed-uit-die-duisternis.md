@@ -25,7 +25,7 @@ Die Hebreeuse teks van hierdie vier verse bevat van die rykste teologiese uitdru
 - **"Die redding is van die HERE!" (*yeshu'atah la-YHWH* – יְשׁוּעָתָה לַיהוָה):** Die woord vir "redding", "heil" of "bevryding" is *yeshu'ah* — die presiese woordstam waarvan die naam **Yeshua (Jesus)** kom ("die HERE is redding"). Met 'n intensiewe, poëtiese vorm verklaar Jona hier die kernboodskap van die hele Skrif: verlossing is nooit 'n menslike prestasie of 'n verdienste nie; dit behoort van begin tot einde aan die Here alleen.
 - **"Uitgespoeg" (*wayyaqe* – וַיָּקֵא):** Die werkwoord *qo* beteken letterlik om op te bring of te braak. Net soos die land Kanaän sy inwoners "uitgespoeg" het weens hulle onreinheid (Levitikus 18:25), kon selfs die vis hierdie hardkoppige profeet uiteindelik nie langer binnehou nie — maar op God se bevel spoel hy lewend en gesond op die droë land uit!
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Geestelike herinnering as die keerpunt van wanhoop:** Jona sê in vers 8: *"Toe my siel in my versmag het, het ek aan die HERE gedink."* In die Bybelse denke is "om te onthou" (*zakhar*) veel meer as 'n verstandelike geheue-oefening; dit is om jou fokus van jou oorweldigende probleem af weg te skeur en jou hart doelbewus te anker in wie God is. Ons gebede hoef nie lank of indrukwekkend te wees om deur die waters tot in God se heilige tempel te dring nie.
 2. **Die tragiese ruiltransaksie van afgodery:** Vers 9 vat die dwaasheid van alle sonde in een sin saam. Elke keer as ons op 'n "leë damp" vertrou — of dit nou ons eie beheer, geld, menslike goedkeuring of bitterheid is — gee ons die ervaring van God se *chesed* (Sy liefdevolle nabyheid) prys. Sonde gee nooit wat dit beloof nie; dit steel net die genade wat ons reeds in God kon geniet het.
@@ -40,7 +40,7 @@ Hierdie slotgedeelte leer ons ook die geheim van **dankbare oorgawe te midde van
 
 Uiteindelik beland Jona weer op die droë land — waarskynlik bleek, nat en gestroop van al sy vroeëre arrogansie, maar **lewend en met 'n tweede kans**. Maak nie saak hoe ver jy gevlug het of hoe lank jy in die donker gevolge van jou eie keuses vasgevang was nie: wanneer die Here jou op die strand van Sy genade neersit, is jou storie nog nie verby nie. Hy red jou uit die diepte sodat Hy jou weer kan stuur met Sy boodskap van lewe — en môre sien ons hoe presies dit met Jona gebeur.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Watter "leë dampe" beroof my tans van God se *chesed*?** Op watter tydelike dinge, menslike sekuriteite of eiesinnige planne plaas ek my vertroue, wat veroorsaak dat ek die ervaring van God se nabyheid en vrede misloop?
 - **Waarheen gaan my gedagtes wanneer my siel in my versmag?** Is my eerste refleks in tye van uitputting om dieper in selfbejammering en paniek weg te sink, of om soos Jona doelbewus "aan die HERE te dink"?

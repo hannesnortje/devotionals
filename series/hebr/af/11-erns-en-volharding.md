@@ -28,7 +28,7 @@ Kom ons delf in die rykdom van die oorspronklike Griekse terme en die teologiese
 - **Dinge wat by redding hoort (*echomena sōtērias* – ἐχόμενα σωτηρίας, verse 9–10):** In vers 9 verander die toon onmiddellik. Dit is die enigste plek in die hele brief waar die skrywer sy lesers aanspreek as **"geliefdes"** (*agapētoi*). Hy is "oortuig van beter dinge by julle" (soos die vrugbare grond van vers 7) — "dinge wat by redding hoort" (*echomena sōtērias* — dinge wat onlosmaaklik aan ware redding gekoppel is). Hoe weet hy dat hulle werklik gered is en nie dorings en distels is nie? Vers 10 gee die antwoord: deur hulle **werk en die liefde** wat hulle vir God se Naam bewys het. (Ouer vertalings lees hier "die arbeid van die liefde"; dié woorde kom in party handskrifte voor, maar nie in die Griekse teks wat ons volg nie — vgl. 1 Tessalonisense 1:3.) Hulle het nie net met hulle mond gesê hulle ken God nie; hulle het onder moeilike omstandighede hul medegelowiges ("die heiliges") prakties en opofferend gedien en doen dit steeds! En God is regverdig: Hy vergeet nooit 'n enkele beker koue water of daad van liefde wat ter wille van sy Naam bewys is nie.
 - **Geloof en geduld tot die einde toe (*plērophoria* – πληροφορία en *makrothymia* – μακροθυμία, verse 11–12):** Die skrywer se hartsbegeerte is dat elkeen van hulle dieselfde ywer (*spoudēn* – σπουδήν) sal toon "vir die volle sekerheid van die hoop tot die einde toe" (*plērophorian tēs elpidos* – πληροφορίαν τῆς ἐλπίδος — soos 'n seilskip waarvan die seile bol staan van die wind). Hy waarsku hulle om nie weer "traag" (*nōthroi* – νωθροί — dieselfde woord as in 5:11!) te word nie, maar om "navolgers" (*mimētai* – μιμηταί) te word van die geloofshelde wat deur twee dinge die beloftes erf: **geloof** (*pistis* – πίστις) én **geduld** (*makrothymia* — 'n lang asem wat aanhou glo selfs wanneer daar 'n lang tyd verloop tussen God se belofte en die vervulling daarvan).
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Bevoorregting is nie dieselfde as vrug nie:** 'n Mens kan die lig, die gawe, die werking van die Gees en die kragte van die komende eeu van naby beleef, en tog Christus verwerp.
 2. **Daar is geen ander offer buiten Christus nie:** Wie die enigste Hoëpriester en die enigste kruisoffer verwerp, het geen "Plan B" vir redding nie; solank iemand die Seun van God weer kruisig, is bekering onmoontlik.
@@ -46,7 +46,7 @@ Tweedens gee vers 10 vir elke moedelose dienskneg van die Here 'n onbeskryflike 
 
 Laastens herinner vers 12 ons dat God se beloftes nie net deur *geloof* verkry word nie, maar deur *geloof gekoppel aan geduld* (*makrothymia*). Ons leef in 'n kitskultuur wat alles onmiddellik wil hê. Wanneer God se belofte of uitkoms talm, raak ons maklik traag en moedeloos. Maar ware geloof het uithouvermoë; dit hou vas aan God se karakter selfs in die lang wagkamer tussen die belofte en die vervulling.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Reën en oes:** Watter spesifieke "nuttige plante" (in jou karakter, jou gesin of jou diens aan ander) het die geestelike reën wat jy die afgelope paar maande ontvang het, in jou lewe voortgebring?
 - **Die werk van die liefde:** Dien jy tans ander gelowiges prakties ter wille van die Here se Naam (vers 10), en hoe bemoedig dit jou om te weet dat God self elke opoffering wat jy maak, raaksien en onthou?

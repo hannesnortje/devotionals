@@ -27,7 +27,7 @@ Die oorspronklike Griekse teks ontvou die krag van hierdie ses verse op 'n asemr
   3. *Die waarskuwing teen afvalligheid (vers 12b):* "As ons Hom sal verloën, sal Hy ons ook verloën" (*arnēsometha* – ἀρνησόμεθα, toekomende tyd). Dit is 'n regstreekse eggo van Jesus se eie woorde in Matteus 10:33. Dit verwys nie na 'n oombliklike struikeling soos Petrus s'n wat in berou eindig nie, maar na 'n finale, volhardende verwerping van Christus om jou eie vel in hierdie wêreld te red.
   4. *Die anker van God se karakter (vers 13):* "As ons ontrou is, bly Hy getrou – want Homself kan Hy nie verloën nie" (*apistoumen* – ἀπιστοῦμεν; *pistos menei* – πιστὸς μένει). Sommige verklaarders sien dit as 'n waarskuwing dat God getrou bly aan sy regverdige oordeel selfs wanneer mense ontrou is; maar binne die pastorale konteks van Timoteus se vrees en swakheid dra dit 'n oorweldigende troos: wanneer ons geloof wankel en ons menslike swakheid ons in die steek laat, verander dit nooit wie Christus is nie. Sy verbondstrou hang nie af van die wisselvalligheid van ons greep op Hom nie, maar van sy onwrikbare greep op ons, want ontrouheid is vir sy heilige natuur 'n onmoontlikheid!
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **'n Gepynigde geheue moet gevul word met die opgestane Christus:** Die beste medisyne vir 'n moedelose hart is om doelbewus stil te staan by die leë graf en die lewende Persoon van Jesus.
 2. **Ons beperkings is nooit God se beperkings nie:** Jou liggaam mag op 'n siekbed lê en jou omstandighede mag jou vasdruk, maar God se Woord beweeg steeds vry en magtig om harte te verander.
@@ -42,7 +42,7 @@ Miskien voel jy vandag op een of ander manier "geboei". Dalk word jy beperk deur
 
 Laastens, laat die lied van verse 11 tot 13 jou vandag sowel wakker skud as vertroos. Dit skud ons wakker dat goedkoop naamchristenskap wat Christus verloën sodra dit ongemaklik raak, geen toekoms het nie. Maar as jy vandag 'n kind van God is wat worstel met jou eie gebrekkige geloof – as jy na jou swakhede en jou struikelinge kyk en wonder of die Here al moeg geword het vir jou – hoor die wonderlike evangelie van vers 13: wanneer ons geloof flou en wankelrig is, bly Hy getrou! Hy kan nie anders as om getrou te wees aan die kind wat Hy met sy eie bloed gekoop het nie, want om jou weg te stoot wanneer jy in jou swakheid na Hom uitroep, sou beteken dat Hy Homself verloën.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Wanneer ek deur 'n moeilike seisoen of teenstand gaan, wat oorheers my gedagtes: die grootte van my omstandighede, of die lewende werklikheid van die opgestane Jesus Christus?
 - Is daar 'n situasie waarin ek tans voel dat my hande vasgebind of "geboei" is, en hoe kan ek daarop vertrou dat God se ongeboeide Woord selfs deur my beperkings heen sy doel sal bereik?

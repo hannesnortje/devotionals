@@ -23,7 +23,7 @@ Gedurende die agtste eeu v.C. het 'n magtige, welvarende elite in Jerusalem en S
 - **Goddelike woordspeling en poëtiese geregtigheid (*chashav* – חָשַׁב):** Let op die skerp ommekeer tussen vers 1 en vers 3. In vers 1 lê die onderdrukkers op hul beddens en **beplan** (*chashav* – bedink, weef) onheil teen die weerloses. In vers 3 antwoord die HERE: *"Kyk, Ek **beplan** teen hierdie geslag kwaad"*! Die skelm planmakers loop hul vas teen die oppermagtige Planmaker van die heelal.
 - **Erfdeel (*nachalah* – נַחֲלָה):** In vers 2 beklemtoon Miga dat hulle *"'n man en sy huis, 'n mens en sy erfdeel"* onderdruk. Om iemand se *nachalah* te steel, was om sy toekoms, sy gesin se sekuriteit en sy Godgegewe plek in Israel uit te wis.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Sonde word eers in die gedagtewêreld uitgebroei voordat dit in die daglig uitgevoer word:** Die bed is bedoel om 'n plek van rus, gebed en oorgawe aan God te wees (vgl. Psalm 4:5; 63:7). Wanneer 'n mens se hart egter deur hebsug regeer word, word die nagtelike ure 'n werkswinkel waar selfsugtige planne gesmee word.
 2. **Wettig in mense se oë beteken nie regverdig in God se oë nie:** Die grondrowers van Juda het waarskynlik nie met swaarde opgedaag nie; hulle het skuldbriewe, rentekoerse en korrupte regters gebruik. Dit was binne *"die mag van hulle hand"*. Maar God kyk verby ons tegniese verskonings en sien die uitbuiting van 'n medemens raak.
@@ -40,7 +40,7 @@ Die tweede spieël is **hoe ons die "mag van ons hand" gebruik**. Elkeen van ons
 
 Ware rykdom lê nooit in wat ons ten koste van ander bymekaarskraap nie, maar in tevredenheid met die erfdeel wat die Here self met sy genade-meetsnoer vir ons afgemeet het (Psalm 16:5–6).
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Waaroor maal jou gedagtes gewoonlik in die stil ure van die nag of vroeg in die oggend: word dit oorheers deur kommer, wrok en selfsugtige ambisie, of deur vertroue en oordenking van God se Woord?
 - Is daar tans iets in iemand anders se lewe (hul besittings, erkenning, aanleg of omstandighede) wat jy stilweg begeer (*chamad*), sodat dit jou dankbaarheid vir jou eie lewe steel?

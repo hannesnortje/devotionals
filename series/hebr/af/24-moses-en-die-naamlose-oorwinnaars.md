@@ -25,7 +25,7 @@ Kom ons ondersoek die oorspronklike Griekse insigte en die teologiese struktuur 
 
 4. **Saam met ons tot volmaaktheid gebring (*chōris hēmōn* – χωρὶς ἡμῶν, verse 39–40):** Die hoofstuk sluit met 'n verrassende openbaring af. Al hierdie Ou-Testamentiese reuse van die geloof het 'n wonderlike getuienis van God ontvang, maar hulle het op aarde gesterf sonder om "die belofte" (die finale koms van die Messias en die voltooide nuwe verbond) te beleef. Waarom? *"Omdat God vir ons iets beters voorsien het, sodat hulle nie sonder ons* (*chōris hēmōn*) *tot volmaaktheid gebring sou word nie."*
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Geloof bepaal waarde in die lig van die ewigheid:** Moses het die smaad van die Christus as groter rykdom geag as die skatte van Egipte, omdat sy oë op die beloning gerig was.
 2. **Geloof sien die Onsigbare:** Wanneer jy die onsigbare Koning met die oog van geloof sien, krimp die woede van aardse magte tot nietigheid.
@@ -40,7 +40,7 @@ Die eerste wanopvatting is dat die wêreld se blink aanbiedinge regtig die moeit
 
 Die tweede wanopvatting is dat groot geloof jou altyd teen lyding, siekte of teëspoed gaan vrywaar. Sommige stemme beweer dat as jy genoeg geloof het, jy altyd in die eerste helfte van die lys (verse 32–35a) sal wees: mure sal val, leeus se bekke sal toegaan en elke krisis sal oornag verdwyn. Maar kyk na verse 35b tot 38! Die mense wat in armoede, gevangenskap, chroniese verdrukking en martelaarskap gely het, het nie *minder* geloof gehad as dié wat wonderwerke beleef het nie; inteendeel, dit is juis oor húlle dat God uitroep: **"Die wêreld was hulle nie werd nie!"** Of God vandag kies om die storm om jou stil te maak (soos by die Rooi See), en of Hy kies om jou deur die vuur te dra sonder dat jy kompromie aangaan – in albei gevalle triomfeer jou geloof omdat jou oë op die "beter opstanding" gerig is.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Moses se skaal (verse 24–26):** As jy vandag die wêreld se goedkeuring en gerief op die een kant van die skaal sit, en gehoorsaamheid aan Christus (selfs al bring dit ongemak of smaad) op die ander kant – watter kant weeg in jou praktiese keuses die swaarste?
 - **Sien jy die Onsigbare (vers 27)?** Watter "woede van die koning" of aardse druk maak jou tans bang? Hoe verander jou vrees wanneer jy jou oë van die aardse bedreiging af wegdraai en fokus op die onsigbare Koning wat by jou staan?

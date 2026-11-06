@@ -27,7 +27,7 @@ Dan val die hamer van God se onvergeetlike antwoord in vers 8: wat die HERE by j
 2. **Om goedertierenheid lief te hê (*ahavat chesed* – וְאַהֲבַת חֶסֶד):** Ouer Afrikaanse vertalings het hierdie woorde vryer weergegee, maar letterlik staan daar: **om *chesed* lief te hê** – en so vertaal ons ook: *"goedertierenheid lief te hê"*. *Chesed* is een van die rykste woorde in Hebreeus: dit beteken lojale verbondsliefde, trou, barmhartigheid en onverdiende genade. En dit is juis die woord wat Miga aan die einde van die boek vir God self gebruik: *"Hy het behae in goedertierenheid"* (7:18) en *"aan Abraham goedertierenheid"* (7:20). God vra ons om lief te hê waarin Hy self behae het. Ons moenie net *chesed* uit plig bewys nie; ons moet 'n diep *liefde en vreugde* daarin hê om genadig te wees!
 3. **Om nederig saam met jou God te wandel (*wehatsnea' lekhet 'im Eloheikha* – וְהַצְנֵעַ לֶכֶת עִם אֱלֹהֶיךָ):** Die seldsame werkwoord *tsana'* kom net hier en in Spreuke 11:2 (by die beskeidenes is wysheid) in die Ou Testament voor. Dit beteken om nederig, bedagsaam, sonder vertoon en met 'n aandagtige hart saam met God te stap.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Ware gehoorsaamheid word gebore uit dankbare herinnering aan God se genade:** Voordat God in vers 8 vra hoe sy volk moet leef, herinner Hy hulle eers in vers 4 en 5 aan hoe Hy hulle uit slawerny gered en van Sittim tot by Gilgal gedra het. Wanneer ons vergeet waaruit God ons verlos het, begin sy gebooie vir ons soos 'n vermoeiende las voel (v. 3).
 2. **Geen hoeveelheid godsdienstige aktiwiteit kan vergoed vir 'n ongehoorsame hart nie:** Die mens is bereid om byna enige uiterlike prys te betaal – tyd, geld, kerklike bedrywigheid of uiterste opofferings (v. 6–7) – solank hy net die heerskappy oor sy eie lewe kan behou. Maar God kan nie omgekoop word nie; alles in die heelal behoort reeds aan Hom (Psalm 50:9–12).
@@ -46,7 +46,7 @@ Tweedens bevry vers 8 ons van ingewikkelde godsdienstige raaisels: *"Hy het jou 
 - **Hê *chesed* lief:** Moenie net uit plig vergewe of help nie; vra die Here om vir jou 'n verliefdheid op genade te gee. Wees die mens by wie ander sagte hande, lojale vriendskap en tweede kanse vind.
 - **Wandel nederig saam met jou God:** Nie voor God uit in eiesinnige haas nie, en nie ver agter Hom aan in traagheid nie, maar *saam met Hom* – stap vir stap, luisterend, bewus van jou eie kleinheid en vol verwondering dat die God in die hoogte verkies om langs jou te stap.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Voel jou verhouding met die Here tans vir jou soos 'n vreugdevolle vryheid of soos iets wat jou "moeg maak" (v. 3)? Watter persoonlike "van Sittim tot Gilgal"-oomblikke (waar God jou in die verlede deurgedra het) moet jy vandag weer in herinnering roep?
 - Probeer jy soms om met God te "onderhandel" soos die spreker in vers 6–7 – deur uiterlike godsdienstige pligte, geld of besige aktiwiteite aan te bied in plaas daarvan om 'n spesifieke area van ongehoorsaamheid in jou hart prys te gee?

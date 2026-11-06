@@ -32,7 +32,7 @@ Dieper binne-in, afgeskerm deur 'n dik, swaar tweede voorhangsel, was die binnes
 - **Voorskrifte vir die vlees (*dikaiōmata sarkos* – δικαιώματα σαρκὸς) en wassings (*baptismois* – βαπτισμοῖς, vers 10):** Die Ou-Testamentiese reëls oor "kos en drank en verskillende wassings" was slegs "voorskrifte vir die vlees". Dit kon jou *buitekant* (jou liggaam) seremonieel skoonmaak sodat jy weer in die laer van Israel toegelaat kon word, maar dit kon nooit aan jou *binnekant* raak om die skuldvlek van jou siel af te was nie!
 - **Die tyd van herstel (*kairou diorthōseōs* – καιροῦ διορθώσεως, vers 10):** Dit was slegs tydelike maatreëls, "opgelê tot die tyd van herstel". Die woord *diorthōsis* is onder meer gebruik vir die regsetting van 'n gebreekte been of die radikale hervorming van 'n gebroke stelsel. Met die koms van Christus het daardie groot *diorthōsis* — die nuwe orde wat alles regbuig — uiteindelik aangebreek!
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **God is heilig, en sondige mense het nie vanself toegang tot Hom nie:** Die hele ontwerp van die tabernakel — twee tente, 'n dik voorhangsel, een man, een keer per jaar, nooit sonder bloed nie — het hierdie waarheid sigbaar gemaak.
 2. **Die tabernakel was 'n les van die Heilige Gees:** Solank die eerste tent staande gebly het, was die weg na God se teenwoordigheid nog nie geopenbaar nie. Die ou orde het self vooruit gewys na Iemand wat die weg sou oopmaak.
@@ -52,7 +52,7 @@ Hierdie teks berei ons harte voor om die glorie van Christus (waaroor ons môre 
 - **Erken die bankrotskap van uiterlike godsdiens:** Hou op om jou siel se vrede te probeer koop met uiterlike pligte wat net die "vlees" raak. Erken dat geen menslike herhaling van goeie werke die skuld van die verlede kan uitwis nie.
 - **Sien hoe God reeds onder die Ou Verbond voorsiening gemaak het vir genade:** Kyk weer na vers 4 en 5. Binne-in die verbondsark het die herinneringe aan die mens se sonde gelê (die kliptafels van die wet wat hulle gebreek het, Aäron se staf as teken teen die opstand teen sy priesterskap, die kruik manna by die gekerm oor die brood). As God se oë van heiligheid direk op daardie sonde in die ark gekyk het, moes die volk verteer word. Maar *tussen* die oë van die gérubs en die wet in die ark was die **versoeningsdeksel (*hilastērion*)** met die bloed daarop! In Christus kyk die Vader nie meer na die argief van jou mislukkings nie; Hy kyk deur die versoeningsdeksel van sy Seun se bloed na jou!
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Leef jy nog voor 'n toe voorhangsel?** Voel jou verhouding met God soms nog soos die ou tabernakel — asof Hy ver weg agter dik gordyne weggesteek is en jy net van ver af deur pligsgetroue rituele met Hom kan kommunikeer?
 - **Hoe hanteer jy 'n onrustige gewete?** Wanneer jou gewete (*syneidēsis*) jou aankla oor 'n fout of sonde, watter uiterlike "wassings" of eie pogings gebruik jy dikwels om jouself beter te laat voel, in plaas daarvan om na die versoeningsdeksel van Christus te gaan?

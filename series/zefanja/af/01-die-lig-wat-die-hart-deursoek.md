@@ -22,7 +22,7 @@ Juda het pas uit die donker, byna sestig jaar lange regering van koning Manasse 
 - **Die Dag van die HERE (*yom YHWH* – יוֹם יְהוָה, verse 7, 14–18):** Die woord "dag" klink in hierdie hoofstuk soos 'n klok – in verse 15–16 alleen sewe keer: *'n Dag van woede is daardie dag, 'n dag van nood en benoudheid, 'n dag van ondergang en verderf, 'n dag van duisternis en somberheid, 'n dag van wolke en digte donkerte, 'n dag van ramshoring en krygsgeroep*.
 - **"'n Dag van woede" (*yom 'evrah* – יוֹם עֶבְרָה, vers 15):** *'Evrah* word dikwels verbind met *'avar*, "oorgaan, oorskry" – woede wat oorloop, wat oor die oewers spoel. In die Latynse Bybel (die Vulgaat) begin vers 15 met die woorde *Dies irae, dies illa* – "Dag van toorn, daardie dag". Uit hierdie woorde het die bekende Middeleeuse lied *Dies irae* ontstaan (waarskynlik uit die 13de eeu; dit word dikwels aan Thomas van Celano toegeskryf, maar dit is nie seker nie). Eeue lank is dit in die Latynse Requiem-mis gesing, en komponiste soos Mozart en Verdi het dit getoonset. Sefanja se "dag" het dus deur die hele kerkgeskiedenis heen nagegalm.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 In hoofstuk 1 ontvou kragtige teologiese waarhede wat die fondament vir die res van die boek lê:
 
@@ -39,7 +39,7 @@ Ons grootste versoeking in 'n moderne, welvarende of gejaagde samelewing is dies
 
 Ons leef dikwels Maandag tot Saterdag asof ons saam met hulle sê: *"Die HERE doen nie goed nie, en Hy doen nie kwaad nie"* – asof ons daaglikse besluite, ons integriteit by die werk, hoe ons op sosiale media praat, en waarheen ons gedagtes dwaal, buite sy gesigsveld val. Maar Sefanja herinner ons dat God se liefdevolle, heilige oë met lampe deur die donkerste hoeke van Jerusalem – en van ons harte – beweeg. Hy doen dit nie omdat Hy 'n wrede tiran is nie, maar omdat *die vuur van sy jaloesie* (vers 18) die ywer van 'n jaloerse, liefdevolle Verbondsgod is wat weier om sy kinders aan leë afgode en geestelike dood prys te gee. Vir die gelowige in Christus weet ons dat daardie skrikwekkende "dag van woede" en duisternis (vers 15) ten volle op Golgota oor Jesus uitgegiet is, sodat ons nie vernietig hoef te word nie, maar wakker geskud kan word tot ware lewe.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - As die Here vandag met 'n lamp deur die verborge kamers van jou hart en jou daaglikse roetine stap, watter "afgode" staan daar langs jou aanbidding van Hom? Waarop vertrou jy werklik vir jou vrede en sekuriteit?
 - Is daar areas in jou lewe waar jy geestelik "op jou moer verdik" het – waar gemak, roetine of teleurstelling jou koud en onverskillig gemaak het teenoor God se stem?

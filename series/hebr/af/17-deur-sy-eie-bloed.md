@@ -32,7 +32,7 @@ Die Griekse terme in hierdie vier verse is vol teologiese skatte:
 - **"Van dooie werke" (*apo nekrōn ergōn* – ἀπὸ νεκρῶν ἔργων, vers 14):** "Dooie werke" is werke wat uit 'n geestelik dooie toestand voortkom en na die dood lei – ons sonde en ons eie selfregverdigende pogings.
 - **"Sodat ons die lewende God kan dien" (*eis to latreuein theō zōnti* – εἰς τὸ λατρεύειν θεῷ ζῶντι, vers 14):** *Latreuō* (λατρεύω) beteken om met vreugdevolle priesterlike toewyding te aanbid en te dien.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Christus is die Hoëpriester van die hemelse heiligdom:** Hy het nie 'n aardse tent binnegegaan nie, maar die werklikheid self, die troonsaal van God, waarvan die tabernakel net 'n skaduwee was.
 2. **Sy offer is eenmalig en Sy loskoping is ewig:** Waar Aäron jaar ná jaar moes terugkeer, het Christus eens en vir altyd ingegaan, met Sy eie bloed, en 'n ewige loskoping verkry.
@@ -53,7 +53,7 @@ Hoor vandag die bevrydende boodskap van vers 14 se *"hoeveel te meer"*:
 - **Die krag van Sy bloed is sterker as die vlek van jou skuld:** Daar is geen sonde in jou verlede, geen mislukking in jou hede, en geen klag van die vyand wat bestand is teen die vlekkelose bloed van Christus wat deur die ewige Gees aangebied is nie. As God die Vader met daardie offer volkome tevrede was, wie is jy om jouself steeds te bly aankla?
 - **Gereinig om te dien, nie om te verdien nie:** Let op die volgorde aan die einde van vers 14. Ons dien nie die lewende God *sodat* ons gewete gereinig kan word nie; ons gewete word eers deur Sy bloed gereinig *sodat* ons Hom vrylik kan dien (*latreuein*)! Wanneer die swaar rugsak van skuld en selfverwyt van jou skouers afval, word diens aan God en aan jou medemens nie meer 'n swaar slawe-opdrag nie, maar 'n dankbare liefdesreaksie teenoor die lewende God.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Wat beteken "dooie werke" in jou lewe?** Watter spesifieke dinge doen jy soms uit skuldgevoel, vrees of plig om jou eie gewete te probeer paai, in plaas daarvan om jou skuld direk onder die bloed van Jesus te bring?
 - **Die "hoeveel te meer"-toets:** Sukkel jy soms om jouself te vergewe vir iets wat jy reeds voor die Here bely het? Besef jy dat om aan daardie skuldgevoel vas te klou, eintlik sê dat Christus se bloed nie genoeg was om jou gewete skoon te was nie?

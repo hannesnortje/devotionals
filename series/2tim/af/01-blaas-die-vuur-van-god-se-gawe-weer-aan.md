@@ -28,7 +28,7 @@ Die Griekse grondteks ontbloot die diep emosie en kragtige teologie van hierdie 
   2. *Agapē* (liefde): Selfopofferende liefde vir God en mense wat jou bevry van selfbeheptheid en die vrees vir wat mense aan jou kan doen (vgl. 1 Johannes 4:18).
   3. *Sōphronismos* (selfbeheersing / gesonde verstand): Hierdie woord kom ook slegs hier in die Nuwe Testament voor. Dit beteken 'n gedissiplineerde, kalm en helderdenkende gemoed wat nie in 'n krisis paniekerig raak of deur emosies meegesleur word nie, maar onder die heerskappy van Christus se waarheid bly.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die belofte van die ewige lewe triomfeer oor elke aardse donkerte:** Selfs in 'n dodesel kan 'n kind van God oorloop van dankbaarheid en vrede, omdat ons toekoms deur Christus gewaarborg is.
 2. **Geestelike erfenis is 'n voorreg wat persoonlike toe-eiening vereis:** God gebruik die getroue gebede en onderrig van ouers en grootouers magtig, maar elke geslag moet self die fakkel van 'n opregte geloof opneem.
@@ -45,7 +45,7 @@ Kyk ook eerlik na die rol van **vrees** in jou lewe (vers 7). Ons gebruik dikwel
 
 Wanneer angs of intimidasie vandag aan jou deur klop, herinner jouself aan wie reeds binne-in jou woon: die Gees van **krag** (vir jou swakheid), die Gees van **liefde** (om jou fokus van jouself af na ander te skuif) en die Gees van **selfbeheersing** (wat jou gedagtes stil en gefokus hou op Jesus te midde van die storm).
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Wie was my Loïs en Eunike?** Wie was die "Loïs en Eunike" in my lewe wat die saad van die evangelie in my hart gesaai het, en hoe leef ek vandag sodat ek daardie selfde opregte geloof aan die volgende geslag kan oordra?
 - **Lê daar as oor die kole?** Is daar tans 'n laag "as" van moedeloosheid, seerkry of traagheid wat die geestelike vuur en gawes in my lewe demp, en watter praktiese stap moet ek vandag neem om die vlam weer aan te blaas?

@@ -27,7 +27,7 @@ Vir 'n Levitiese priester was sy geslagsregister alles: as hy nie sy stamboom te
 - **Die meerdere (*tou kreittonos* – τοῦ κρείττονος, vers 7):** Die skrywer trek 'n skerp kontras. Levitiese priesters het wel volgens die wet tiendes van hul mede-Israeliete ("dit is van hulle broers en susters") geneem as vergoeding vir hul diens, al was hulle op gelyke voet as afstammelinge van Abraham (vers 5). Maar Melgisedek, wat glad nie deel van Levi se stamboom was nie, het 'n tiende van Abraham self ontvang én "hom geseën wat die beloftes gehad het" (vers 6). En dan volg die onweerlegbare stelreël in vers 7: "Sonder enige geskil word die mindere deur die meerdere geseën." *Kreittōn* is die woord wat elders in Hebreërs "beter" beteken.
 - **Sterflike mense (*apothnēskontes anthrōpoi* – ἀποθνῄσκοντες ἄνθρωποι, vers 8):** "Hier ontvang sterflike mense tiendes, daar egter een van wie getuig word dat hy lewe." Letterlik is dit mense *wat besig is om te sterf*. By Melgisedek ontvang iemand die tiende van wie die Skrif getuig dat hy lewe, omdat die Skrif hom sonder einde van dae uitbeeld — 'n heenwysing na die opgestane Christus.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Christus is Koning én Priester:** Wat onder die Ou Verbond streng geskei was, word in Melgisedek vooraf uitgebeeld en in Jesus Christus volmaak verenig. Hy is eers Koning van Geregtigheid, en dan Koning van Vrede.
 2. **Die Skrif self wys vooruit na Christus:** Selfs die "stilte" van Genesis oor Melgisedek se afkoms is deel van God se plan om 'n portret te teken van die ewige Seun, wie se priesterskap nie op afkoms berus nie.
@@ -44,7 +44,7 @@ Tweedens bevry vers 3 ons van die beperkinge van ons eie **"geslagsregister" en 
 
 Derdens roep Abraham se reaksie in vers 4 ons op tot **dankbare oorgawe van ons "beste buit" (*akrothinia*)**. Let daarop dat Abraham nie onder die dwang van die Mosaïese wet was toe hy sy tiende aan Melgisedek gegee het nie; die wet sou eers sowat vier eeue later kom! Hy het uit spontane verwondering en dankbaarheid na die oorwinning die heel beste deel van sy opbrengs voor die Koning-Priester neergelê, omdat hy Melgisedek se grootheid raakgesien het ("Kyk tog hoe groot hy is"). Wanneer ons vandag ons oë oopmaak en sien hoe groot Jesus is — dat Hy ons uit die slawerny van sonde gered het en ons met elke geestelike seëning seën — gee ons nie meer ons tyd, ons talente, ons aandag en ons middele uit skuldgevoel of wettiese dwang nie. Ons gee vir Hom die *akrothinia* (die heel boonste, beste deel van ons dag en ons hart) omdat Hy oorweldigend groot en waardig is!
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Geregtigheid en vrede:** Is daar 'n area in jou lewe waar jy tans 'n gebrek aan innerlike vrede ervaar omdat jy nog nie toegelaat het dat Jesus as die *Koning van Geregtigheid* daardie saak in waarheid aanspreek nie?
 - **Die beste buit (*akrothinia*) of die oorskiet?** As jy kyk na jou tyd, jou energie en jou hulpbronne, kry Koning Jesus die heel eerste en beste deel van die "hoop", of gee jy vir Hom net wat oorbly nadat die wêreld en jou eie belange klaar gevat het?

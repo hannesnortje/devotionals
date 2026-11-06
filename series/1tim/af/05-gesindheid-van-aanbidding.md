@@ -25,7 +25,7 @@ Die gemeente in Éfese het geworstel met spesifieke kulturele en geestelike wanb
   1. *Teenoor die asketiese dwaalleraars:* Terwyl valse leraars die huwelik verbied en vroue aangespoor het om hul Godgegewe aard te verwerp om manlike gesagsrolle op te eis, bevestig Paulus dat vroue hul heiligmaking en verlossing prakties uitleef ("gered word" van die strik van die dwaalleer en die vloek van Eva se misleiding) deur met geloof, liefde en heiligmaking getrou te wees in die Godgegewe roeping van vrouwees, moederskap en gesinsversorging.
   2. *Die Messiaanse eggo:* In die Grieks staan daar letterlik *dia tēs teknogonias* ("deur *die* kinderbaring" — met die bepaalde lidwoord). Baie uitleggers wys daarop dat Paulus hier terugwys na die moederbelofte in Genesis 3:15: hoewel Eva in oortreding gekom het, het God belowe dat verlossing deur *die Saad van die vrou* — die geboorte van die Messias, Jesus Christus — in die wêreld sou inbreek.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Heiligheid en versoening is voorvereistes vir kragtige gebed:** God luister nie na die welsprekendheid van ons lippe as ons harte vol onvergewensgesindheid, woede en twisgierigheid is nie (vgl. Matteus 5:23–24).
 2. **Waaragtige skoonheid word gemeet aan diensbaarheid, nie status nie:** In God se koninkryk dra 'n kleed van barmhartigheid en goeie werke oneindig meer gewig as aardse rykdom of fisiese aantreklikheid.
@@ -42,7 +42,7 @@ Vir **vroue** (en elke gelowige wat deur die beeld-obsessie van ons tyd verlei w
 
 Laastens daag hierdie teks ons gesindheid teenoor geestelike gesag en onderrig uit. Kom ons na die Woord van God met 'n kritiserende, rebelse gees wat altyd wil stry en heers, of kom ons met *hēsychia* — 'n rustige, ontvanklike hart wat smag om deur God geleer te word?
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Wat staan tussen my opgehefte hande en God?** Wanneer ek my hande of hart in gebed tot God ophef, is daar verborge toorn, wrok of twisgierigheid teenoor 'n medegelowige of familielid wat my gebede versper?
 - **Waarin belê ek meer?** Spandeer ek meer tyd, geld en emosionele energie om my uiterlike beeld voor mense te poleer as wat ek spandeer om my innerlike mens met goeie werke en godsvrug te beklee?

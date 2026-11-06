@@ -31,7 +31,7 @@ In die oorspronklike Hebreeus is vers 10–15 een van die mees briljante stukke 
 - **Maresa (*Mareshah* – מָרֵשָׁה – klink soos *hayoresh* – הַיֹּרֵשׁ, "die een wat in besit neem"):** Oor "Erfgenaam-stad" bring die HERE self "die een wat in besit neem" – 'n vreemde veroweraar.
 - **Adullam (*'Adullam* – עֲדֻּלָּם):** Net soos koning Dawid eeue tevore as vlugteling in die grot van Adullam moes gaan wegkruip (1 Sam. 22:1), sal "die heerlikheid van Israel" – Juda se trotse leiers en edeles – nou uit hul paleise moet vlug om in donker grotte te gaan skuil.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Ware profetiese waarheid word altyd met trane gedra:** Kyk na vers 8. Voordat Miga een woord van oordeel oor sy streek uitspreek, trek hy sy klere uit en loop naak rond (*sholal* – שׁוֹלָל, *'arom* – עָרוֹם – die drag van 'n rouklaer en 'n banneling) en hy huil soos die jakkalse en die volstruise. Hy verlustig hom nooit in die val van sondaars nie; sy hart breek saam met God se hart oor *"my volk"* (v. 9). Dit wys profeties vooruit na Jesus Christus wat oor Jerusalem sou ween (Lukas 19:41).
 2. **Geestelike kompromie respekteer geen grense nie:** Juda het gedink hulle kan die welvaart en militêre praktyke van Samaria bewonder en naboots sonder om Samaria se oordeel te deel. Maar sonde is nooit 'n geïsoleerde saak nie; wat by die grensvesting Lakis toegelaat is, het uiteindelik tot by die poort van Jerusalem deurgedring.
@@ -45,7 +45,7 @@ In ons moderne samelewing is dit baie maklik om die rol van 'n siniese kritikus 
 
 Tweedens dwing die verhaal van **Lakis en Agsib** ons om na ons eie skanse te kyk. Lakis was die plek waar Juda se oë van die HERE af weggeskuif het na hul eie perde en strydwaens. Vir ons vandag kan "Lakis" daardie oomblik wees waar ons sukses, ons bankrekening, ons mediese fonds of ons eie vernuf vir ons belangriker geword het as eenvoudige gehoorsaamheid aan die Here. Dit lyk sterk en indrukwekkend in tye van vrede, maar op die dag van werklike beproewing blyk dit 'n "Agsib" te wees – 'n fontein wat opdroog juis wanneer jy water nodig het.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Wanneer jy kyk na die geestelike en morele gebrokenheid in jou gemeenskap, jou familie of die kerk, wat is jou eerste reaksie: kritiese veroordeling van bo af, of 'n biddende, empatiese hart soos dié van Miga?
 - Wat is die "Lakis" in jou lewe – daardie goeie gawe, vermoë of aardse sekuriteit waarop jy geleidelik begin vertrou het in plaas van op die Here alleen?

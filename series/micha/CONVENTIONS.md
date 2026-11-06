@@ -26,9 +26,9 @@ General rules: see PLAYBOOK.md ("Writing rules"). Series-specific:
 | H2 | Dieper Delf: Konteks en Betekenis | Tiefer graben: Zusammenhang und Bedeutung | Digging Deeper: Context and Meaning |
 | H3 | Historiese, Kulturele en Literêre Konteks | Geschichtlicher, kultureller und literarischer Hintergrund | Historical, Cultural and Literary Background |
 | H3 | Insigte uit die Hebreeus | Einsichten aus dem Hebräischen | Insights from the Hebrew |
-| H3 | Kern Teologiese Waarhede | Zentrale theologische Wahrheiten | Core Theological Truths |
+| H3 | Teologiese Kernwaarhede | Zentrale theologische Wahrheiten | Core Theological Truths |
 | H2 | Praktiese Toepassing | Für das Leben heute | Living It Out |
-| H3 | Vrae vir Persoonlike Selfondersoek | Fragen zur persönlichen Besinnung | Questions for Personal Reflection |
+| H3 | Vrae vir Selfondersoek | Fragen zur persönlichen Besinnung | Questions for Personal Reflection |
 | H2 | Gebed | Gebet | Prayer |
 
 ## Micah specifics

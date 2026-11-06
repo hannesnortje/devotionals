@@ -27,7 +27,7 @@ Kom ons delf in die rykdom van die oorspronklike Griekse terme en die teologiese
     - **Die toerusting in ons (*katartizō*):** En wat vra die skrywer dat hierdie opstandings-God in ons sal doen? Mag Hy *"julle toerus met alles wat goed is om sy wil te doen"* (*katartisai* – καταρτίσαι)! Die Griekse werkwoord *katartizō* (wat ons ook in 11:3 gesien het, waar die wêrelde deur God se woord gevorm is) is 'n ryk term wat in die mediese wêreld gebruik is vir die spalk en regsetting van 'n gebreekte been, en by vissermanne vir die heelmaak en voorbereiding van geskeurde visnette (Matteus 4:21). En hoe rus Hy ons toe? Ons hoef dit nie uit ons eie menslike krag te probeer uitpers nie: Hy doen dit, **"terwyl Hy in ons werk wat voor Hom behaaglik is, deur Jesus Christus"** (*poiōn en hēmin* – ποιῶν ἐν ἡμῖν)! Wat God van ons eis, werk Hy self deur sy Gees in ons!
 - **'n Woord van bemoediging en die laaste groet (*logos tēs paraklēseōs* – λόγος τῆς παρακλήσεως, verse 22–25):** Die skrywer noem sy hele meesterlike brief beskeie 'n *"woord van bemoediging"* (*tou logou tēs paraklēseōs* – τοῦ λόγου τῆς παρακλήσεως – dieselfde uitdrukking wat in Handelinge 13:15 'n preek in die sinagoge beskryf) wat hy "kortliks" (*dia bracheōn* – διὰ βραχέων) geskryf het – dit neem omtrent 'n uur of minder om die hele brief hardop voor te lees! Hy deel die blye nuus dat hul broer Timoteus vrygelaat is (waarskynlik uit die gevangenis), dra die groete oor van die gelowiges "uit Italië", en eindig met die eenvoudigste maar rykste seën denkbaar: **"Die genade sy met julle almal."**
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die kruisoffer het alle sondoffers beëindig; nou bring ons lof en goeie dade.** Die vrug van ons lippe en die deel van ons hande is die offers waaraan God behae het.
 2. **Geestelike leierskap is 'n swaar verantwoordelikheid.** Leiers waak oor ons siele as mense wat rekenskap sal moet gee; ons luister na hulle en bid vir hulle.
@@ -46,7 +46,7 @@ Kyk derdens na die **geheim van Christelike diens in vers 21**: Mag Hy julle toe
 
 So sluit ons reis deur Hebreërs waar dit begin het: by die Seun deur wie God aan die einde van hierdie dae met ons gepraat het (1:2). Hou jou oë op Jesus gevestig – Hy is gister en vandag dieselfde, en vir ewig.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Die offers van lippe en hande (verse 15–16):** Word my daaglikse lewe tans gekenmerk deur 'n *gedurige lofoffer* van dankbaarheid op my lippe en praktiese *mededeelsaamheid* met my hande?
 - **Vreugde vir geestelike leiers (verse 17–18):** Bid ek getrou vir dié wat geestelike leiding oor my lewe gee en die Woord bedien, en maak my lewenshouding dit vir hulle 'n vreugde om oor my siel te waak?

@@ -24,7 +24,7 @@ Die Griekse grondteks ontvou die rykdom en skerpheid van Paulus se instruksies:
 - **"Is dood terwyl sy lewe" (*spatalōsa zōsa tethnēken* – σπαταλῶσα ζῶσα τέθνηκεν, vers 6):** Teenoor die godvresende weduwee wat haar eensaamheid omskep in 'n onophoudelike gebedsbediening (soos die profetes Anna in Lukas 2:36–37), plaas Paulus die weduwee wat *spatalaō* — 'n woord wat dui op weelderige genotsoeking en verkwisting om die leemte in die hart te vul. Paulus lewer 'n skokkende uitspraak oor so 'n lewenstyl: al haal sy fisies asem (*zōsa*), is sy geestelik dood (*tethnēken*).
 - **"Het hy die geloof verloën en is hy slegter as 'n ongelowige" (*tēn pistin ērnētai kai estin apistou cheirōn* – τὴν πίστιν ἤρνηται καὶ ἔστιν ἀπίστου χείρων, vers 8):** Wie weier om vir sy eie mense en huisgenote te sorg (*pronoeō* — om vooruit te dink en prakties te voorsien), "het hy die geloof verloën en is hy slegter as 'n ongelowige". Waarom slegter as 'n heiden? Omdat selfs die ongelowige Grieke en Romeine geweet het dat kinders verplig is om hulle bejaarde ouers te onderhou. As 'n belydende Christen — wat roem in die selfopofferende liefde van Jesus aan die kruis — sy eie familie in nood laat verkommer, maak hy die Evangelie tot 'n leuen voor die oë van die wêreld.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die kerk is 'n geestelike familie waar eerbied en reinheid die toon aangee:** Hoe ons met ouer en jonger geslagte in die gemeente praat en omgaan, moet 'n weerspieëling wees van God se vaderhart en heilige karakter.
 2. **Die tuiste is die eerste klaskamer van ware godsvrug:** God aanvaar nie vroom kerkgang of geestelike bydraes as plaasvervanger vir die liefdevolle versorging van ons eie bejaarde ouers en gesinslede nie (vgl. Markus 7:10–13).
@@ -41,7 +41,7 @@ Tweedens daag verse 4 en 8 ons gesinsverantwoordelikheid direk uit. Hoewel ons v
 
 Laastens bied verse 5 en 6 'n diep troos én 'n waarskuwing vir elkeen wat deur 'n seisoen van eensaamheid, weduweeskap of verlies gaan. Wanneer die lewe jou van 'n lewensmaat of geliefdes stroop, staan jy voor 'n kruispad: jy kan óf die pyn probeer verdoof deur net vir plesier te lewe (deur wêreldse vermaak, bitterheid of selfbeheptheid), wat jou siel geestelik doodmaak, óf jy kan jou volle gewig op die lewende God laat rus en jou alleenheid omskep in 'n kosbare bediening van voorbidding.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Spreek my woorde en my gesindheid teenoor ouer mense van vaderlike en moederlike eerbied, en behandel ek die ander geslag in my gedagtes en optrede met die volkome reinheid wat 'n broer of suster toekom?
 - Hoe lyk my praktiese, finansiële en emosionele versorging van my eie ouers, grootouers en gesinslede tans — sien God daarin 'n opregte dankoffer wat Hom behaag?

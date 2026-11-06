@@ -21,7 +21,7 @@ Miga se naam (*Mikhah* – מִיכָה, kort vir *Mikhayah*) beteken: **Wie is 
 - **Die Woordspeling met "Hoogtes" (*bamot* – בָּמוֹת):** In vers 3 en 5 gebruik Miga die Hebreeuse woord *bamot* met snydende ironie. Aan die een kant verwys *bamotei 'arets* – בָּמֳתֵי אָרֶץ ("die hoogtes van die aarde") na die majestueuse bergpieke en militêre vestings waarop mense roem vir hul veiligheid. Aan die ander kant verwys *bamot* na die onwettige heidense **offerhoogtes** waar Israel en Juda afgode soos Baäl en Asjera gaan aanbid het. Wanneer die Here uit sy heilige tempel (*mehekhal qodsho* – מֵהֵיכַל קָדְשׁוֹ) neerdaal, trap Hy reg bo-op hierdie mensgemaakte "hoogtes".
 - **Opstand (*pesha'* – פֶּשַׁע) en Sonde (*chatta't* – חַטָּאת):** Vers 5 gebruik twee spesifieke Hebreeuse terme vir die volk se skuld. *Pesha'* beteken nie bloot 'n glipsie nie, maar **doelbewuste rebellie of verraderlike kontrakbreuk** teen 'n liefdevolle Verbondskoning – daarom vertaal ons dit met "opstand". *Chatta't* beteken om **die merk te mis** – om af te wyk van die doel waarvoor God sy volk geskep het.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **God se heiligheid is nooit onverskillig teenoor sonde nie:** Die beeld van berge wat soos sagte byewas (*donag* – דּוֹנַג) voor vuur smelt en valleie wat oopskeur (v. 4), herinner ons dat die Skepper nie deur sy skepping of deur menslike magstrukture beperk word nie. Wat vir ons onverskuifbaar en permanent lyk, smelt weg die oomblik wanneer God se heilige teenwoordigheid daaraan raak.
 2. **Geestelike verval begin dikwels by die sentrums van invloed:** Miga vra twee retoriese vrae in vers 5: *"Wat is die opstand van Jakob? Is dit nie Samaria nie? En wat is die hoogtes van Juda? Is dit nie Jerusalem nie?"* Die hoofstede moes fonteine van geregtigheid en suiwer aanbidding wees, maar het eerder die episentrum van kompromie geword. Wanneer leierskap korrup raak, bloei die hele nasie.
@@ -35,7 +35,7 @@ Ons bou dalk nie meer klipbeelde op heuwels buite die dorp nie, maar elke mensli
 
 Miga herinner ons daaraan dat God uit liefdevolle jaloesie vir sy kinders nie sal toelaat dat ons valse vestings bly staan nie. Wanneer die Here in ons lewens "neerdaal" en die vals fondamente waarop ons vertrou het, begin skud of blootlê, doen Hy dit nie om ons te vernietig nie, maar om ons terug te bring na die enigste Fondament wat nooit kan smelt nie.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - As die Here vandag na die "hoofstad" van jou gedagtewêreld en jou daaglikse prioriteite kyk, watter "hoogtes" (*bamot*) kompeteer tans met Hom vir jou diepste vertroue en lojaliteit?
 - Is daar areas in jou lewe waar jy stilweg vrede gemaak het met geestelike kompromie omdat dit uiterlik voordelig of gemaklik lyk?

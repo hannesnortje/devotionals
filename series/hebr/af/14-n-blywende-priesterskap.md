@@ -29,7 +29,7 @@ Onder die Ou Verbond was daar 'n eindelose afloswedloop van priesters. Volgens d
 - **Die volmaakte Hoëpriester (*hosios, akakos, amiantos* – ὅσιος, ἄκακος, ἀμίαντος, vers 26):** Die skrywer sluit die hoofstuk af met 'n lofpsalm oor Christus se karakter. Hy is *heilig* (*hosios* — innerlik toegewyd aan God), *sonder kwaad* (*akakos* — vry van enige kwaad of boosheid teenoor mense), *onbevlek* (*amiantos* — vry van enige rituele of morele besoedeling), en in sy verheerlikte staat "geskei van die sondaars en hoër as die hemele gemaak".
 - **Eens en vir altyd (*ephapax* – ἐφάπαξ, vers 27):** Anders as Aäron se nageslag wat dag ná dag moes staan en offer, het Jesus geen sonde van sy eie gehad nie. En toe Hy geoffer het, het Hy nie die bloed van bokke of kalwers gebring nie — **Hy het Homself aangebied!** Let op die magtige woordjie in vers 27: "dit het Hy eens en vir altyd gedoen toe Hy Homself aangebied het." *Ephapax* is een van die sleutelwoorde van Hebreërs (7:27; 9:12; 10:10): dit beteken iets wat so finaal, volmaak en afdoende afgehandel is dat dit nooit weer herhaal hoef te word nie.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die Ou Verbond was nooit as permanent bedoel nie:** Die wet en die Levitiese priesterskap kon nie volmaaktheid bring nie; daarom het God self 'n ander priester volgens die orde van Melgisedek aangekondig.
 2. **Christus se priesterskap rus op sy opstandingslewe en op God se eed:** Nie afkoms nie, maar "die krag van 'n onvernietigbare lewe" en die eedswering van die Vader maak Hom Priester.
@@ -46,7 +46,7 @@ Tweedens, rus vandag in die wonder van Jesus as jou **Borg (*engyos*)** en jou *
 
 Meer nog: Hy het jou nie net tweeduisend jaar gelede aan die kruis gered en jou toe aan jouself oorgelaat om maar self te sien kom klaar nie. Hy leef **vandag** — op hierdie presiese sekonde — om vir jou in te tree (*entynchanein*). Soos die negentiende-eeuse Skotse prediker Robert Murray M'Cheyne eenkeer gesê het: *"As ek Christus in die kamer langsaan vir my kon hoor bid, sou ek geen vrees vir 'n miljoen vyande hê nie. Tog maak die afstand geen verskil nie; Hy bid vir my."* Omdat Hy vir jou bid, kan Hy jou **ten volle** (*eis to panteles*) red — van elke sonde, deur elke versoeking, tot in die ewige heerlikheid.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Reëls of opstandingskrag?** Probeer jy tans om jou geestelike lewe aan die gang te hou deur uiterlike wette en pligte ('n "vleeslike gebod"), of leef jy daagliks uit die innerlike krag van Christus se onvernietigbare lewe?
 - **Die omvang van sy redding (*eis to panteles*):** Is daar 'n spesifieke boesemsonde, 'n diep gewortelde vrees of 'n gebroke deel van jou lewe waarvan jy heimlik dink dat selfs Jesus dit nie regtig kan red of heelmaak nie? Wat sê vers 25 vir daardie ongeloof?

@@ -24,7 +24,7 @@ Die oorspronklike Griekse teks openbaar die erns van hierdie geestelike misleidi
 - **"Hulle verbied die huwelik" (*kōlyontōn gamein, apechesthai brōmatōn* – κωλυόντων γαμεῖν, ἀπέχεσθαι βρωμάτων, vers 3):** Deur die huwelik te verbied en voedsel te verwerp, val die dwaalleraars God as Skepper direk aan. Hulle beweer in wese dat hulle heiliger is as God, wat in Genesis 1 en 2 die huwelik ingestel en voedsel gegee het, en wat verklaar het dat sy skepping "baie goed" is. Paulus sê dit ook reguit: "Alles wat God geskep het, is goed" (*kalon*, vers 4).
 - **"Geheilig deur die woord van God en deur gebed" (*hagiazetai dia logou theou kai enteuxeōs* – ἁγιάζεται διὰ λόγου θεοῦ καὶ ἐντεύξεως, vers 5):** Die "woord van God" verwys na God se openbaring (soos Genesis 1:29–31 en Jesus se woorde in Markus 7:19 dat alle voedsel rein is), wat aan die gelowige die vrymoedigheid gee om God se skepping te geniet. "Gebed" (*enteuxis*) is die gelowige se dankbare erkenning voor die tafel dat elke stukkie brood en elke seëning uit die Vaderhand kom.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Ons onderskeidingsvermoë moet in die Skrif geanker wees, nie in uiterlike skyn nie:** Nie alles wat godsdienstig, streng of selfopofferend lyk, kom van God af nie. Die duiwel vermom hom dikwels as 'n engel van die lig en gebruik uiterlike wettisisme om mense van genade weg te lei.
 2. **'n Gevoellose gewete is die gevaarlikste toestand waarin 'n mens kan verkeer:** Wanneer iemand aanhou om teen beterwete in teen God se waarheid te sondig, skroei die senuwees van die gewete dood totdat geestelike blindheid intree.
@@ -41,7 +41,7 @@ Aan die ander kant loop gelowiges steeds die gevaar om in die strik van wettiese
 
 Ware heiligheid lê nie daarin om van God se skepping weg te vlug nie, maar om elke goeie gawe van God op sy voorwaardes en met 'n hart vol danksegging te ontvang. Wanneer ons voor 'n maaltyd saam bid, behoort dit nooit 'n leë, afgerammelde rympie te wees nie. Dit is 'n diep teologiese belydenis: ons verklaar dat God die Skepper en Gewer van alles is, en dat ons selfs ons daaglikse brood en ons aardse verhoudings aan Hom wy as heilige offers van dankbaarheid.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Toets ek die boeke wat ek lees, die leringe waarna ek luister en die kultuurstrome rondom my voortdurend aan die gesag van God se Woord, of laat ek my maklik meevoer deur idees wat nuut en indrukwekkend klink?
 - Is my gewete vandag nog sag en ontvanklik vir die oortuiging van die Heilige Gees, of is daar areas waar ek deur herhaalde kompromieë begin "littekenweefsel" vorm het?

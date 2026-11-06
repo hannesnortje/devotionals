@@ -24,7 +24,7 @@ Die Griekse grondteks ontbloot die skerp kontras tussen hierdie verdorwe winsbej
 - **"Dié wat ryk wil word" en "strik" (*hoi boulomenoi ploutein* / *pagis* – οἱ βουλόμενοι πλουτεῖν / παγίς, v. 9):** Let mooi op dat Paulus nie sê dat dit 'n sonde is om geld te besit nie (in vers 17 spreek hy immers gelowiges aan wat ryk is). Die gevaar lê in *hoi boulomenoi ploutein* — diegene wat 'n vaste wilsbesluit geneem het, wat behep en vasberade is om ryk te word. Hulle trap in 'n *pagis* ('n versteekte voëlvangstrik of slagyster), en hul dwase begeertes laat hulle "wegsink" (*bythizō* — om soos 'n oorlaaide skip tot op die seebodem te kelder) in verderf en ondergang.
 - **"Die liefde vir geld" en "deurboor" (*philargyria* / *periepeiran* – φιλαργυρία / περιέπειραν, v. 10):** "Want die liefde vir geld (*philargyria* — letterlik die liefde vir silwer) is 'n wortel van allerlei kwaad." Wanneer geld jou afgod word, is daar geen sonde — van bedrog en egbreuk tot verraad en moord — waartoe dit nie kan lei nie. Diegene wat daarna gryp (*oregomai*), dwaal van die geloof af en het hulleself met baie pyn "deurboor" (*peripeirō*). Hierdie skokkende Griekse woord beteken om vleis van alle kante af met 'n braaispit te deursteek. Mense dink rykdom gaan vir hulle 'n sagte kussing van geluk koop, maar in werklikheid ry hulle hul eie siele op 'n skerp ysterspit van angs, gebroke verhoudings en berou vas.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Ons daaglikse beroepsarbeid is 'n direkte getuienis vir die Evangelie.** Hoe 'n Christen onder gesag werk — veral wanneer die werkgewer ook 'n gelowige is — bepaal of die wêreld God se leer sal eer en of hulle dit sal laster.
 2. **Enige evangelie wat godsvrug as 'n middel tot materiële rykdom verkoop, is 'n vals evangelie.** Die waarheid van Christus lei tot heiligmaking en nederigheid, nooit tot gierigheid en selfverryking nie.
@@ -41,7 +41,7 @@ Kyk tweedens na die meesterlike diagnose van ons verbruikerskultuur in verse 3 t
 
 Paulus roep ons om wakker te skrik voordat die slagyster van *philargyria* (die liefde vir geld) om ons voete toeklap. 'n Begrafniswa sleep nooit 'n bagasiewaentjie agterna nie. Wanneer jou laaste asem uitgeblaas word, bly jou beleggings, jou eiendomme en jou aardse status agter. Hoe tragies is dit wanneer mense hul gesinne afskeep, hul gewete verkoop en hul geloof verloën in die dolle jaagtog na rykdom, net om aan die einde van hul lewens te ontdek dat hulle hul eie harte met onuitspreeklike pyn deurboor het! Ware rykdom is om vanoggend na die kos op jou tafel en die klere aan jou lyf te kyk, en met 'n diep, dankbare glimlag te kan sê: *"Here, omdat ek U het, het ek genoeg."*
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Getuig my stiptelikheid, eerlikheid en toewyding by my daaglikse werkplek van só 'n hoë standaard dat dit die Evangelie van Jesus Christus aantreklik en geloofwaardig maak vir my werkgewer en kollegas?
 - Leef ek vandag in ware *autarkeia* (tevredenheid met God se voorsiening), of word my gemoedstoestand en vrede bepaal deur wat ek nog wil koop en hoeveel geld in my rekening is?

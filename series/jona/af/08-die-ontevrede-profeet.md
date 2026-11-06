@@ -36,7 +36,7 @@ Die Hebreeuse grondteks ontmasker die diepte van Jona se geestelike krisis deur 
   Wat hierdie vers so skokkend maak, is dat Jona die mooiste lofbelydenis in Israel se liturgie gebruik as 'n **verwyt en aanklag** teen God!
 - **"Is dit reg dat jou toorn ontvlam?" (*ha-heitev charah lakh* – הַהֵיטֵב חָרָה לָךְ):** Die HERE antwoord nie met donderslae nie, maar met drie sagte Hebreeuse woorde wat letterlik vra: *"Is dit goed/reg dat dit in jou brand?"* Net soos God vir Kain gevra het: *"Waarom het jou toorn ontvlam?"* (Genesis 4:6 — dieselfde werkwoord *charah*), gebruik Hy 'n diagnostiese vraag om Jona se eie gewete wakker te maak.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die Skynheiligheid van Selektiewe Genade:** Aan die einde van hoofstuk 2 het Jona volmondig uitgeroep: *"Die redding is van die HERE!"* (2:10). Maar in hoofstuk 4 ontdek ons dat Jona dink die Here se redding behoort net aan *hom* en *sy* mense. Ons val in dieselfde strik wanneer ons dink ons het God se genade op een of ander manier "verdien", terwyl ander se sondes te erg is om vergewe te word. As genade egter nie ook vir Ninevé beskikbaar is nie, is dit nie meer genade nie.
 2. **Regte Teologie Sonder 'n Veranderde Hart is Gevaarlik:** Jona kon Eksodus 34:6 foutloos uit sy kop opsê, maar sy hart het geklop met die teenoorgestelde gesindheid. Dit is moontlik om die Skrif deur en deur te ken en presies te weet hoe God werk, en tog in bitterheid teenoor Sy koninkryk te leef omdat jy jou eie agenda bo Syne stel.
@@ -51,7 +51,7 @@ Hierdie gedeelte daag ook ons reaksie uit wanneer God se weë nie met ons verwag
 
 Maar luister vandag na die sagmoedige stem van die Here wat te midde van jou frustrasie, jou teleurstelling of jou wrok na jou toe kom met daardie een ondersoekende vraag: **"Is dit reg dat jou toorn ontvlam?"** (*Is dit reg dat dit so in jou brand?*) God is nie bang vir jou rou, eerlike gebede nie — Jona het ten minste sy woede *na* die Here toe gebring in gebed in plaas daarvan om weer op 'n skip te klim. Maar wanneer jy jou klag voor Hom uitstort, wees gereed dat Sy liefdevolle vraag die spieël na jou eie hart sal terugdraai.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Teenoor wie koester ek tans 'n "oudste broer"-gesindheid?** Is daar iemand in my lewe vir wie ek in my hart weier om vergifnis en herstel te gun omdat ek voel hulle moet eers "boet" vir wat hulle gedoen het?
 - **Waar bots God se karakter met my voorkeure?** Ken ek God se genade en soewereiniteit net in my verstand, of vertrou ek Hom ook wanneer Hy kies om te werk op maniere wat my trots of my gemak bedreig?

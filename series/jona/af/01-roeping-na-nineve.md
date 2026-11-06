@@ -24,7 +24,7 @@ Die Hebreeuse teks van hierdie eerste drie verse is gelaai met literêre ironie 
 - **"Afgeklim" (*yarad* – יָרַד):** Die Hebreeuse werkwoord *yarad* ("om af te daal" of "af te klim") vorm die ruggraat van hoofstuk 1 en 2. Geografies het 'n mens van die bergagtige binneland van Israel "afgeklim" na die hawestad Jafo (Joppe). Maar die skrywer gebruik *yarad* doelbewus as 'n geestelike motief: Jona klim **af** na Jafo (v. 3), hy klim **af** in die skip (v. 3), hy klim **af** na die binneste van die skip om te gaan slaap (v. 5), en uiteindelik klim hy **af** na die wortels van die berge op die seebodem (2:7). Elke tree weg van God se roeping af is 'n beweging ondertoe. Selfs Ninevé se boosheid het daarteenoor "opgestyg" (v. 2) — dit styg op na God, terwyl sy profeet van Hom af wegklim.
 - **"Weg van die aangesig van die HERE" (*millifnei YHWH* – מִלִּפְנֵי יְהוָה):** Hierdie frase word twee keer in vers 3 herhaal. As 'n opgeleide profeet wat Psalms soos Psalm 139 geken het (*"Waarheen sou ek gaan van u Gees, waarheen vlug van u aangesig?"* – Ps. 139:7), het Jona goed geweet dat die HERE alomteenwoordig is. Om "voor die aangesig van die HERE te staan" was egter die tegniese uitdrukking vir aktiewe profetiese diens (vgl. 1 Konings 17:1). Jona probeer dus sy bedankingsbrief by God indien; hy dink as hy Israel verlaat, kan hy uit sy roeping padgee.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **God se Soewereine Deernis Oorskry Ons Grense:** Ons sien in vers 2 dat die boosheid van Ninevé "opgestyg" het voor God se aangesig. God ignoreer nie sonde nie — Hy sien die onreg van Ninevé raak. Maar deur 'n profeet te stuur om te waarsku, wys God reeds sy begeerte om genade te bewys (soos Jona later in 4:2 erken). God se hart klop vir mense wat ons reeds afgeskryf het.
 2. **Die Anatomie van Geestelike Rebellie:** Jona vlug nie omdat hy 'n ateïs is of twyfel dat God bestaan nie; hy vlug juis omdat hy presies weet wie God is en nie saamstem met God se genadige plan nie. Dikwels is ons moeilikste gehoorsaamheidskrisisse nie wanneer ons God nie verstaan nie, maar wanneer ons Sy wil kristalhelder verstaan en ons eie voorkeure bo Syne verkies.
@@ -41,7 +41,7 @@ Jou *Tarsis* is jou ontsnappingsroete. Vandag hoef jy nie op 'n houtskip in die 
 
 Pasop ook vir die rasionalisering van ongehoorsaamheid. Wanneer jy wegstap van God se duidelike stem af en dinge vlot verloop, moenie vrede verwar met geestelike verdowing nie. Die skip na Tarsis vaar altyd maklik uit die hawe uit — maar die storm wag op die oop see.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Wat is my "Ninevé" op hierdie oomblik?** Watter spesifieke opdrag, gesprek, vergifnis of geloofstap het die Here op my hart gelê wat ek doelbewus vermy omdat dit my trots of gemaksone bedreig?
 - **Watter "Tarsis" gebruik ek om weg te kruip?** Waarmee hou ek my gedagtes en skedule so besig dat ek nie hoef stil te word voor die aangesig van die Here nie?

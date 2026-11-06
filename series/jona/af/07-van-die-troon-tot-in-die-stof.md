@@ -33,7 +33,7 @@ Die Hebreeuse teks van hierdie ses verse lê die hart van Bybelse bekering en Go
 - **"Omdraai" (*shuv* – שׁוּב):** Hierdie werkwoord is die spilpunt van hoofstuk 3 en kom vier keer in verse 8 tot 10 voor. Dit beteken om 'n 180-grade ommekeer te maak en in die teenoorgestelde rigting te stap. Kyk na die kettingreaksie: die mense **draai om** van hulle bose weg (v. 8, 10), en daarom **draai God om** van Sy brandende toorn (v. 9).
 - **"Berou gehad" (*wayyinnachem*, van die stam *nacham* – נָחַם):** Hierdie diep, emosiebelaaide woord beteken om diep te sug, om met ontferming beweeg te word, of om terug te hou van 'n voorgenome straf. Dit beteken geensins dat God 'n fout gemaak het of wispelturig van plan verander soos 'n mens nie. Omdat God se karakter onveranderlik regverdig én genadig is, moet Sy optrede teenoor 'n stad verander wanneer daardie stad van sy sonde wegdraai (vgl. Jeremia 18:7–8). Let ook op: Hy het berou oor "die kwaad" (*ha-ra'ah*) wat Hy gesê het Hy sou doen — dieselfde woord as hulle "bose" weg. Môre sal ons sien hoe hierdie woord in 4:1 skielik op Jona self terugval.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Ware bekering begin by geloof en word sigbaar in dade:** Let op die volgorde in die teks: in vers 5 **glo** hulle God; in verse 6–8 **verootmoedig** hulle hulleself en **roep** hulle tot God; en in vers 10 staan daar: *"En God het hulle* ***dade*** *gesien, dat hulle omgedraai het van hulle bose weg."* God is nie beïndruk deur blote godsdienstige rituele, trane of sak en as op sigself nie (vgl. Jesaja 58:5–6). Hy kyk na ons hande: het ons die *chamas* — die onreg en sonde waaraan ons vasgeklou het — werklik laat staan?
 2. **Genade is nooit 'n eis nie, maar 'n soewereine geskenk:** Die koning se woorde in vers 9 (*"Wie weet, miskien draai God om …"*) getuig van diep teologiese insig. Hy dink nie dat sy vas en rouklere God se arm kan draai of vergifnis kan "koop" nie. Hy verstaan dat hulle oordeel verdien en dat hulle hulle slegs op die onverdiende barmhartigheid van God kan werp.
@@ -48,7 +48,7 @@ Tweedens wys die koning van Ninevé vir ons hoe ware persoonlike verootmoediging
 
 Laastens daag vers 8 ons uit om spesifiek te wees in ons belydenis. Die koning vra dat elkeen sal kyk na *"die geweld wat aan sy hande kleef"*. Dit is maklik om in die algemeen te bid: *"Here, vergewe al my sondes."* Dit is baie moeiliker — maar oneindig meer bevrydend — om jou hande voor die Here oop te maak en daardie spesifieke ding te laat val waaraan jy vasklou: die bitterheid wat jy vertroetel, die oneerlikheid in jou besigheid, die skerp tong waarmee jy ander afbreek, of die geheime skermgewoonte wat jou siel vervuil. Wanneer God sien dat ons werklik omdraai, ontmoet Hy ons elke keer met Sy oorvloedige ontferming.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Op watter "troon" sit ek nog in my lewe?** Watter "staatsmantel" van trots, reputasie of selfregverdiging verhinder my om werklik weerloos en eerlik voor die Here te buig?
 - **Wat kleef tans aan my hande?** As die Heilige Gees vandag Sy lig op my daaglikse wandel laat skyn, watter spesifieke bose weg of gewoonte moet ek by die naam noem en laat staan?

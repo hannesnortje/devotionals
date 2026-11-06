@@ -37,7 +37,7 @@ Kom ons ondersoek die oorspronklike Griekse terme en die teologiese struktuur va
    - In Habakuk se teks gaan dit oor die visioen wat op die bestemde tyd vervul sal word; in Hebreërs word dit verpersoonlik: *"dan sal Hy wat kom* (*ho erchomenos* – ὁ ἐρχόμενος, 'n Messiaanse titel vir Jesus!), *kom en nie talm nie"*.
    - En terwyl ons op sy koms wag, hoe oorleef ons? *"Maar my regverdige sal uit geloof lewe."* Die hoofstuk sluit in vers 39 af met 'n kragtige geloofsverklaring waarin die skrywer homself en sy lesers insluit: *"Maar ons is nie van dié wat terugtrek* (*hypostolēs* – ὑποστολῆς: om soos 'n lafaard terug te trek en weg te sluip) *tot verderf nie, maar van dié wat glo* (*pisteōs* – πίστεως) *tot behoud* (*peripoiēsin* – περιποίησιν: verkryging, bewaring) *van die siel."*
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Daar is net een offer vir sondes:** Wie Christus se eenmalige offer doelbewus verwerp, het geen ander offer oor nie – slegs die regverdige oordeel van God.
 2. **Die hande van die lewende God:** Vir die gelowige wat in Christus skuil, is die hande van die lewende God die veiligste plek in die heelal (Johannes 10:28–29); maar vir die een wat Christus se bloed vertrap, is daardie selfde hande 'n verterende oordeel.
@@ -54,7 +54,7 @@ Kyk tweedens na die bevrydende perspektief op **aardse besittings teenoor jou ew
 
 Kyk derdens na die oproep in verse 35–39: **Moenie jou skild van vrymoedigheid op die slagveld neergooi net voor die Koning opdaag nie!** Dit is dikwels in die laaste paar kilometer van 'n marathon – wanneer die spiere brand en die wenstreep nog net om die draai weggesteek is – dat 'n atleet in die versoeking kom om te gaan sit. Maar vers 37 verseker jou: *"Want nog net 'n klein, klein rukkie, dan sal Hy wat kom, kom"*! Ons behoort nie aan die kamp van dié wat terugtrek (*hypostolē*) nie; deur sy genade is ons mense van geloof (*pistis*) wat vorentoe stap tot by die eindstreep!
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Onthou die vroeëre dae:** As jy terugkyk oor jou lewenspad saam met die Here, watter spesifieke swaar worsteling of beproewing uit jou verlede waardeur God jou gedra het, kan jou vandag opnuut moed gee vir jou huidige stryd?
 - **Die toets van aardse verlies (vers 34):** Hoe reageer jou hart wanneer jy aardse gerief, finansies of mense se goedkeuring verloor? Bewys jou reaksie dat jy werklik glo dat jy in Christus 'n *beter en blywende besitting* het?

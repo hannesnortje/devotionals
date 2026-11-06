@@ -24,7 +24,7 @@ Die Griekse teks ontbloot hier 'n lewensbelangrike skakel tussen die hart en die
 - **"Skipbreuk gely" (*enauagēsan* – ἐναυάγησαν, vers 19):** As jy die kompas van die gewete oorboord gooi, volg die onvermydelike gevolg: jy ly *"skipbreuk … wat die geloof betref"*. Efese was 'n besige hawestad; elke inwoner het geweet hoe 'n houtskip lyk wat teen die rotse verpletter is deur die golwe.
 - **"Aan die Satan oorgegee" (*paredōka tō Satana* – παρέδωκα τῷ Σατανᾷ, vers 20):** Paulus noem twee persone by die naam — *"Himeneus en Aleksander"* (waarskynlik leiers wat die opstanding ontken of die leer verdraai het; vgl. 2 Timoteus 2:17). Hy sê hy het hulle *"aan die Satan oorgegee"*. Dit verwys na formele kerklike dissipline (ekskommunikasie). Hulle is verwyder uit die beskermende gemeenskap van die plaaslike kerk en teruggeplaas in die wêreld, waar Satan sy mag uitoefen (vgl. 1 Korintiërs 5:5). Die doel hiervan was egter herstellend, nie vernietigend nie: *hina paideuthōsi* — *"sodat hulle deur tug kan leer om nie te laster nie"*. Tug in die kerk het ten doel om die oortreder tot inkeer, genesing en herstel te lei.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Geloofsbelydenis en lewenstyl kan nie geskei word nie:** Jy kan nie gesonde leer behou as jy in doelbewuste ongehoorsaamheid leef nie. 'n Kompromie in jou etiek lei onvermydelik tot dwaalleer in jou teologie om jou sonde te regverdig.
 2. **Die gewete is 'n noodsaaklike navigasie-instrument:** Om jou gewete herhaaldelik te ignoreer, is om die waarskuwingsligte op jou siel se instrumentepaneel stukkend te slaan.
@@ -39,7 +39,7 @@ Wanneer jy die stem van die Heilige Gees in jou gewete ignoreer — hetsy oor 'n
 
 As soldate van Christus moet ons die goeie veldtog voer. Dit beteken ons moet waaksaam wees oor die klein hartsbesluite wat ons daagliks neem. 'n Skoon gewete voor God en mense is die grootste bron van vrymoedigheid en geestelike krag wat 'n gelowige kan besit.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Waar flits die rooi lig?** Is daar tans enige area in my lewe waar my gewete 'n rooi lig flits, maar ek hou aan om dit doelbewus weg te stoot of te regverdig?
 - **Waaraan anker ek my siel?** Wanneer ek geestelik moedeloos of uitgeput voel in die stryd, waaraan anker ek my siel — aan my eie emosies, of aan God se ewige beloftes en roeping?

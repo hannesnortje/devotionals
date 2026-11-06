@@ -26,7 +26,7 @@ Kom ons delf in die rykdom van die oorspronklike Griekse terme van hierdie openi
 - **"Hy dra alles" (*pherōn* – φέρων, vers 3):** Jesus *"dra alles deur die kragtige woord"*. Die Griekse deelwoord *pherōn* is nie 'n passiewe woord soos die mitologiese Atlas wat 'n dooie gewig op sy skouers balanseer nie. Dit is 'n dinamiese, aktiewe woord wat beteken om iets vorentoe te dra na 'n bepaalde bestemming toe.
 - **"Die reiniging" (*katharismon* – καθαρισμόν, vers 3):** Van die kosmiese skepping beweeg die skrywer skielik na ons persoonlike redding: *"Nadat Hy self die reiniging van die sondes bewerk het, het Hy gaan sit aan die regterhand van die Majesteit in die hoogte."* In die Ou-Testamentiese tabernakel en tempel was daar pragtige meubelstukke: die brandofferaltaar, die kandelaar, die tafel met die toonbrode. Maar daar was **geen stoel nie**. Hoekom? Omdat die menslike priesters se werk nooit klaar was nie. Dag na dag moes hulle staan en offer. Maar toe Jesus Sy eie bloed geoffer het, het Hy *gaan sit*.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **God het progressief gepraat, en Christus is sy finale Woord:** Jesus bring nie net 'n boodskap van God nie; **Hy ís die finale, volmaakte Boodskap van God.**
 2. **Christus is Erfgenaam en Skepper van die heelal:** Die Een wat aan 'n Romeinse kruis gehang het, is dieselfde Een wat die sterrestelsels en die tydvakke van die geskiedenis geskep het.
@@ -42,7 +42,7 @@ Hebreërs 1:1–4 genees ons geestelike bysiendheid deur ons oë op te tel na di
 
 Boonop hoef jy nie meer geestelik "rond te skarrel" soos 'n Ou-Testamentiese priester om God se guns te probeer wen nie. Jesus *sit*. Wanneer skuldgevoelens of ou foute jou aankla en jou wysmaak dat jy eers weer vir God "genoeg" moet doen voordat jy na Hom toe kan kom, herinner hierdie teks jou dat die reiniging van jou sondes reeds volkome deur Hom self afgehandel is. Ons rus in Sy voltooide werk.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Waar soek jy na 'n "nuwe woord"?** Soek jy dikwels na tekens, gevoelens of menslike menings om vrede te kry, terwyl God reeds Sy finale, duidelikste Woord in Sy Seun en die Skrif gegee het?
 - **Watter deel van jou lewe voel vandag of dit uitmekaar val?** Hoe verander dit jou angsvlakke as jy besef dat Christus nie net die heelal geskep het nie, maar jou lewe aktief *dra* (*pherōn*) deur die kragtige woord?

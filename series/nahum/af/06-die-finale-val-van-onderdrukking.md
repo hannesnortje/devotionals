@@ -29,7 +29,7 @@ Hierdie gedeelte bied ook aan ons die mees presiese leidraad vir die datering va
 - **"Jou herders sluimer" (*namu ro'ekha* – נָמוּ רֹעֶיךָ, v. 18):** Die *"herders"* is die generaals, raadgewers en regeerders. Dat hulle *"sluimer"* en die edeles *"lê en rus"*, is 'n poëtiese eufemisme vir die slaap van die dood.
 - **"Jou breuk … jou wond" (*shivrekha* – שִׁבְרֶךָ; *nachlah makkatekha* – נַחְלָה מַכָּתֶךָ, v. 19):** *Nachlah* beteken "ernstig, siek" – 'n wond wat nie wil genees nie. Jeremia 30:12 gebruik presies dieselfde uitdrukking vir Juda se wond van sonde.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Geen stad is onaantasbaar nie (v. 8–11).** Kyk na die profeet se meesterlike logika: Ninevé het haarself veilig geag agter die waters van die Tigrisrivier en haar militêre mag. Maar Nahum sê: *Julle eie geskiedenis bewys dat geen stad met riviere en leërs onaantasbaar is nie!* As die onoorwinlike Thebe geval het, sal Ninevé ook die beker van God se toorn drink en dronk slinger (v. 11), en tevergeefs na 'n *toevlug* soek. Die HERE alleen is die toevlug wat nie val nie.
 2. **Ryp vye en verlamde verdedigers (v. 12–14).** Teenoor die massiewe grensforte en bergvestings wat Assirië se grense moes bewaak, stel God 'n eenvoudige boerderybeeld: *"Al jou vestings is vyebome met eerste vye: As hulle geskud word, val hulle in die mond van die eter."* Net so maklik sou Ninevé se buitevestings voor die Babiloniese en Mediese leërs val.
@@ -50,7 +50,7 @@ Terwyl ons die boek Nahum toemaak, laat hierdie laaste verse ons met diepgaande 
 
 **Die genesing van ons ongeneeslike wond en ons ewige hoop.** Vir die trotse, onbekeerlike Ninevé was die finale woord: *"jou wond is ernstig"* – 'n wond sonder genesing (v. 19). Uit onsself was ons geestelike wond van sonde ook ongeneeslik (Jeremia 30:12, 17). Maar aan die kruis van Golgota het Jesus Christus die oordeel en die "breuk" op Homself geneem sodat daar deur Sy wonde vir ons volkome genesing kon kom (Jesaja 53:5)! Boonop herinner die handeklap in vers 19 ons aan die einde van die geskiedenis in **Openbaring 18 en 19**: Daar sal 'n dag aanbreek wanneer alle boosheid, alle pyn, alle onreg en elke vorm van duisternis finaal deur Christus vernietig sal word – en die hele hemel en aarde sal in jubelende lofprysing en verligting uitbars omdat God vir ewig regeer!
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 1. Ninevé het in vers 14 koorsagtig probeer om op haar eie krag die leem te trap en die steenvorm te gryp om haar verbrokkelende mure te red, in plaas daarvan om haar voor God te verootmoedig. Waar in jou lewe probeer jy tans uit eie krag "stene bak" om 'n situasie te beheer wat jy eintlik in oorgawe aan die Here moet oorgee?
 2. Het jy al ooit beleef hoe aardse steunpilare of mense (soos die sprinkane in v. 17) verdwyn wanneer die son van beproewing opkom? Hoe help hierdie ervaring jou om dieper te rus in die trou van die Goeie Herder wat nooit sluimer of wegvlieg nie?

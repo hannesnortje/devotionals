@@ -25,7 +25,7 @@ Kom ons delf in die rykdom van die oorspronklike Griekse terme in hierdie gedeel
 - **Die mag van die duiwel gebreek (*katargeō* – καταργέω, verse 14–16):** Vers 14 sê dat *"die kinders dan deel het aan bloed en vlees"* — die hele brose, sterflike menslike bestaan. Daarom het Jesus *"net so"* (*paraplēsiōs* – παραπλησίως) daaraan deelgekry. Sy wapen was ironies genoeg die einste wapen waarmee die vyand die mensdom gevange gehou het: die dood! Deur sy eie plaasvervangende dood het Hy *"die mag ... gebreek"* van die duiwel. Die Griekse woord *katargeō* beteken nie dat die duiwel ophou bestaan het nie, maar om iets kragteloos te maak, te ontwapen of buite aksie te stel. Vers 16 bevestig dat Hy nie gekom het om engele te red nie; *"die nageslag van Abraham gryp Hy vas"* (*epilambanomai* – ἐπιλαμβάνομαι — Hy gryp stewig vas om te red), dit is die gelowiges.
 - **Ons barmhartige Hoëpriester en die versoening (*hilaskomai* – ἱλάσκομαι en *boētheō* – βοηθέω, verse 17–18):** Anders as 'n profeet wat namens God met die mense praat, tree 'n hoëpriester namens die mense voor God in. Om dit te kon doen, moes Jesus *"in alle opsigte aan die broers en susters gelyk word"*. Hy is sowel **barmhartig** (*eleēmōn* – ἐλεήμων — diep medelydend met ons nood) as **getrou** (*pistos* – πιστός — absoluut betroubaar teenoor God en ons). Sy hoëpriesterlike kerntaak was *"om versoening te doen vir die sondes van die volk"* (*hilaskomai* — om die regverdige toorn van God oor die sonde af te wend en weg te neem deur 'n bloedoffer). En omdat Hy self in sy menswees die volle aanslag van versoeking en lyding verduur het sonder om ooit toe te gee, kan Hy ons nou "help". Die Griekse woord vir help is *boētheō* (saamgestel uit *boē* – βοή = 'n noodkreet, en *theō* – θέω = om te hardloop). Dit beteken letterlik: **om op 'n hulpkreet af te storm!**
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Ons Verlosser is deur lyding gekwalifiseer:** Deur sy werklike menslike lyding het Jesus die ervaringskwalifikasie verwerf om die volmaakte Verlosser en Hoëpriester vir lydende mense te wees.
 2. **Jesus is ons Broer:** Omdat Hy wat heilig maak en dié wat geheilig word, uit een kom, staan Hy as ons Broer saam met ons in die gemeente en lei Hy ons lofprysing tot die Vader.
@@ -42,7 +42,7 @@ Tweedens, kyk na jou **vrees**. Baie van ons daaglikse angs — oor siekte, veil
 
 Derdens, onthou wie Hy is wanneer jy **versoek en beproef** word. Wanneer versoeking aan jou deur klop of lyding jou oorval, staan Jesus nie met gevoude arms in die hemel en wag om te kyk of jy gaan val nie. Hy weet hoe swaar die volle gewig van versoeking voel, want Hy het nooit toegegee nie — Hy het die storm tot op die uiterste weerstaan. Sodra jy roep, storm Hy op jou noodkreet af (*boētheō*) met presies die genade wat jy nodig het.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Wegkruip in skaamte:** Is daar 'n area van jou verlede of huidige stryd wat jou laat voel dat God Hom vir jou skaam? Hoe verander vers 11 (*"Daarom skaam Hy Hom nie om hulle broers en susters te noem nie"*) jou vrymoedigheid om vandag na Hom toe te kom?
 - **Slawerny van vrees:** Op watter praktiese maniere laat jy nog toe dat die vrees vir verlies, siekte of die dood jou besluite en jou vrede dikteer, terwyl Christus jou reeds daarvan vrygekoop het?

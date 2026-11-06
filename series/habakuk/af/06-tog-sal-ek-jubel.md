@@ -24,7 +24,7 @@ In verse 3–15 sien ons 'n asemrowende **teofanie** (Godsverskyning). Habakuk k
 - **God van my redding (*Elohei yish'i* – אֱלֹהֵי יִשְׁעִי):** Die woord vir "redding" is ***yesha'***, van dieselfde stam as die name **Josua / Yeshua (Jesus)** – "die HERE is redding". Habakuk juig letterlik in die God wat sy Verlosser is.
 - **Hindes (*ayyalot* – אַיָּלוֹת) en hoogtes (*bamotai* – בָּמוֹתַי):** In vers 19 maak God sy voete *"soos dié van die hindes"* – die wyfies van die hert, wat met verstommende sekerheid op steil, gevaarlike rotslyste kan klouter sonder om te gly.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Geestelike herinnering is die brandstof vir toekomstige hoop:** Wanneer die toekoms donker lyk, kyk die gelowige terug na God se verlossingsdade in die verlede (verse 3–15). Vir ons vandag beteken dit om terug te kyk na die kruis en die leë graf van Christus. As God reeds ons grootste vyand (sonde en dood) oorwin het, sal Hy ons ook deur huidige storms dra.
 2. **Ware geloof skakel vrees nie uit nie, maar neem dit gevange in vrede:** Kyk hoe eerlik is vers 16: Habakuk se ingewande sidder, sy lippe bibber en hy bewe waar hy staan by die gedagte aan die naderende oorlog. Om te glo beteken nie dat jy van klip gemaak is en geen menslike vrees voel nie; dit beteken dat jy te midde van jou bewing kies: *"Maar ek sal stil wag op die dag van nood"*.
@@ -39,7 +39,7 @@ Maar wat gebeur wanneer die vyeboom nie bloei nie en die krale leegloop? Wat geb
 
 Hy het beweeg van fokus op die *probleem* na fokus op die *Persoon* van God. Daarom kan hy met 'n bewende liggaam (v. 16), maar met 'n onoorwinlike gees (v. 18), oor die puinhope van sy wêreld kyk en uitroep: **"Tog!"** En in plaas daarvan dat die krisis hom vertrap, verander die HERE die skerp, gevaarlike rotse van sy beproewing in "hoogtes" waarop hy met die ratse voete van 'n hinde kan staan.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - As jy vandag jou eie "vers 17" in moderne terme moes skryf, hoe sou dit klink? (*"Al sou my spaargeld opraak, al sou hierdie verhouding nie herstel nie, al sou my gesondheid …"*) Het jy al daardie vrese een vir een oopgevou en daaroor heen jou "Tog sal ek jubel" uitgespreek?
 - Kyk na Habakuk se fisiese kwesbaarheid in vers 16 (bibberende lippe, 'n liggaam wat sidder). Voel jy soms skuldig omdat jy menslike angs of spanning ervaar, asof dit beteken dat jy nie geloof het nie? Hoe bemoedig dit jou om te sien dat Habakuk se bewing en sy stil vertroue saam bestaan het?

@@ -24,7 +24,7 @@ Kom ons ondersoek die teologiese en taalkundige dieptes van hierdie vergelyking:
 - **"Mantel" (*peribolaion* – περιβόλαιον) en "dieselfde" (*ho autos* – ὁ αὐτός, verse 10–12):** Vervolgens pas die skrywer Psalm 102:26–28, 'n gedeelte wat in die Hebreeuse Ou Testament direk oor *Jahweh* (die HERE) gaan, sonder huiwering op Jesus toe. Aan die einde van die geskiedenis sal Christus die huidige kosmos soos 'n ou mantel oprol en dit vervang met 'n nuwe hemel en aarde. Maar te midde van 'n heelal wat verouder en verander, staan Jesus vas: *"Maar U is dieselfde (ho autos), en u jare sal nooit ophou nie."*
 - **"Dienende geeste" (*leitourgika pneumata* – λειτουργικὰ πνεύματα, verse 13–14):** Die klimaks van die hoofstuk gryp terug na Psalm 110:1 (die mees aangehaalde Ou-Testamentiese vers in die Nuwe Testament). Aan geen engel is ooit gesê om aan God se regterhand te kom sit nie. Die antieke beeld van vyande as 'n "voetbank" verwys na die gebruik waar 'n oorwinnende koning sy voet op die nek van sy verslane vyand gesit het as teken van totale onderwerping. Wat is die engele se ware posisie dan? Vers 14 noem hulle *leitourgika pneumata*: "liturgiese" of *"dienende geeste"*. Hulle is die hemelse ondersteuningspersoneel!
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die Seun is uniek:** Geen engel is ooit as Seun aangespreek nie. Die Seun ontvang die aanbidding van die engele, iets wat slegs aan God self toekom.
 2. **Die Seun is God:** *"U troon, o God, staan tot in alle ewigheid"* is een van die kragtigste en mees direkte verklarings van Christus se volle Godheid in die hele Skrif. Terwyl engele dien, heers die Seun met *"die septer van opregtheid"*. Sy koningskap is gegrond op Sy morele volmaaktheid.
@@ -39,7 +39,7 @@ Hierdie teks bied ook geweldige troos vir 'n onsekere hart. Eerstens, **jou vast
 
 Tweedens, **besef hoe kosbaar jy vir God is in Christus**. Dink aan die asemrowende werklikheid van vers 14: magtige hemelse wesens, vuurvlamme van God, word deur die Koning uitgestuur om *jou* by te staan, te beskerm en te help op jou pad na die ewige erfenis. Jy stap nooit alleen deur jou beproewings nie; die hemel se hulpbronne is aktief betrokke by jou behoud.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Goeie dinge in die plek van die Beste:** Is daar "goeie" geestelike dinge in jou lewe (bediening, tradisies, geestelike boeke, of emosionele ervarings) wat subtiel die plek van intieme aanbidding van Jesus self ingeneem het?
 - **Waar soek jy onveranderlike sekuriteit?** Watter "kledingstukke" van hierdie wêreld (status, geld, gesondheid, gerief) hou jy aan vas asof dit vir ewig gaan hou, terwyl slegs Christus onveranderlik bly?

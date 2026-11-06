@@ -21,7 +21,7 @@ Koning Nebukadnesar en sy opvolgers het Babilon omskep in een van die argitekton
 - **Stom afgode (*elilim illemim* – אֱלִילִים אִלְּמִים):** In vers 18 gebruik Habakuk 'n skerp Hebreeuse woordspeling. *Elilim* beteken "nikswerd dingetjies / afgode" (wat herinner aan *Elohim*, God), en *illemim* beteken "stom / sprakeloos". Hulle aanbid blink, dooie beeldjies waarin daar *"hoegenaamd geen asem"* (*ruach*) is nie (v. 19).
 - **Stil! (*has* – הַס):** In vers 20 sluit die hoofstuk af met die Hebreeuse klanknabootsing *has!* – soos ons "sjuut!" of die Engelse "hush!". Teenoor die stom afgode wat nie *kan* praat nie, bring die lewende God in sy tempel die hele lawaaierige, trotse wêreld tot 'n eerbiedige stilte.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die wee teen gierigheid en diefstal (v. 6–8):** *Die wet van goddelike vergelding (lex talionis).* Babilon het ryk geword deur uitbuiting, maar hulle slagoffers sal skielik soos skuldeisers opstaan en hulle stroop. Oneerlike gewin is nooit 'n seën nie; dit is 'n tydbom.
 2. **Die wee teen valse sekuriteit en hoogmoed (v. 9–11):** *Geen menslike vesting is hoog genoeg om God se oordeel te ontvlug nie.* Hulle wou *"sy nes in die hoogte"* plaas (soos 'n arend buite bereik van gevaar) deur ander te vertrap. Maar selfs al word alle menslike getuies stilgemaak, sal die klippe in die mure en die balke van hulle paleise as getuies teen hulle onreg uitroep (vergelyk Lukas 19:40).
@@ -38,7 +38,7 @@ Tog bring Habakuk 2:6–20 ook twee onbeskryflike ankers van troos vir die gelow
 - **Eerstens, vers 14:** Die wêreld gaan nie eindig in Babiloniese chaos nie. Die geskiedenis beweeg onstuitbaar na die dag wanneer die kennis van die heerlikheid van die HERE elke vierkante sentimeter van die aarde sal bedek, *"soos die waters die see bedek"*. Jou arbeid in die Here is nooit tevergeefs nie, want jy bou aan sy ewige koninkryk, nie aan iets wat "vir die vuur" bedoel is nie.
 - **Tweedens, vers 20:** Wanneer die politiek raas, die ekonomie wankel en die onreg oorweldigend lyk, hoor die stem wat sê: *"stil voor Hom, hele aarde!"* God se troon is nie vakant nie. Hy is in sy heilige tempel, ten volle in beheer. Waar Habakuk in hoofstuk 1 gevra het waarom God *swyg* (1:13), eindig hoofstuk 2 met Habakuk wat in eerbiedige aanbidding *stil word* voor God se almag.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Vers 9 waarsku teen die poging om *"sy nes in die hoogte te plaas, om uit die greep van die kwaad weggeruk te word"*. Waar soek jy tans jou diepste gevoel van veiligheid en onaantasbaarheid – in jou bankrekening, jou versekering en jou eie beplanning, of in die teenwoordigheid van die Here?
 - Vers 13 praat van volke wat *"net vir die vuur swoeg"* en hulle *"vir niks vermoei"*. As jy kyk na waar die meeste van jou tyd, energie en emosie hierdie afgelope maand heengegaan het: hoeveel daarvan bou aan dinge wat ewigheidswaarde het (v. 14), en hoeveel daarvan is bloot aardse jaagtogte wat gaan verbrand?

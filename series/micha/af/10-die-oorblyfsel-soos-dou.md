@@ -25,7 +25,7 @@ Vervolgens skilder Miga in vers 6–7 die tweevoudige roeping van die gelowige o
 1. **Militêre selfvertroue:** Perde (*susim*), strydwaens (*merkavot*) en vestings (*mivtsarim*). (Deuteronomium 17:16 het Israel se konings reeds verbied om baie perde aan te hou sodat hulle nie op menslike mag sou roem nie.)
 2. **Geestelike manipulasie en afgodery:** Towerye (*keshafim* – pogings om die toekoms buite God om te beheer), waarsêers (*me'onenim*), gesnede beelde (*pesilim*), klippilare (*matsevot*) en Asjeras (*asherim*, v. 13 – houtkultuspale of gestileerde heilige bome wat langs altare opgerig is en met die Kanaänitiese godin Asjera verbind was; vgl. Deuteronomium 16:21; 2 Konings 23:6).
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **God se volk dra 'n dubbele getuienis in die wêreld – sagte genade én onwrikbare waarheid:** Soos dou bring die kerk van Christus verkwikking, genesing en evangeliese hoop in 'n dorre wêreld. Soos 'n leeu weier die kerk egter om te buig voor die intimidasie van aardse ideologieë, omdat ons in die oorwinning van die Leeu uit die stam van Juda deel.
 2. **Ware geestelike vrug is nooit die resultaat van menslike manipulasie nie:** Net soos die dou nie "op 'n man wag" of afhanklik is van menslike toestemming nie (v. 6), berus die uitbreiding van God se Koninkryk nie op menslike bemarkingsplanne of politieke mag nie, maar op die stille, onstuitbare werking van die Heilige Gees.
@@ -42,7 +42,7 @@ Tweedens daag vers 9 tot 13 ons uit om God se **"snoeimes van bevryding"** in on
 
 Maar kyk na die hart van die Vader in vers 12: ***"en jy sal jou nie meer neerbuig voor die werk van jou hande nie."*** God neem nooit 'n vals kruk onder ons arms uit om ons te laat val nie; Hy neem dit weg sodat ons weer sal leer hoe veilig dit is om op die Herder van Betlehem alleen te leun. Wanneer jou eie "perde en vestings" wegval, is jy nie weerloos nie – jy is uiteindelik vry van afgodery.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - As jy na jou daaglikse wandel in jou huis en werkplek kyk, waar het jy nodig om meer soos **"dou van die HERE"** (stil, verkwikkend en genadig) te wees, en waar het jy nodig om meer soos **die leeu** (dapper en beginselvas) op te tree?
 - Watter moderne "perde en strydwaens" (finansiële buffers, eie kundigheid, status of beheer) gee vir jou 'n valse gevoel van onafhanklikheid sodat jy minder opreg en afhanklik bid?

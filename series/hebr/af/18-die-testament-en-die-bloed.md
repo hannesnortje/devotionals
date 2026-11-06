@@ -26,11 +26,11 @@ Kom ons delf in die rykdom van die oorspronklike Griekse terme:
 - **"Ingewy" (*enkainizō* – ἐγκαινίζω, vers 18):** Die eerste verbond is *"nie sonder bloed ingewy nie"*: dit is amptelik geopen of bekragtig.
 - **"Bloedvergieting" en "vergewing" (*chōris haimatekchysias* – χωρὶς αἱματεκχυσίας; *aphesis* – ἄφεσις, vers 22):** Vers 22 vat die hele Ou-Testamentiese offerdiens saam in 'n onbuigbare geestelike wet: *"sonder bloedvergieting is daar geen vergewing nie"*. *Aphesis* beteken vrylating of kwytskelding.
 - **"Tersyde te stel" (*eis athetēsin hamartias* – εἰς ἀθέτησιν ἁμαρτίας, vers 26):** Die woord *athetēsis* (ἀθέτησις), wat ons ook in 7:18 gesien het, beteken om iets te annuleer, nietig te verklaar en uit sy amp te ontslaan.
-- **Drie woorde vir "verskyn" (*pephanerōtai* – πεφανέρωται; *emphanisthēnai* – ἐμφανισθῆναι; *ophthēsetai* – ὀφθήσεται, verse 24–28):** Verse 24 tot 28 skilder die volle panorama van die verlossingsgeskiedenis aan die hand van drie Griekse werkwoorde vir verskyn of geopenbaar word – wat verlede, hede en toekoms omvat (sien Kern Teologiese Waarhede). Die woord *emphanizō* (ἐμφανίζω) het ook 'n regsklank: in Handelinge 24:1 en 25:2 word dit gebruik vir dié wat 'n saak voor die goewerneur bring.
+- **Drie woorde vir "verskyn" (*pephanerōtai* – πεφανέρωται; *emphanisthēnai* – ἐμφανισθῆναι; *ophthēsetai* – ὀφθήσεται, verse 24–28):** Verse 24 tot 28 skilder die volle panorama van die verlossingsgeskiedenis aan die hand van drie Griekse werkwoorde vir verskyn of geopenbaar word – wat verlede, hede en toekoms omvat (sien Teologiese Kernwaarhede). Die woord *emphanizō* (ἐμφανίζω) het ook 'n regsklank: in Handelinge 24:1 en 25:2 word dit gebruik vir dié wat 'n saak voor die goewerneur bring.
 - **"Om … te dra" (*anenenkein* – ἀνενεγκεῖν, vers 28):** Christus is een keer aangebied *"om die sondes van baie te dra"* – 'n weerklank van Jesaja 53:12.
 - **"Wat Hom met verlange verwag" (*apekdechomenois* – ἀπεκδεχομένοις, vers 28):** Die werkwoord beteken om met reikende verlange op iemand te wag.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **'n Testament vereis 'n dood:** Christus het as 't ware nie net vir ons 'n ewige erfenis opgeskryf nie; Hy het self aan die kruis gesterf sodat Sy testament onmiddellik en onherroeplik ten gunste van ons in werking kon tree — en toe het Hy uit die dood opgestaan om self die Eksekuteur van Sy eie testament te wees!
 2. **Sonder bloedvergieting is daar geen vergewing nie:** Sonde is nie 'n klein foutjie wat met 'n glimlag geïgnoreer kan word nie; dit is hoogverraad teen 'n heilige God en die loon daarvan is die dood. Vergewing vereis dat 'n plaasvervangende lewe afgelê word sodat die skuldige lewe vrygespreek kan word.
@@ -50,7 +50,7 @@ Kyk tweedens na **jou hede** deur die lens van die hemelse troonsaal (vers 24). 
 
 Kyk derdens na **jou toekoms** deur die lens van Sy wederkoms (verse 27–28). Vir die wêreld buite Christus is die dood en die daaropvolgende oordeel (vers 27) die grootste denkbare verskrikking. Maar hoekom hoef jy as gelowige nie vir vers 27 te skrik nie? Omdat vers 28 onmiddellik daarop volg: *"soos … so sal ook Christus"*! Omdat Christus reeds jou "een keer sterwe" en jou oordeel aan die kruis gedra het, verander die toekoms vir jou van 'n vreesaanjaende regbank in 'n vreugdevolle uitsien na jou Bruidegom en Koning wat terugkeer om jou verlossing te voltooi!
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Leef jy soos 'n erfgenaam van die testament?** Besef jy dat Jesus se dood die testament van God se genade onherroeplik in werking gestel het, of leef jy nog soos 'n geestelike bedelaar wat twyfel of die beloftes regtig aan jou behoort?
 - **Die drie "verskynings" in jou gemoed:** Watter een van Christus se drie verskynings het jy vandag die nodigste om te onthou: dat Hy *reeds geopenbaar is* om jou skuld uit te wis (verlede), dat Hy *nou verskyn* voor die Vader om vir jou in te tree (hede), of dat Hy *weer sal verskyn* om alles nuut te maak (toekoms)?

@@ -22,7 +22,7 @@ Tydens koning Josia se regering was Juda omring deur ou vyande. Aan die westekan
 - **Woordspelings oor die Filistynse stede (vers 4):** Sefanja gebruik skerp Hebreeuse woordspeling: *Gasa* sal *verlaat* word (*'Azzah 'azuvah* – עַזָּה עֲזוּבָה), en *Ekron* sal *ontwortel* word (*we'Eqron te'aqer* – וְעֶקְרוֹן תֵּעָקֵר).
 - **"Na hulle omsien" (*yifqedem* – יִפְקְדֵם, vers 7):** Dit is die werkwoord *paqad* – dieselfde woord wat in hoofstuk 1 vir "straf" gebruik is (1:8, 9, 12), maar hier beteken dit om met sorg en ontferming in te gryp.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 In hierdie gedeelte ontvou vier kernwaarhede oor God se hart en die pad van ware bekering:
 
@@ -42,7 +42,7 @@ Sefanja 2:3 ruk ons terug na die kern van ware dissipelskap. Let daarop dat Sefa
 
 Verder wys verse 4 tot 7 vir ons hoe bedrieglik wêreldse mag en sekuriteit is. Vir die inwoners van Juda het die ryk hawestede van Filistia soos die veiligste, mees vooruitstrewende plekke op aarde gelyk. Tog wys God dat wat vandag soos 'n onwrikbare vesting lyk, môre net 'n stil skaapkraal sal wees. Ons moenie ons harte verpand aan die "Filistia" van wêreldse sukses of vrees vir aardse maghebbers nie. Ons veiligheid lê nie in hoe sterk ons mure is nie, maar in by Wie ons verborge is. In Christus is die gelowige reeds veilig weggesteek – *julle lewe is saam met Christus in God verborge* (Kolossense 3:3) – teen die finale oordeel.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Is daar areas in jou lewe of gedagtewêreld waar jou gewete afgestomp geraak het – dinge waaroor jy voorheen berou gehad het, maar wat jy nou sonder skroom duld?
 - Sefanja gee drie opdragte: *Soek die HERE … soek geregtigheid, soek nederigheid.* Watter een van hierdie drie word tans die meeste in jou daaglikse roetine afgeskeep?

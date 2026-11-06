@@ -26,7 +26,7 @@ Die Griekse grondteks gee aan ons 'n haarskerp beeld van hierdie roeping:
 - **"Hoe sal hy na die kerk van God omsien?" (*epimelēsetai* – ἐπιμελήσεται, vers 5):** Paulus gebruik hier die werkwoord *epimeleomai*. Dit is presies dieselfde woord wat Jesus in Lukas 10:34–35 gebruik om te beskryf hoe die barmhartige Samaritaan die gewonde man liefdevol versorg het. Die kerk is nie 'n korporasie wat bestuur moet word nie, maar 'n huisgesin en 'n hospitaal wat met vaderlike teerheid versorg moet word.
 - **"Nie iemand wat pas tot geloof gekom het nie … verwaand" (*neophyton*, *typhōtheis* – νεόφυτον / τυφωθείς, vers 6):** 'n Leier mag nie 'n *neophytos* wees nie — letterlik "nuut geplant", 'n jong lootjie in die geloof. As 'n onvolwasse gelowige te vinnig in 'n posisie van gesag geplaas word, loop hy die gevaar om *typhōtheis* te word (afgelei van *typhos*, wat "rook" of "mis" beteken): opgeblaas en verblind deur die rookwolk van verwaandheid, waardeur hy in dieselfde oordeel val wat die duiwel getref het toe hy homself in hoogmoed verhef het.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Wie jy is, weeg altyd swaarder as wat jy kan doen:** God stel veel meer belang in 'n dienaar se heiligheid en selfbeheersing as in sy uiterlike talente of bekwaamhede.
 2. **Die gesin is die leier se ware proefbuis:** 'n Mens kan 'n Sondagoggend-masker vir 'n paar uur in die openbaar dra, maar by die huis val alle voorgee weg. Die manier waarop iemand sy huwelik en kinders liefdevol lei, openbaar sy ware vermoë vir herderlike sorg.
@@ -41,7 +41,7 @@ Ons leef in 'n kultuur wat verblind word deur charisma, sjarme, roem en uiterlik
 
 Hierdie gedeelte roep elkeen van ons terug na die basiese dinge. Hoe hanteer jy konflik wanneer iemand jou teëgaan — is jy 'n "bakleier" met skerp woorde, of is jy *epieikēs*, vriendelik en sagmoedig? Is jou huis en jou eettafel oop vir vreemdelinge en eensames? Word jou lewe gedryf deur die jaagtog na geld en besittings, of deur tevredenheid in God? En bowenal: stem die persoon wat jou huweliksmaat en kinders elke dag agter toe deure sien, ooreen met die persoon wat op Sondae in die kerkbank sit?
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Waaraan meet ek geestelike sukses?** Meet ek dit in my eie lewe (en in die mense wat ek bewonder) aan sigbare gawes en prestasies, of aan stille, getoetste vrug van die Gees?
 - **Wat sê my huis oor my?** As die atmosfeer in my eie huis en die manier waarop ek my naaste familielede behandel die enigste maatstaf van my wandel met God was, watter getuienis sou dit vandag lewer?

@@ -24,7 +24,7 @@ from new_series import HEAD  # noqa: E402
 LANGS = ["af", "de", "en"]
 COMMON = {
     "af": ["Dieper Delf: Konteks en Betekenis", "Historiese, Kulturele en Literêre Konteks", None,
-           "Kern Teologiese Waarhede", "Praktiese Toepassing", "Vrae vir Persoonlike Selfondersoek", "Gebed"],
+           "Teologiese Kernwaarhede", "Praktiese Toepassing", "Vrae vir Selfondersoek", "Gebed"],
     "de": ["Tiefer graben: Zusammenhang und Bedeutung", "Geschichtlicher, kultureller und literarischer Hintergrund", None,
            "Zentrale theologische Wahrheiten", "Für das Leben heute", "Fragen zur persönlichen Besinnung", "Gebet"],
     "en": ["Digging Deeper: Context and Meaning", "Historical, Cultural and Literary Background", None,

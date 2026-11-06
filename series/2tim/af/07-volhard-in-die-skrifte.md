@@ -28,7 +28,7 @@ Die Griekse grondteks ontvou hier een van die belangrikste gedeeltes oor dissipe
     4. *Paideian tēn en dikaiosynē* (om op te lei in geregtigheid): Dit verwys na die deurlopende opvoeding en dissiplinering van 'n kind. Dit wys vir ons **hoe om reg te bly**.
 - **"Ten volle toegerus ... voorberei vir elke goeie werk" (*artios* – ἄρτιος / *exērtismenos* – ἐξηρτισμένος, vers 17):** Die doel van die Skrif is dat die "mens van God" *artios* kan wees (bevoeg, volwasse en geskik vir sy taak) en *exērtismenos* — 'n woord wat ook gebruik kon word vir 'n skip of wa wat ten volle uitgerus is vir 'n lang reis. Die Bybel is algeheel genoegsaam vir elke geestelike storm en vir elke goeie werk waartoe God ons roep.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Waaragtige mentorskap leef die Evangelie oop en bloot voor.** Die kragtigste geloofsoordrag gebeur wanneer jonger gelowiges nie net ons woorde hoor nie, maar ook sien hoe ons liefhet, vergewe en deur lyding gedra word.
 2. **Teenstand is die normale temperatuur vir 'n lewe in godsvrug in 'n gevalle wêreld.** Wanneer jy die karakter van Jesus uitleef, bots dit onvermydelik met die duisternis van die wêreld (vers 12), maar die Here verlos en dra sy kinders deur elke vuuroond heen (vers 11).
@@ -50,7 +50,7 @@ Laat die viervoudige chirurgie van die *theopneustos*-Woord vandag sy volle werk
 - Verwelkom sy **regstelling** (*epanorthōsis*) — God ontbloot nooit jou sonde om jou te vernietig nie, maar om jou gebreekte lewe weer reguit te spalk en op te rig!
 - Onderwerp jou daagliks aan sy **opleiding in geregtigheid**, sodat jy soos 'n ten volle toegeruste skip gereed sal wees vir elke goeie werk wat God vandag oor jou pad bring.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - As iemand my daaglikse lewe van naby moes dophou soos Timoteus vir Paulus dopgehou het — my doelwitte, my geduld onder druk en my reaksie op swaarkry — sou dit hulle nader aan Christus trek?
 - Verwag ek dat die Christelike lewe altyd gerieflik en sonder teenstand moet wees, of is ek bereid om ter wille van 'n lewe in godsvrug in Christus die misverstand en verwerping van die wêreld te dra?

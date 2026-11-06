@@ -23,7 +23,7 @@ Ninevé was 'n argitektoniese en militêre wonderwerk van die antieke wêreld. D
 - **Smelt weg (*namog* – נָמוֹג, van *mug*, v. 7):** Om op te los of inmekaar te stort – dieselfde werkwoord as by die heuwels wat in 1:5 voor die HERE "wegsmelt".
 - **Dit staan vas (*wehutsav* – וְהֻצַּב, v. 8):** Letterlik "dit is vasgestel": Ninevé se lot is beslis.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Goddelike Ironie teenoor Menslike Hoogmoed (v. 2):** Nahum begin met bytende, heilige sarkasme gerig aan die Assiriese bevelvoerders: *"Bewaak die bolwerk! Hou die pad dop! Maak jou heupe sterk! Raap al jou krag bymekaar!"* Die profeet daag Ninevé uit om hul beste verdediging gereed te kry, want *"'n Verstrooier"* is op pad. Alhoewel die Babiloniese en Mediese leërs die aardse werktuie was, wys die groter konteks van die boek dat God self die Opperbevelvoerder agter hierdie aanval is. Menslike voorbereiding, hoe indrukwekkend ook al, is nutteloos wanneer 'n mens teen God se raadsplan baklei.
 2. **Die Geestelike Rede vir die Oordeel: Die Herstel van die Wingerd (v. 3):** Te midde van die oorlogstoneel gee vers 3 die dieper teologiese rede waarom Ninevé moet val: *"Want die HERE herstel die majesteit van Jakob soos die majesteit van Israel"*. In die Bybel word Israel en Juda dikwels met 'n wingerdstok vergelyk (Psalm 80:9–17; Jesaja 5:1–7). Die Assiriese plunderaars het God se wingerd vertrap en *"hulle wingerdlote verwoes"*. God se oordeel oor boosheid is nooit losstaande van Sy verlossingsplan vir Sy kinders nie. Hy breek die mag van die onderdrukker sodat Sy eie volk se geestelike erfenis en waardigheid herstel kan word.
@@ -43,7 +43,7 @@ Op die oog af lyk Nahum 2:2–8 soos 'n antieke oorlogsgeskiedenis, maar die gee
 - **God se Belofte van Herstel vir die Vernielde Wingerd:** Kyk weer na die pragtige belofte in vers 3: *"Want die HERE herstel die majesteit van Jakob soos die majesteit van Israel; want plunderaars het hulle geplunder en hulle wingerdlote verwoes."* Miskien voel jy vandag soos daardie vernielde wingerd. Miskien het moeilike seisoene, seerkry, eie foute of die aanslae van die lewe jou vreugde, jou gawes of jou geestelike krag geplunder. God sien die gebroke lote raak. Sy plan is nie net om die dinge wat jou verniel uit die weg te ruim nie, maar om jou geestelike waardigheid, jou vrugbaarheid en jou roeping in Christus te **herstel**.
 - **Geen Geestelike Vesting is vir God Onaantasbaar nie:** Paulus skryf in 2 Korintiërs 10:4 dat die wapens van ons stryd vir God kragtig is om "vestings" af te breek. Soms is daar geestelike vestings – diepgewortelde denkpatrone, generasie-sondes, bitterheid of magtige versoekings – wat vir ons net so hoog en onoorwinlik soos Ninevé se mure lyk. Nahum 2 herinner ons daaraan dat die "Verstrooier" (v. 2) magtiger is as enige vesting. Wanneer God die sluise van Sy Gees oopmaak, smelt die hoogste mure van die vyand weg soos moddersteen in 'n vloed.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Op watter menslike "mure" of vorme van valse sekuriteit is jy geneig om te steun wanneer jy onseker of bedreig voel? Wat leer die "wegsmeltende paleis" van Ninevé (v. 7) jou oor waar jou ware anker moet lê?
 - Lees weer vers 3. In watter area van jou lewe voel jy dat jou "wingerdlote" geplunder of verwoes is? Hoe gee dit jou vandag hoop om te weet dat God 'n God is wat die eer en vrugbaarheid van Sy kinders herstel?

@@ -28,7 +28,7 @@ Die Griekse grondteks ontbloot 'n skatkis van pastorale en praktiese wysheid in 
 - **"Leef daarin" en "vorder" (*en toutois isthi* – ἐν τούτοις ἴσθι; *prokopē* – προκοπή, vers 15):** Waar ons vertaling sê "leef daarin", staan daar in die Grieks letterlik: *"Wees in hierdie dinge!"* Dit beteken om jou hele wese daarin te dompel sodat dit jou lewensasem word. Die gevolg is dat almal kan sien hoe jy vorder (*prokopē*). Die woord word dikwels verklaar met die beeld van pioniers wat 'n pad deur digte bos oopkap vir dié wat volg. 'n Geestelike leier hoef nie voor te gee dat hy reeds volmaak is nie, maar die gemeente moet kan sien dat hy voortdurend vordering maak in sy wandel met God.
 - **"Let op jouself en op die leer" (*epeche seautō kai tē didaskalia* – ἔπεχε σεαυτῷ καὶ τῇ διδασκαλίᾳ, vers 16):** Die werkwoord *epechō* beteken om jou aandag onverdeeld op iets te vestig en waaksaam daaroor wag te hou. Let op die volgorde: **eers op jouself**, en **dan op die leer**. 'n Prediker of gelowige wat sy leerstellings fyn dophou, maar sy eie siel en geheime sonde verwaarloos, is op pad na 'n ramp. Omgekeerd verval wie net op sy eie vroomheid fokus sonder gesonde leer, in subjektiewe misleiding. Wanneer albei saam bewaar word, gebruik God daardie getrouheid as die middel om "jouself … én dié wat na jou luister" veilig deur te dra tot die ewige redding.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Karakter oorbrug elke geloofwaardigheidsgaping:** Ware geestelike gesag spruit nie uit ouderdom, titels of posisie nie, maar uit 'n lewe wat soos 'n suiwer stempel (*typos*) die beeld van Christus in woord, liefde en reinheid afdruk.
 2. **Die Skrif is die kloppende hart van die gemeente:** Sonder die getroue voorlesing, suiwer uitleg en indringende toepassing van God se Woord verloor die kerk haar kompas en haar geestelike krag.
@@ -45,7 +45,7 @@ Vir dié van ons wat reeds dekades lank die pad saam met die Here stap, hou vers
 
 Laastens klink die wekroep van vers 16 soos 'n klokslag oor ons gejaagde lewens: *"Let op jouself!"* Net soos 'n vliegtuigpassasier eers sy eie suurstofmasker moet opsit voordat hy die kind langs hom kan help, moet jy eers waak oor jou eie siel. Dit help nie jy is druk besig met kerkwerk, bediening of die versorging van jou gesin, maar jou eie binnekamer is leeg en jou eie hart koel af teenoor Jesus nie.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Van die areas wat Paulus in vers 12 noem (woord, lewenswyse, liefde, geloof, reinheid), watter een is tans die swakste skakel in my daaglikse voorbeeld voor ander mense?
 - Is daar 'n geestelike gawe of roeping wat God in my lewe geplaas het wat ek tans weens vrees, gemaklikheid of oorbesigheid verwaarloos?

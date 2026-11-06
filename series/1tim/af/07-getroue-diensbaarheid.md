@@ -25,7 +25,7 @@ Die Griekse grondteks werp ryk lig op die aard van hierdie roeping:
 - **"Die vroue … nie kwaadpraters nie" (*gynaikas … mē diabolous* – γυναῖκας … μὴ διαβόλους, vers 11):** Of Paulus hier verwys na vroulike diakens (soos Febe in Romeine 16:1) wat spesifiek onder vroue, kinders en siekes gedien het, en of hy verwys na die eggenotes van diakens wat hul mans in hierdie sensitiewe bediening bygestaan het — die Griekse *gynaikas* kan albei beteken — die karaktervereiste bly dieselfde: hulle mag nie "kwaadpraters" (*diabolous*) wees nie. Dit is opvallend dat *diabolos* presies die Griekse woord is wat elders met "duiwel" (die lasteraar of aanklaer) vertaal word. Wanneer 'n mens ander se swakhede en huishoudelike nood van naby sien en daardie vertroulike inligting as skinderstories versprei, doen jy letterlik die werk van die vyand.
 - **"'n Goeie posisie en groot vrymoedigheid" (*bathmon kalon*, *pollēn parrēsian* – βαθμὸν καλόν / πολλὴν παρρησίαν, vers 13):** Paulus sluit af met 'n kragtige belofte vir getroue diens. Wie goed dien, verwerf 'n *bathmos kalos* (letterlik 'n goeie trap of verhoging — 'n plek van hoë geestelike agting en invloed) sowel as *pollē parrēsia*, "groot vrymoedigheid". *Parrēsia* dui op 'n onwrikbare vryheid, sekerheid en dapperheid om sonder vrees of skaamte van Christus te getuig.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Praktiese dienswerk vereis geestelike diepte:** In God se oë is daar geen "sekulêre" of tweedeklas-taak in die gemeente nie. Om praktiese nood te verlig, vereis mense wat die geheimenis van die evangelie verstaan en uitleef.
 2. **Ons tong en ons beursie is spieëls van ons siel:** Hoe ons met mense praat wanneer ander nie luister nie (*nie dubbeltongig nie, nie kwaadpraters nie*) en hoe ons met geld omgaan (*nie uit op oneerlike wins nie*), wys hoe diep die evangelie ons harte verander het.
@@ -42,7 +42,7 @@ Hierdie gedeelte daag egter nie net ons gewilligheid om te dien uit nie, maar oo
 
 As jy smag na meer vrymoedigheid (*parrēsia*) in jou geloofslewe — as jy voel jou gebedslewe en getuienis is kragteloos — gee vers 13 'n verrassende sleutel: begin om getrou, stil en met 'n rein gewete ander mense in Jesus se Naam te dien. Vrymoedigheid in die geloof blom daar waar selfsug sterf.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Dien ek ook waar niemand kyk nie?** Is ek bereid om met vreugde te dien in take waar niemand my sien of bedank nie, of dien ek slegs wanneer dit vir my aansien en erkenning bring?
 - **Is ek "enkeltongig"?** Kan mense absoluut seker wees dat ek agter hul rug dieselfde oor hulle praat as voor hul gesig, en dat hul geheime veilig is by my?

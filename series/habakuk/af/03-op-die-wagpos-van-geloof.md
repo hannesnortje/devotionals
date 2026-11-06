@@ -21,7 +21,7 @@ Tog sien ons hier 'n reuse-verskuiwing in hoe Habakuk sy tweede klag benader. Vo
 - **Wagpos (*mishmarti* – מִשְׁמַרְתִּי) en skans (*matsor* – מָצוֹר):** In 2:1 gebruik Habakuk militêre taal vir sy gebedslewe. 'n Brandwag op 'n stadsmuur (*matsor* – vestingwal of skans) mag nie aan die slaap raak nie; hy tuur oor die horison met gefokusde verwagting.
 - **Bestraffing (*tokhachti* – תּוֹכַחְתִּי):** Aan die einde van 2:1 verwag Habakuk dat God sy argument sal beantwoord. Die woord *tokhachat* kan sy eie klagte (sy "bestraffing" van God) aandui, maar beteken ook "korreksie" of "teregwysing" – dieselfde wortel as in 1:12, waar God die Chaldeër *"om te bestraf"* gevestig het (*lehokhiach* – לְהוֹכִיחַ). Habakuk is nederig genoeg om te weet dat sy eie perspektief dalk deur God reggestel moet word.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Begin by wat jy van God wéét voordat jy vra wat jy nie verstaan nie:** In vers 12–13 bely Habakuk vyf ononderhandelbare waarhede oor God: Hy is ewig (*van ouds af*), persoonlik (*my God*), afgesonderd van sonde (*my Heilige*), soewerein en onwrikbaar (*Rots*), en moreel vlekkeloos (*"U oë is te rein om kwaad te sien"*). Daarom kan hy met sekerheid uitroep: *"Ons sal nie sterf nie."* God se verbondsvolk sal getugtig word, maar nooit uitgewis word nie.
 2. **Die ontmensliking van ander is 'n gruwel voor God:** Wanneer maghebbers mense bloot soos *"die visse van die see"* of *"die kruipende goed"* (vers 14) behandel – as blote syfers, pionne of verbruikersgoedere om hul eie rykdom en "vet deel" te vergroot – druis dit lynreg in teen God wat die mens na Sy beeld geskep het.
@@ -34,7 +34,7 @@ Wanneer 'n krisis tref en ons gebede skynbaar op 'n manier beantwoord word wat n
 
 Verder daag Habakuk 2:1 ons gejaagde, moderne gebedslewe uit. Ons behandel gebed dikwels soos 'n kitskos-deurry: ons gee ons bestelling (of ons klaglys) by die eerste venster in, en jaag dadelik verder met ons besige dag sonder om te wag vir die antwoord. Om saam met Habakuk te sê: *"Op my wagpos wil ek staan"*, beteken om doelbewus uit die geraas van die lewe terug te tree, die Skrif oop te maak, en met 'n oop, leerbare gees te wag. En let op Habakuk se gesindheid: hy is bereid om deur God *tereggewys* te word. Soms verander God nie dadelik ons situasie nie, omdat Hy eers ons perspektief op die wagtoring wil verander.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Wanneer jy deur 'n diep teleurstelling gaan, watter een van God se eienskappe in vers 12–13 (Sy ewigheid, Sy heiligheid, Sy trou as Rots, of Sy reinheid) vind jy die moeilikste om aan vas te hou? Waarom?
 - Kyk na vers 16, waar van die vyand gesê word: *"Daarom offer hy aan sy net"* – omdat dit vir hom 'n ryk lewe gee. Watter "nette" in jou lewe – jou werk, jou kwalifikasies, jou spaargeld of jou vaardighede – kry tans die eer en vertroue wat eintlik net aan God behoort?

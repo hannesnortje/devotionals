@@ -21,7 +21,7 @@ Maar God se oordeel is nooit Sy laaste woord vir Sy verbondsvolk nie. Met die wo
 - **Van swaarde tot ploegskare en snoeimesse (*charvotehem* – חַרְבֹתֵיהֶם tot *'ittim* – אִתִּים):** In vers 3 smee die nasies hul swaarde (*charavot*, van *cherev*) om tot ploegskare of pikke (*'ittim*) en hul spiese (*chanitot*) tot snoeimesse (*mazmerot*). Dieselfde metaal wat voorheen gebruik is om menselewens te vernietig, word deur die vuur van God se regspraak getransformeer in landbougereedskap wat kos, lewe en seën voortbring.
 - **Onder die wingerdstok en vyeboom (v. 4):** In die antieke Israelitiese kultuur was dit die hoogste beeld van *shalom* (vrede en voorspoed; vgl. 1 Konings 4:25; Sagaria 3:10). Wingerde en vyebome neem jare van stabiele vrede om te groei en vrug te dra; tydens oorlog was dit die eerste dinge wat deur vyandelike leërs afgekap is. In Miga 2:1–2 het die ryk grondrowers die kleinboere van hul lande en huise beroof, maar in God se vernude ryk sit selfs die geringste burger in volkome veiligheid (*we'ein macharid* – וְאֵין מַחֲרִיד: *"en niemand sal hulle skrikmaak nie"*).
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **God se genade herskep wat menslike sonde verwoes het:** Die einste berg wat aan die einde van hoofstuk 3 in 'n verlate bosheuwel verander het weens korrupte leierskap, word aan die begin van hoofstuk 4 deur God self verhef as die geestelike middelpunt van die heelal. Waar die mens afbreek, bou God nuut.
 2. **Ware vrede (*shalom*) is die vrug van God se Woord en regspraak, nie van menslike diplomasie alleen nie:** Let op die volgorde in vers 2 en 3. Die nasies lê eers hul wapens neer *nadat* die woord van die HERE uit Jerusalem uitgegaan het en Hy tussen hulle geoordeel (*shafat*) en reg gespreek het (*hokhiach*, van *yakach* – teregwys). Daar kan geen uiterlike vrede tussen mense wees voordat daar nie innerlike onderwerping aan die Koning se waarheid is nie.
@@ -38,7 +38,7 @@ Maar hierdie teks roep ons ook op om **vandag reeds burgers van daardie toekomst
 
 En wanneer dit voel asof jy die enigste een in jou vriendekring of werkplek is wat nog ernstig is oor God se weë, hou vas aan vers 5. Jy hoef nie deur die meerderheid se koers meegesleur te word nie. Wandel met stille oortuiging in die Naam van die HERE jou God.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Wanneer jy na die gebrokenheid en onrus in die wêreld (of in jou eie lewe) kyk, word jou gesindheid meer gevorm deur die sigbare "puinhope" van Miga 3:12, of deur die vaste belofte van God se komende Koninkryk in Miga 4:1–4?
 - Is daar tans "swaarde en spiese" in jou verhoudings – verdedigingsmeganismes, sarkasme, ou wrokke of harde woorde – wat die Here jou vra om vandag om te smee tot "ploegskare en snoeimesse" wat lewe en genesing bring?

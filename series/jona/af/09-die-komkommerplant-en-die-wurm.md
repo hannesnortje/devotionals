@@ -29,7 +29,7 @@ Die Hebreeuse teks van verse 5 tot 8 is 'n literêre meesterstuk vol ironie en h
 - **"En Jona was bly ... met 'n groot blydskap" (*wayyismach Yonah ... simchah gedolah* – וַיִּשְׂמַח יוֹנָה ... שִׂמְחָה גְדוֹלָה):** Letterlik staan daar: *"En Jona was bly oor die komkommerplant met 'n groot blydskap."* Dit is 'n skokkende opmerking: dit is die **heel eerste en enigste keer** in die hele boek dat Jona bly is! Toe die matrose tot bekering gekom het, was hy nie bly nie. Toe Ninevé gered is, was dit vir hom *ra'ah gedolah*, "'n groot kwaad" (4:1). Maar wanneer 'n plantjie sy eie kop teen die son beskerm, ervaar hy skielik 'n *simchah gedolah* ('n groot blydskap)!
 - **"Beskik" (*wayman* – וַיְמַן):** Hierdie sleutelwerkwoord kom drie keer agtereenvolgens in verse 6, 7 en 8 voor. In 2:1 het die Here 'n **groot vis** *beskik*. Nou *beskik* Hy 'n **komkommerplant** (v. 6), Hy *beskik* 'n enkele **wurm** (*tola'at*, v. 7), en Hy *beskik* 'n **skroeiende oostewind** (*ruach qadim charishit*, v. 8). Of dit nou 'n reuse-seedier in die diepte of 'n klein wurmpie by dagbreek is — die hele skepping reageer met volmaakte gehoorsaamheid op God se bevel, terwyl slegs die hart van Sy profeet steeds weerstand bied.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die Afgod van Persoonlike Gerief:** Jona se emosionele wipplank tussen vers 6 en vers 8 is ontstellend. In vers 6 is hy in ekstase oor 'n bietjie koelte; in vers 8 wil hy sterf omdat dit warm is. Wanneer ons persoonlike gemak en gerief die hoogste prioriteit in ons lewe word, word ons geestelik blind vir God se koninkryk en emosioneel uitgelewer aan die kleinste verandering in ons omstandighede.
 2. **Ons Eie "Skuilings" Kan Ons Nie Beskerm Nie:** Jona het eers sy eie *sukkah* (skuiling) probeer bou (v. 5), maar dit was onvoldoende teen die hitte; God moes die plant laat opskiet om ware skaduwee te gee (v. 6). Ons probeer gedurig ons eie menslike skuilings en sekuriteite bou om onsself teen die lewe te beskerm, maar ware verkwikking is altyd 'n genadegawe van God.
@@ -44,7 +44,7 @@ Hierdie gedeelte vlek ook ons daaglikse prioriteite oop. Wat gee vir jou 'n *"gr
 
 As jy vandag beleef dat 'n "komkommerplant" waarin jy jou vreugde en rus gevind het, skielik verdor het, moenie dadelik dink dat God jou verlaat het nie. Vra eerder: *Wat wil die Here deur hierdie verlies in my hart blootlê?* Hy neem nooit ons tydelike skaduwees weg om ons te vernietig nie, maar om ons te red van die kwaad van selfgesentreerdheid, sodat ons Hom as ons enigste ware Skuilplek kan ken.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Het ek 'n toeskouer op die heuwel geword?** Is daar 'n situasie, 'n gemeente of 'n groep mense van wie ek my krities onttrek het om van 'n afstand af te sit en oordeel, in plaas daarvan om met deernis betrokke te bly?
 - **Wat verklap my blydskap en my droefheid oor my hart?** As ek kyk na wat my die afgelope week die heel blyste en die heel kwaadste gemaak het, gaan dit hoofsaaklik oor my eie tydelike gerief ("my komkommerplant") of oor die dinge wat vir God se koninkryk saak maak?

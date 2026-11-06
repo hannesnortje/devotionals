@@ -28,7 +28,7 @@ Vers 13 sluit af met 'n profetiese opmerking: wat oud word en verouder, "is naby
 - **Want (*hoti* – ὅτι), genadig (*hileōs* – ἵλεως) en nooit meer (*ou mē mnēsthō eti* – οὐ μὴ μνησθῶ ἔτι, vers 12):** Let op die woordjie "Want" (*hoti*) aan die begin van vers 12! Waarom is innerlike verandering en intieme gemeenskap met God moontlik? *Omdat* God beloof: "Want Ek sal genadig wees oor hulle ongeregtighede, en aan hulle sondes sal Ek nooit meer dink nie." *Hileōs* beteken versoen en genadig. In die Grieks staan daar 'n dubbele ontkenning, *ou mē mnēsthō eti*: Ek sal dit **nooit, ooit weer** teen hulle in herinnering roep nie!
 - **Oud verklaar (*pepalaiōken* – πεπαλαίωκεν, vers 13):** Deur te sê "'n nuwe", het God die eerste "oud verklaar" (*pepalaiōken* — uitgedien en afgeleef).
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 Hier is die vier groot beloftes van die Nuwe Verbond (vers 10–12):
 
@@ -48,7 +48,7 @@ Kyk vandag met nuwe oë na die **beter beloftes** waarvan Jesus vir jou die Midd
 - **Van kliptafels na jou hart (vers 10):** Christelike heiligmaking is nie 'n kwessie van harder probeer uit vrees vir straf nie; dit is die bonatuurlike werk van die Gees wat God se liefde en wil van binne af op jou denke en hart skryf. Wanneer jy met 'n spesifieke sonde of gesindheid worstel, hoef jy dit nie in eie krag aan te pak nie — jy mag die Skrywer van die Nuwe Verbond vra om sy waarheid dieper op jou hart te graveer en jou begeertes van binne af te verander.
 - **Van 'n argief van skuld na 'n skoon bladsy (vers 12):** Ons menslike geheue (en die aanklaer) hou daarvan om ou sondes wat ons lankal bely het, soos spoke uit die verlede op te grawe. Maar vers 12 sê dat God kies om **nooit, ooit weer** aan jou belyde sondes te dink nie! Dit beteken nie dat die alwetende God geheueverlies kry nie; dit beteken dat Hy beloof om jou sonde nooit weer teen jou te gebruik of jou volgens jou verlede te behandel nie, omdat Jesus die skuld in die ware hemelse heiligdom ten volle betaal het.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Skaduwee of werklikheid?** Soek jy soms jou geestelike sekuriteit in uiterlike vorme, rituele en menslike goedkeuring ("skaduwees"), in plaas daarvan om jou oë op te slaan na Christus wat nou as jou Hoëpriester in die ware hemelse heiligdom sit?
 - **Kliptafels of hartstafels?** Ervaar jy God se wil vir jou lewe tans as 'n swaar, uiterlike las wat jy moet probeer nakom, of laat jy die Heilige Gees toe om God se waarheid van binne af op jou denke en jou liefde te skryf?

@@ -22,7 +22,7 @@ Omri en sy seun Agab (wat met die Fenisiese prinses Isébel getroud was) was in 
 - **Die Vrugtelose Vloeke (*yeshach* – יֶשַׁח):** Verse 14 en 15 eggo die sogenaamde **verbondsvloeke van vrugteloosheid** in Levitikus 26 en Deuteronomium 28:30–40. Hulle sal eet, maar hul maag sal leeg bly: *"die honger bly in jou binneste"*. Die woord *yeshach* kom net hier in die Bybel voor; die betekenis word uit die konteks afgelei – waarskynlik 'n knaende leegheid of honger binne-in die liggaam (party dink aan maagpyne). Hulle sal saai, olywe trap vir olie en druiwe trap vir mos (*tirosh*), maar nooit die vrug daarvan geniet nie.
 - **Die Insettinge van Omri (*chuqqot 'omri* – חֻקּוֹת עָמְרִי):** Let op die snydende ironie in vers 16. Die woord *chuqqot* (insettinge/wette) word normaalweg vir die heilige wette van die Here gebruik. Juda het God se insettinge oorboord gegooi en eerder die "insettinge van Omri" – die ongeskrewe sakereëls van hebsug, magsvergryp en godsdienstige kompromie – met godsdienstige ywer nagevolg!
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **God is intiem betrokke by ons alledaagse geldsake en besigheidsetiek:** Die Here beperk sy heiligheid nie tot die tempelvoorhowe nie; Hy kyk reg binne-in die gewigsakkie en die graanmaat op die markplein (v. 10–11). Vir God is 'n oneerlike faktuur, 'n verswygde gebrek by 'n transaksie of die uitbuiting van 'n koper net so afskuwelik soos 'n afgodsbeeld.
 2. **God se tugtigende "roede" is 'n genadige waarskuwing voor finale oordeel:** Wanneer vers 9 roep: *"Luister na die roede en na Hom wat dit bestem het!"*, herinner dit ons dat ekonomiese terugslae, onrus en maatskaplike skuddings nie bloot "toevallige ongelukke" is nie. Dit is God se liefdevolle megafoon wat 'n volk tot stilstand en bekering wil roep voordat dit te laat is.
@@ -42,7 +42,7 @@ Tweedens verklaar vers 14 en 15 waarom so baie mense in ons moderne verbruikersk
 
 Laastens nooi vers 9 ons uit tot ware wysheid (*tushiyyah*): **om die roede te hoor**. Wanneer die Here toelaat dat ons eie planne vasloop of dat ons deur 'n moeilike seisoen van dissipline gaan, moenie jou hart verhard of net oor die pyne kla nie. Vra met 'n sagte hart: *Here, wat wil U deur hierdie roede vir my leer? Waar roep U my terug na u hart toe?*
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - As die Here vandag deur die "huis" van jou finansies, jou werksetiek en jou daaglikse kommunikasie stap (v. 10–12), is daar enige versteekte "skraal efa" of halwe waarheid waarvan Hy jou wil reinig?
 - Gebruik jy soms 'n dubbele weegskaal in jou oordeel oor mense – streng en ongenadig teenoor ander se swakhede, maar toegeeflik teenoor jou eie?

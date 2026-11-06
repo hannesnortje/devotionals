@@ -30,7 +30,7 @@ Die skrywer se woordkeuse maak die oorspronklike insigte van hierdie gedeelte oo
 - **Twee werkwoordtye langs mekaar (*teteleiōken* – τετελείωκεν; *tous hagiazomenous* – τοὺς ἁγιαζομένους, vers 14):** *"Want deur een offergawe het Hy dié wat geheilig word, vir altyd tot volmaaktheid gebring."* *Teteleiōken* ("het Hy … tot volmaaktheid gebring") is 'n perfektum: 'n reeds afgehandelde posisie voor God. *Tous hagiazomenous* ("dié wat geheilig word") is 'n teenwoordige deelwoord: ons daaglikse proses van groei, ons wat besig is om geheilig te word.
 - **"Vergewing" (*aphesis* – ἄφεσις, vers 18):** Die finale regsuitspraak in vers 18 gebruik die woord vir vrylating of kwytskelding: *"Waar daar vergewing hiervan is, is daar geen offergawe vir sonde meer nie."*
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die skaduwee kon nooit die werklikheid vervang nie:** Omdat dierebloed moreel en geestelik op 'n heeltemal ander vlak as die mens staan (diere het geen morele bewussyn nie en kan nie gewillig kies om in die plek van 'n mens te ly nie), kon die bloed van bulle en bokke nooit sondes werklik wegneem nie.
 2. **God soek 'n liggaam wat sy wil doen, nie blote rituele nie:** God wou nooit blote meganiese rituele en die slag van onwillige diere hê nie; Hy het 'n menslike lewe van volkome, liefdevolle gehoorsaamheid geëis. Daarom sê Jesus: *"Kyk, Ek het gekom … om u wil, o God, te doen."* En vers 10 gee die heerlike resultaat: deur die gewillige gehoorsaamheid van die Seun aan die wil van die Vader is ons geheilig deur die offergawe van Jesus se liggaam, **eens en vir altyd**.
@@ -47,7 +47,7 @@ Verder bring verse 5 tot 9 vir ons 'n diepgaande les oor wat God werklik in ons 
 
 Laastens, leef vandag in die vrede van vers 14 se balans: jy hoef nie moedeloos te word wanneer jy sien hoe baie groei ("dié wat geheilig word") daar nog in jou karakter moet plaasvind nie, want in God se oë staan jy deur Christus se eenmalige offer reeds **vir altyd volmaak** ("het Hy … vir altyd tot volmaaktheid gebring").
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Bewussyn van sonde teenoor bewussyn van vergewing:** Loop jy nog steeds rond met 'n konstante, verlammende skuldbewussyn (vers 2) oor dinge wat jy reeds bely het, of rus jy in die wete dat Christus jou sonde soos 'n ou kleed vir altyd weggeneem (*perielein*) het?
 - **Rituele of gehoorsaamheid?** Probeer jy soms om met uiterlike godsdienstige pligte ("offers en offergawes") op te maak vir 'n area in jou lewe waar jy eintlik weier om saam met Christus te sê: *"Kyk, Ek het gekom … om u wil, o God, te doen"* (vers 7)?

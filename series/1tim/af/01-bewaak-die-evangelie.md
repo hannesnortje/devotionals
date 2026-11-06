@@ -22,7 +22,7 @@ In die Griekse grondteks tref Paulus dadelik die kern met doelgerigte woordeskat
 - **"Leë gepraat" (*mataiologia* – ματαιολογία, vers 6):** Diegene wat van hierdie suiwer lyn afwyk, verval in *"leë gepraat"* — vrugtelose geredekawel wat geen ewige gewig dra nie.
 - **"Die gesonde leer" (*hygiainousē didaskalia* – ὑγιαινούσῃ διδασκαλίᾳ, vers 10):** Die frase kom van die werkwoord *hygiainō* (waarvan ons die woord *higiëne* kry). Dit dui op leer wat lewegewend, geestelik gesond en immuunversterkend is, in skrille kontras met die giftige gevolge van valse leerstellings.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die toets van gesonde lering is sy morele en verhoudingsmatige vrug:** Ware Bybelse waarheid lei altyd na groter liefde vir God en mense, verenig met 'n deursigtige gewete. As teologiese debatte bitterheid, trots en verdeeldheid kweek, het dit sy *telos* verloor.
 2. **Die wet is 'n diagnostiese instrument, nie 'n verlossingsmiddel nie:** Paulus verduidelik dat die wet goed is *"as iemand dit gebruik soos dit bedoel is"* (vers 8). Die wet is gegee om die rebellie, goddeloosheid en morele verdorwenheid van die gevalle mensdom aan te toon — om die wond oop te vlek sodat die sondaar die noodsaaklikheid van die Geneesheer kan besef. Dit kan nie die gewete skoonwas nie; slegs Christus kan dit doen.
@@ -36,7 +36,7 @@ Paulus herinner ons daaraan dat geestelike volwassenheid nie gemeet word aan hoe
 
 Wanneer jy die Skrif bestudeer, moet dit jou nie opblaas met trots nie, maar jou breek voor die heiligheid van God en jou vul met barmhartigheid teenoor ander.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Waaraan bestee ek my energie?** Bestee ek meer tyd en energie aan spekulatiewe, polariserende kwessies as aan die eenvoudige, kragtige kern van die Evangelie en dissipelskap?
 - **Is my geloof opreg?** As ek eerlik na my daaglikse lewe kyk, leef ek met 'n opregte geloof (sonder 'n masker), of probeer ek 'n vrome indruk skep terwyl my binnekamer leeg is?

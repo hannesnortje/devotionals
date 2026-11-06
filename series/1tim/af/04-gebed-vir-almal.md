@@ -27,7 +27,7 @@ Die Griekse teks ontbloot hier 'n ryk skakering van die biddende lewe en die ver
 - **"Middelaar" (*mesitēs* – μεσίτης, vers 5):** 'n Middelaar is 'n bemiddelaar wat tussen twee vervreemde partye staan om versoening te bewerkstellig. Paulus beklemtoon twee onwrikbare pilare: daar is slegs *een God*, en slegs *een Middelaar* — *"die mens Christus Jesus"*. Omdat Jesus volkome God is, kan Hy God se heilige teenwoordigheid verteenwoordig; omdat Hy volkome mens geword het (*anthrōpos*), kan Hy die sondige mensdom volkome verteenwoordig. Geen aardse priester, heilige of engel kan hierdie brug bou nie; Christus alleen dra die littekens wat versoening verseker het.
 - **"Losprys vir almal" (*antilytron hyper pantōn* – ἀντίλυτρον ὑπὲρ πάντων, vers 6):** Christus *"Homself gegee het as losprys vir almal"*. Die voorvoegsel *anti-* beteken letterlik "in die plek van", terwyl *lytron* die losprys is wat betaal word om 'n gevangene of slaaf vry te koop. Jesus se kruisdood was 'n plaasvervangende betaling wat die skuldbrief teen ons ten volle uitgewis het.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Voorbidding is die kerk se primêre burgerplig:** Die kragtigste bydrae wat die kerk tot die samelewing kan lewer, vind plaas in die binnekamer. Wanneer ons vir wêreldleiers bid, beïnvloed ons die geestelike atmosfeer sodat orde bewaar en die Evangelie vryelik versprei kan word.
 2. **Die Evangelie het 'n universele reikwydte:** Daar is geen mens op aarde — ongeag hul boosheid, politieke mag of goddeloosheid — wat buite die uitnodiging van God se reddende genade val nie.
@@ -44,7 +44,7 @@ Christene word nie geroep om die kultuur met wêreldse wapens te beveg nie, maar
 
 Daarby herinner hierdie teks ons aan die fondament van ons eie sekerheid. Jy het nie 'n menslike tussenganger nodig om by God uit te kom nie. As jy die Seun het, het jy direkte toegang tot die Vader. Christus pleit tans vir jou aan die regterhand van God. Hierdie waarheid behoort ons te dryf om met vrymoedigheid te bid vir verlore familielede, bure en selfs ons vyande, met die wete dat God wil hê dat mense *"tot kennis van die waarheid kom"*.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Kritiek of voorbidding?** As iemand 'n opname sou maak van my woorde teenoor my gebede aangaande ons burgerlike leiers, wat sou swaarder weeg: my kritiek of my voorbidding?
 - **Bid ek vir my teenstanders?** Bid ek ooit met trane en erns vir mense met wie ek diep verskil of wat my benadeel, met die verlange dat hulle God se verlossing sal smaak?

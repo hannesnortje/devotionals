@@ -22,7 +22,7 @@ Hierdie gedeelte neem ons vanaf die diepste diagnose van menslike hardnekkigheid
 - **Skouer aan skouer (*shekhem 'echad* – שְׁכֶם אֶחָד):** Letterlik "met een skouer" – soos osse wat skouer aan skouer onder dieselfde juk trek.
 - **'n Volk, arm en gering (*'am 'ani wadal* – עַם עָנִי וָדָל):** *'Ani* beteken "arm, verdruk" (dieselfde stam as *me'annayikh* – מְעַנַּיִךְ, "wat jou verdruk", 3:19). Dit gaan hier nie net oor mense wat vertrap is nie, maar oor mense wat geestelik arm van gees is (Matteus 5:3) – genees van selfverheffing.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die Viervoudige Geestelike Doofheid (verse 1–2):** Vers 2 ontleed presies hoe geestelike agteruitgang werk deur vier trappe wat op mekaar volg:
    - Sy het nie na die stem **geluister** nie (doof vir God se Woord).
@@ -43,7 +43,7 @@ Kyk na die skerp kontras in vers 5 en vers 7. God kom **môre na môre** getrou 
 
 Tog is die boodskap van hierdie gedeelte oorweldigend hoopvol. Ons kan onsself nie reinig van ons eie hoogmoed of ons eie onsuiwer lippe nie. Daarom sê God in vers 9 en 11: **"Ek sal …"** God self doen die hartchirurgie. Deur die kruis van Jesus Christus word ons skande oor ons verlede uitgewis (*"Op dié dag hoef jy jou nie te skaam nie oor al jou dade"*, vers 11). Hy gee vir ons 'n nuwe taal – lippe wat nie meer hoef te lieg, te vlei of af te breek om onsself te beskerm nie – en Hy nooi ons om skouer aan skouer saam met ander gelowiges in sy koninkryk te dien, veilig en bevry van vrees.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Kyk weer na die vier stappe in vers 2: *luister na die stem, aanvaar tug, vertrou op die HERE, en nader tot Hom.* By watter een van hierdie vier ervaar jy tans die meeste weerstand of traagheid in jou wandel met die Here?
 - Wat sê die woorde wat die afgelope week oor jou lippe gekom het (by die huis, by die werk of in die verkeer) oor die toestand van jou hart? Het jy nodig dat die Here vandag vir jou 'n "suiwer lip" gee?

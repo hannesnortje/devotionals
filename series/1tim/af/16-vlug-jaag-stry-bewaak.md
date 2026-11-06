@@ -26,7 +26,7 @@ Die Griekse grondteks ontvou hier 'n kragtige simfonie van opdragte, aanbidding 
 - **Die werklike lewe vir die rykes (verse 17–19):** Éfese was 'n skatryk handelsmetropool, en daar was welgestelde gelowiges in die gemeente. Let op Paulus se balans: hy beveel hulle nie om hul besittings weg te gooi en arm te word nie, en hy bevestig selfs dat God ons alles ryklik gee "om te geniet" (*eis apolausin*). Maar hy waarsku teen die twee groot siektes van welvaart: hoogmoed (*hypsēlophronein* — om op ander neer te sien omdat jy ryk is) en valse sekuriteit (om jou hoop te bou op die *adēlotēs* — die wispelturige onsekerheid — van geld). In plaas daarvan om ryk te wees aan bankrekeninge, moet hulle "ryk te wees aan goeie werke", "vrygewig" (*eumetadotous*) en "bereid om te deel" (*koinōnikous*). Sodoende gryp hulle "die werklike lewe" vas (*tēs ontōs zōēs*).
 - **"Bewaak wat aan jou toevertrou is" (*tēn parathēkēn phylaxon* – τὴν παραθήκην φύλαξον, v. 20):** Paulus sluit die brief af met 'n emosionele uitroep: *"Timoteus, bewaak wat aan jou toevertrou is."* In die antieke regswese was 'n *parathēkē* 'n kosbare skat of deposito wat aan 'n vertroueling gegee is om veilig te bewaar. Die bewaarder het geen reg gehad om die skat te verander of vir homself toe te eien nie; hy moes dit met sy lewe beskerm en ongeskonde teruggee. Wat aan Timoteus toevertrou is, is die suiwer Evangelie van Jesus Christus. Timoteus moet sy rug draai op die "valslik sogenaamde kennis" (*pseudōnymos gnōsis* — die vroeë saadjies van die Gnostiek wat op geheime intellektuele kennis geroem het). Diegene wat agter hierdie skyn-wysheid aangeloop het, het "van die geloof afgedwaal" (*ēstochēsan* — 'n boogskuttersterm wat beteken om die teiken heeltemal mis te skiet).
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Heiligmaking bestaan uit 'n dubbele beweging.** Geen gelowige kan geestelik gesond bly as hy net weet waarteen hy is (*vlug*) sonder om met passie te leef vir dit waarvoor hy geroep is (*jaag na*) nie.
 2. **Die soewereine majesteit van God is die anker van ons moed.** Wanneer ons besef dat ons diensbaar is aan die Koning van die konings wat in ontoeganklike lig woon, verloor aardse "Pilatusse" en menslike dreigemente hul greep op ons harte.
@@ -43,7 +43,7 @@ Kyk tweedens na Paulus se wyse raad oor ons besittings en ons finansies (verse 1
 
 Laastens klink Paulus se laaste pleidooi persoonlik in elkeen van ons se ore deur. **Plaas jou eie naam in vers 20: "[Jou naam], bewaak wat aan jou toevertrou is!"** Vir tweeduisend jaar het gelowiges voor ons — dikwels ten koste van hul eie bloed — die suiwer Evangelie van genade bewaar sodat dit vandag in ons hande kan wees. Nou is dit ons skof op die muur. Moenie toelaat dat die "valslik sogenaamde kennis" van ons moderne tydsgees jou laat afdwaal van die kruis van Jesus Christus nie. Hou vas aan wat aan jou toevertrou is, totdat die Koning van die konings verskyn!
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Is ek net so doelgerig en passievol besig om geregtigheid, liefde, volharding en sagmoedigheid *na te jaag* as wat ek besig is om *van* wêreldse versoekings weg te vlug?
 - Waar lê my diepste finansiële gerustheid vandag: op die wisselvallige sekuriteit van my aardse bates, of op God, terwyl ek my seëninge met 'n oop, vrygewige hand gebruik om 'n goeie fondament vir die toekoms te bou?

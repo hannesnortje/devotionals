@@ -23,7 +23,7 @@ Vir 'n burger in Jerusalem was die gedagte dat God hierdie meedoënlose, heidens
 - **Uit homself kom sy reg voort (*mimmennu mishpato* – מִמֶּנּוּ מִשְׁפָּטוֹ, v. 7):** Die Babiloniërs erken geen hoër morele wet of goddelike gesag nie. Hulle is outonoom; hulle bepaal hul eie reg en verkeerd op grond van blote militêre mag.
 - **Hy wie se krag sy god is (v. 11):** In vers 11 staan daar dat hy soos die wind voortstorm en *"skuld op hom"* laai (*we'ashem* – וְאָשֵׁם), want hulle aanbid hul eie vermoëns en militêre sukses as hul afgod.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **God se stilte beteken nooit God se afwesigheid nie:** Terwyl Habakuk gedink het God doen niks (1:2), sê God: *"Ek doen 'n werk in julle dae"* (1:5). God werk dikwels op 'n makro-skaal wat buite ons onmiddellike gesigsveld lê.
 2. **God is soewerein oor alle nasies, selfs die goddelose:** Die Here is nie net 'n plaaslike stamgod van Israel nie; Hy regeer oor die hele wêreldgeskiedenis. Hy kan selfs gebroke, sekulêre of vyandige magte as instrumente in Sy hand gebruik om Sy doelwitte te bereik en Sy volk wakker te skud.
@@ -38,7 +38,7 @@ Soms bring God se antwoord op ons gebede aanvanklik *meer* vrae en ongemak as di
 
 Habakuk 1:5–11 roep ons op om wyer te kyk: *"Kyk rond onder die nasies en sien!"* Selfs wanneer aardse magte of lewensstorms lyk asof hulle hul eie wette maak en alles voor hulle platvee, staan hulle steeds onder die soewereine beheer van die Skepper. En net soos by die Babiloniërs, moet ons ook ons eie harte ondersoek: waar maak ons staat op ons eie slimheid, ons bankrekening, of ons eie beheer sodat ons eie krag ons god word?
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Het God al ooit 'n gebed in jou lewe beantwoord op 'n manier wat jou heeltemal onkant betrap het – iets wat eers na 'n ramp gelyk het, maar later geblyk het Sy manier te wees om jou te vorm of te red?
 - Watter "Chaldeërs" (bedreigings, krisisse of magte buite jou beheer) maak jou tans bang? Hoe verander dit jou perspektief om te weet dat niks op aarde kan opstaan sonder dat God dit in Sy groter raadsplan toelaat nie?

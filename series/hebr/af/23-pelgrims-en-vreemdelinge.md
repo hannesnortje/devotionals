@@ -30,7 +30,7 @@ Kom ons delf in die rykdom van die oorspronklike Griekse terme en die teologiese
    - **Jakob (vers 21):** Op sy sterfbed in Egipte het hierdie ou pelgrim die twee seuns van Josef (Efraim en Manasse) met gekruiste hande geseën volgens God se soewereine verkiesing (Genesis 48), en in aanbidding voor God gebuig *"terwyl hy op die punt van sy staf leun"* – dankbaar vir die God wat hom sy hele lewe lank soos 'n herder gelei het. (Hebreërs volg hier die Griekse vertaling van Genesis 47:31; die Hebreeuse teks lees "aan die koppenent van die bed".)
    - **Josef (vers 22):** Josef was die onderkoning van Egipte – omring deur piramides, mag en rykdom. Hy kon maklik in Egipte se prag en praal begrawe gebly het. Maar op sy sterfbed (Genesis 50:24–25) het Josef nie aan sy Egiptiese roem gedink nie! Hy het gepraat van die toekomstige **uittog** (*exodos* – ἔξοδος) van Israel (wat eers byna vier eeue later sou plaasvind!) en opdrag gegee dat sy kis met sy beendere nie in Egipte begrawe moet bly nie, maar saamgedra moet word na die Beloofde Land. Tot met sy laaste asem het Josef as 't ware verklaar: "Egipte is nie my huis nie; my toekoms lê by God se belofte!"
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Geloof gehoorsaam sonder die volle padkaart:** Abraham het weggetrek sonder om te weet waarheen hy gaan, met net God se stem as sy kompas.
 2. **Geloof vertrou God vir die menslik onmoontlike:** Die fokus skuif van ons eie verstorwe moontlikhede na die getrouheid van die Belower.
@@ -49,7 +49,7 @@ Tweedens bewaar dit jou daarvan om **jou oë terug te draai na jou ou lewe (vers
 
 Derdens leer Abraham op Moria en Josef in Egipte vir ons om **ons kosbaarste dinge met oop hande voor die opstandings-God vas te hou (verse 17–22)**. Wat is die "Isak" in jou lewe – daardie goeie gawe, droom, kind of bediening wat die Here self vir jou gegee het, maar waaraan jy dalk so vasklou dat dit belangriker as die Gewer begin raak? Wanneer ons reken (*logizomai*) dat ons God die God is wat dooies opwek, kan ons ons toekoms, ons kinders en selfs ons laaste asem veilig op sy altaar neerlê.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Tentpenne of fondamente?** As iemand na jou grootste bekommernisse, jou tydsbesteding en jou drome sou kyk, sou hulle aflei dat hierdie aarde jou finale tuiste is, of dat jy 'n pelgrim is wat uitsien na die stad waarvan God die ontwerper en bouer is?
 - **Gehoorsaamheid sonder die volledige kaart (vers 8):** Is daar 'n spesifieke stap van gehoorsaamheid waarvoor die Here jou tans roep, maar waar jy nog aarsel omdat jy eers al die antwoorde en waarborge vooraf wil sien?

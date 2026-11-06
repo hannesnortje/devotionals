@@ -20,7 +20,7 @@ In antieke Israel was die regbank by die stadspoort die laaste toevlugsoord vir 
 - **Profete wat "met die tande byt" (*hannoshekhim* – הַנֹּשְׁכִים, van *nashakh* – נָשַׁךְ):** In vers 5 sê die HERE dat die valse profete *"Vrede!"* (*shalom*) roep *"as hulle iets het om met hul tande te byt"*. Die Hebreeuse werkwoord *nashakh* word elders in die Ou Testament gebruik vir **die giftige byt van 'n slang** (Numeri 21:6), en van dieselfde stam kom *neshekh* – **woekerrente**, wrede rente wat iemand finansieel doodbyt. Hierdie profete is geestelike huursoldate. As 'n ryk man hul hand met silwer of kos vul, waarborg hulle hom God se guns (*shalom*). Maar wie niks in hulle mond sit nie, *"teen hom heilig hulle oorlog"* (*weqiddeshu 'alaw milchamah* – וְקִדְּשׁוּ עָלָיו מִלְחָמָה) – hulle misbruik heilige, godsdienstige taal om daardie persoon se naam te vernietig en hom as 'n vervloekte voor te stel!
 - **Die bedekking van die lippe (*we'atu 'al safam* – וְעָטוּ עַל שָׂפָם):** In vers 7 moet die beskaamde sieners hul bolip of snor (*safam*) bedek. Volgens Levitikus 13:45 was dit die voorgeskrewe gebaar van 'n melaatse (wat moes uitroep: "Onrein! Onrein!"), en volgens Esegiël 24:17 en 22 'n teken van diepe rou. Hulle wat voorgegee het dat hulle die mondstuk van God is, moet nou hul eie monde van skaamte toehou.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Leierskap en invloed is 'n heilige rentmeesterskap, nooit 'n voorreg vir selfbediening nie:** Of dit in die staat, die besigheidswêreld, die kerk of die gesin is – God gee gesag sodat die sterkes die swakkes kan beskerm en laat floreer. Wanneer leiers hul posisie gebruik om vleis in hul eie pot te sit ten koste van dié onder hulle sorg, pleeg hulle verraad teen God oor *"my volk"* (v. 3).
 2. **Hoe ons mense behandel, bepaal of God na ons gebede luister:** Vers 4 bevat een van die mees ernstige waarskuwings in die hele Skrif: *"Dan sal hulle tot die HERE roep, maar Hy sal hulle nie antwoord nie; Hy sal sy aangesig vir hulle verberg in daardie tyd."* God laat Hom nie deur vroom gebede manipuleer terwyl ons hande besig is om ons naaste te benadeel nie (vgl. Spreuke 21:13; Jesaja 1:15; 1 Petrus 3:7).
@@ -34,7 +34,7 @@ Eerstens vra vers 1 tot 4 vir elkeen van ons: **Hoe gebruik ek die gesag en invl
 
 Tweedens prik vers 5 tot 7 ons eie neiging tot **"transaksionele liefde en waarheid"**. Kyk hoe fyn werk die menslike natuur: ons is dikwels baie vriendelik, vrygewig met komplimente en vol *shalom* teenoor mense wat iets in ons mond kan sit – mense wat ons loopbaan kan bevorder, ons sosiale status kan verhoog, of ons ego kan streel. Maar hoe behandel ons die mens wat absoluut niks vir ons kan teruggee nie, of die persoon wat ons selfsug uitdaag? Verklaar ons dan stilweg in ons gesindheid 'n "oorlog" teen hulle deur koudheid, skinder of uitsluiting? Ware kinders van God praat die waarheid en bewys liefde sonder 'n prysetiket daaraan.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Ken jy God se reg (*mishpat*) net as 'n teologiese begrip in jou kop, of word dit sigbaar in die manier waarop jy daagliks met mense onder jou gesag of in diensposisies praat en handel?
 - Is daar enige onreg, bitterheid of uitbuiting in jou menseverhoudings wat tans soos 'n muur tussen jou en God se aangesig in jou gebedslewe staan (v. 4)?

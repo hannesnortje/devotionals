@@ -26,7 +26,7 @@ Die skokgolf van Miga se slotwoorde in vers 12 kan skaars oorskat word. Vir die 
 - **Vals "steun" op die HERE (*yisha'enu* – יִשָּׁעֵנוּ, van *sha'an* – שָׁעַן):** In vers 11 verskyn al drie pilare van Juda se samelewing langs mekaar: die **hoofde** (politiek en regspraak), die **priesters** (onderrig in die wet) en die **profete** (openbaring). Al drie groepe word deur een ding gedryf: **geld**. En tog *"steun hulle op die HERE"*. Die werkwoord *sha'an* beteken om met jou volle gewig op 'n kierie of 'n muur te leun. Hulle gebruik God se verbondsbeloftes as 'n godsdienstige kruk om hul gewete te sus terwyl hulle in blatante ongehoorsaamheid leef.
 - **Sirkelsluiting – van hoogtes tot boshoogtes (*bamot ya'ar* – בָּמוֹת יָעַר):** In Miga 1:5 het die profeet gevra: *"En wat is die hoogtes (bamot) van Juda? Is dit nie Jerusalem nie?"* Hier aan die einde van hoofstuk 3 (v. 12) gebruik hy weer die woord *bamot*. Omdat Jerusalem in 'n geestelike *bamah* (afgodshoogte) verander het, sal die tempelberg letterlik *bamot ya'ar* word – 'n beboste hoogte, verlate heuwels vol ruie bosse. Klaagliedere 5:18 beskryf later presies so 'n toneel: jakkalse wat oor die verlate berg Sion rondloop.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Ware geestelike gesag kom van die Heilige Gees, nie van menslike goedkeuring nie:** Miga het geen aardse magstruktuur agter hom gehad nie, maar omdat hy vol van die Gees van die HERE was, het sy woorde 'n koning tot bekering gebring en vir eeue in die Skrif bly voortleef, terwyl sy gewilde teenstanders in die vergetelheid verdwyn het.
 2. **Wanneer geld die dryfveer van diens en aanbidding word, verrot 'n gemeenskap se siel:** Vers 11 wys hoe elke edele roeping – om reg te spreek, om God se Woord te leer en om Sy wil te verkondig – ontheilig word sodra die vraag nie meer is wat reg is voor God nie, maar wat dit my betaal.
@@ -41,7 +41,7 @@ Elkeen van ons word vandag gekonfronteer met oomblikke waar dit makliker, veilig
 
 Tweedens waarsku vers 11 ons teen die gevaar van **goedkoop genade en vormgodsdiens**. Dit is moontlik om elke Sondag in die kerk te sit, Christelike slagspreuke aan te haal (die Here is mos met ons!) en op uiterlike godsdienstige gewoontes te "steun", terwyl ons in ons besigheidspraktyke, ons geldsake en ons verhoudings nooit vra wat die Here werklik behaag nie. God vra nie van ons 'n blink uiterlike fasade wat ten koste van ander gebou is nie; Hy vra 'n lewe waar ons Sondag-belydenis en ons Maandag-integriteit een en dieselfde ding is.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - In watter spesifieke situasie in jou lewe het jy vandag die Heilige Gees se drievoudige toerusting van **krag**, **reg** en **mag** (v. 8) nodig om vir die waarheid op te staan of om 'n moeilike maar regverdige besluit te neem?
 - Waarmee "bou" jy tans jou loopbaan, jou finansies of jou gesinslewe (v. 10): bou jy met integriteit en diensbaarheid, of bou jy soms ten koste van ander mense se rus en welstand?

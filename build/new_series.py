@@ -82,9 +82,9 @@ General rules: see PLAYBOOK.md ("Writing rules"). Series-specific:
 | H2 | Dieper Delf: Konteks en Betekenis | Tiefer graben: Zusammenhang und Bedeutung | Digging Deeper: Context and Meaning |
 | H3 | Historiese, Kulturele en Literêre Konteks | Geschichtlicher, kultureller und literarischer Hintergrund | Historical, Cultural and Literary Background |
 | H3 | {h['af']} | {h['de']} | {h['en']} |
-| H3 | Kern Teologiese Waarhede | Zentrale theologische Wahrheiten | Core Theological Truths |
+| H3 | Teologiese Kernwaarhede | Zentrale theologische Wahrheiten | Core Theological Truths |
 | H2 | Praktiese Toepassing | Für das Leben heute | Living It Out |
-| H3 | Vrae vir Persoonlike Selfondersoek | Fragen zur persönlichen Besinnung | Questions for Personal Reflection |
+| H3 | Vrae vir Selfondersoek | Fragen zur persönlichen Besinnung | Questions for Personal Reflection |
 | H2 | Gebed | Gebet | Prayer |
 """, encoding="utf-8")
     (d / "DECISIONS.md").write_text(f"# {en} – decisions\n\nRecord every decision Hannes makes for this series (date, what, why). Later sessions must not undo these.\n\n| Date | Decision |\n|---|---|\n", encoding="utf-8")

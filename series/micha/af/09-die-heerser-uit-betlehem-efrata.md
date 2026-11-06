@@ -24,7 +24,7 @@ Teenoor die trotse hoofstad Jerusalem waarvan die aardse koning op die wang gesl
 - **Hy sal staan en as herder lei (*we'amad wera'ah* – וְעָמַד וְרָעָה):** Anders as die angswekkende konings van Juda wat tydens krisisse weggekruip of ineengestort het, sal hierdie Heerser **staan** (*'amad* – onwankelbaar, waaksaam en beslissend) en sy volk **as herder lei** (*ra'ah*). Gevolglik sal sy kudde *"veilig woon"* (*weyashavu* – וְיָשָׁבוּ – letterlik: hulle sal rustig kan gaan sit sonder vrees vir roofdiere).
 - **En hierdie een sal vrede wees (*wehayah zeh shalom* – וְהָיָה זֶה שָׁלוֹם):** Let baie mooi op die formulering in vers 4a. Die teks sê nie bloot dat die Messias vrede sal *bring* of vrede sal *bewerkstellig* nie. Dit sê letterlik: *"En hierdie een sal vrede wees."* **Hierdie Een (*zeh*) is self die Vrede (*shalom*)!** Vrede is nie 'n politieke verdrag nie; Vrede is 'n Persoon.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **God se grootste verlossingsdade begin op die onwaarskynlikste plekke:** Die wêreld soek redding in die paleise van Jerusalem, Assirië of moderne magsentrums; God stuur sy Heerser uit die stil strate van Betlehem. Wanneer God werk, het Hy nie menslike aansien of indrukwekkende hulpbronne nodig nie.
 2. **Die dubbele natuur van Christus – waarlik Mens en waarlik God:** Miga hou twee wonderlike waarhede langs mekaar vas: die Messias word as 'n egte mens uit 'n spesifieke Joodse dorpie en deur 'n vrou in barensnood (5:2) gebore, én sy oorsprong lê in die ewigheid (*mimei 'olam*). Meer nog: die aardse regter wat in 4:14 met 'n staf op die wang geslaan is, vind sy diepste vervulling toe Jesus Christus – die Ware Koning van Israel – tydens sy verhoor geslaan en op die aangesig geklap is en met 'n rietstok op die kop geslaan is (Matteus 26:67; 27:30) om ons skande op Hom te neem.
@@ -43,7 +43,7 @@ Tweedens verander vers 3 en 4a die manier waarop ons na **vrede** soek. Hoe dikw
 
 Jy hoef nie vandag te wag dat jou omstandighede eers in vrede verander nie; **Hy ís jou Vrede**. Wanneer Hy in die middelpunt van jou boot staan, kan jou hart veilig woon, al woed die storm nog buite.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Is daar 'n area in jou lewe (of in jou bediening en roeping) wat vir jou soos "Betlehem" voel – te klein, te onbeduidend of te swak om 'n verskil te maak? Hoe bemoedig God se keuse van Betlehem jou vandag?
 - Waarop is jou innerlike vrede tans gebou: op die gunstige verloop van jou uiterlike omstandighede, of op die Persoon van Jesus Christus wat self jou Vrede is (*"En hierdie een sal vrede wees"*)?

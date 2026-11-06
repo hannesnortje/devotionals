@@ -23,7 +23,7 @@ Histories gesproke leef Miga tydens die opkoms van die Assiriese Ryk (laat 8ste 
 - **Die planne (*machshevot* – מַחְשְׁבוֹת) en raad (*'etsah* – עֵצָה) van die HERE (v. 12):** Die vyandelike nasies wat rondom Jerusalem saamdrom om haar te vernietig, dink hulle voer hul eie militêre agenda uit. Maar Miga wys die verborge werklikheid agter die skerms: *"hulle ken nie die planne van die HERE nie en verstaan nie sy raad nie."* Hulle dink hulle kom as maaiers om Juda af te sny, maar God het hulle eintlik soos gerwe (*'amir*) op Sy dorsvloer bymekaargebring!
 - **Van krimpende kudde tot dorsende os (v. 13):** Kyk na die verandering in beeldspraak. In die laaste vers word die weerlose dogter Sion beveel om op te staan en te dors (*doshi*). In die antieke wêreld het osse graan gedors deur oor die gerwe op die dorsvloer te trap, dikwels met 'n dorsslee agter hulle; die horing was die beeld van krag (vgl. Deuteronomium 33:17). God maak haar horing van **yster** en haar hoewe van **brons**. En die wins (*betsa'* – בֶּצַע) wat die nasies deur geweld bymekaargemaak het, word nie vir selfverryking gehou nie, maar as 'n banoffer (*charam* – חָרַם) gewy aan *"die Heer van die hele aarde"* (*adon kol ha'arets* – אֲדוֹן כָּל הָאָרֶץ).
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **God se koninkryk word gebou met gebroke mense wat deur genade herstel is:** Die HERE verwerp nie Sy skape omdat hulle mank, gewond of selfs deur Sy eie regverdige tugtiging getref is nie (v. 6). In God se ekonomie is swakheid nie 'n diskwalifikasie nie, maar die plek waar Sy krag volbring word (vgl. 2 Korintiërs 12:9).
 2. **Vir die kind van God is lyding nooit 'n doodloopstraat nie, maar 'n geboortekanaal:** Juda moes eers uit hul valse sekuriteite in die stad uitgeruk word en in die oop veld op pad na Babel woon voordat hulle verlos kon word (*"Daar sal jy gered word"* – v. 10). Soms neem God ons weg uit ons gemaksones na 'n geestelike "veld" waar al ons menslike stutte wegval, sodat ons Hom alleen as ons Verlosser kan leer ken.
@@ -40,7 +40,7 @@ Tweedens gee vers 9 tot 12 vir ons 'n nuwe bril waarmee ons na ons huidige bepro
 
 Meer nog: die Here nooi jou vandag om te sien dat jou pyn nie die vernietiging van jou lewe is nie, maar **geboortepyne** waardeur Hy iets nuuts, suiwers en ewigs in jou karakter voortbring. Die omstandighede wat vandag voel asof dit teen jou saamgespan het om jou te verpletter, lê reeds soos gerwe op die dorsvloer van God se soewereine raadsplan. By Babel – op die plek waar jou eie krag heeltemal opgeraak het – sal jy ontdek dat die Here self jou Verlosser en jou Krag is.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - In watter area van jou lewe voel jy tans "mank" of gebroke (v. 6), en hoe verander dit jou perspektief om te weet dat die Here juis sulke mense uitkies om Sy krag en koningskap te openbaar?
 - Wanneer onverwagse krisisse jou tref, reageer jy asof jy "geen Koning en geen Raadsman" het nie (v. 9), of herinner jy jou siel daaraan dat Jesus Christus op die troon van jou lewe regeer?

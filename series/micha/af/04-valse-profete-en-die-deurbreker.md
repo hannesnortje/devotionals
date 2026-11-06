@@ -22,7 +22,7 @@ En dan, net wanneer die oordeel in vers 10 en 11 op sy donkerste lyk, gebeur iet
 - **Die Rusplek (*menuchah* – מְנוּחָה) en die Onreinheid (*tum'ah* – טָמְאָה):** Die Beloofde Land was bedoel om Israel se *menuchah* te wees – 'n plek van vrede, veiligheid en rus in God se teenwoordigheid (vgl. Deuteronomium 12:9; Psalm 95:11). Maar deur hul wreedheid teenoor vroue en kinders het hulle die land moreel verontreinig. Daarom roep God in vers 10 uit: *"Staan op en gaan! Want dit is nie die rusplek nie"*. Hul uitbuiting lei direk tot hul ballingskap.
 - **Die Deurbreker (*haporets* – הַפֹּרֵץ):** In vers 12–13 verander die beeldspraak na 'n groot skaapkraal (*botsrah* – בָּצְרָה – wat sowel na 'n omheinde kraal as na die stad Bosra kan verwys). Aanvanklik is die kudde vasgekeer agter die mure van beleg en ballingskap. Maar dan kom **die Deurbreker** (*haporets*, van die werkwoord *parats* wat beteken om 'n bres in 'n muur oop te breek). Die Koning breek die gevangenispoort oop, stap voor sy kudde uit, en lei hulle na vryheid.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die menslike hart verkies dikwels strelende leuens bo genesende waarheid:** Wanneer ons aan ons sondes vasklou, ervaar ons God se waarskuwings as "negatief" en "veroordelend". Ons soek dan geestelike stemme wat ons gewete salf en ons selfsugtige lewenstyl seën (vgl. 2 Timoteus 4:3–4).
 2. **Hoe jy op God se Woord reageer, verklap die toestand van jou wandel:** Vir die mens wat opreg met God wil wandel, is selfs die skerpste teregwysing van die Skrif weldadig en lewegewend (v. 7). Dit is net wanneer ons in opstand teen God leef dat sy Woord vir ons soos 'n vyand voel.
@@ -37,7 +37,7 @@ Ons leef in 'n tyd waar dit makliker as ooit is om vir onsself 'n geestelike "eg
 
 Terselfdertyd bring vers 12 en 13 vir ons onuitspreeklike troos. Dalk voel jy vandag vasgekeer agter dik mure – mure van ou foute, geestelike moedeloosheid, gebroke verhoudings of omstandighede waaruit jy geen uitweg sien nie. Onthou wie jou Koning is. Sy naam is **die Deurbreker (*Haporets*)**. Hy stuur jou nie alleen vooruit om 'n pad oop te kap nie; Hy breek self die poort oop, Hy stap heel vooraan, en jy hoef net in sy voetspore te volg.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Hoe reageer jy innerlik wanneer 'n Skrifgedeelte of 'n boodskap 'n area in jou lewe uitdaag waaraan jy geheg is: verdedig jy jouself en maak jy die stem stil, of buig jy voor die waarheid?
 - Watter "valse predikers van wyn en sterk drank" (in ons kultuur, media of selfs binne kerklike kringe) versoek jou tans om aardse gemak en voorspoed as die hoogste doel van jou geloof te sien?

@@ -30,7 +30,7 @@ Kom ons ondersoek die rykdom van die oorspronklike Griekse terme:
 - **"Aanspoor" (*paroxysmos* – παροξυσμός, vers 24):** Van hierdie woord kom ons mediese term "paroksisme". Gewoonlik word dit in 'n negatiewe sin gebruik vir 'n hewige uitbarsting, irritasie of twis (soos die skerp onenigheid tussen Paulus en Barnabas in Handelinge 15:39). Maar hier draai die skrywer dit pragtig om: ons moet mekaar "positief prikkel", wakker skud en aan die brand steek (soos spore wat 'n perd vorentoe laat spring) om lief te hê en te dien!
 - **"Byeenkoms" en "bemoedig" (*episynagōgē* – ἐπισυναγωγή; *parakaleō* – παρακαλέω, vers 25):** Ons moet nie ons eie byeenkoms in die steek laat nie, maar mekaar bemoedig.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Ons twee groot besittings: die oop weg en die groot priester (verse 19–21):** Eerstens het ons deur die bloed van Jesus vrymoedigheid om die heiligdom in te gaan, *"langs die nuwe en lewende weg wat Hy vir ons ingewy het deur die voorhangsel, dit is, deur sy vlees"*. Sy menswording en kruisdood het die versperring tussen God en mens vir ewig weggeneem. Tweedens het ons *"'n groot priester oor die huis van God"*: ons stap nie in 'n leë troonsaal in nie; ons lewende Koning-Priester staan gereed aan die regterhand van die Vader om ons te verwelkom.
 2. **Oproep 1 (geloof): "Laat ons nader kom" (vers 22):** Die eerste reaksie op die oop voorhangsel is om nader te kom, *"met 'n ware hart, in die volle sekerheid van die geloof"*. Hierdie innerlike vrymoedigheid rus op 'n dubbele reiniging:
@@ -49,7 +49,7 @@ Kyk tweedens na jou **horisontale verhouding met ander gelowiges (verse 24–25)
 
 Maar let op die teks: jy kan nie vers 22 ("laat ons nader kom") en vers 23 ("laat ons vashou aan die belydenis van die hoop") op die lang duur uitleef as jy verse 24 en 25 ignoreer nie! 'n Steenkool wat uit die vuurherd weggerol word, gaan gou dood en word koud; net so koel 'n gelowige se hoop en liefde af in isolasie. Om op mekaar "ag te gee" (*katanoeō*) beteken meer as om Sondae langs iemand te sit en oor die weer te gesels. Dit beteken dat ons doelbewus belê in mekaar se lewens — in ons gesinne, ons huisgroepe en ons geloofsgemeenskap — sodat ons mekaar, soos yster wat yster slyp (Spreuke 27:17), kan aanspoor (*paroxysmos*) tot praktiese liefde en volharding namate ons Koning se koms al hoe nader kom.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Stap jy op die "nuwe en lewende weg"?** Maak jy daagliks gebruik van die voorreg om deur Jesus se bloed met vrymoedigheid in God se teenwoordigheid in te gaan, of laat jy toe dat 'n ou skuldige gewete jou steeds in die buitehof hou?
 - **Buig jou pilaar onder druk (*aklinēs* – ἀκλινής)?** In watter area van jou lewe kom jou belydenis van hoop tans onder geweldige druk te staan? Hoe help die waarheid van vers 23 — *"Hy wat die belofte gegee het, is getrou"* — jou om regop te bly staan?

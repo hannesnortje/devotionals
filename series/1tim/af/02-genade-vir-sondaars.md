@@ -23,7 +23,7 @@ Die oorspronklike Griekse bewoording openbaar die diepte van Paulus se verwonder
 - **"Die eerste" (*prōtos* – πρῶτος, verse 15–16):** Paulus noem homself die *"eerste"* van die sondaars: *"van hulle is ek die eerste"*. Dit beteken nie bloot die eerste in kronologiese volgorde nie, maar die voorste in rang, erns en omvang. Ons vertaling behou doelbewus die woord "eerste", sodat die verband met vers 16 sigbaar bly: juis "in my as die eerste" wou Christus sy geduld wys. Let op sy werkwoordstyd: hy sê nie "van wie ek die eerste *was*" nie, maar *"van hulle is ek die eerste"*. Hoe nader 'n gelowige aan die lig van God se heiligheid leef, hoe skerper besef hy sy eie inherente verdorwenheid en behoefte aan genade.
 - **"'n Voorbeeld" (*hypotypōsis* – ὑποτύπωσις, vers 16):** Paulus sê hy is gered om *"'n voorbeeld"* te wees. 'n *Hypotypōsis* was 'n argitektoniese skets, 'n model of 'n prototipe. Paulus is God se uitstalmodel van geduld (*makrothymia*). As God vir Saulus die vervolger kon red en verander, is daar geen sondaar op aarde wat buite die bereik van Sy reddende hand lê nie.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Genade kies die onwaarskynlikste kandidate:** God soek nie mense wat dink hulle is regverdig nie; Christus het gekom vir sondaars. Bediening is nie 'n beloning vir goeie gedrag nie, maar 'n gawe van genade.
 2. **Onkunde verskoon nie sonde nie, maar nooi barmhartigheid uit:** Paulus erken dat hy *"dit in onkunde en ongeloof gedoen"* het (vers 13). Sy onkunde het hom nie onskuldig gemaak nie, maar dit het gewys dat sy rebellie nie 'n finale, doelbewuste verwerping van bekende goddelike lig was nie, waardeur God se barmhartigheid hom kon bereik.
@@ -38,7 +38,7 @@ Paulus se getuienis blaas hierdie leuen heeltemal weg. As God die man kon gebrui
 
 Terselfdertyd ontwapen hierdie teks enige geestelike hoogmoed. Wanneer ons na die wêreld om ons kyk — na mense wat vasgevang is in growwe sonde of vyandigheid teenoor die kerk — moet ons nie met minagting reageer nie, maar met die wete: *"Ek was self daar. Van die sondaars is ek die eerste, gered slegs deur onverdiende guns."*
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Wat hou ek terug?** Is daar sondes of mislukkings in my verlede wat ek weier om aan God se vergifnis toe te vertrou, en laat ek toe dat skaamte my bediening verlam?
 - **Hoe kyk ek na ander?** Wanneer ek na mense kyk wat rebels teen God leef, kyk ek na hulle met selfregverdigende veroordeling, of met die barmhartigheid van iemand wat weet hoe groot die skuld was wat Christus vir my afgeskryf het?

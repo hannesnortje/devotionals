@@ -24,7 +24,7 @@ Die Griekse grondteks maak die rykdom van hierdie opdragte oop:
 - **Beeld 3: Die landbouer — geduldige, uitputtende arbeid (*ton kopiōnta geōrgon* – τὸν κοπιῶντα γεωργὸν, vers 6):** Die soldaat ken die opwinding van die geveg en die atleet ken die toejuiging van die skare, maar in die derde beeld bring Paulus ons na die stil, stowwerige akker van die boer (*geōrgos*). Die klem val op die deelwoord *ton kopiōnta* — *"wat hard werk"* (tot op die punt van fisiese uitputting). Daar is niks glansryks daaraan om in die vroeë oggendure te ploeg, te saai, onkruid uit te roei en maande lank geduldig op reën te wag nie. Tog gee God die belofte: die boer wat nie moed opgee nie, sal uiteindelik eerste in die vreugde van die oes (*tōn karpōn*) deel.
 - **"Dink na oor wat ek sê" (*noei ho legō* – νόει ὃ λέγω, vers 7):** Paulus sluit af met 'n pragtige balans tussen menslike verantwoordelikheid en goddelike werking: *"Dink na oor wat ek sê"* — gebruik jou verstand om hierdie beelde diep te oordink — *"want die Here sal jou insig gee in alles"*. Die woord vir insig, *synesis* (σύνεσιν), is die vermoë om die kolletjies bymekaar te bring en dit prakties toe te pas.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Genade is nie net die beginpunt van verlossing nie, maar die daaglikse kragbron vir diens:** Ons oorwin nie deur harder uit eie krag te probeer nie, maar deur dieper uit Christus se genade te drink.
 2. **Die evangelie is 'n aflosstokkie, nie 'n museumstuk nie:** Elke gelowige is 'n skakel in 'n ketting. As ons die waarheid net vir onsself geniet sonder om dit doelbewus in getroue mense in te belê, verbreek ons die ketting van geestelike vermenigvuldiging.
@@ -45,7 +45,7 @@ Laastens, laat die drie spieëls van verse 3 tot 6 jou lewe ondersoek:
 - **Die atleet:** Kom jy in die versoeking om "kortpaaie" te vat? In 'n wêreld wat kitsresultate soek, wil ons dikwels die krans hê sonder die dissipline van heiligheid en gehoorsaamheid aan God se Woord.
 - **Die landbouer:** Miskien saai jy al jare lank met trane en sweet — jy bid vir 'n ongeredde familielid, jy dien getrou in 'n ondankbare omgewing, of jy voed jou kinders op sonder dat jy dadelik vrug sien. Moenie die ploeg los nie! Die oes kom op God se tyd, en wie hard gewerk het, sal eerste in die vreugde deel.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Wilskrag of genade?** Probeer ek tans my geestelike pligte uit my eie menslike wilskrag nakom, of skep ek daagliks vars krag uit die genade van Jesus Christus?
 - **Wie is my getroue mense?** Wie is die een of twee "getroue mense" in my lewenswêreld in wie ek tans doelbewus belê om die waarheid van die evangelie na die volgende geslag oor te dra?

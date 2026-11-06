@@ -23,7 +23,7 @@ Kom ons ondersoek die ryk taalkundige skatte in hierdie aangrypende gedeelte:
 - **Deelgenote van Christus (*metochoi* – μέτοχοι en *hypostasis* – ὑπόστασις, vers 14):** *"Want ons het deelgenote van Christus geword – as ons maar die sekerheid wat ons aan die begin gehad het, tot die einde toe vas behou."* Let op die werkwoordtyd in die Grieks: "ons *het* deelgenote geword" (*gegonamen* – γεγόναμεν — perfektum, wat dui op 'n handeling in die verlede met blywende gevolge in die hede). Die woord *hypostasis* ("sekerheid" of "grondslag") verwys na die vaste werklikheid waarop ons staan.
 - **Die tragiese slotsom by Kades-Barnea (verse 16–19):** Die skrywer sluit die hoofstuk af met 'n reeks retoriese vrae wat soos hamerslae val. Wie se lyke (*kōla* – κῶλα — ledemate of lyke) het in die woestyn agtergebly? Dit was nie heidene nie; dit was die einste mense wat die Pasga-bloed aan hul deurkosyne gesmeer het, droogvoets deur die Rooisee gestap het en Moses se lied gesing het! Toe hulle egter by Kades-Barnea op die drumpel van die Beloofde Land gestaan het en die reuse gesien het (Numeri 13–14), het hulle gekies om na hul vrese te luister in plaas van na God se belofte. In vers 18 noem die skrywer hulle *"dié wat ongehoorsaam was"* (*apeithēsasin* – ἀπειθήσασιν), en in vers 19 sê hy dat hulle *"weens ongeloof"* (*apistia*) nie kon ingaan nie. Hulle kon nie in God se rus (*katapausis* – κατάπαυσις) ingaan nie, nie omdat God se arm te kort was om hulle in te bring nie, maar omdat hul ongeloof die deur van binne af gesluit het.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **God praat vandag:** Wanneer die Skrif gelees word, spreek die Heilige Gees in die hede, en elke "Vandag" is 'n beslissingsuur.
 2. **Verharding gebeur geleidelik:** Elke keer as ons die leuen van die sonde glo bo die stem van God, vorm daar geestelike eelt op ons siel.
@@ -39,7 +39,7 @@ Geestelike sklerose (hartverharding) gebeur selde oornag. Dit begin wanneer jy d
 
 Terselfdertyd gee hierdie gedeelte vir ons 'n geweldige sleutel vir geestelike gesondheid: **Moenie probeer om 'n "alleenloper-Christen" te wees nie.** Die geestelike woestynreis is te gevaarlik en ons eie harte is te geneig om onsself te bluf. Ons het daaglikse, eerlike gemeenskap nodig — in ons huwelike, ons gesinne en ons vriendekring van gelowiges — waar ons mekaar nie net met oppervlakkige komplimente groet nie, maar mekaar se hande vat en na die getrouheid van Christus wys.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Wat sê die Gees "Vandag" vir jou?** Is daar 'n spesifieke area in jou lewe waar die Heilige Gees die afgelope tyd sagkens (of dringend) met jou gewete praat, maar waar jy nog steeds voet sleep of uitvlugte soek?
 - **Ontmasker die bedrog (*apatē*) van sonde:** Watter valse belofte probeer sonde, bitterheid of kommer tans aan jou verkoop (bv. *"As jy net self beheer oorneem of kwaad bly, sal jy veilig wees"*)? Hoe ontbloot God se waarheid daardie leuen?

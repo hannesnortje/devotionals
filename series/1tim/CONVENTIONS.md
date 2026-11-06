@@ -32,9 +32,9 @@ The originals put everything under "Dieper Delf" without sub-headings. Split it:
 | H2 | Dieper Delf: Konteks en Betekenis | Tiefer graben: Zusammenhang und Bedeutung | Digging Deeper: Context and Meaning |
 | H3 | Historiese, Kulturele en Literêre Konteks | Geschichtlicher, kultureller und literarischer Hintergrund | Historical, Cultural and Literary Background |
 | H3 | Insigte uit die Grieks | Einsichten aus dem Griechischen | Insights from the Greek |
-| H3 | Kern Teologiese Waarhede | Zentrale theologische Wahrheiten | Core Theological Truths |
+| H3 | Teologiese Kernwaarhede | Zentrale theologische Wahrheiten | Core Theological Truths |
 | H2 | Praktiese Toepassing | Für das Leben heute | Living It Out |
-| H3 | Vrae vir Persoonlike Selfondersoek | Fragen zur persönlichen Besinnung | Questions for Personal Reflection |
+| H3 | Vrae vir Selfondersoek | Fragen zur persönlichen Besinnung | Questions for Personal Reflection |
 | H2 | Gebed | Gebet | Prayer |
 
 ## Quotations

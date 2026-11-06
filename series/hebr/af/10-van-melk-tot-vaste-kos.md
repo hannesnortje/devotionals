@@ -25,7 +25,7 @@ Kom ons ondersoek die oorspronklike Griekse terme en die teologiese struktuur va
   - **Die gemeenskaplike rituele:** *onderrig oor wassings* (meervoud: *baptismōn* – βαπτισμῶν — wat die onderskeid kan insluit tussen die vele Joodse reinigingswassings, Johannes se doop en die Christelike doop) en *die oplegging van die hande* (vir seën, ontvangs van die Gees en afsondering vir diens).
   - **Die toekomstige hoop:** *die opstanding van die dooies* en *die ewige oordeel*. Die skrywer sluit in vers 3 af met die nederige erkenning van God se soewereiniteit: "En dit sal ons doen, as God dit maar toelaat" — want slegs deur God se genade kan 'n traag geworde hart weer tot volwassenheid opgerig word.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Geestelike traagheid is 'n toestand waarin 'n mens beland, nie een waarmee jy gebore word nie:** Die lesers het traag *geword*; hulle gehoor het afgestomp omdat hulle opgehou het om te luister en te gehoorsaam.
 2. **Groei is die normale lewe van die gelowige:** Melk is goed vir babas, maar wie na jare nog net melk kan verdra, het 'n ontwikkelingsprobleem. God roep sy kinders om "leraars" vir ander te word.
@@ -41,7 +41,7 @@ Ons kan so maklik tevrede raak met die "melk" en die "fondamentklippe". Ons geni
 
 Kyk na die skrywer se geheim vir geestelike groei in vers 14: **die geestelike gimnasium van daaglikse gewoonte.** Hoekom sukkel sommige Christene om God se wil te onderskei of om staande te bly wanneer 'n krisis of versoeking tref? Omdat hulle geestelike sintuie nie *geoefen* (*gegymnasmena*) is in die klein besluite van elke dag nie. Jy word nie volwasse deur bloot meer boeke te lees nie; jy word volwasse wanneer jy die waarheid wat jy vandag reeds ken, gehoorsaam toepas. Elke keer as jy kies om te vergewe, om die waarheid te praat wanneer dit kos, of om op Christus se geregtigheid te steun in plaas van jou eie "dooie werke", oefen jy jou geestelike spiere en bou jy mure op die fondament van jou geloof.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Verbruiker of voeder?** Vers 12 sê: "hoewel julle teen hierdie tyd al leraars behoort te wees …" As jy kyk na hoe lank jy die Here al ken, is jy reeds in staat om jonger gelowiges, jou gesin of vriende geestelik te voed en te lei, of teer jy nog net op ander se geestelike energie?
 - **Die toestand van jou geestelike ore:** Waar het jy dalk *nōthros* (traag of afgestomp) geword om te luister omdat God se Woord van jou 'n verandering gevra het wat vir jou te ongemaklik was?

@@ -1,0 +1,47 @@
+# Series settings – see PLAYBOOK.md
+slug: offb
+order: 9
+original_language: grc
+site_url: https://hannesnortje.github.io/devotionals/offb/
+book:
+  de: Offenbarung
+  en: Revelation
+  af: Openbaring
+avoid_words:
+  af:
+  - "basuin"
+  de:
+  - "Posaune"
+  - "Malzeichen"
+  en:
+  - "bottomless pit"
+  - "whore"
+  - "the great tribulation"
+strings:
+  de:
+    series_title: Hinter den Kulissen
+    series_subtitle: 31 Andachten zur Offenbarung des Johannes
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: Das ganze Buch Offenbarung
+    whole_book_intro: Der vollständige Text des Buches Offenbarung in der Übersetzung, die in diesen Andachten verwendet wird.
+    kit_intro: Elf Treffen für Hauskreise und Kleingruppen – je ein bis drei Kapitel, je 75 bis 90 Minuten.
+    k_hebrew: Ein Blick ins Griechische
+    translation_note: 'Bibeltext: eigene Übersetzung aus dem Griechischen von Dr. Johannes A. Nortjé. Grundtext: SBL Greek New Testament, © 2010 Society of Biblical Literature und Logos Bible Software (CC BY 4.0).'
+  en:
+    series_title: Behind the Curtain
+    series_subtitle: 31 devotionals on the Book of Revelation
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: The whole book of Revelation
+    whole_book_intro: The complete text of Revelation in the translation used in these devotionals.
+    kit_intro: Eleven sessions for home groups and small groups – one to three chapters each, 75 to 90 minutes each.
+    k_hebrew: A look at the Greek
+    translation_note: 'Scripture: own translation from the Greek by Dr. Johannes A. Nortjé. Base text: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (CC BY 4.0).'
+  af:
+    series_title: Agter die Skerms
+    series_subtitle: 31 oordenkings oor die boek Openbaring
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: Die hele boek Openbaring
+    whole_book_intro: Die volledige teks van Openbaring in die vertaling wat in hierdie oordenkings gebruik word.
+    kit_intro: Elf byeenkomste vir huisgroepe en kleingroepe – een tot drie hoofstukke elk, elk 75 tot 90 minute.
+    k_hebrew: '''n Blik op die Grieks'
+    translation_note: 'Skrifteks: eie vertaling uit die Grieks deur Dr. Johannes A. Nortjé. Grondteks: SBL Greek New Testament, © 2010 Society of Biblical Literature en Logos Bible Software (CC BY 4.0).'

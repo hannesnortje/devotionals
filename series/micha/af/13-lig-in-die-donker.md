@@ -23,7 +23,7 @@ En dan, te midde van hierdie verstikkende morele nag waar elke menslike steunpil
 - **Doringbos (*chedeq* – חֵדֶק) en Doringheining (*mesukah* – מְסוּכָה):** Boere in Israel het dikwels digte heinings van doringstruike rondom hul wingerde geplant om wilde diere uit te hou. Maar in vers 4 sê Miga dat selfs die "beste" leiers van Juda soos 'n doringbos geword het: in plaas daarvan om mense te beskerm, skeur en verwond hulle elkeen wat naby hulle kom om hulp te soek.
 - **Uitkyk (*tsafah* – צָפָה) en Hoopvol Wag (*yachal* – יָחַל):** Kyk na die twee kragtige werkwoorde waarmee Miga sy posisie in vers 7 beskryf. ***Tsafah*** is die woord vir 'n wagter wat hoog op die stadsmuur staan, sy hand bo sy oë hou en aandagtig na die horison tuur vir die koms van die koning. ***Yachal*** beteken om met geduldige, gespanne verwagting te wag. Dit is nie passiewe moedeloosheid nie, maar aktiewe, wakker geloof.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Wanneer 'n samelewing God verwerp, verbrokkel onderlinge menslike vertroue:** Miga 7:2–6 wys dat ons horisontale verhoudings (in die staat, op die markplein en in die gesin) saamgebind word deur ons gemeenskaplike eerbied vir God. Wanneer die vrees van die Here verdwyn, word elke verhouding 'n magsgeveg waar selfs familielede mekaar vir eie gewin uitbuit.
 2. **Jesus Christus het die eensaamheid van Miga 7:6 persoonlik geken en vir sy volgelinge voorspel:** In **Matteus 10:35–36** (en Lukas 12:53) haal Jesus Miga 7:6 byna woordeliks aan om sy dissipels te waarsku dat getrouheid aan Hom soms verdeeldheid tot binne-in 'n mens se eie familie kan bring. Wanneer jy kies om vir God se lig te staan in 'n donker tyd, kan dit selfs weerstand van jou naaste mense uitlok.
@@ -41,7 +41,7 @@ Miga wys vir ons 'n heeltemal ander uitweg in vers 7: **die heilige draai van di
 - As die boorde rondom jou vandag kaal voel en jy min *chesed* (lojale liefde) van ander ontvang, vra die Here dat **jý die vroeë vy (*bikkurah*) en die *chasid* (mens van genade)** in jou omgewing sal wees. Moenie wag dat ander eers verander voordat jy integriteit en sagmoedigheid leef nie.
 - As jy deur 'n seisoen gaan waar mense op wie jy gereken het jou in die steek gelaat het, laat daardie pyn jou dieper in die arms van *"die God van my redding"* indryf. Mense is brose riete; selfs die beste mens kan soos 'n doring prik wanneer jy jou uiteindelike geluk op hulle bou. Maar die Here sal jou nooit verraai nie, en sy oor is vandag wyd oop vir jou stem.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Wanneer Miga deur die "wingerd" van Juda stap, soek hy tevergeefs na die vrug van *chesed* (v. 1–2). As vermoeide mense vandag met jou te doen kry, vind hulle by jou die verkwikkende "vroeë vy" van integriteit en genade, of die skerp "dorings" van verdediging en selfsug (v. 4)?
 - Het teleurstelling in leiers, instellings of selfs naby-mense jou hart die afgelope tyd sinies en wantrouig gemaak? Hoe roep vers 7 jou om van bitterheid na hoopvolle verwagting te skuif?

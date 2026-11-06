@@ -26,7 +26,7 @@ Die Griekse grondteks ontvou 'n skatkis van beelde uit die hofsaal, die altaar, 
     2. *Die losmaak van die toue:* "... en die tyd van my vertrek het aangebreek." Die selfstandige naamwoord *analysis* is gebruik vir 'n reisiger wat sy tentpenne uittrek om huis toe te gaan, en vir 'n skip in die hawe waarvan die dik ankertoue van die kaai losgemaak word sodat dit na die oop see kan uitvaar. Vir die kind van God is die dood nie 'n blindelings wegsink in die donker nie, maar die losmaak van aardse toue om die ewige hawe binne te seil.
 - **Die drievoudige terugblik en die krans (verse 7–8):** Met drie werkwoorde in die Griekse perfektum (wat dui op 'n afgehandelde daad met blywende gevolge) kyk Paulus terug op sy lewe: *"Ek het die goeie stryd gestry, ek het die wedloop tot die einde toe gehardloop, ek het die geloof bewaar"* (*ton kalon agōna ēgōnismai, ton dromon tetelēka, tēn pistin tetērēka*). En dan kyk hy vorentoe: in Rome gaan 'n onregverdige hof in Nero se ryk hom binnekort skuldig bevind, maar in die hemel wag *"die regverdige Regter"* met *"die krans van die geregtigheid"* (*stephanos* — die oorwinnaarskrans) — 'n krans wat nie net vir apostels bedoel is nie, maar vir *"almal wat sy verskyning liefgekry het"* (*tois ēgapēkosi tēn epiphaneian autou*), elke gelowige wat met verlange uitsien na Christus se wederkoms.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Ons leef en dien voor die oë van die komende Koning.** Die grootste teenmiddel teen mensevrees en kompromie is die besef dat ons eendag rekenskap sal gee aan Jesus Christus wat by sy verskyning die lewendes en die dooies sal oordeel.
 2. **Waaragtige Woordbediening troos die bedroefdes en skud die gemaklikes wakker.** Om getrou te preek en te getuig, vereis dat ons met die Waarheid sal weerlê, bestraf én vermaan met oneindige geduld (*makrothymia*), ongeag of die kultuur dit wil hoor of nie.
@@ -45,7 +45,7 @@ Kyk tweedens na Paulus se getuienis aan die einde van sy pad (verse 6–8). Elke
 
 En hoe kry jy dit reg om so te eindig? Vers 8 gee die geheim: deur deel te wees van *"almal wat sy verskyning liefgekry het"*. Wanneer jou hart vol verlange is na die dag waarop jy Jesus van aangesig tot aangesig gaan sien, verbleek die goedkoop kroontjies van hierdie wêreld, en kry jy die krag om jou lewe vandag soos 'n drankoffer tot sy eer uit te giet.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Soek ek in my Bybellees en wanneer ek na preke luister net na boodskappe wat my ore "krap" en my laat goed voel, of verwelkom ek die Woord ook wanneer dit my weerlê en bestraf?
 - Deel ek die waarheid van die Evangelie met die mense rondom my "of die tyd geleë is of nie", met geduldige liefde, of swyg ek sodra die geleentheid ongemaklik voel?

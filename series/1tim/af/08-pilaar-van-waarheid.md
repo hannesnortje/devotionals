@@ -29,7 +29,7 @@ Teenoor hierdie indrukwekkende heidense monument plaas Paulus die plaaslike Chri
   5. *"Geglo in die wêreld"* (ἐπιστεύθη ἐν κόσμῳ): Reddende vrug. Te midde van 'n vyandige, gevalle wêreld het die evangelie harte oopgebreek en ware geloof gewek.
   6. *"Opgeneem in heerlikheid"* (ἀνελήμφθη ἐν δόξῃ): Die hemelvaart en troonsbestyging. Die vernederde Dienaar is verhoog tot die hoogste ereplek aan die regterhand van die Vader.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Ons gedrag in die plaaslike gemeente weerspieël ons eerbied vir God:** Hoe ons optree in die kerk — ons gebede, ons leierskap, ons onderlinge liefde en orde — is nie 'n bysaak nie, want die kerk is die heilige huisgesin van die lewende God.
 2. **Die kerk se hoogste roeping is getrouheid aan die waarheid:** Wanneer 'n gemeente die Bybelse waarheid afwater om by die tydsgees aan te pas, verloor sy haar bestaansreg as *pilaar en fondament*.
@@ -46,7 +46,7 @@ Terselfdertyd gee vers 16 vir ons die geheim van volharding. Ons is nou halfpad 
 
 Paulus wys vir ons die antwoord: **Kyk weg van jouself af en kyk vas na die Persoon van Jesus Christus.** Die geheim van 'n godvrugtige lewe lê daarin dat jou hart daagliks oorweldig word deur die evangelie: dat die ewige Seun vir jou vlees geword het, dat sy opstanding jou vrygespreek het, en dat Hy nou in heerlikheid vir jou intree. Wanneer Christus groot word in jou oë, word sonde klein en word gehoorsaamheid 'n vreugde.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Hoe sien ek my gemeente?** Beskou en behandel ek my plaaslike gemeente as 'n verbruikersdiens wat my moet bedien, of as die kosbare huisgesin van die lewende God waarin ek 'n heilige verantwoordelikheid dra?
 - **Hou ek die waarheid hoog?** Dra my daaglikse lewenswandel en my woorde daartoe by om die waarheid van God se Woord soos 'n stewige pilaar hoog en sigbaar voor 'n verlore wêreld op te hou?

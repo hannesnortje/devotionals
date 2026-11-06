@@ -28,7 +28,7 @@ Die oorspronklike Griekse teks ontvou die diepgaande diagnose van hierdie morele
 - **"Altyd leer" (*pantote manthanonta* – πάντοτε μανθάνοντα, verse 6–7):** Hierdie valse leraars teiken veral geestelik onstabiele mense in hul huise – dié wat gebuk gaan onder 'n las van onbelyde skuld en rondgeslinger word deur allerlei nuwe begeertes. Paulus gebruik hier die verkleinwoord *gynaikaria* (γυναικάρια, "swak vroue"): dit is 'n oordeel oor hierdie bepaalde persone wat hulle laat inpalm het, nie oor vroue in die algemeen nie. Die gevolg is dat hulle "altyd leer en tog nooit tot kennis van die waarheid kan kom nie". Hulle is verslaaf aan geestelike nuuskierigheid en nuwe leringe, maar kom nooit by die ware, reddende kennis van Christus uit nie.
 - **Jannes en Jambres (*Iannēs kai Iambrēs* – Ἰάννης καὶ Ἰαμβρῆς, verse 8–9):** Volgens Joodse oorlewering was Jannes en Jambres die twee hooftowenaars aan Farao se hof wat Moses teëgestaan het toe hy God se volk uit Egipte moes lei (Eksodus 7:11, 22). Hoe het hulle Moses teëgestaan? Nie deur openlik te sê dat daar geen bonatuurlike krag bestaan nie, maar deur Moses se wonderwerke met hul eie okkulte towery **na te boots** (hulle het ook hul stawe in slange verander en water in bloed verander). Valse godsdiens werk altyd deur nabootsing! Maar net soos Jannes en Jambres se magteloosheid en "dwaasheid" (*anoia* – ἄνοια) voor die hele Egipte ontbloot is toe hulle self deur die plaag van swere getref is (Eksodus 9:11), so sal God uiteindelik die leë dop van elke valse leraar voor almal ontmasker.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Selfliefde is die fontein van maatskaplike verrotting:** Waar ons moderne kultuur verkondig dat "om jouself eerste lief te hê" die sleutel tot menslike genesing is, verklaar die Skrif dat *philautia* (selfliefde) die gifbron is waaruit ondankbaarheid, gesinsverbrokkeling en wreedheid vloei.
 2. **Waaragtige Christendom is 'n bonatuurlike krag, nie 'n uiterlike dop nie:** Die evangelie is die *dynamis* van God (Romeine 1:16). As iemand se geloof hom nie verander van 'n selfliefhebber in 'n Godliefhebber nie, is sy godsdiens 'n leë dop.
@@ -45,7 +45,7 @@ Die skerpste vraag van hierdie teks is egter nie gerig op die wêreld daar buite
 
 Kyk ook na die waarskuwing van vers 7: mense "wat altyd leer en tog nooit tot kennis van die waarheid kan kom nie". In ons digitale era het ons toegang tot meer Bybelstudies, potgooie, preke en teologiese artikels as enige geslag voor ons. Maar kennis wat net in die kop bly en nooit afsak na 'n gebroke, gehoorsame hart wat van sonde wegdraai nie, maak ons geestelik immuun teen ware verandering. Moenie tevrede wees met die dop van godsdiens of die nabootsing van Jannes en Jambres nie – soek die lewende krag van die opgestane Christus wat jou hart van binne af nuut maak!
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - As ek eerlik kyk na hoe ek my tyd, my geld en my vrye ure bestee, waarvan getuig my lewe die sterkste: dat ek 'n liefhebber van myself en van genot is, of 'n opregte liefhebber van God (*philotheos*)?
 - Is daar enige area in my lewe waar ek tans tevrede is met 'n uiterlike vorm van godsvrug voor mense, terwyl ek die transformerende krag van die Heilige Gees om my van 'n spesifieke sonde vry te maak, weerstaan?

@@ -22,7 +22,7 @@ Wat hierdie gedeelte literêr so fassinerend maak, is die manier waarop die prof
 - **Een wat goeie nuus bring (*mevasser* – מְבַשֵּׂר, van *basar*, 2:1):** Die Griekse vertaling van die Ou Testament gee hierdie werkwoord weer met *euangelizomai* – die woord waaruit die Nuwe-Testamentiese begrip van die *Evangelie* groei.
 - **Vrede (*shalom* – שָׁלוֹם, 2:1):** Die boodskap wat hy uitroep, is **Shalom**: vrede, heelheid, herstel, veiligheid.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die Dwaasheid om teen God saam te sweer (v. 9–11):** Nahum open vers 9 met 'n snydende retoriese vraag aan die Assiriese leiers: *"Wat beplan julle teen die HERE?"* Die Assiriërs het gedink hulle voer bloot 'n geopolitieke oorlog teen 'n klein staatjie genaamd Juda. Maar Nahum onthul 'n diep geestelike waarheid: **om aan God se verbondsvolk te raak, is om teen God self te komplotteer.**
    - Die een *"wat kwaad beplan teen die HERE"* (v. 11) is 'n Assiriese heerser wat gedink het sy mag is groter as die Here s'n – baie uitleggers dink aan koning Sanherib (en die geestelike magte agter hom).
@@ -47,7 +47,7 @@ Hier is hoe hierdie Skrifgedeelte ons vandag vernuwe:
 - **Kyk na die hemelse weegskaal, nie die aardse skyn nie:** Die probleme, versoekings of mense wat jou intimideer, lyk dikwels soos dig-gevlegte dorings (v. 10) – onmoontlik om deur te breek en pynlik om aan te raak. Maar op God se weegskaal is dit *qalal* – dit weeg niks (v. 14). Moenie dat die geraas en grootspraak van jou uitdagings jou laat vergeet hoe gewigloos dit voor die almag van God is nie.
 - **Herstel jou aanbidding en dankbaarheid:** Let op die opdrag aan Juda sodra die goeie nuus van vrede aankom: *"Vier jou feeste, Juda, betaal jou geloftes!"* (2:1). Onderdrukking en vrees steel ons aanbidding; dit maak ons geestelik verlam. Maar die boodskap van Christus se oorwinning roep ons terug na 'n lewe van dankbaarheid, vreugde en toegewydheid. Ons hoef nie te wag totdat elke probleem in ons lewe perfek opgelos is voordat ons God prys nie; ons kan vandag reeds feesvier omdat die Oorwinnaar reeds oor die berge gekom het en ons ewige *Shalom* verseker het.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Watter spesifieke "juk" of "bande" (v. 13) – hetsy vrees, skuldgevoelens, 'n slegte gewoonte, of 'n swaar las wat jy dra – voel tans vir jou soos 'n Assiriese onderdrukker op jou skouers? Hoe kan jy vandag daardie juk bewustelik voor die Here neerlê om deur Hom verbreek te word?
 - Is daar iets in jou lewe (of in die wêreld) wat vir jou soos 'n ondeurdringbare doringbos (v. 10) lyk, waaraan jy meer gewig toeken as aan God se beloftes?

@@ -30,7 +30,7 @@ Die Hebreeuse teks van hierdie slotverse pols met die emosie van God se Skepperh
 
   In albei gevalle is die punt dieselfde: waar Jona na hul onkunde kyk met veragting, kyk God daarna met vaderlike erbarming.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **God se Redenasie van die Mindere na die Meerdere (*qal wachomer*):** In vers 10 en 11 gebruik God die klassieke Joodse *qal wachomer*-argument ("hoeveel te meer") wat Jesus ook so dikwels in die Evangelies gebruik het (vgl. Matteus 7:11; 12:12). As 'n sondige, selfsugtige mens soos Jona natuurlike deernis kan voel vir 'n enkele, siel-lose plantjie wat net een nag oud is, **hoeveel te meer** sal die oneindige, liefdevolle Skepper nie deernis hê oor honderdduisende mense en diere wat die werk van Sy eie hande is nie!
 2. **Geestelike Blindheid Wek by God Ontferming:** Toe Jesus na die skares gekyk het, het Hy hulle innig jammer gekry omdat hulle voortgejaag en verstrooid was soos skape sonder 'n herder (Matteus 9:36). God verskoon nie Ninevé se sonde nie, maar Hy sien hul geestelike hulpeloosheid raak. Wanneer hulle in berou na Hom omdraai, weier Sy vaderhart om hulle te verpletter.
@@ -45,7 +45,7 @@ Hoe kyk jy vandag na die "Nineviete" in jou lewe en in ons samelewing — daardi
 
 Die boek Jona eindig sonder 'n punt, sodat jy vandag die volgende hoofstuk met jou voete en jou hart kan gaan skryf. Sal jy op die heuwel van jou eie gerief en bitterheid bly sit en treur oor 'n dooie plant, of sal jy opstaan, by die Vader se hart aansluit, en Sy onbegryplike genade gaan uitdeel aan 'n gebroke wêreld?
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Watter "seuns van 'n nag" steel tans my diepste emosionele energie?** Oor watter tydelike, aardse dinge is ek tans meer ontsteld en besorg as oor die ewige welstand van die mense rondom my?
 - **Hoe reageer ek op die geestelike blindheid van ons tyd?** Wanneer ek sien hoe mense buite die kerk in sonde en verwarring leef ("nie die verskil tussen hulle regter- en linkerhand ken nie"), wek dit by my hoogmoedige veragting of Christus-gelykvormige deernis?

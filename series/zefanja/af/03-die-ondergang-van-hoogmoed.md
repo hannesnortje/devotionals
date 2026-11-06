@@ -20,7 +20,7 @@ Moab en Ammon was bloedverwante van Israel, afstammelinge van Abraham se broersk
 - **"Laat wegkwyn" (*razah* – רָזָה, vers 11):** God sê Hy sal al die gode van die aarde *laat wegkwyn* of "laat maer word" – die woord word vir 'n liggaam gebruik wat uitteer.
 - **"Ek, en niemand anders as ek nie!" (*ani we'afsi 'od* – אֲנִי וְאַפְסִי עוֹד, vers 15):** Ninevé se leuse eggo die taal waarmee God Homself in Jesaja beskryf (vergelyk Jesaja 45:5–6, waar God sê: Ek is die HERE, daar is niemand anders nie); dieselfde woorde word in Jesaja 47:8, 10 in die mond van Babel gelê. Ninevé praat soos een wat God se plek inneem.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **God Hoor die Spot teen sy Volk (verse 8–10):** Let op hoe persoonlik God dit opneem in vers 8: *Ek het die smaad van Moab gehoor*. God sweer by sy eie lewe – die hoogste moontlike eed (*so waar as Ek leef*, vers 9) – dat hul lot soos dié van Sodom en Gomorra sal wees. Wie God se kinders aanraak, raak sy oogappel aan.
 2. **Die Wegkwyning van die Afgode en Wêreldwye Aanbidding (vers 11):** Te midde van hierdie oordeelsprofesieë skitter een van die mees verhewe sendingverse in die Ou Testament. Hoe laat God afgode "uitteer"? Deur die magtige nasies en ekonomieë wat op daardie afgode staatgemaak het, tot 'n val te bring, sodat almal kan sien dat hierdie gode kragteloos en leeg is. Die uiteindelike doel is egter nie net vernietiging nie, maar bekering: *en hulle sal voor Hom neerbuig, elkeen van sy plek af, al die kuslande van die nasies.* Lank voor die Nuwe Testament sien Sefanja reeds 'n tyd wanneer aanbidding nie meer tot die tempel in Jerusalem beperk sal wees nie, maar waar die verste nasies in hul eie lande voor die lewende God sal kniel (vergelyk Johannes 4:21–24).
@@ -37,7 +37,7 @@ Tweedens daag Ninevé se leuse ons eie harte uit: *"Ek, en niemand anders as ek 
 
 God het 'n manier om die "afgode" waarop ons steun, te laat *wegkwyn* (vers 11) en die blink sederhout-fasades van ons selfvertroue bloot te lê (vers 14) – nie om ons te vernietig nie, maar om ons te genees van die illusie dat ons onsself kan red. Ware veiligheid lê nooit in hoe hoog ons ons eie mure bou nie, maar in hoe diep ons voor die lewende God buig.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Is daar 'n situasie waar jy tans seergemaak of geminag voel deur ander se woorde of optrede? Wat beteken dit vir jou gemoedsrus vandag om te weet dat die Here persoonlik daaroor sê: *Ek het … gehoor* (vers 8)?
 - Watter "gode" of steunpilare in jou lewe is die Here dalk tans besig om te laat wegkwyn sodat jy jou volle vertroue en aanbidding weer op Hom alleen sal rig?

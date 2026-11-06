@@ -28,7 +28,7 @@ Nahum som die karakter van Ninevé in vers 1 op in vier skerp aanklagte – *"We
 - **Vuilgoed (*shiqqutsim* – שִׁקֻּצִים):** Die woord vir *"vuilgoed"* in vers 6 verwys spesifiek na **verfoeilike, onrein dinge en afgodsbeelde**. Sy wat haarself met goud en afgode versier het, word nou met haar eie geestelike vuilheid bedek en ten toon gestel (*kero'i* – כְּרֹאִי, "as 'n skouspel" – 'n openbare waarskuwing of skandvlek) vir die hele wêreld.
 - **Troosters (*menachamim* – מְנַחֲמִים):** Let op die diep woordspeling met die profeet se eie naam in vers 7. Die naam **Nahum** (*Nachum* – נַחוּם) beteken "vertroosting" en kom van dieselfde wortel as *menachamim*. Die profeet bring ryke vertroosting vir God se verdrukte volk Juda, maar vir die wrede, onbekeerlike Ninevé is daar geen troosters te vinde nie.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die geweld wat gesaai is, word op eie drumpel gemaai (v. 2–3).** Die tragiese ironie in vers 3 is treffend: Die stad wat vir eeue lank ander stede se strate met lyke gevul het, se eie strate lê nou so vol gesneuweldes dat *"hulle struikel oor hulle liggame"*. Die geweld wat hulle gesaai het, maai hulle nou op hul eie drumpel.
 2. **Die masker van die bekoorlike hoer en towenares (v. 4).** Waarom het soveel nasies in Assirië se strik getrap? Vers 4 gee 'n briljante sielkundige en geestelike verklaring. Assirië het nie net met die swaard verower nie; hulle het met **verleiding** verower. Met hul indrukwekkende handel, luukse goedere, magtige militêre bondgenootskappe en indrukwekkende kultuur het hulle kleiner nasies verlei om op Assirië te vertrou in plaas van op God (dink aan hoe koning Agas van Juda so betower was deur die altaar in Damaskus dat hy die tempel in Jerusalem verander het om by Assirië in te pas – 2 Konings 16:10–18). Sodra 'n nasie egter deur haar politieke en geestelike sjarme ingetrek is, het sy hulle *"verkoop"* – hulle het hul vryheid en siel verloor en slawe van die ryk geword.
@@ -45,7 +45,7 @@ Alhoewel Ninevé duisende jare gelede geval het, leef die *gees van Ninevé* ste
 
 **Bou verhoudings op deernis, nie op mag nie.** Toe Ninevé in haar grootste nood verkeer het, was daar *niemand* om oor haar te treur of haar te troos nie (v. 7), omdat sy almal rondom haar net gebruik en misbruik het. Dit dwing ons om te vra: Hoe behandel ons die mense in ons lewens wanneer ons in 'n posisie van krag of invloed is? Jesus leer ons dat ware grootheid lê in diensbaarheid, sagmoedigheid en opregte liefde.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 1. Kyk na vers 4 se beeld van die "bekoorlike" verleiding wat mense uiteindelik verslaaf. Watter wêreldse waardes, gewoontes of versoekings lyk tans vir jou aantreklik of onskuldig, maar het die potensiaal om jou geestelike vryheid en jou intieme wandel met God te steel?
 2. Ninevé was 'n stad wat *"heeltemal leuens"* was (v. 1), maar God het haar uiteindelik ontbloot vir wie sy werklik was (v. 5). Is daar enige area in jou lewe waar jy 'n uiterlike masker van sukses of godsdienstigheid voorhou, terwyl jy weet die Here roep jou om in eerlikheid en deursigtigheid voor Hom te kom?

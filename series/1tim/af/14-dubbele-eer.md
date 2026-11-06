@@ -25,7 +25,7 @@ Die Griekse grondteks ontvou 'n meesterstuk van geestelike bestuur en pastorale 
 - **"Moenie langer net water drink nie" (*mēketi hydropotei* – μηκέτι ὑδροπότει, v. 23):** Net nadat Paulus vir Timoteus gesê het: *"Hou jouself rein"*, voeg hy 'n diep vaderlike opmerking by: *"Moenie langer net water drink nie ..."* Die werkwoord *hydropoteō* dui op iemand wat uit beginsel 'n streng "waterdrinker" geword het. Waarskynlik het Timoteus — in reaksie op die dronkenskap van sommige leiers (3:3, 8) en beïnvloed deur die asketiese klimaat in Éfese — alle wyn vermy om sy reinheid bo verdenking te hou. Maar die onsuiwer water van die antieke wêreld het sy maag aangetas en hom chronies siek gemaak. Paulus korrigeer hom liefdevol: ware reinheid (*hagnos*) lê in morele en geestelike onbesmetheid, nie in die verwaarlosing van jou liggaamlike gesondheid nie. In die antieke geneeskunde is 'n bietjie wyn gebruik om water te suiwer en maagkwale te verlig.
 - **"Duidelik sigbaar ... agterna" (*prodēloi ... epakolouthousin* – πρόδηλοι ... ἐπακολουθοῦσιν, verse 24–25):** Met hierdie laaste twee verse keer Paulus terug na die rede waarom handoplegging nooit oorhaastig mag wees nie. Sommige mense se sondes (en goeie werke) is *prodēlos* — dit is van die begin af glashelder en stap as't ware voor hulle uit. Maar ander mense is meesters daarin om hul ware aard weg te steek; hul sondes (of hul stille, verborge goeie werke) "kom eers agterna" (*epakoloutheō*). As jy egter geduldig wag en tyd toelaat om sy werk te doen, sal sowel die weggesteekte boosheid van die huigelaar as die stille vroomheid van die nederige dienaar uiteindelik na die oppervlak kom.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Geestelike arbeid in die Woord is edel maar uitputtend, en verdien ruimhartige ondersteuning.** 'n Gemeente wat diegene wat haar met die Evangelie voed, finansieel afskeep of emosioneel verkleineer, beroof haarself van geestelike seën.
 2. **Bybelse regverdigheid balanseer beskerming met aanspreeklikheid.** Die kerk mag nooit 'n teelaarde vir onbevestigde skinderpraatjies teen leiers wees nie, maar sy mag ook nooit 'n skuilplek word waar leiers se bewese sondes onder die mat ingevee word nie.
@@ -45,7 +45,7 @@ Op 'n baie persoonlike vlak gee verse 22 tot 25 vir elkeen van ons wysheid vir o
 - **Moenie mense te vinnig vertrou of bevorder nie.** Of dit nou gaan oor die aanstelling van 'n leier in die kerk, die kies van 'n sakevennoot, of die aangaan van 'n huweliksverhouding — moenie deur 'n blink eerste indruk verblind word nie. Gee tyd kans. Wat vandag weggesteek word, sal môre deur die druk van die lewe geopenbaar word.
 - **Bemoediging vir die stille werker.** Miskien voel jy dat jou goeie werke en opofferings deur niemand raakgesien word nie, terwyl ander wat hard praat al die eer kry. Wees verseker van vers 25 se belofte: selfs die goeie werke wat nou nog nie sigbaar is nie, "kan nie verborge bly nie". God sien dit, en op sy tyd bring Hy dit aan die lig.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Bewys ek opregte eer, dankbaarheid en ondersteuning aan diegene wat hulle inspan om my geestelik met die Woord te bedien, en beskerm ek hul naam wanneer mense sonder bewyse van hulle kwaadspreek?
 - Is ek in my oordeel oor ander mense werklik vry van *prokrima* (vooroordeel teenoor mense van wie ek nie hou nie) en *prosklisis* (om die foute van my vriende en gunstelinge oor die hoof te sien)?

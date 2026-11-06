@@ -26,7 +26,7 @@ Kom ons ondersoek die ryk maritieme en regsterminologie in die oorspronklike Gri
 - **"Veronagsaam" (*amelēsantes* – ἀμελήσαντες, vers 3):** Die woord vir "veronagsaam" beteken om onverskillig te wees, om nie om te gee nie, of om iets as onbelangrik af te maak. Dieselfde woord word in Matteus 22:5 gebruik vir die genooides wat die koning se bruilofsuitnodiging geïgnoreer het om na hul eie landerye en besighede om te sien.
 - **"Sy getuienis daarby gevoeg" (*synepimartyrountos* – συνεπιμαρτυροῦντος, vers 4):** God het self as medegetuie opgetree deur bonatuurlike tekens (*sēmeiois* – σημείοις), wonders (*terasin* – τέρασιν), magtige dade (*dynamesin* – δυνάμεσιν) en die vrymagtige uitdeling van die gawes van die Heilige Gees.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Diep teologie eis 'n antwoord:** Juis omdat Christus groter is as enige engel of profeet, rus daar 'n nog groter verantwoordelikheid op ons wat Sy stem gehoor het.
 2. **Die groot gevaar is stadige wegdrywing:** Die gevaar is nie in die eerste plek 'n dramatiese rebellie nie, maar onverskilligheid en verwaarlosing.
@@ -43,7 +43,7 @@ Wanneer ons onder druk verkeer, hetsy deur teleurstelling, besige skedules, fina
 
 Hierdie gedeelte roep ons nie tot paniek nie, maar tot heilige waaksaamheid. Om nie weg te dryf nie, moet ons doelbewus teen die stroom in roei en ons harte daagliks vasmaak (*prosechein*) aan die evangelie wat ons gehoor het.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Toets jou geestelike koers:** As jy jou liefde vir Christus en jou honger na Sy Woord vandag vergelyk met waar jy 'n jaar gelede was, is jy besig om dieper anker te gooi, of dryf jy stilletjies weg met die stroom?
 - **Watter onderstrominge trek aan jou?** Watter spesifieke dinge in jou daaglikse roetine (bv. oormatige skermtyd, beroepsambisie, kommer, of vermaak) tree op soos 'n stille onderstroom wat jou aandag van die Here af weglei?

@@ -22,7 +22,7 @@ Te midde van hierdie morele ineenstorting staan Habakuk. Ons weet byna niks van 
 - **Om hulp skreeu (*shiwwa'ti* – שִׁוַּעְתִּי) en uitroep (*ez'aq* – אֶזְעַק):** Habakuk gebruik twee verskillende werkwoorde vir gebed in vers 2. *Shiwwa'* is die aanhoudende hulpgeroep van iemand in nood, terwyl *za'aq* die harde uitroep is van iemand in gevaar. Hy uiter een spesifieke woord in daardie uitroep: ***chamas*** – חָמָס ("Geweld!" – wreedheid, bloedvergieting en onreg).
 - **Verdoof (*tafug* – תָּפוּג):** Wanneer vers 4 sê dat *"die onderrig verdoof"* raak, gebruik die Hebreeus die werkwoord *pug*, wat beteken om koud, lam of gevoelloos te word. God se goeie onderrig (*torah* – תּוֹרָה, sy wet) het sy krag in die samelewing verloor omdat niemand dit meer toepas nie; die reg kom *me'uqqal* – מְעֻקָּל (skeef, gedraai en misvormd, "verdraai") by die hofdeure uit.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Klaagliedere is 'n wettige vorm van aanbidding:** Habakuk bewys dat ware geloof nie beteken dat ons moet glimlag en voorgee dat alles reg is wanneer die wêreld brand nie. Hy verberg nie sy frustrasie agter vroom godsdienstige frases nie. Hy neem sy pyn **na** God toe, nie weg van God af nie. Twyfel wat met God praat, is in werklikheid diep geloof.
 2. **Die spanning tussen God se karakter en ons realiteit:** Habakuk se krisis ontstaan juis *omdat* hy in 'n goeie, regverdige en almagtige God glo. As God onverskillig of swak was, sou Habakuk nie gevra het "Waarom?" nie. Dit is juis ons oortuiging van God se goedheid wat die stilte van die hemel soms so onverstaanbaar maak.
@@ -39,7 +39,7 @@ Hoe reageer ons wanneer God skynbaar stilbly? Gewoonlik val ons in een van twee 
 
 Habakuk wys vir ons 'n derde, gesonde weg: **gebedsworsteling**. Hy gee ons toestemming om rou en eerlik voor die troon van genade te staan. God is nie bang vir jou moeilike vrae nie. Hy verkies jou eerlike trane en uitroepe bo jou gepoleerde, leë godsdienstige woorde. Om soos Habakuk aan God vas te klou te midde van die donkerte, is die eerste stap na geestelike deurbraak.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Is daar 'n spesifieke situasie in jou lewe of in ons samelewing waar jy tans uitroep: *"Hoe lank nog, HERE?"* Het jy al daardie frustrasie eerlik in woorde voor God uitgespreek, of probeer jy dit wegsteek?
 - Waar in jou lewe loop jy die gevaar om geestelik "koud of lam" (*pug*) te word omdat jy moeg geword het om te wag vir verandering?

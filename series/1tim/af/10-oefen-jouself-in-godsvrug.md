@@ -25,7 +25,7 @@ Die Griekse grondteks ontvou hierdie ryk beelde van voeding, oefening en volhard
 - **"Daarvoor werk ons hard en word ons beledig" (*kopiōmen kai oneidizometha* – κοπιῶμεν καὶ ὀνειδιζόμεθα, vers 10):** Vir hierdie ewige doel werk ons hard (*kopiaō* — om te werk totdat jy fisies en emosioneel uitgeput is) en word ons beledig (*oneidizō* — om beledigings en bespotting te verduur; sommige antieke manuskripte lees hier *agōnizometha*, "ons stry soos in 'n arena"). Wat gee 'n gelowige die krag om so te sweet en smaad te dra? Ons hoop is gevestig "op die lewende God".
 - **"Die Redder van alle mense, veral van die gelowiges" (*sōtēr pantōn anthrōpōn, malista pistōn* – σωτὴρ πάντων ἀνθρώπων, μάλιστα πιστῶν, vers 10):** Deur sy algemene goedheid onderhou, bewaar en versorg God alle mense elke dag met lewe en asem, en sy verlossingsaanbod staan oop vir almal (vgl. 2:4). Maar op 'n heel besondere, ewige wyse (*malista* — veral, bowenal) skenk Hy volkome en finale verlossing aan dié wat in Christus glo.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Gesonde bediening spruit uit gesonde persoonlike voeding:** Jy kan nie uit 'n leë beker skink nie. Voordat jy God se waarheid vir ander kan voorlê, moet jou eie hart daagliks deur die Skrif versadig word.
 2. **Genade sluit geestelike inspanning nie uit nie; dit dryf dit aan:** Hoewel ons uitsluitlik uit genade gered word, roep daardie genade ons op om met die toewyding van 'n topatleet te oefen in heiligmaking, gebed en gehoorsaamheid.
@@ -42,7 +42,7 @@ Kyk ook na jou **geestelike dieet** (verse 6–7). Waarmee voed jy jou verstand 
 
 Om jouself in die godsvrug te oefen (*gymnazō*), beteken dat jy doelbewuste geestelike gewoontes moet aanleer, selfs op dae wanneer jy nie "lus" voel daarvoor nie. 'n Atleet oefen nie net wanneer hy geïnspireerd voel nie; hy oefen volgens 'n vaste dissipline. Net so vereis geestelike fiksheid dat ons die swaar gewigte van oordenking van die Woord, volhardende gebed, selfverloëning, vergifnis en diensbaarheid daagliks sal optel. Die beloning is onoortreflik: vrede en karakter in hierdie lewe, en onuitspreeklike heerlikheid in die lewe wat kom.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - As ek die tyd en energie wat ek aan my fisiese liggaam, voorkoms en aardse gerief bestee, vergelyk met die tyd wat ek aan geestelike oefening (Skrifstudie, gebed en diens) afstaan, watter prentjie skets dit van my werklike prioriteite?
 - Waarmee "voed" ek my siel gedurende die week — met die woorde van die geloof, of met die leë kalorieë van wêreldse vermaak, nuus-obsessies en nuttelose redenasies?

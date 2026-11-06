@@ -25,7 +25,7 @@ Die boek sluit af waar dit begin het – by Miga se eie naam. In vers 18 vra die
   3. **Hy vertrap (*yikhbosh* – יִכְבֹּשׁ) ons skuld:** Die werkwoord *kavash* beteken om 'n vyand onder jou voete te onderwerp en te vertrap. God behandel ons sondes nie net as 'n skuldrekening nie, maar as 'n tiran wat Hy onder sy voete vermorsel!
   4. **In die dieptes van die see (*bimtsulot yam* – בִּמְצֻלוֹת יָם):** Net soos Farao se strydwaens tydens die uittog uit Egipte (vgl. v. 15; Eksodus 15:5) soos 'n klip in die dieptes (*metsulot*) van die Rooisee gesink het om nooit weer op te kom nie, verdrink God al ons sondes (*chatta't*) vir ewig in die oseaan van sy genade.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Ware berou verander God van ons Regter in ons Voorspraak (Advokaat):** Solank ons ons sondes bedek en regverdig, staan God teen ons; maar die oomblik wanneer ons soos Sion in vers 9 saam met God stem oor ons skuld, tree Hy self in om ons saak teen die aanklaer te verdedig (vgl. 1 Johannes 1:9; 2:1).
 2. **God se hoogste vreugde lê nie in toorn nie, maar in genade:** Vers 18 gee ons 'n blik tot in die diepste wese van God se hart: *"Hy hou nie vir altyd vas aan sy toorn nie, want Hy het behae in goedertierenheid."* Hy het **behae** (*chafets* – חָפֵץ) in **goedertierenheid** (*chesed*). Oordeel is God se "vreemde werk" (Jesaja 28:21), maar om genade en verbondsliefde (*chesed*) te bewys, is sy hartstogtelike vreugde!
@@ -42,7 +42,7 @@ Tweedens nooi die Joodse tradisie van ***Tashlich*** (wat op Miga 7:18–20 gegr
 
 Laastens verbind vers 18 met Miga 6:8. In 6:8 het die Here gevra dat óns *chesed* (barmhartige liefde) moet liefhê. Waarom? Omdat ons in 7:18 sien dat **God self behae in *chesed* het!** Wanneer ons sien hoe die Here by ons groot opstand verbygaan en ons skuld in die see werp, smelt ons eie hardheid weg. Wie werklik onder die kruis van hierdie God gestaan het en uitgeroep het: *"Wie is 'n God soos U?"*, kan nie anders as om ook die skuld van sy medemens in die see van vergifnis te laat sink nie.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Wanneer jy geestelik struikel of deur 'n donker tyd gaan, laat jy toe dat skuldgevoelens en die aanklaer jou in die modder hou, of gryp jy vas aan die geloofsbelydenis van vers 8: *"As ek geval het, staan ek op; as ek in die duisternis sit, is die HERE vir my 'n lig"*?
 - Glo jy werklik in jou diepste binneste dat die Here **behae het in goedertierenheid** (v. 18) – dat Hy *graag* en met vreugde vergewe wanneer jy na Hom terugkeer – of dink jy nog aan Hom as iemand wat teësinnig en met 'n frons vergewe?

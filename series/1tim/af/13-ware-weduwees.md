@@ -23,7 +23,7 @@ Die Griekse grondteks gee aan ons 'n haarskerp insig in Paulus se pastorale wysh
 - **"Ledig ... skinderagtig en bemoeisiek" (*argai, phlyaroi kai periergoi* – ἀργαί, φλύαροι καὶ περίεργοι, v. 13):** Hier skets Paulus die gevaarlike glybaan van onbenutte tyd. Eerstens word hulle *argai* (ledig, sonder doelgerigte arbeid). Tweedens word hulle *phlyaroi* — 'n klanknabootsende woord wat klink soos 'n pot wat oorborrel; dit beskryf mense wat oorloop van leë kletspraatjies en skinderstories. Derdens word hulle *periergoi* ("bemoeisiek"). In die Grieks is dit 'n briljante woordspeling: in plaas daarvan om te werk (*ergazomai*), werk hulle rondom (*peri*) ander mense se sake deur hul neuse in ander se huishoudings in te steek.
 - **"Hulle huishoudings bestuur" en "aanleiding" (*oikodespotein* / *aphormēn* – οἰκοδεσποτεῖν / ἀφορμήν, v. 14):** Teenoor die asketiese dwaalleraars wat die huwelik as tweedeklas beskou het, gee Paulus 'n positiewe opdrag vir jonger weduwees: laat hulle trou, kinders kry en "hulle huishoudings bestuur" (*oikodespotein*). Hierdie laaste woord beteken letterlik om as meester of bestuurder van 'n huishouding op te tree — dit verleen enorme waardigheid en gesag aan 'n vrou se leierskap binne haar huisgesin. Sodoende gee hulle die teëstander geen *aphormē* ("aanleiding") om te laster nie. 'n *Aphormē* is 'n militêre term vir 'n brughoof of 'n afspringplek waarvandaan 'n vyand 'n aanval loods.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Ware grootheid lê in verborge, nederige diensbaarheid.** Wanneer God 'n lewe van geestelike uitnemendheid beskryf (v. 10), noem Hy nie roem of posisies nie, maar kinders wat grootgemaak is, 'n oop voordeur, gewaste voete en vertrooste harte.
 2. **Barmhartigheid sonder onderskeidingsvermoë kan skade aanrig.** Om mense finansieel vry te stel van hul Godgegewe verantwoordelikheid om te werk of deur hul familie versorg te word, kweek geestelike luiheid en beroof diegene wat werklik hulpeloos is (v. 16).
@@ -40,7 +40,7 @@ Kyk tweedens na Paulus se waarskuwing oor **ledigheid, skinder en bemoeisiekheid
 
 Sosiale media het dit makliker as ooit gemaak om geestelik *argos* (ledig) en *periergos* (bemoeisiek) te wees. Ure van kosbare tyd wat aan gebed, diens of produktiewe werk gewy kon word, word vermors deur by die "digitale vensters" van ander mense se huise in te loer, hul lewens te bespreek, menings uit te spreek oor sake wat ons nie aangaan nie, en te praat "oor dinge waaroor hulle nie behoort te praat nie". Wanneer ons verveeld en geestelik onaktief raak, gee ons vir Satan 'n *aphormē* — 'n vastrapplek in ons gedagtes en in ons gemeentes. Die teenmiddel teen 'n bemoeisieke gees is om jou hande vol te hou met die ploeg van jou eie roeping en met dade van barmhartigheid.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - As my lewe vandag gemeet sou word aan die maatstawwe van vers 10 — gasvryheid, die nederige "voetewas" van medegelowiges en hulp aan mense in nood — watter getuienis sou my verlede lewer?
 - Hoe gebruik ek my vrye tyd en my woorde: laat ek toe dat ledigheid of sosiale media my intrek in skinderpraatjies en bemoeisiekheid met ander se sake?

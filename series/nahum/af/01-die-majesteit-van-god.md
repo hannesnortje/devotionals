@@ -29,7 +29,7 @@ Nahum open sy boek (verse 2–8) met 'n majestueuse **teofanie** ('n sigbare ver
 - **Ken (*yodea'* – יֹדֵעַ, van *yada'*):** Die woord vir **"ken"** beteken baie meer as intellektuele kennis; dit dui op 'n intieme, persoonlike versorging en verbondsverhouding.
 - **Die akrostiese patroon:** In verse 2–8 begin die reëls min of meer met die opeenvolgende letters van die Hebreeuse alfabet – van *alef* (*El*, v. 2) tot ongeveer by die helfte van die alfabet, met enkele gapings. Die vorm self sê: God se majesteit is ordelik en volkome.
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **God se Heilige Jaloersheid en Wraak (v. 2):** Wanneer die teks drie keer in een vers sê dat die HERE wraak neem, beteken dit nie dat God beheer verloor in 'n woedebui nie. Dit beteken dat God die hoogste Regter van die heelal is wat reg en geregtigheid sal herstel. As God nie boosheid sou straf nie, sou Hy nie volmaak goed en regverdig kon wees nie.
 2. **Die Balans tussen Lankmoedigheid en Geregtigheid (v. 3):** In vers 3 haal Nahum aan uit God se selfopenbaring aan Moses in Eksodus 34:6–7: *"Die HERE is lankmoedig"*. God het Ninevé meer as 'n honderd jaar tyd gegee sedert Jona se dae om van hul wreedheid af te sien! Sy geduld is egter nie 'n teken van swakheid of onverskilligheid nie. Hy is *"groot in krag, en die HERE spreek die skuldige sekerlik nie vry nie."* God se geduld het 'n doel (om geleentheid vir bekering te gee), maar dit het ook 'n grens.
@@ -46,7 +46,7 @@ Nahum 1:1–8 bied aan ons drie onmisbare ankers vir ons daaglikse wandel:
 - **Moenie God se geduld verwar met Sy afwesigheid nie:** Soms wonder ons: *"Here, hoekom gryp U nie nou dadelik in nie?"* Vers 3 leer ons dat God "lankmoedig" is. Sy tydsberekening word gedryf deur wysheid en genade, nie deur haas nie. Wanneer dit lyk of die goddelose voorspoedig is, onthou dat die wolke bloot die stof van God se voete is – Hy is steeds op pad en volkome in beheer.
 - **Kies jou vesting bewustelik op die dag van nood:** Vers 7 belowe nie dat gelowiges nooit 'n "dag van nood" sal beleef nie. Inteendeel, dit veronderstel dat sulke dae sal kom. Die vraag is waarheen jy hardloop wanneer die storm losbars. Hardloop ons na menslike oplossings, vrees, beheermaatreëls of afleiding? Of vlug ons na die *ma'oz* – die vesting van God se teenwoordigheid – met die wete dat Hy ons by die naam *ken* en intiem versorg?
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - Is daar 'n situasie van onreg of swaarkry in jou lewe waar dit tans vir jou voel asof die "Ninevés" van hierdie wêreld die oorhand het? Hoe verander die beeld van God se almag in verse 3–6 jou perspektief op daardie probleem?
 - Wat is jou eerste reaksie wanneer 'n "dag van nood" (krisis, angs of teleurstelling) oor jou pad kom? Wat sou dit vandag prakties vir jou beteken om by die Here skuiling te soek in plaas daarvan om die las alleen te probeer dra?

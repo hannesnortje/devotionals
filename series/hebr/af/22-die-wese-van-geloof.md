@@ -32,7 +32,7 @@ Kom ons delf in die rykdom van die oorspronklike Griekse terme en die teologiese
 
 5. **Noag: geloof wat in eerbied in die donker bou (*chrēmatistheis* – χρηματισθείς en *eulabētheis* – εὐλαβηθείς, vers 7):** By Abel sien ons geloof wat *aanbid*, by Henog geloof wat *wandel*, en by Noag sien ons geloof wat **werk en volhard** (Genesis 6–9). Noag is *"deur God gewaarsku"* (*chrēmatistheis* – 'n amptelike orakel of openbaring van God se kant af) *"oor dinge wat nog nie gesien is nie"* – 'n wêreldwye watervloed in 'n tyd toe niemand nog ooit so 'n oordeel beleef het nie. Hoe het Noag gereageer? Hy het nie geredeneer of vir 'n weervoorspelling gewag nie; hy het **in eerbied** (*eulabētheis* – verwant aan *eulabeia* – εὐλάβεια, dieselfde diepe godvresendheid wat in Hebreërs 5:7 van Jesus getuig word!) vir dekades lank plank vir plank aan die ark getimmer *"tot redding van sy huis"*. Deur sy gehoorsame geloof het hy twee dinge gedoen: eerstens het hy die ongelowige wêreld om hom *"veroordeel"* (*katekrinen* – κατέκρινεν: sy gehoorsaamheid het hulle moedswillige ongeloof sonder enige verskoning gelaat), en tweedens het hy *"erfgenaam geword van die geregtigheid wat volgens die geloof is"*. Genesis 6:9 is die eerste plek in die Skrif waar iemand "regverdig" genoem word – en dit is Noag!
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Geloof maak die onsigbare seker:** Geloof is die sekerheid van wat gehoop word en die bewys van dinge wat nie gesien word nie – die titelakte van God se beloftes in ons hand.
 2. **Die werklikheid rus op God se woord:** Agter alles wat ons kan sien en aanraak, staan nie blinde materie nie, maar die onsigbare, ewige woord van God.
@@ -49,7 +49,7 @@ Kyk tweedens na die **hart van jou verhouding met die Vader (verse 4–6)**. Bai
 
 Kyk derdens na **Noag se hamer in jou eie huis (vers 7)**. Let op die roerende detail in vers 7: Noag het in eerbied die ark gebou *"tot redding van sy huis"*. In 'n kultuur wat met God se waarskuwings gespot het, het Noag koers gehou en 'n geestelike skuilplek vir sy vrou en sy kinders gebou. Wat 'n oproep vir ons vandag! Die wêreld om ons mag dalk dink dit is ouderwets of dwaas om elke dag by die Woord stil te word, om integriteit bo wins te kies, en om jou huis op die rots van Christus te bou. Maar elke daaglikse daad van geloofsgehoorsaamheid waarmee jy jou gesin na Christus lei, is soos nog 'n plank wat jy teen die storms van hierdie eeu vaskap.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Jou geestelike titelakte (*hypostasis*):** Aan watter spesifieke belofte van God hou jy tans vas terwyl jou fisiese oë nog geen teken van die vervulling kan sien nie? Behandel jy daardie belofte as 'n "wens" of as 'n wettige *titelbewys*?
 - **Hoe sien jy God wanneer jy bid (vers 6)?** Wanneer jy vandag na God nader kom, kom jy bloot uit plig soos Kain, of kom jy met die vaste geloof dat Hy teenwoordig is én dat Hy 'n vrygewige *Beloner* is van dié wat Hom met hulle hele hart soek?

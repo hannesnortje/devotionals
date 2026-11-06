@@ -25,7 +25,7 @@ Kom ons ondersoek die historiese, taalkundige en teologiese rykdom van hierdie g
   - **'n Beeld uit die seevaart:** 'n Bekende preekillustrasie (waarvoor daar egter nie duidelike antieke bewyse is nie) vertel van hawens met 'n gevaarlike sandbank of rotsrif voor die ingang. Wanneer die storm gewaai het en die gety laag was, kon 'n groot vragskip nie die hawe binnevaar sonder om te strand nie. Dan sou 'n klein, ratse roeibootjie — die "voorloper" — die groot skip se swaar anker vat, oor die gevaarlike rif roei tot binne-in die kalm hawe, en die anker daar in die vaste grond laat sak. Daarna kon die groot skip homself mettertyd aan daardie ankertou veilig tot binne-in die hawe trek. Of dit nou letterlik so gebeur het of nie, die beeld vang die skrywer se punt raak!
   - **In die tempeldiens:** Onder die Ou Verbond was die hoëpriester nooit 'n *voorloper* in die Allerheiligste nie. Hy het een keer per jaar vreesbevange agter die voorhangsel ingegaan, en niemand kon hom ooit daarheen volg nie. Maar omdat Jesus "vir ewig hoëpriester geword het volgens die orde van Melgisedek", het Hy as ons *prodromos* vooruitgegaan om die pad oop te breek sodat **ons almal Hom tot in God se teenwoordigheid kan volg!**
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Ons hoop rus op God se karakter, nie op ons optimisme nie:** Die hoop van die gelowige is gegrond op die rotsvaste karakter van God, wat by Homself gesweer het.
 2. **God buig Hom neer na ons swakheid:** God se woord is genoeg, maar ter wille van ons twyfel het Hy sy belofte met 'n eed bevestig en Homself borg gestel.
@@ -44,7 +44,7 @@ Dink vandag aan die oorweldigende troos van vers 19 en 20 vir jou eie lewe:
 - **Jy hoef nie te wag vir die storm om te bedaar om veilig te wees nie.** 'n Anker bewys sy waarde juis wanneer die wind waai en die golwe teen die boeg slaan. Jou omstandighede mag vandag hewig skud, maar die kabel van jou geloof is vasgemaak aan 'n onsigbare Rots agter die hemelse voorhangsel.
 - **Waar die Voorloper is, sal die volgelinge ook wees.** Omdat Jesus as ons *prodromos* reeds met ons menslike natuur in die hemelse heiligdom ingegaan het en die anker van ons redding daar vasgemaak het, is ons uiteindelike veilige aankoms in die hawe gewaarborg. Elke dag trek sy genade jou net 'n stukkie nader aan die hawe waar jou Voorloper reeds op jou wag.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Waaraan is jou anker vandag vas?** Wanneer jy kyk na die dinge wat jou vrede gee (of jou vrede steel), is jou siel se anker uitgegooi in tydelike aardse sekerhede wat kan verskuif, of lê dit vas agter die voorhangsel by Christus?
 - **Twyfel aan God se karakter:** Wanneer jy sukkel om te glo dat God sy beloftes vir jou toekoms en jou verlossing sal nakom, besef jy dat God sy eie Naam en eed as waarborg gegee het — en dat dit vir Hom *onmoontlik* is om te lieg?

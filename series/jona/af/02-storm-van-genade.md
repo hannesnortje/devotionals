@@ -30,7 +30,7 @@ Die Hebreeuse woordkeuses in hierdie gedeelte skilder 'n onvergeetlike prentjie 
 - **"In 'n diep slaap geval" (*wayyeradam* – וַיֵּרָדַם):** Hierdie woord kom van die stam *radam*, wat op 'n diep, bedwelmde slaap of koma-agtige verdowing dui (van dieselfde stam kom die "diepe slaap" wat God op Adam laat val het in Genesis 2:21). Dit was nie die rustige slaap van iemand met 'n skoon gewete nie, maar die verlamde vlugslaap van iemand wat in geestelike depressie en ontkenning verkeer. Die kaptein noem hom dan ook 'n *nirdam*: "jou slaper!"
 - **"Staan op, roep!" (*qum, qera* – קוּם קְרָא):** Wanneer die heidense skeepskaptein vir Jona wakker skud in vers 6, gebruik hy in Hebreeus *presies dieselfde twee bevelwoorde* wat die HERE in vers 2 vir Jona gegee het: *"Staan op (qum) … en roep (qera) teen haar uit!"* Wat 'n geweldige ironie: Jona vlug om nie God se stem te hoor nie, en nou eggo God se oorspronklike opdrag deur die mond van 'n heidense seeman!
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die Storm as 'n Daad van Genade:** Die ergste ding wat God met 'n ongehoorsame kind kan doen, is om hom bloot uit te los om sy eie pad na ondergang te stap. Hierdie storm was nie bedoel om Jona te verdrink nie, maar om hom terug te draai. God se dissipline is altyd gewortel in Sy onfeilbare verbondsliefde (Hebreërs 12:6).
 2. **Sonde Raak Nooit Net Jouself Nie:** Ons dink dikwels dat ons privaat ongehoorsaamheid net tussen ons en die Here is. Maar Jona se rebellie sleep 'n hele bemanning onskuldige mense in 'n dodelike krisis in en kos hulle hul lewensbestaan. Wanneer gelowiges geestelik aan die slaap raak, ly die wêreld rondom ons skade.
@@ -44,7 +44,7 @@ Intussen woed die storm buite. Jou gesin, jou kollegas of jou gemeenskap gaan da
 
 Hierdie gedeelte dwing ons ook om na ons eie geloofsbelydenis te kyk. Dit is maklik om op Sondae die regte Christelike taal te praat, om te verklaar dat ons "die Here vrees", terwyl ons voete op Maandag steeds op die skip na Tarsis staan. Maar prys die Here vir Sy genadige storms! As daar tans onverklaarbare teenwind en onrus in jou lewe is omdat jy van Sy stem af weggedraai het, moet jy weet: God haat jou nie. Hy het jou te lief om jou rustig na Tarsis te laat seil.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Ervaar ek tans 'n "genadestorm" in my lewe?** Is daar 'n area van onrus, frustrasie of teenwind waardeur die Here my aandag probeer kry om my van 'n verkeerde koers af terug te roep?
 - **Waar het ek geestelik aan die slaap geraak?** Het ek apaties en koud geword teenoor die geestelike en fisiese nood van die mense in my onmiddellike omgewing (my gesin, werkplek of gemeenskap)?

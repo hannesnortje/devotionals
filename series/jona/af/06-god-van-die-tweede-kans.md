@@ -26,7 +26,7 @@ Elke woord in hierdie vier verse dra 'n besondere teologiese gewig in die Hebree
 - **"'n Groot stad – groot selfs voor God" (*ir-gedolah le-Elohim* – עִיר־גְּדוֹלָה לֵאלֹהִים):** Baie vertalings (soos die 1933/53-vertaling) gee dit weer as "'n geweldig groot stad". Maar in Hebreeus staan daar letterlik: **"'n groot stad vir God"** (of "voor God"), en ons vertaling hou dit doelbewus so. Hoewel dit as 'n Hebreeuse oortreffende trap gelees kan word, lê die dieper betekenis op die oppervlak: vir Jona was Ninevé 'n veragtelike vyandstad, maar *vir God* was dit 'n stad van onskatbare waarde en belangrikheid.
 - **"Nog veertig dae, en Ninevé word omgekeer!" (*od arba'im yom we-Nineveh nehpakhet* – עוֹד אַרְבָּעִים יוֹם וְנִינְוֵה נֶהְפָּכֶת):** Jona se hele preek bestaan in Hebreeus uit slegs **vyf woorde**! Maar die laaste woord — *nehpakhet* (van die stam *hafakh*, הָפַךְ) — is 'n meesterstuk van Goddelike dubbelsinnigheid. Aan die een kant beteken *hafakh* om **"omgekeer"** in die sin van **"vernietig"** te word (dit is presies die woord wat gebruik word vir die verwoesting van Sodom en Gomorra in Genesis 19:25). Aan die ander kant beteken *hafakh* ook om **"radikaal te verander"** of **"omgekeer te word ten goede"** (soos Saul wat in 'n ander mens verander is in 1 Samuel 10:6, of rou wat in dans verander word in Psalm 30:12). Daarom vertaal ons doelbewus met "omgekeer" eerder as "verwoes". Jona dink hy kondig net verwoesting aan, maar in God se mond dra dieselfde woord reeds die belofte: *Oor veertig dae gaan Ninevé onderstebo gekeer word — óf deur oordeel, óf deur bekering!*
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die God van herstel en tweede kanse:** Mislukking in die verlede beteken nie diskwalifikasie vir die toekoms nie. Net soos die opgestane Christus later vir Petrus op 'n strand langs die See van Galilea sou herstel ná sy verloëning (Johannes 21), herstel God Sy wegloper-profeet op die strand van die Middellandse See en gee hom Sy opdrag terug.
 2. **God verander nie Sy standaard om by ons aan te pas nie:** Toe die woord vir die tweede keer tot Jona kom, gee God hom nie 'n makliker opdrag nie. Hy stuur hom nie na 'n veilige dorpie in Galilea nie; die opdrag bly **Ninevé**. God se genade red ons uit die diepte, maar dit bring ons altyd terug na die presiese punt waar ons laas ongehoorsaam was.
@@ -41,7 +41,7 @@ Let egter op dat 'n tweede kans altyd vra vir **nuwe gehoorsaamheid**. Toe God w
 
 Miskien voel die opdrag voor jou soos 'n stad van "drie dagreise" — oorweldigend groot, intimiderend en onmoontlik om te oorkom. Kyk na vers 4: Jona het begin deur **een dagreis** ver in te stap. Jy hoef nie vandag die hele berg te versit nie; gehoorsaamheid begin deur vandag die eerste dagreis aan te pak en getrou die woorde te spreek wat die Here op jou hart lê. En onthou: jy is nie verantwoordelik vir hoe mense reageer nie; jou taak is net om die vyf woorde wat God jou gee, eerlik af te lewer en die "omkering" (*hafakh*) van menseharte aan Hom oor te laat.
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 - **Glo ek regtig dat God vir my 'n God van die tweede kans is?** Laat ek toe dat skuldgevoelens oor gister se vlugtogte my vandag verlam, of is ek gereed om Sy hernieude roeping oor my lewe te aanvaar?
 - **Het ek al teruggekeer na my "punt van ongehoorsaamheid"?** Watter oorspronklike opdrag van die Here wag steeds op my gehoorsaamheid nadat Hy my uit 'n krisis gered het?

@@ -28,7 +28,7 @@ Vir eeue lank het die Assiriese konings die leeu as hul primêre koninklike simb
 - **"Die HERE van die leërskare" (*YHWH Tseva'ot* – יְהוָה צְבָאוֹת):** Die HERE wat oor al die hemelse en aardse magte gebied.
 - **"Jou boodskappers" (*mal'akhekhe* – מַלְאָכֵכֵה):** Die gesante van die Assiriese koning – die einste stemme wat oral in die antieke wêreld vrees gesaai het (sien hieronder).
 
-### Kern Teologiese Waarhede
+### Teologiese Kernwaarhede
 
 1. **Die spotlied oor die leeukuil (v. 12–13).** Met snydende ironie vra Nahum in vers 12: *"Waar is nou die lêplek van die leeus"*? Hierdie beeld beskryf die Assiriese staat tot in die fynste besonderhede: Die konings en generaals het soos roofdiere oor die aarde gejag, nasies "verwurg" en "verskeur", en die roof teruggebring na hul "leeukuil" (Ninevé) om hul vrouens, prinse en burgers in weelde te voed – *"en niemand het hulle skrikgemaak nie"*. Maar die God van Israel maak 'n einde aan die roofdier wat niemand kon keer nie.
 2. **Die skrikwekkendste woorde in die Skrif (v. 14).** Die hoofstuk sluit af met 'n goddelike aanklag wat enige mens tot stilstand moet ruk: **"Kyk, Ek is teen jou, sê die HERE van die leërskare."** Tot op hierdie punt in hoofstuk 2 het Nahum die val van die stad beskryf; nou neem God self die woord in die eerste persoon (*"Ek"*). Die magtige leeu van Assirië het gedink hy staan bo die wet, maar nou staan hy voor die Skepper van die heelal – die *HERE van die leërskare* wat oor al die hemelse en aardse magte gebied.
@@ -48,7 +48,7 @@ Nahum 2:9–14 konfronteer ons met die groot kontras tussen die koninkryk van hi
 
 **God maak die stem van die aanklaer stil.** Kyk weer na die laaste belofte in vers 14: *"En die stem van jou boodskappers sal nie meer gehoor word nie."* In ons geestelike lewe stuur die vyand (wat in 1 Petrus 5:8 ook met 'n brullende leeu vergelyk word) dikwels sy "boodskappers" na ons gedagtes toe – stemme van intimidasie, vrees, veroordeling, wanhoop en twyfel wat net soos die Assiriese gesante vir jou skree dat jy verslaan is en dat God jou nie kan help nie. Nahum herinner ons dat die Leeu uit die stam van Juda (Openbaring 5:5) magtiger is as die brullende leeu van die duisternis. God het die mag om elke intimiderende stem van die vyand in jou lewe finaal stil te maak!
 
-### Vrae vir Persoonlike Selfondersoek
+### Vrae vir Selfondersoek
 
 1. Ninevé was soos *"'n poel water"* (v. 9) en 'n skatkamer vol goud en silwer (v. 10), maar toe die toets kom, het alles in 'n oomblik weggeloop en leegheid (*buqah*) agtergelaat. Is daar aardse dinge waarin jy tans jou emosionele sekuriteit soek wat jou uiteindelik leeg kan laat?
 2. Waar in jou eie hart merk jy soms subtiele tekens van hoogmoed of selfsug op – die begeerte om jou eie "leeukuil" van gerief en erkenning te beskerm? Hoe roep Jakobus 4:6 en Nahum 2:14 jou vandag terug na ware nederigheid voor die Here?
