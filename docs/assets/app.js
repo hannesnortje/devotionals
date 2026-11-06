@@ -1,6 +1,6 @@
 /* Devotionals – reading flow, progress and menu.
    All state lives only in this browser (localStorage key "dev-state"):
-   { lang, active, progress: { <series>: { read: [day…], last: { day, date } } } } */
+   { lang, active, progress: { <series>: { read: [day…], last: { day, date } } }, folded: [shelf…] } */
 (function () {
   'use strict';
   var DEV = window.DEV || {};
@@ -137,28 +137,80 @@
     location.href = restart.getAttribute('data-href');
   });
 
-  // home page tiles
-  document.querySelectorAll('[data-series-tile]').forEach(function (tile) {
-    var slug = tile.getAttribute('data-series-tile');
-    var p = prog(state, slug), go = tile.querySelector('[data-tile-go]');
-    var n = nextDay(state, slug), started = p.read.length > 0 || p.last;
-    paintProgress(tile.querySelector('.progress'), slug);
-    tile.querySelector('.progress').hidden = !started;
-    go.href = dayUrl(slug, DEV.lang, n);
-    go.textContent = n === 'done' ? go.getAttribute('data-done')
-      : started ? go.getAttribute('data-continue').replace('{n}', n) : go.getAttribute('data-start');
-    var lost = tile.querySelector('[data-lost]'), lostWrap = tile.querySelector('[data-lost-wrap]');
-    if (lost && !started) {
-      if (lostWrap) lostWrap.hidden = false;
-      lost.addEventListener('submit', function (e) {
-        e.preventDefault();
-        var k = +lost.querySelector('select').value, q = prog(state, slug);
-        q.read = []; for (var i = 1; i < k; i++) q.read.push(i);
-        q.last = null; state.active = slug; save(state);
-        location.href = dayUrl(slug, DEV.lang, k);
+  function started(slug) { var p = prog(state, slug); return p.read.length > 0 || !!p.last; }
+
+  // "Already started?" – jump into a series at day k (marks days 1..k-1 as read)
+  function wireLost(lost, lostWrap, slug) {
+    if (!lost || started(slug)) return;
+    if (lostWrap) lostWrap.hidden = false;
+    lost.addEventListener('submit', function (e) {
+      e.preventDefault();
+      var k = +lost.querySelector('select').value, q = prog(state, slug);
+      q.read = []; for (var i = 1; i < k; i++) q.read.push(i);
+      q.last = null; state.active = slug; save(state);
+      location.href = dayUrl(slug, DEV.lang, k);
+    });
+  }
+
+  // series overview: smart start button
+  var ogo = document.querySelector('[data-overview-go]');
+  if (ogo && DEV.series) {
+    var on = nextDay(state, DEV.series);
+    if (started(DEV.series)) {
+      ogo.href = dayUrl(DEV.series, DEV.lang, on);
+      ogo.textContent = on === 'done' ? ogo.getAttribute('data-done') : ogo.getAttribute('data-continue').replace('{n}', on) + ' →';
+    }
+    wireLost(document.querySelector('[data-lost]'), document.querySelector('[data-lost-wrap]'), DEV.series);
+  }
+
+  // start page: catalogue rows in Bible order
+  var rows = document.querySelectorAll('[data-series-row]');
+  rows.forEach(function (row) {
+    var slug = row.getAttribute('data-series-row'), el = row.querySelector('[data-row-state]');
+    var n = prog(state, slug).read.length, T = total(slug);
+    row.classList.toggle('is-started', started(slug));
+    if (!el) return;
+    if (T && n >= T) { el.textContent = el.getAttribute('data-done'); row.classList.add('is-done'); }
+    else if (started(slug)) el.textContent = n + '/' + T;
+  });
+  // shelves: remember which ones the reader folded; a shelf with a series in progress stays open
+  state.folded = state.folded || [];
+  document.querySelectorAll('details[data-shelf]').forEach(function (sh) {
+    var g = sh.getAttribute('data-shelf');
+    var busy = sh.querySelector('.is-started:not(.is-done)');
+    if (!busy && state.folded.indexOf(g) > -1) sh.open = false;
+    sh.addEventListener('toggle', function () {
+      var i = state.folded.indexOf(g);
+      if (sh.open && i > -1) state.folded.splice(i, 1);
+      if (!sh.open && i < 0) state.folded.push(g);
+      save(state);
+    });
+  });
+  // start page: continue card for the series being read (else the most recent one in progress)
+  var cc = document.querySelector('[data-continue-card]');
+  if (cc) {
+    var pick = null;
+    if (state.active && known(state.active) && nextDay(state, state.active) !== 'done') pick = state.active;
+    if (!pick) {
+      var best = '';
+      rows.forEach(function (row) {
+        var slug = row.getAttribute('data-series-row'), p = prog(state, slug);
+        if (started(slug) && nextDay(state, slug) !== 'done') {
+          var d = (p.last && p.last.date) || '0';
+          if (!pick || d > best) { pick = slug; best = d; }
+        }
       });
     }
-  });
+    if (pick) {
+      var prow = document.querySelector('[data-series-row="' + pick + '"]'), nd = nextDay(state, pick);
+      cc.querySelector('[data-cc-title]').textContent = prow ? prow.getAttribute('data-title') : pick;
+      paintProgress(cc.querySelector('.progress'), pick);
+      var g = cc.querySelector('[data-cc-go]');
+      g.href = dayUrl(pick, DEV.lang, nd);
+      g.textContent = g.getAttribute('data-continue').replace('{n}', nd) + ' →';
+      cc.hidden = false;
+    }
+  }
   var tip = document.querySelector('[data-install-tip]');
   if (tip && ((window.matchMedia && matchMedia('(display-mode: standalone)').matches) || navigator.standalone)) tip.hidden = true;
 
@@ -216,6 +268,14 @@
     }
     var days = drawer.querySelector('[data-series-days]');
     if (days) paintTicks(days, days.getAttribute('data-series-days'));
+    var anyStarted = false;
+    drawer.querySelectorAll('[data-started-item]').forEach(function (li) {
+      var sl = li.getAttribute('data-started-item');
+      li.hidden = !started(sl) || nextDay(state, sl) === 'done';
+      if (!li.hidden) anyStarted = true;
+    });
+    var sh = drawer.querySelector('[data-started-head]');
+    if (sh) sh.hidden = !anyStarted;
     drawer.querySelectorAll('[data-series-progress]').forEach(function (el) {
       var slug = el.getAttribute('data-series-progress'), r = prog(state, slug).read.length;
       el.textContent = r ? r + '/' + el.getAttribute('data-total') : '';

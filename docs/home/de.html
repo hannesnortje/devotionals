@@ -16,7 +16,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <link rel="stylesheet" href="../assets/style.css">
 <script>try{var f=(JSON.parse(localStorage.getItem("dev-state")||"{}")||{}).fontSize;if(f>=0&&f<=4&&f!==1)document.documentElement.setAttribute("data-fs",f)}catch(e){}</script>
-<script>window.DEV = {"root": "../", "lang": "de", "series": null, "day": null, "total": null, "page": "home", "langs": ["de", "en", "af"], "dayword": {"de": "tag", "en": "day", "af": "dag"}, "catalog": [{"slug": "jona", "total": 10}, {"slug": "1tim", "total": 16}, {"slug": "2tim", "total": 9}, {"slug": "hebr", "total": 28}, {"slug": "micha", "total": 14}, {"slug": "nahum", "total": 6}, {"slug": "habakuk", "total": 6}]};</script>
+<script>window.DEV = {"root": "../", "lang": "de", "series": null, "day": null, "total": null, "page": "home", "langs": ["de", "en", "af"], "dayword": {"de": "tag", "en": "day", "af": "dag"}, "catalog": [{"slug": "jona", "total": 10}, {"slug": "micha", "total": 14}, {"slug": "nahum", "total": 6}, {"slug": "habakuk", "total": 6}, {"slug": "1tim", "total": 16}, {"slug": "2tim", "total": 9}, {"slug": "hebr", "total": 28}]};</script>
 </head>
 <body data-lang="de" data-series="" data-page="home">
 <a class="skip" href="#main">↓</a>
@@ -63,13 +63,12 @@
   
 
   <section class="drawer-sec">
-    <h2>Andachten</h2>
+    <h2 data-started-head hidden>Angefangen</h2>
     
-    
-    <ul class="drawer-links">
-      <li><a href="../jona/de/index.html">Unterwegs mit Jona <small data-series-progress="jona" data-total="10"></small></a></li><li><a href="../1tim/de/index.html">Treu im Haus Gottes <small data-series-progress="1tim" data-total="16"></small></a></li><li><a href="../2tim/de/index.html">Bis zum Ende treu <small data-series-progress="2tim" data-total="9"></small></a></li><li><a href="../hebr/de/index.html">Den Blick auf Jesus gerichtet <small data-series-progress="hebr" data-total="28"></small></a></li><li><a href="../micha/de/index.html">Wer ist ein Gott wie du? <small data-series-progress="micha" data-total="14"></small></a></li><li><a href="../nahum/de/index.html">Eine Zuflucht am Tag der Not <small data-series-progress="nahum" data-total="6"></small></a></li><li><a href="../habakuk/de/index.html">Dennoch will ich jubeln <small data-series-progress="habakuk" data-total="6"></small></a></li>
+    <ul class="drawer-links" data-drawer-started>
+      <li data-started-item="jona" hidden><a href="../jona/de/index.html">Jona – Unterwegs mit Jona <small data-series-progress="jona" data-total="10"></small></a></li><li data-started-item="micha" hidden><a href="../micha/de/index.html">Micha – Wer ist ein Gott wie du? <small data-series-progress="micha" data-total="14"></small></a></li><li data-started-item="nahum" hidden><a href="../nahum/de/index.html">Nahum – Eine Zuflucht am Tag der Not <small data-series-progress="nahum" data-total="6"></small></a></li><li data-started-item="habakuk" hidden><a href="../habakuk/de/index.html">Habakuk – Dennoch will ich jubeln <small data-series-progress="habakuk" data-total="6"></small></a></li><li data-started-item="1tim" hidden><a href="../1tim/de/index.html">1. Timotheus – Treu im Haus Gottes <small data-series-progress="1tim" data-total="16"></small></a></li><li data-started-item="2tim" hidden><a href="../2tim/de/index.html">2. Timotheus – Bis zum Ende treu <small data-series-progress="2tim" data-total="9"></small></a></li><li data-started-item="hebr" hidden><a href="../hebr/de/index.html">Hebräer – Den Blick auf Jesus gerichtet <small data-series-progress="hebr" data-total="28"></small></a></li>
+      <li><a href="../home/de.html">Alle Reihen (7) →</a></li>
     </ul>
-    
   </section>
 
   <section class="drawer-sec">
@@ -105,139 +104,83 @@
 </section>
 
 <section class="wrap series-list">
-  
-  <article class="series-tile" data-series-tile="jona" data-total="10" data-dayword="tag">
-    <p class="eyebrow">Reihe · 10 Tage</p>
-    <h2>Unterwegs mit Jona</h2>
-    <p class="sub">Zehn Andachten zum Buch Jona</p>
+  <div class="continue-card" data-continue-card hidden>
+    <p class="eyebrow">Weiterlesen</p>
+    <h2 data-cc-title></h2>
     <p class="progress" data-progress-template="{n} von {total} gelesen"><span class="bar"><span></span></span><span class="label"></span></p>
-    <p class="tile-actions">
-      <a class="btn-solid" href="../jona/de/tag-01.html" data-tile-go
-         data-start="Mit Tag 1 beginnen" data-continue="Weiter mit Tag {n}" data-done="Abgeschlossen ✓">Mit Tag 1 beginnen</a>
-      <a class="tile-more" href="../jona/de/index.html">Übersicht der Reihe</a>
-    </p>
-    <details class="lost-wrap" data-lost-wrap hidden>
-      <summary>Schon angefangen?</summary>
-      <form class="lost" data-lost>
-        <label>Weiter bei <select><option value="2">Tag 2</option><option value="3">Tag 3</option><option value="4">Tag 4</option><option value="5">Tag 5</option><option value="6">Tag 6</option><option value="7">Tag 7</option><option value="8">Tag 8</option><option value="9">Tag 9</option><option value="10">Tag 10</option></select></label>
-        <button type="submit">Los</button>
-      </form>
-    </details>
-  </article>
+    <a class="btn-solid" href="#" data-cc-go data-continue="Weiter mit Tag {n}">Weiterlesen</a>
+  </div>
+
   
-  <article class="series-tile" data-series-tile="1tim" data-total="16" data-dayword="tag">
-    <p class="eyebrow">Reihe · 16 Tage</p>
-    <h2>Treu im Haus Gottes</h2>
-    <p class="sub">16 Andachten zum ersten Timotheusbrief</p>
-    <p class="progress" data-progress-template="{n} von {total} gelesen"><span class="bar"><span></span></span><span class="label"></span></p>
-    <p class="tile-actions">
-      <a class="btn-solid" href="../1tim/de/tag-01.html" data-tile-go
-         data-start="Mit Tag 1 beginnen" data-continue="Weiter mit Tag {n}" data-done="Abgeschlossen ✓">Mit Tag 1 beginnen</a>
-      <a class="tile-more" href="../1tim/de/index.html">Übersicht der Reihe</a>
-    </p>
-    <details class="lost-wrap" data-lost-wrap hidden>
-      <summary>Schon angefangen?</summary>
-      <form class="lost" data-lost>
-        <label>Weiter bei <select><option value="2">Tag 2</option><option value="3">Tag 3</option><option value="4">Tag 4</option><option value="5">Tag 5</option><option value="6">Tag 6</option><option value="7">Tag 7</option><option value="8">Tag 8</option><option value="9">Tag 9</option><option value="10">Tag 10</option><option value="11">Tag 11</option><option value="12">Tag 12</option><option value="13">Tag 13</option><option value="14">Tag 14</option><option value="15">Tag 15</option><option value="16">Tag 16</option></select></label>
-        <button type="submit">Los</button>
-      </form>
-    </details>
-  </article>
+  <details class="shelf" data-shelf="minor" open>
+    <summary><span class="shelf-t">Altes Testament</span> · Kleine Propheten</summary>
+    <ul class="series-rows">
+      
+      <li data-series-row="jona" data-total="10" data-title="Jona – Unterwegs mit Jona">
+        <a href="../jona/de/index.html">
+          <span class="row-main"><span class="row-book">Jona</span><span class="row-title">Unterwegs mit Jona</span></span>
+          <span class="row-side"><span class="row-days">10 Tage</span><span class="row-state" data-row-state data-done="✓ gelesen"></span></span>
+        </a>
+      </li>
+      
+      <li data-series-row="micha" data-total="14" data-title="Micha – Wer ist ein Gott wie du?">
+        <a href="../micha/de/index.html">
+          <span class="row-main"><span class="row-book">Micha</span><span class="row-title">Wer ist ein Gott wie du?</span></span>
+          <span class="row-side"><span class="row-days">14 Tage</span><span class="row-state" data-row-state data-done="✓ gelesen"></span></span>
+        </a>
+      </li>
+      
+      <li data-series-row="nahum" data-total="6" data-title="Nahum – Eine Zuflucht am Tag der Not">
+        <a href="../nahum/de/index.html">
+          <span class="row-main"><span class="row-book">Nahum</span><span class="row-title">Eine Zuflucht am Tag der Not</span></span>
+          <span class="row-side"><span class="row-days">6 Tage</span><span class="row-state" data-row-state data-done="✓ gelesen"></span></span>
+        </a>
+      </li>
+      
+      <li data-series-row="habakuk" data-total="6" data-title="Habakuk – Dennoch will ich jubeln">
+        <a href="../habakuk/de/index.html">
+          <span class="row-main"><span class="row-book">Habakuk</span><span class="row-title">Dennoch will ich jubeln</span></span>
+          <span class="row-side"><span class="row-days">6 Tage</span><span class="row-state" data-row-state data-done="✓ gelesen"></span></span>
+        </a>
+      </li>
+      
+    </ul>
+  </details>
   
-  <article class="series-tile" data-series-tile="2tim" data-total="9" data-dayword="tag">
-    <p class="eyebrow">Reihe · 9 Tage</p>
-    <h2>Bis zum Ende treu</h2>
-    <p class="sub">9 Andachten zum zweiten Timotheusbrief</p>
-    <p class="progress" data-progress-template="{n} von {total} gelesen"><span class="bar"><span></span></span><span class="label"></span></p>
-    <p class="tile-actions">
-      <a class="btn-solid" href="../2tim/de/tag-01.html" data-tile-go
-         data-start="Mit Tag 1 beginnen" data-continue="Weiter mit Tag {n}" data-done="Abgeschlossen ✓">Mit Tag 1 beginnen</a>
-      <a class="tile-more" href="../2tim/de/index.html">Übersicht der Reihe</a>
-    </p>
-    <details class="lost-wrap" data-lost-wrap hidden>
-      <summary>Schon angefangen?</summary>
-      <form class="lost" data-lost>
-        <label>Weiter bei <select><option value="2">Tag 2</option><option value="3">Tag 3</option><option value="4">Tag 4</option><option value="5">Tag 5</option><option value="6">Tag 6</option><option value="7">Tag 7</option><option value="8">Tag 8</option><option value="9">Tag 9</option></select></label>
-        <button type="submit">Los</button>
-      </form>
-    </details>
-  </article>
+  <details class="shelf" data-shelf="paul" open>
+    <summary><span class="shelf-t">Neues Testament</span> · Briefe des Paulus</summary>
+    <ul class="series-rows">
+      
+      <li data-series-row="1tim" data-total="16" data-title="1. Timotheus – Treu im Haus Gottes">
+        <a href="../1tim/de/index.html">
+          <span class="row-main"><span class="row-book">1. Timotheus</span><span class="row-title">Treu im Haus Gottes</span></span>
+          <span class="row-side"><span class="row-days">16 Tage</span><span class="row-state" data-row-state data-done="✓ gelesen"></span></span>
+        </a>
+      </li>
+      
+      <li data-series-row="2tim" data-total="9" data-title="2. Timotheus – Bis zum Ende treu">
+        <a href="../2tim/de/index.html">
+          <span class="row-main"><span class="row-book">2. Timotheus</span><span class="row-title">Bis zum Ende treu</span></span>
+          <span class="row-side"><span class="row-days">9 Tage</span><span class="row-state" data-row-state data-done="✓ gelesen"></span></span>
+        </a>
+      </li>
+      
+    </ul>
+  </details>
   
-  <article class="series-tile" data-series-tile="hebr" data-total="28" data-dayword="tag">
-    <p class="eyebrow">Reihe · 28 Tage</p>
-    <h2>Den Blick auf Jesus gerichtet</h2>
-    <p class="sub">28 Andachten zum Hebräerbrief</p>
-    <p class="progress" data-progress-template="{n} von {total} gelesen"><span class="bar"><span></span></span><span class="label"></span></p>
-    <p class="tile-actions">
-      <a class="btn-solid" href="../hebr/de/tag-01.html" data-tile-go
-         data-start="Mit Tag 1 beginnen" data-continue="Weiter mit Tag {n}" data-done="Abgeschlossen ✓">Mit Tag 1 beginnen</a>
-      <a class="tile-more" href="../hebr/de/index.html">Übersicht der Reihe</a>
-    </p>
-    <details class="lost-wrap" data-lost-wrap hidden>
-      <summary>Schon angefangen?</summary>
-      <form class="lost" data-lost>
-        <label>Weiter bei <select><option value="2">Tag 2</option><option value="3">Tag 3</option><option value="4">Tag 4</option><option value="5">Tag 5</option><option value="6">Tag 6</option><option value="7">Tag 7</option><option value="8">Tag 8</option><option value="9">Tag 9</option><option value="10">Tag 10</option><option value="11">Tag 11</option><option value="12">Tag 12</option><option value="13">Tag 13</option><option value="14">Tag 14</option><option value="15">Tag 15</option><option value="16">Tag 16</option><option value="17">Tag 17</option><option value="18">Tag 18</option><option value="19">Tag 19</option><option value="20">Tag 20</option><option value="21">Tag 21</option><option value="22">Tag 22</option><option value="23">Tag 23</option><option value="24">Tag 24</option><option value="25">Tag 25</option><option value="26">Tag 26</option><option value="27">Tag 27</option><option value="28">Tag 28</option></select></label>
-        <button type="submit">Los</button>
-      </form>
-    </details>
-  </article>
-  
-  <article class="series-tile" data-series-tile="micha" data-total="14" data-dayword="tag">
-    <p class="eyebrow">Reihe · 14 Tage</p>
-    <h2>Wer ist ein Gott wie du?</h2>
-    <p class="sub">14 Andachten zum Buch Micha</p>
-    <p class="progress" data-progress-template="{n} von {total} gelesen"><span class="bar"><span></span></span><span class="label"></span></p>
-    <p class="tile-actions">
-      <a class="btn-solid" href="../micha/de/tag-01.html" data-tile-go
-         data-start="Mit Tag 1 beginnen" data-continue="Weiter mit Tag {n}" data-done="Abgeschlossen ✓">Mit Tag 1 beginnen</a>
-      <a class="tile-more" href="../micha/de/index.html">Übersicht der Reihe</a>
-    </p>
-    <details class="lost-wrap" data-lost-wrap hidden>
-      <summary>Schon angefangen?</summary>
-      <form class="lost" data-lost>
-        <label>Weiter bei <select><option value="2">Tag 2</option><option value="3">Tag 3</option><option value="4">Tag 4</option><option value="5">Tag 5</option><option value="6">Tag 6</option><option value="7">Tag 7</option><option value="8">Tag 8</option><option value="9">Tag 9</option><option value="10">Tag 10</option><option value="11">Tag 11</option><option value="12">Tag 12</option><option value="13">Tag 13</option><option value="14">Tag 14</option></select></label>
-        <button type="submit">Los</button>
-      </form>
-    </details>
-  </article>
-  
-  <article class="series-tile" data-series-tile="nahum" data-total="6" data-dayword="tag">
-    <p class="eyebrow">Reihe · 6 Tage</p>
-    <h2>Eine Zuflucht am Tag der Not</h2>
-    <p class="sub">6 Andachten zum Buch Nahum</p>
-    <p class="progress" data-progress-template="{n} von {total} gelesen"><span class="bar"><span></span></span><span class="label"></span></p>
-    <p class="tile-actions">
-      <a class="btn-solid" href="../nahum/de/tag-01.html" data-tile-go
-         data-start="Mit Tag 1 beginnen" data-continue="Weiter mit Tag {n}" data-done="Abgeschlossen ✓">Mit Tag 1 beginnen</a>
-      <a class="tile-more" href="../nahum/de/index.html">Übersicht der Reihe</a>
-    </p>
-    <details class="lost-wrap" data-lost-wrap hidden>
-      <summary>Schon angefangen?</summary>
-      <form class="lost" data-lost>
-        <label>Weiter bei <select><option value="2">Tag 2</option><option value="3">Tag 3</option><option value="4">Tag 4</option><option value="5">Tag 5</option><option value="6">Tag 6</option></select></label>
-        <button type="submit">Los</button>
-      </form>
-    </details>
-  </article>
-  
-  <article class="series-tile" data-series-tile="habakuk" data-total="6" data-dayword="tag">
-    <p class="eyebrow">Reihe · 6 Tage</p>
-    <h2>Dennoch will ich jubeln</h2>
-    <p class="sub">6 Andachten zum Buch Habakuk</p>
-    <p class="progress" data-progress-template="{n} von {total} gelesen"><span class="bar"><span></span></span><span class="label"></span></p>
-    <p class="tile-actions">
-      <a class="btn-solid" href="../habakuk/de/tag-01.html" data-tile-go
-         data-start="Mit Tag 1 beginnen" data-continue="Weiter mit Tag {n}" data-done="Abgeschlossen ✓">Mit Tag 1 beginnen</a>
-      <a class="tile-more" href="../habakuk/de/index.html">Übersicht der Reihe</a>
-    </p>
-    <details class="lost-wrap" data-lost-wrap hidden>
-      <summary>Schon angefangen?</summary>
-      <form class="lost" data-lost>
-        <label>Weiter bei <select><option value="2">Tag 2</option><option value="3">Tag 3</option><option value="4">Tag 4</option><option value="5">Tag 5</option><option value="6">Tag 6</option></select></label>
-        <button type="submit">Los</button>
-      </form>
-    </details>
-  </article>
+  <details class="shelf" data-shelf="hebrews" open>
+    <summary><span class="shelf-t">Neues Testament</span> · Hebräerbrief</summary>
+    <ul class="series-rows">
+      
+      <li data-series-row="hebr" data-total="28" data-title="Hebräer – Den Blick auf Jesus gerichtet">
+        <a href="../hebr/de/index.html">
+          <span class="row-main"><span class="row-book">Hebräer</span><span class="row-title">Den Blick auf Jesus gerichtet</span></span>
+          <span class="row-side"><span class="row-days">28 Tage</span><span class="row-state" data-row-state data-done="✓ gelesen"></span></span>
+        </a>
+      </li>
+      
+    </ul>
+  </details>
   
   <p class="muted more-soon">Weitere Andachtsreihen folgen.</p>
 </section>

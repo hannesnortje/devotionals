@@ -16,7 +16,7 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <link rel="stylesheet" href="../assets/style.css">
 <script>try{var f=(JSON.parse(localStorage.getItem("dev-state")||"{}")||{}).fontSize;if(f>=0&&f<=4&&f!==1)document.documentElement.setAttribute("data-fs",f)}catch(e){}</script>
-<script>window.DEV = {"root": "../", "lang": "af", "series": null, "day": null, "total": null, "page": "home", "langs": ["de", "en", "af"], "dayword": {"de": "tag", "en": "day", "af": "dag"}, "catalog": [{"slug": "jona", "total": 10}, {"slug": "1tim", "total": 16}, {"slug": "2tim", "total": 9}, {"slug": "hebr", "total": 28}, {"slug": "micha", "total": 14}, {"slug": "nahum", "total": 6}, {"slug": "habakuk", "total": 6}]};</script>
+<script>window.DEV = {"root": "../", "lang": "af", "series": null, "day": null, "total": null, "page": "home", "langs": ["de", "en", "af"], "dayword": {"de": "tag", "en": "day", "af": "dag"}, "catalog": [{"slug": "jona", "total": 10}, {"slug": "micha", "total": 14}, {"slug": "nahum", "total": 6}, {"slug": "habakuk", "total": 6}, {"slug": "1tim", "total": 16}, {"slug": "2tim", "total": 9}, {"slug": "hebr", "total": 28}]};</script>
 </head>
 <body data-lang="af" data-series="" data-page="home">
 <a class="skip" href="#main">↓</a>
@@ -63,13 +63,12 @@
   
 
   <section class="drawer-sec">
-    <h2>Oordenkings</h2>
+    <h2 data-started-head hidden>Besig om te lees</h2>
     
-    
-    <ul class="drawer-links">
-      <li><a href="../jona/af/index.html">Reis deur Jona <small data-series-progress="jona" data-total="10"></small></a></li><li><a href="../1tim/af/index.html">Getrou in God se Huis <small data-series-progress="1tim" data-total="16"></small></a></li><li><a href="../2tim/af/index.html">Getrou tot die Einde <small data-series-progress="2tim" data-total="9"></small></a></li><li><a href="../hebr/af/index.html">Die Oë op Jesus Gevestig <small data-series-progress="hebr" data-total="28"></small></a></li><li><a href="../micha/af/index.html">Wie is 'n God soos U? <small data-series-progress="micha" data-total="14"></small></a></li><li><a href="../nahum/af/index.html">'n Toevlug op die Dag van Nood <small data-series-progress="nahum" data-total="6"></small></a></li><li><a href="../habakuk/af/index.html">Tog sal ek Jubel <small data-series-progress="habakuk" data-total="6"></small></a></li>
+    <ul class="drawer-links" data-drawer-started>
+      <li data-started-item="jona" hidden><a href="../jona/af/index.html">Jona – Reis deur Jona <small data-series-progress="jona" data-total="10"></small></a></li><li data-started-item="micha" hidden><a href="../micha/af/index.html">Miga – Wie is 'n God soos U? <small data-series-progress="micha" data-total="14"></small></a></li><li data-started-item="nahum" hidden><a href="../nahum/af/index.html">Nahum – 'n Toevlug op die Dag van Nood <small data-series-progress="nahum" data-total="6"></small></a></li><li data-started-item="habakuk" hidden><a href="../habakuk/af/index.html">Habakuk – Tog sal ek Jubel <small data-series-progress="habakuk" data-total="6"></small></a></li><li data-started-item="1tim" hidden><a href="../1tim/af/index.html">1 Timoteus – Getrou in God se Huis <small data-series-progress="1tim" data-total="16"></small></a></li><li data-started-item="2tim" hidden><a href="../2tim/af/index.html">2 Timoteus – Getrou tot die Einde <small data-series-progress="2tim" data-total="9"></small></a></li><li data-started-item="hebr" hidden><a href="../hebr/af/index.html">Hebreërs – Die Oë op Jesus Gevestig <small data-series-progress="hebr" data-total="28"></small></a></li>
+      <li><a href="../home/af.html">Alle reekse (7) →</a></li>
     </ul>
-    
   </section>
 
   <section class="drawer-sec">
@@ -105,139 +104,83 @@
 </section>
 
 <section class="wrap series-list">
-  
-  <article class="series-tile" data-series-tile="jona" data-total="10" data-dayword="dag">
-    <p class="eyebrow">Reeks · 10 dae</p>
-    <h2>Reis deur Jona</h2>
-    <p class="sub">Tien oordenkings oor die boek Jona</p>
+  <div class="continue-card" data-continue-card hidden>
+    <p class="eyebrow">Lees verder</p>
+    <h2 data-cc-title></h2>
     <p class="progress" data-progress-template="{n} van {total} gelees"><span class="bar"><span></span></span><span class="label"></span></p>
-    <p class="tile-actions">
-      <a class="btn-solid" href="../jona/af/dag-01.html" data-tile-go
-         data-start="Begin met Dag 1" data-continue="Gaan voort met Dag {n}" data-done="Voltooi ✓">Begin met Dag 1</a>
-      <a class="tile-more" href="../jona/af/index.html">Oorsig van die reeks</a>
-    </p>
-    <details class="lost-wrap" data-lost-wrap hidden>
-      <summary>Al begin?</summary>
-      <form class="lost" data-lost>
-        <label>Gaan voort by <select><option value="2">Dag 2</option><option value="3">Dag 3</option><option value="4">Dag 4</option><option value="5">Dag 5</option><option value="6">Dag 6</option><option value="7">Dag 7</option><option value="8">Dag 8</option><option value="9">Dag 9</option><option value="10">Dag 10</option></select></label>
-        <button type="submit">Gaan</button>
-      </form>
-    </details>
-  </article>
+    <a class="btn-solid" href="#" data-cc-go data-continue="Gaan voort met Dag {n}">Lees verder</a>
+  </div>
+
   
-  <article class="series-tile" data-series-tile="1tim" data-total="16" data-dayword="dag">
-    <p class="eyebrow">Reeks · 16 dae</p>
-    <h2>Getrou in God se Huis</h2>
-    <p class="sub">16 oordenkings oor die eerste brief aan Timoteus</p>
-    <p class="progress" data-progress-template="{n} van {total} gelees"><span class="bar"><span></span></span><span class="label"></span></p>
-    <p class="tile-actions">
-      <a class="btn-solid" href="../1tim/af/dag-01.html" data-tile-go
-         data-start="Begin met Dag 1" data-continue="Gaan voort met Dag {n}" data-done="Voltooi ✓">Begin met Dag 1</a>
-      <a class="tile-more" href="../1tim/af/index.html">Oorsig van die reeks</a>
-    </p>
-    <details class="lost-wrap" data-lost-wrap hidden>
-      <summary>Al begin?</summary>
-      <form class="lost" data-lost>
-        <label>Gaan voort by <select><option value="2">Dag 2</option><option value="3">Dag 3</option><option value="4">Dag 4</option><option value="5">Dag 5</option><option value="6">Dag 6</option><option value="7">Dag 7</option><option value="8">Dag 8</option><option value="9">Dag 9</option><option value="10">Dag 10</option><option value="11">Dag 11</option><option value="12">Dag 12</option><option value="13">Dag 13</option><option value="14">Dag 14</option><option value="15">Dag 15</option><option value="16">Dag 16</option></select></label>
-        <button type="submit">Gaan</button>
-      </form>
-    </details>
-  </article>
+  <details class="shelf" data-shelf="minor" open>
+    <summary><span class="shelf-t">Ou Testament</span> · Klein Profete</summary>
+    <ul class="series-rows">
+      
+      <li data-series-row="jona" data-total="10" data-title="Jona – Reis deur Jona">
+        <a href="../jona/af/index.html">
+          <span class="row-main"><span class="row-book">Jona</span><span class="row-title">Reis deur Jona</span></span>
+          <span class="row-side"><span class="row-days">10 dae</span><span class="row-state" data-row-state data-done="✓ gelees"></span></span>
+        </a>
+      </li>
+      
+      <li data-series-row="micha" data-total="14" data-title="Miga – Wie is 'n God soos U?">
+        <a href="../micha/af/index.html">
+          <span class="row-main"><span class="row-book">Miga</span><span class="row-title">Wie is 'n God soos U?</span></span>
+          <span class="row-side"><span class="row-days">14 dae</span><span class="row-state" data-row-state data-done="✓ gelees"></span></span>
+        </a>
+      </li>
+      
+      <li data-series-row="nahum" data-total="6" data-title="Nahum – 'n Toevlug op die Dag van Nood">
+        <a href="../nahum/af/index.html">
+          <span class="row-main"><span class="row-book">Nahum</span><span class="row-title">'n Toevlug op die Dag van Nood</span></span>
+          <span class="row-side"><span class="row-days">6 dae</span><span class="row-state" data-row-state data-done="✓ gelees"></span></span>
+        </a>
+      </li>
+      
+      <li data-series-row="habakuk" data-total="6" data-title="Habakuk – Tog sal ek Jubel">
+        <a href="../habakuk/af/index.html">
+          <span class="row-main"><span class="row-book">Habakuk</span><span class="row-title">Tog sal ek Jubel</span></span>
+          <span class="row-side"><span class="row-days">6 dae</span><span class="row-state" data-row-state data-done="✓ gelees"></span></span>
+        </a>
+      </li>
+      
+    </ul>
+  </details>
   
-  <article class="series-tile" data-series-tile="2tim" data-total="9" data-dayword="dag">
-    <p class="eyebrow">Reeks · 9 dae</p>
-    <h2>Getrou tot die Einde</h2>
-    <p class="sub">9 oordenkings oor die tweede brief aan Timoteus</p>
-    <p class="progress" data-progress-template="{n} van {total} gelees"><span class="bar"><span></span></span><span class="label"></span></p>
-    <p class="tile-actions">
-      <a class="btn-solid" href="../2tim/af/dag-01.html" data-tile-go
-         data-start="Begin met Dag 1" data-continue="Gaan voort met Dag {n}" data-done="Voltooi ✓">Begin met Dag 1</a>
-      <a class="tile-more" href="../2tim/af/index.html">Oorsig van die reeks</a>
-    </p>
-    <details class="lost-wrap" data-lost-wrap hidden>
-      <summary>Al begin?</summary>
-      <form class="lost" data-lost>
-        <label>Gaan voort by <select><option value="2">Dag 2</option><option value="3">Dag 3</option><option value="4">Dag 4</option><option value="5">Dag 5</option><option value="6">Dag 6</option><option value="7">Dag 7</option><option value="8">Dag 8</option><option value="9">Dag 9</option></select></label>
-        <button type="submit">Gaan</button>
-      </form>
-    </details>
-  </article>
+  <details class="shelf" data-shelf="paul" open>
+    <summary><span class="shelf-t">Nuwe Testament</span> · Briewe van Paulus</summary>
+    <ul class="series-rows">
+      
+      <li data-series-row="1tim" data-total="16" data-title="1 Timoteus – Getrou in God se Huis">
+        <a href="../1tim/af/index.html">
+          <span class="row-main"><span class="row-book">1 Timoteus</span><span class="row-title">Getrou in God se Huis</span></span>
+          <span class="row-side"><span class="row-days">16 dae</span><span class="row-state" data-row-state data-done="✓ gelees"></span></span>
+        </a>
+      </li>
+      
+      <li data-series-row="2tim" data-total="9" data-title="2 Timoteus – Getrou tot die Einde">
+        <a href="../2tim/af/index.html">
+          <span class="row-main"><span class="row-book">2 Timoteus</span><span class="row-title">Getrou tot die Einde</span></span>
+          <span class="row-side"><span class="row-days">9 dae</span><span class="row-state" data-row-state data-done="✓ gelees"></span></span>
+        </a>
+      </li>
+      
+    </ul>
+  </details>
   
-  <article class="series-tile" data-series-tile="hebr" data-total="28" data-dayword="dag">
-    <p class="eyebrow">Reeks · 28 dae</p>
-    <h2>Die Oë op Jesus Gevestig</h2>
-    <p class="sub">28 oordenkings oor die brief aan die Hebreërs</p>
-    <p class="progress" data-progress-template="{n} van {total} gelees"><span class="bar"><span></span></span><span class="label"></span></p>
-    <p class="tile-actions">
-      <a class="btn-solid" href="../hebr/af/dag-01.html" data-tile-go
-         data-start="Begin met Dag 1" data-continue="Gaan voort met Dag {n}" data-done="Voltooi ✓">Begin met Dag 1</a>
-      <a class="tile-more" href="../hebr/af/index.html">Oorsig van die reeks</a>
-    </p>
-    <details class="lost-wrap" data-lost-wrap hidden>
-      <summary>Al begin?</summary>
-      <form class="lost" data-lost>
-        <label>Gaan voort by <select><option value="2">Dag 2</option><option value="3">Dag 3</option><option value="4">Dag 4</option><option value="5">Dag 5</option><option value="6">Dag 6</option><option value="7">Dag 7</option><option value="8">Dag 8</option><option value="9">Dag 9</option><option value="10">Dag 10</option><option value="11">Dag 11</option><option value="12">Dag 12</option><option value="13">Dag 13</option><option value="14">Dag 14</option><option value="15">Dag 15</option><option value="16">Dag 16</option><option value="17">Dag 17</option><option value="18">Dag 18</option><option value="19">Dag 19</option><option value="20">Dag 20</option><option value="21">Dag 21</option><option value="22">Dag 22</option><option value="23">Dag 23</option><option value="24">Dag 24</option><option value="25">Dag 25</option><option value="26">Dag 26</option><option value="27">Dag 27</option><option value="28">Dag 28</option></select></label>
-        <button type="submit">Gaan</button>
-      </form>
-    </details>
-  </article>
-  
-  <article class="series-tile" data-series-tile="micha" data-total="14" data-dayword="dag">
-    <p class="eyebrow">Reeks · 14 dae</p>
-    <h2>Wie is 'n God soos U?</h2>
-    <p class="sub">14 oordenkings oor Miga</p>
-    <p class="progress" data-progress-template="{n} van {total} gelees"><span class="bar"><span></span></span><span class="label"></span></p>
-    <p class="tile-actions">
-      <a class="btn-solid" href="../micha/af/dag-01.html" data-tile-go
-         data-start="Begin met Dag 1" data-continue="Gaan voort met Dag {n}" data-done="Voltooi ✓">Begin met Dag 1</a>
-      <a class="tile-more" href="../micha/af/index.html">Oorsig van die reeks</a>
-    </p>
-    <details class="lost-wrap" data-lost-wrap hidden>
-      <summary>Al begin?</summary>
-      <form class="lost" data-lost>
-        <label>Gaan voort by <select><option value="2">Dag 2</option><option value="3">Dag 3</option><option value="4">Dag 4</option><option value="5">Dag 5</option><option value="6">Dag 6</option><option value="7">Dag 7</option><option value="8">Dag 8</option><option value="9">Dag 9</option><option value="10">Dag 10</option><option value="11">Dag 11</option><option value="12">Dag 12</option><option value="13">Dag 13</option><option value="14">Dag 14</option></select></label>
-        <button type="submit">Gaan</button>
-      </form>
-    </details>
-  </article>
-  
-  <article class="series-tile" data-series-tile="nahum" data-total="6" data-dayword="dag">
-    <p class="eyebrow">Reeks · 6 dae</p>
-    <h2>'n Toevlug op die Dag van Nood</h2>
-    <p class="sub">6 oordenkings oor Nahum</p>
-    <p class="progress" data-progress-template="{n} van {total} gelees"><span class="bar"><span></span></span><span class="label"></span></p>
-    <p class="tile-actions">
-      <a class="btn-solid" href="../nahum/af/dag-01.html" data-tile-go
-         data-start="Begin met Dag 1" data-continue="Gaan voort met Dag {n}" data-done="Voltooi ✓">Begin met Dag 1</a>
-      <a class="tile-more" href="../nahum/af/index.html">Oorsig van die reeks</a>
-    </p>
-    <details class="lost-wrap" data-lost-wrap hidden>
-      <summary>Al begin?</summary>
-      <form class="lost" data-lost>
-        <label>Gaan voort by <select><option value="2">Dag 2</option><option value="3">Dag 3</option><option value="4">Dag 4</option><option value="5">Dag 5</option><option value="6">Dag 6</option></select></label>
-        <button type="submit">Gaan</button>
-      </form>
-    </details>
-  </article>
-  
-  <article class="series-tile" data-series-tile="habakuk" data-total="6" data-dayword="dag">
-    <p class="eyebrow">Reeks · 6 dae</p>
-    <h2>Tog sal ek Jubel</h2>
-    <p class="sub">6 oordenkings oor Habakuk</p>
-    <p class="progress" data-progress-template="{n} van {total} gelees"><span class="bar"><span></span></span><span class="label"></span></p>
-    <p class="tile-actions">
-      <a class="btn-solid" href="../habakuk/af/dag-01.html" data-tile-go
-         data-start="Begin met Dag 1" data-continue="Gaan voort met Dag {n}" data-done="Voltooi ✓">Begin met Dag 1</a>
-      <a class="tile-more" href="../habakuk/af/index.html">Oorsig van die reeks</a>
-    </p>
-    <details class="lost-wrap" data-lost-wrap hidden>
-      <summary>Al begin?</summary>
-      <form class="lost" data-lost>
-        <label>Gaan voort by <select><option value="2">Dag 2</option><option value="3">Dag 3</option><option value="4">Dag 4</option><option value="5">Dag 5</option><option value="6">Dag 6</option></select></label>
-        <button type="submit">Gaan</button>
-      </form>
-    </details>
-  </article>
+  <details class="shelf" data-shelf="hebrews" open>
+    <summary><span class="shelf-t">Nuwe Testament</span> · Hebreërs</summary>
+    <ul class="series-rows">
+      
+      <li data-series-row="hebr" data-total="28" data-title="Hebreërs – Die Oë op Jesus Gevestig">
+        <a href="../hebr/af/index.html">
+          <span class="row-main"><span class="row-book">Hebreërs</span><span class="row-title">Die Oë op Jesus Gevestig</span></span>
+          <span class="row-side"><span class="row-days">28 dae</span><span class="row-state" data-row-state data-done="✓ gelees"></span></span>
+        </a>
+      </li>
+      
+    </ul>
+  </details>
   
   <p class="muted more-soon">Nog oordenkingsreekse is op pad.</p>
 </section>

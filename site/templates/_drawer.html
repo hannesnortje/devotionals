@@ -30,15 +30,12 @@
   {% endif %}
 
   <section class="drawer-sec">
-    <h2>{% if series %}{{ t.other_series }}{% else %}{{ t.home_title }}{% endif %}</h2>
+    <h2 data-started-head hidden>{{ t.in_progress }}</h2>
     {% set others = catalog_lang | rejectattr("slug", "equalto", series) | list %}
-    {% if others %}
-    <ul class="drawer-links">
-      {% for c in others %}<li><a href="{{ root }}{{ c.slug }}/{{ lang }}/index.html">{{ c.title }} <small data-series-progress="{{ c.slug }}" data-total="{{ c.total }}"></small></a></li>{% endfor %}
+    <ul class="drawer-links" data-drawer-started>
+      {% for c in others %}<li data-started-item="{{ c.slug }}" hidden><a href="{{ root }}{{ c.slug }}/{{ lang }}/index.html">{{ c.book }} – {{ c.title }} <small data-series-progress="{{ c.slug }}" data-total="{{ c.total }}"></small></a></li>{% endfor %}
+      <li><a href="{{ root }}home/{{ lang }}.html">{{ t.all_series }} ({{ catalog_lang | length }}) →</a></li>
     </ul>
-    {% else %}
-    <p class="drawer-note">{{ t.more_soon }}</p>
-    {% endif %}
   </section>
 
   <section class="drawer-sec">

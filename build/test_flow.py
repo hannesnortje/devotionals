@@ -15,10 +15,11 @@ BASE = "http://localhost:8765/devotionals/"
 ROOT = Path(__file__).resolve().parent.parent
 shots = Path(sys.argv[1] if len(sys.argv) > 1 else "/tmp/shots"); shots.mkdir(parents=True, exist_ok=True)
 _home = (ROOT / "docs" / "home" / "de.html").read_text(encoding="utf-8")
-_tiles = re.findall(r'data-series-tile="([^"]+)" data-total="(\d+)"', _home)
+_tiles = re.findall(r'data-series-row="([^"]+)" data-total="(\d+)"', _home)
 SLUG, TOTAL = (sys.argv[2], dict(_tiles)[sys.argv[2]]) if len(sys.argv) > 2 else _tiles[0]
 TOTAL = int(TOTAL)
-TILE = f'[data-series-tile="{SLUG}"] [data-tile-go]'
+ROW = f'[data-series-row="{SLUG}"] a'
+GO = '[data-overview-go]'
 print(f"Testing series '{SLUG}' ({TOTAL} days)")
 ok = []
 
@@ -41,11 +42,15 @@ with sync_playwright() as p:
     pg.goto(BASE); pg.wait_for_url("**/home/de.html")
     check("first visit lands on German start page", path(pg) == "home/de.html", path(pg))
     pg.screenshot(path=str(shots / "01-home-de.png"), full_page=True)
-    check("tile says start", "Mit Tag 1 beginnen" in pg.inner_text(f'[data-series-tile="{SLUG}"]'))
-    check("lost-progress link visible", pg.is_visible(".lost-wrap summary"))
+    order = pg.eval_on_selector_all("[data-series-row]", "els => els.map(e => e.getAttribute('data-series-row'))")
+    check("series listed in Bible order (OT first)", order.index("jona") < order.index("1tim") if "jona" in order and "1tim" in order else True, ",".join(order))
+    check("no continue card on first visit", not pg.is_visible("[data-continue-card]"))
+    check("row shows no progress yet", pg.inner_text(f'[data-series-row="{SLUG}"] [data-row-state]') == "")
 
-    # 2 start the series
-    pg.click(TILE); pg.wait_for_url(f"**/{SLUG}/de/tag-01.html")
+    # 2 open the series overview from its row and start
+    pg.click(ROW); pg.wait_for_url(f"**/{SLUG}/de/index.html")
+    check("lost-progress link visible on overview", pg.is_visible(".lost-wrap summary"))
+    pg.click(GO); pg.wait_for_url(f"**/{SLUG}/de/tag-01.html")
     check("start goes to day 1", path(pg) == f"{SLUG}/de/tag-01.html")
     pg.screenshot(path=str(shots / "02-day1-top.png"))
 
@@ -90,7 +95,8 @@ with sync_playwright() as p:
     check("deep link opens day 7", path(pg) == f"{SLUG}/de/tag-07.html")
     pg.goto(BASE + "home/de.html")
     check("start page reachable", path(pg) == "home/de.html")
-    check("tile says continue with day 2", "Weiter mit Tag 2" in pg.inner_text(TILE), pg.inner_text(TILE))
+    check("continue card says continue with day 2", "Weiter mit Tag 2" in pg.inner_text("[data-continue-card]"), pg.inner_text("[data-continue-card]"))
+    check("row shows 1/" + str(TOTAL), pg.inner_text(f'[data-series-row="{SLUG}"] [data-row-state]') == f"1/{TOTAL}")
     pg.screenshot(path=str(shots / "05-home-continue.png"))
 
     # 10 finish the series -> completed page
@@ -106,7 +112,8 @@ with sync_playwright() as p:
     ctx2 = b.new_context(viewport={"width": 390, "height": 844}, locale="en-GB")
     pg2 = ctx2.new_page(); pg2.goto(BASE); pg2.wait_for_url("**/home/en.html")
     check("English browser → English start page", path(pg2) == "home/en.html")
-    pg2.click(f'[data-series-tile="{SLUG}"] .lost-wrap summary'); pg2.select_option(f'[data-series-tile="{SLUG}"] [data-lost] select', "5"); pg2.click(f'[data-series-tile="{SLUG}"] [data-lost] button'); pg2.wait_for_url("**/day-05.html")
+    pg2.click(f'[data-series-row="{SLUG}"] a'); pg2.wait_for_url(f"**/{SLUG}/en/index.html")
+    pg2.click('.lost-wrap summary'); pg2.select_option('[data-lost] select', "5"); pg2.click('[data-lost] button'); pg2.wait_for_url("**/day-05.html")
     check("lost-progress jumps to day 5", path(pg2) == f"{SLUG}/en/day-05.html")
     pg2.goto(BASE); pg2.wait_for_url("**/day-05.html")
     check("…and root continues there", path(pg2).endswith("day-05.html"))

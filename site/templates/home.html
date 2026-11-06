@@ -11,25 +11,27 @@
 </section>
 
 <section class="wrap series-list">
-  {% for c in catalog_lang %}
-  <article class="series-tile" data-series-tile="{{ c.slug }}" data-total="{{ c.total }}" data-dayword="{{ t.day|lower }}">
-    <p class="eyebrow">{{ t.series_word }} · {{ t.days_n.format(n=c.total) }}</p>
-    <h2>{{ c.title }}</h2>
-    <p class="sub">{{ c.subtitle }}</p>
+  <div class="continue-card" data-continue-card hidden>
+    <p class="eyebrow">{{ t.continue_reading }}</p>
+    <h2 data-cc-title></h2>
     <p class="progress" data-progress-template="{{ t.progress }}"><span class="bar"><span></span></span><span class="label"></span></p>
-    <p class="tile-actions">
-      <a class="btn-solid" href="../{{ c.slug }}/{{ lang }}/{{ t.day|lower }}-01.html" data-tile-go
-         data-start="{{ t.start }}" data-continue="{{ t.continue_at }}" data-done="{{ t.completed }} ✓">{{ t.start }}</a>
-      <a class="tile-more" href="../{{ c.slug }}/{{ lang }}/index.html">{{ t.series_overview }}</a>
-    </p>
-    <details class="lost-wrap" data-lost-wrap hidden>
-      <summary>{{ t.lost_short }}</summary>
-      <form class="lost" data-lost>
-        <label>{{ t.lost_q }} <select>{% for n in range(2, c.total + 1) %}<option value="{{ n }}">{{ t.day }} {{ n }}</option>{% endfor %}</select></label>
-        <button type="submit">{{ t.lost_btn }}</button>
-      </form>
-    </details>
-  </article>
+    <a class="btn-solid" href="#" data-cc-go data-continue="{{ t.continue_at }}">{{ t.continue }}</a>
+  </div>
+
+  {% for testament, group, items in shelves %}
+  <details class="shelf" data-shelf="{{ group }}" open>
+    <summary><span class="shelf-t">{{ t['testament_' ~ testament] }}</span> · {{ t['shelf_' ~ group] }}</summary>
+    <ul class="series-rows">
+      {% for c in items %}
+      <li data-series-row="{{ c.slug }}" data-total="{{ c.total }}" data-title="{{ c.book }} – {{ c.title }}">
+        <a href="../{{ c.slug }}/{{ lang }}/index.html">
+          <span class="row-main"><span class="row-book">{{ c.book }}</span><span class="row-title">{{ c.title }}</span></span>
+          <span class="row-side"><span class="row-days">{{ t.days_n.format(n=c.total) }}</span><span class="row-state" data-row-state data-done="✓ {{ t.row_done }}"></span></span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+  </details>
   {% endfor %}
   <p class="muted more-soon">{{ t.more_soon }}</p>
 </section>

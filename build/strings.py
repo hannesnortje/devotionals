@@ -242,3 +242,36 @@ for _l, _d in NAV.items():
 
 for _l in STRINGS:
     STRINGS[_l]["author_name"] = "Dr. Johannes (Hannes) A. Nortjé"
+
+# Start page catalogue ("shelves" in Bible order) – see build/books.py
+SHELF = {
+    "de": {
+        "testament_ot": "Altes Testament", "testament_nt": "Neues Testament",
+        "shelf_law": "Die fünf Bücher Mose", "shelf_history": "Geschichtsbücher", "shelf_wisdom": "Poetische Bücher",
+        "shelf_major": "Große Propheten", "shelf_minor": "Kleine Propheten", "shelf_gospels": "Evangelien",
+        "shelf_acts": "Apostelgeschichte", "shelf_paul": "Briefe des Paulus", "shelf_hebrews": "Hebräerbrief",
+        "shelf_general": "Weitere Briefe", "shelf_revelation": "Offenbarung",
+        "continue_reading": "Weiterlesen", "all_series": "Alle Reihen", "in_progress": "Angefangen",
+        "row_done": "gelesen", "row_new": "neu",
+    },
+    "en": {
+        "testament_ot": "Old Testament", "testament_nt": "New Testament",
+        "shelf_law": "The Law", "shelf_history": "History", "shelf_wisdom": "Poetry and Wisdom",
+        "shelf_major": "Major Prophets", "shelf_minor": "Minor Prophets", "shelf_gospels": "Gospels",
+        "shelf_acts": "Acts", "shelf_paul": "Paul's letters", "shelf_hebrews": "Hebrews",
+        "shelf_general": "Other letters", "shelf_revelation": "Revelation",
+        "continue_reading": "Continue reading", "all_series": "All series", "in_progress": "In progress",
+        "row_done": "read", "row_new": "new",
+    },
+    "af": {
+        "testament_ot": "Ou Testament", "testament_nt": "Nuwe Testament",
+        "shelf_law": "Die Wet", "shelf_history": "Geskiedenisboeke", "shelf_wisdom": "Poësie en Wysheid",
+        "shelf_major": "Groot Profete", "shelf_minor": "Klein Profete", "shelf_gospels": "Evangelies",
+        "shelf_acts": "Handelinge", "shelf_paul": "Briewe van Paulus", "shelf_hebrews": "Hebreërs",
+        "shelf_general": "Ander briewe", "shelf_revelation": "Openbaring",
+        "continue_reading": "Lees verder", "all_series": "Alle reekse", "in_progress": "Besig om te lees",
+        "row_done": "gelees", "row_new": "nuut",
+    },
+}
+for _l, _d in SHELF.items():
+    STRINGS[_l].update(_d)

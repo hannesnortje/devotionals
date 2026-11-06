@@ -260,20 +260,41 @@ def series_dirs():
     return out
 
 
+def series_osis(sdir: Path):
+    src = sorted((sdir / "source").glob("*-source.txt"))
+    return src[0].name[: -len("-source.txt")] if src else None
+
+
 def load_catalog():
+    from books import BOOKS, GROUP_ORDER
     cat = []
     for sdir in series_dirs():
         conf = yaml.safe_load((sdir / "series.yml").read_text(encoding="utf-8"))
         total = len(list((sdir / LANGS[0]).glob("[0-9][0-9]-*.md")))
+        osis = conf.get("osis") or series_osis(sdir)
+        b = BOOKS.get(osis, {"testament": "nt", "group": "general", "canon": 999})
         cat.append({"slug": conf["slug"], "order": conf.get("order", 99), "total": total,
-                    "strings": conf["strings"]})
-    cat.sort(key=lambda c: c["order"])
+                    "strings": conf["strings"], "book": conf.get("book", {}),
+                    "testament": b["testament"], "group": b["group"], "canon": b["canon"]})
+    cat.sort(key=lambda c: (c["canon"], c["order"]))
     return cat
 
 
 def catalog_for(lang):
     return [{"slug": c["slug"], "total": c["total"], "title": c["strings"][lang]["series_title"],
-             "subtitle": c["strings"][lang]["series_subtitle"]} for c in CATALOG]
+             "subtitle": c["strings"][lang]["series_subtitle"], "book": c["book"].get(lang, c["slug"]),
+             "testament": c["testament"], "group": c["group"]} for c in CATALOG]
+
+
+def shelves_for(lang):
+    """Catalog grouped for the start page: [(testament, group, [series…]), …] in canonical order."""
+    out = []
+    for c in catalog_for(lang):
+        if out and out[-1][1] == c["group"]:
+            out[-1][2].append(c)
+        else:
+            out.append((c["testament"], c["group"], [c]))
+    return out
 
 
 def dev_json(lang, root, series=None, day=None, total=None, page=None):
@@ -381,7 +402,7 @@ def build():
     for lang in LANGS:
         t = STRINGS[lang]
         base = dict(t=t, lang=lang, langs=LANGS, strings=STRINGS, year=YEAR, root="../", series=None, days=None,
-                    catalog_lang=catalog_for(lang), copyright=t["copyright"].format(year=YEAR))
+                    catalog_lang=catalog_for(lang), shelves=shelves_for(lang), copyright=t["copyright"].format(year=YEAR))
         (DOCS / "home" / f"{lang}.html").write_text(env.get_template("home.html").render(
             **base, page="home", alt={l: f"{l}.html" for l in LANGS},
             dev_json=dev_json(lang, "../", page="home")), encoding="utf-8")

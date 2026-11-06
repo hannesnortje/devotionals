@@ -6,11 +6,18 @@
     <h1>{{ t.series_title }}</h1>
     <p class="byline">{{ t.author }}</p>
     <div class="hero-actions">
-      <a class="btn primary" href="{{ days[0].slug }}.html">{{ t.day }} 1 →</a>
+      <a class="btn primary" href="{{ days[0].slug }}.html" data-overview-go data-continue="{{ t.continue_at }}" data-done="{{ t.completed }} ✓">{{ t.day }} 1 →</a>
       <a class="btn" href="../pdf/{{ pdf_name }}">{{ t.pdf }}</a>
       <a class="btn" href="book.html">{{ t.whole_book }}</a>
       <a class="btn" href="kit.html">{{ t.kit }}</a>
     </div>
+    <details class="lost-wrap" data-lost-wrap hidden>
+      <summary>{{ t.lost_short }}</summary>
+      <form class="lost" data-lost>
+        <label>{{ t.lost_q }} <select>{% for x in days[1:] %}<option value="{{ x.n }}">{{ t.day }} {{ x.n }}</option>{% endfor %}</select></label>
+        <button type="submit">{{ t.lost_btn }}</button>
+      </form>
+    </details>
   </div>
   <svg class="waves" viewBox="0 0 1200 60" preserveAspectRatio="none" aria-hidden="true"><path d="M0 30 Q 75 0 150 30 T 300 30 T 450 30 T 600 30 T 750 30 T 900 30 T 1050 30 T 1200 30 V60 H0Z"/></svg>
 </section>

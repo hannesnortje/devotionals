@@ -33,7 +33,8 @@ Devotional series by Dr. Johannes (Hannes) A. Nortjé in German, English and Afr
 
 - `/` is a router: first-time visitors go to the start page in their browser's language (`/home/{lang}.html`); returning readers go straight to their next devotional.
 - "Next" = the day just read stays on screen for the rest of that calendar day; from the next day on, the first unread day opens. When a series is finished, its "completed" page opens.
-- Progress is shared across languages and stored only in the browser (`localStorage` key `dev-state`). The ☰ menu on every page leads to the start page, all days, other series, language, legal page and "reset progress".
+- The start page is a catalogue in Bible order: a "Continue reading" card for the series in progress, then foldable shelves (Old/New Testament · group, e.g. Minor Prophets, Paul's letters) with one compact row per series (book, title, days, progress). Shelf and order come automatically from the book's OSIS code (`series/<slug>/source/<OSIS>-source.txt`, see `build/books.py`); group names are in `build/strings.py` (`shelf_*`). Each row opens the series overview, whose main button starts or continues the series and which offers "Already started?".
+- Progress is shared across languages and stored only in the browser (`localStorage` key `dev-state`; folded shelves in `folded`). The ☰ menu on every page leads to the start page, all days of the current series, series in progress, "All series", language, legal page and "reset progress".
 - Text size: the "Aa" button in the header (and the ☰ menu) has five steps (90–150 %). Only the reading area (`article.day`, CSS variable `--fs`) scales; header and buttons keep their size. Stored as `dev-state.fontSize` and applied by an inline script in `<head>` before the first paint.
 - The site is installable ("Add to Home Screen") and works offline via `docs/sw.js`.
 
