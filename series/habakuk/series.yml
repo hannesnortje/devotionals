@@ -1,0 +1,66 @@
+# Series settings – see PLAYBOOK.md
+slug: habakuk
+order: 7
+original_language: he
+site_url: https://hannesnortje.github.io/devotionals/habakuk/
+book:
+  de: Habakuk
+  en: Habakkuk
+  af: Habakuk
+avoid_words:
+  af:
+  - "Skryf die gesig"
+  - "opgeblase, nie opreg"
+  - "dit sal nie uitbly nie"
+  - "binne die jare"
+  - "in die toorn mag U dink"
+  - "die opbrings van die olyfboom"
+  - "die kleinvee sal uit die kraal"
+  - "dag van benoudheid"
+  de:
+  - "wer halsstarrig ist"
+  - "wer vorüberläuft"
+  - "so harre ihrer"
+  - "Im Zorne denke an Barmherzigkeit"
+  - "aus den Hürden"
+  - "Hirschfüße"
+  - "Es sei vor ihm stille alle Welt"
+  en:
+  - "his soul which is lifted up"
+  - "that readeth it"
+  - "though it tarry"
+  - "of purer eyes than to behold"
+  - "revive thy work"
+  - "in wrath remember mercy"
+  - "I will joy in the God"
+  - "hinds' feet"
+  - "keep silence before him"
+  - "thick clay"
+strings:
+  de:
+    series_title: Dennoch will ich jubeln
+    series_subtitle: 6 Andachten zum Buch Habakuk
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: Das ganze Buch Habakuk
+    whole_book_intro: Der vollständige Text des Buches Habakuk in der Übersetzung, die in diesen Andachten verwendet wird.
+    kit_intro: Drei Treffen für Hauskreise und Kleingruppen – ein Treffen pro Kapitel, je 75 bis 90 Minuten.
+    k_hebrew: Ein Blick ins Hebräische
+    translation_note: 'Bibeltext: eigene Übersetzung aus dem Hebräischen (Masoretischer Text) von Dr. Johannes A. Nortjé. Die Verszählung folgt dem hebräischen Text.'
+  en:
+    series_title: Yet I Will Rejoice
+    series_subtitle: 6 devotionals on Habakkuk
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: The whole book of Habakkuk
+    whole_book_intro: The complete text of Habakkuk in the translation used in these devotionals.
+    kit_intro: Three sessions for home groups and small groups – one per chapter, 75 to 90 minutes each.
+    k_hebrew: A look at the Hebrew
+    translation_note: 'Scripture: own translation from the Hebrew (Masoretic Text) by Dr. Johannes A. Nortjé. Verse numbers follow the Hebrew text.'
+  af:
+    series_title: Tog sal ek Jubel
+    series_subtitle: 6 oordenkings oor Habakuk
+    author: Dr. Johannes (Hannes) A. Nortjé
+    whole_book: Die hele boek Habakuk
+    whole_book_intro: Die volledige teks van Habakuk in die vertaling wat in hierdie oordenkings gebruik word.
+    kit_intro: Drie byeenkomste vir huisgroepe en kleingroepe – een per hoofstuk, elk 75 tot 90 minute.
+    k_hebrew: '''n Blik op die Hebreeus'
+    translation_note: 'Skrifteks: eie vertaling uit die Hebreeus (Masoretiese Teks) deur Dr. Johannes A. Nortjé. Die versnommering volg die Hebreeuse teks.'

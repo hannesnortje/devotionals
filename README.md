@@ -12,6 +12,7 @@ Devotional series by Dr. Johannes (Hannes) A. Nortjé in German, English and Afr
 | Hebrews – *Den Blick auf Jesus gerichtet / Eyes Fixed on Jesus / Die Oë op Jesus Gevestig* (28 days, own translation from the Greek, SBLGNT; 2:9 majority reading) | [`/hebr/`](https://hannesnortje.github.io/devotionals/hebr/) | `docs/hebr/pdf/hebr-{de,en,af}.pdf` | `docs/hebr/pdf/hebr-kit-{lang}.pdf`, `hebr-slides-{lang}.pdf` |
 | Micah – *Wer ist ein Gott wie du? / Who Is a God Like You? / Wie is 'n God soos U?* (14 days, own translation from the Hebrew, WLC; Hebrew verse numbering) | [`/micha/`](https://hannesnortje.github.io/devotionals/micha/) | `docs/micha/pdf/micha-{de,en,af}.pdf` | `docs/micha/pdf/micha-kit-{lang}.pdf`, `micha-slides-{lang}.pdf` |
 | Nahum – *Eine Zuflucht am Tag der Not / A Refuge in the Day of Distress / 'n Toevlug op die Dag van Nood* (6 days, own translation from the Hebrew, WLC; Hebrew verse numbering) | [`/nahum/`](https://hannesnortje.github.io/devotionals/nahum/) | `docs/nahum/pdf/nahum-{de,en,af}.pdf` | `docs/nahum/pdf/nahum-kit-{lang}.pdf`, `nahum-slides-{lang}.pdf` |
+| Habakkuk – *Dennoch will ich jubeln / Yet I Will Rejoice / Tog sal ek Jubel* (6 days, own translation from the Hebrew, WLC) | [`/habakuk/`](https://hannesnortje.github.io/devotionals/habakuk/) | `docs/habakuk/pdf/habakuk-{de,en,af}.pdf` | `docs/habakuk/pdf/habakuk-kit-{lang}.pdf`, `habakuk-slides-{lang}.pdf` |
 
 ## Layout
 
