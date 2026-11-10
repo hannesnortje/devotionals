@@ -163,11 +163,17 @@ def render_passage(vs, show_chapter=False, chapter_word=""):
 
 
 # ---------------------------------------------------------------- Devotionals
+def fix_list_indent(text):
+    """Python-Markdown needs 4 spaces for a nested list; the sources often use 2 or 3
+    (as other Markdown renderers accept). Normalise so sub-lists render as lists."""
+    return re.sub(r"^ {2,3}(?=(?:[-*+]|\d+\.) )", "    ", text, flags=re.M)
+
+
 def load_days(lang):
     days = []
     for p in sorted((SERIES["dir"] / lang).glob("[0-9][0-9]-*.md")):
         meta, body = read_front_matter(p)
-        html_body = markdown.markdown(body, extensions=["extra", "sane_lists"])
+        html_body = markdown.markdown(fix_list_indent(body), extensions=["extra", "sane_lists"])
         html_body = small_caps(wrap_hebrew(html_body))
         # prayer: italic paragraphs inside the last H2 section get a class
         html_body = re.sub(r"(<h2>[^<]*</h2>)((?:\s*<p><em>.*?</em></p>)+)\s*$",
