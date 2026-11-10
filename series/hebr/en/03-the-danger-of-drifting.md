@@ -30,7 +30,7 @@ Let us look at the rich nautical and legal vocabulary of the Greek text:
 
 1. **Deep theology demands a response.** Precisely because Christ is greater than any angel or prophet, an even greater responsibility rests on us who have heard his voice.
 2. **The great danger is slow drifting.** The danger is not first of all dramatic rebellion, but indifference and neglect.
-3. **The threefold foundation of "a salvation this great" (vv. 3b–4).** Why is this salvation (*sōtērias* – σωτηρίας) so great and so impossible to escape? Because it rests on an unshakeable threefold testimony:
+3. **The threefold foundation of "a salvation this great" (vv. 3b–4).** Why is this salvation (*sōtērias* – σωτηρίας) so great that we must not neglect it? Because it rests on an unshakeable threefold testimony:
    - **The origin (the Lord):** It began with the preaching, the death on the cross and the resurrection of the Lord Jesus himself.
    - **The transmission (the eyewitnesses):** It was reliably confirmed by the apostles who heard and saw Jesus first-hand (which also suggests that the author of Hebrews was a second-generation Christian).
    - **The divine seal (Father and Spirit):** God himself added his testimony by signs and wonders, mighty works and distributions of the Holy Spirit.

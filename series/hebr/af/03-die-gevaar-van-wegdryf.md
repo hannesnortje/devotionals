@@ -30,7 +30,7 @@ Kom ons ondersoek die ryk maritieme en regsterminologie in die oorspronklike Gri
 
 1. **Diep teologie eis 'n antwoord:** Juis omdat Christus groter is as enige engel of profeet, rus daar 'n nog groter verantwoordelikheid op ons wat Sy stem gehoor het.
 2. **Die groot gevaar is stadige wegdrywing:** Die gevaar is nie in die eerste plek 'n dramatiese rebellie nie, maar onverskilligheid en verwaarlosing.
-3. **Die Drievoudige Fondament van "so 'n groot redding" (verse 3b–4):** Waarom is hierdie redding (*sōtērias* – σωτηρίας) so groot en onontkombaar? Omdat dit op 'n onwrikbare driedubbele getuienis rus:
+3. **Die Drievoudige Fondament van "so 'n groot redding" (verse 3b–4):** Waarom is hierdie redding (*sōtērias* – σωτηρίας) so groot dat ons dit nie mag verwaarloos nie? Omdat dit op 'n onwrikbare driedubbele getuienis rus:
    - **Die Oorsprong (Die Here):** Dit het begin by die prediking, kruisdood en opstanding van die Here Jesus self.
    - **Die Oordrag (Die Ooggetuies):** Dit is betroubaar bevestig deur die apostels wat Jesus eerstehands gehoor en gesien het (wat ook daarop dui dat die skrywer van Hebreërs 'n tweede-generasie Christen was).
    - **Die Goddelike Seël (Vader en Gees):** God self het Sy getuienis daarby gevoeg deur tekens, wonders, magtige dade en uitdelings van die Heilige Gees.

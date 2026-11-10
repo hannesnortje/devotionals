@@ -30,7 +30,7 @@ Schauen wir uns die reiche Sprache der Seefahrt und des Rechts im griechischen G
 
 1. **Tiefe Theologie fordert eine Antwort.** Gerade weil Christus größer ist als jeder Engel und jeder Prophet, liegt auf uns, die wir seine Stimme gehört haben, eine noch größere Verantwortung.
 2. **Die große Gefahr ist das langsame Abdriften.** Die Gefahr ist nicht in erster Linie eine dramatische Rebellion, sondern Gleichgültigkeit und Vernachlässigung.
-3. **Das dreifache Fundament einer „so großen Rettung“ (V. 3b–4).** Warum ist diese Rettung (*sōtērias* – σωτηρίας) so groß und so unausweichlich? Weil sie auf einem unerschütterlichen dreifachen Zeugnis ruht:
+3. **Das dreifache Fundament einer „so großen Rettung“ (V. 3b–4).** Warum ist diese Rettung (*sōtērias* – σωτηρίας) so groß, dass wir sie nicht vernachlässigen dürfen? Weil sie auf einem unerschütterlichen dreifachen Zeugnis ruht:
    - **Der Ursprung (der Herr):** Sie begann mit der Verkündigung, dem Kreuzestod und der Auferstehung des Herrn Jesus selbst.
    - **Die Weitergabe (die Augenzeugen):** Sie wurde zuverlässig bestätigt durch die Apostel, die Jesus aus erster Hand gehört und gesehen hatten (was auch darauf hindeutet, dass der Verfasser des Hebräerbriefs ein Christ der zweiten Generation war).
    - **Das göttliche Siegel (Vater und Geist):** Gott selbst gab sein Zeugnis dazu durch Zeichen, Wunder, Machttaten und Zuteilungen des Heiligen Geistes.
