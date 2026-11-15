@@ -166,7 +166,10 @@ def render_passage(vs, show_chapter=False, chapter_word=""):
 def fix_list_indent(text):
     """Python-Markdown needs 4 spaces for a nested list; the sources often use 2 or 3
     (as other Markdown renderers accept). Normalise so sub-lists render as lists."""
-    return re.sub(r"^ {2,3}(?=(?:[-*+]|\d+\.) )", "    ", text, flags=re.M)
+    text = re.sub(r"^ {2,3}(?=(?:[-*+]|\d+\.) )", "    ", text, flags=re.M)
+    # ***word*** inside a line confuses Python-Markdown when other *italics* surround it;
+    # **_word_** renders the same (bold italic) and parses reliably.
+    return re.sub(r"(?<![\w*])\*\*\*([^*\n]+?)\*\*\*(?![\w*])", r"**_\1_**", text)
 
 
 def load_days(lang):
