@@ -43,7 +43,7 @@ Daarom is aanbidding nie 'n ontvlugting van die werklikheid nie, maar die eerlik
 
 En dan is daar die krone. Elkeen van ons hou iets styf vas: 'n titel, 'n prestasie, ons reputasie, selfs ons swaarverdiende getrouheid. Die ouderlinge wys ons die vryheid om dit neer te lê. Jy hoef nie jou eie troon in stand te hou nie; daar is reeds Een wat regeer, en die deur na Hom staan oop.
 
-En jy staan nie alleen voor hierdie troon nie. Wanneer jou eie lamp flou brand, onthou: die vuur voor die troon het nog nooit uitgegaan nie, en dieselfde Gees het Christus na jou gestuur – nie deur mag en nie deur krag nie, maar deur sy Gees.
+En jy staan nie alleen voor hierdie troon nie. Die lewende wesens is *"vol oë voor en agter"* (v. 6), en die Lam het sewe oë – die sewe geeste van God – wat oor die hele aarde uitgestuur is (5:6). Niks wat met jou gebeur, is vir Hom verborge nie; daarom hoef jy nie te vrees nie. Wanneer jou eie lamp flou brand, onthou: die sewe vuurfakkels voor die troon het nog nooit uitgeblus geraak nie. Dit is presies dieselfde Gees wat Christus na jou toe uitgestuur het – sodat jy kan staande bly, nie deur mag of krag nie, maar deur sy Gees (vgl. Sagaria 4:6).
 
 Begin môre by die oop deur, nog voordat jy jou foon oopmaak: lees Openbaring 4:8–11, noem een "troon" wat jou tans bang maak, en plaas dit doelbewus voor die troon waarop Hy sit.
 

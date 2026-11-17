@@ -43,7 +43,7 @@ That is why worship is not an escape from reality but the most honest look at it
 
 And then there are the crowns. Each of us holds something tightly: a title, an achievement, our reputation, even our own hard-won faithfulness. The elders show us the freedom of laying it down. You do not have to keep your own throne standing; there is already one who reigns, and the door to him stands open.
 
-And you do not stand alone before this throne. When your own lamp burns low, remember: the fire before the throne has never gone out, and Christ has sent the same Spirit to you – not by might and not by power, but by his Spirit.
+And you do not stand alone before this throne. The living creatures are *"full of eyes in front and behind"* (v. 6), and the Lamb has seven eyes – the seven spirits of God – sent out into all the earth (5:6). Nothing that happens to you is hidden from him; so you need not be afraid. When your own lamp burns low, remember: the seven torches of fire before the throne have never gone out. It is the very same Spirit whom Christ has sent out to you – so that you can stand firm, not by might or power, but by his Spirit (cf. Zechariah 4:6).
 
 Start tomorrow at the open door, before you even unlock your phone: read Revelation 4:8–11, name one "throne" that frightens you at the moment, and deliberately lay it before the throne on which he sits.
 

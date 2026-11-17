@@ -43,7 +43,7 @@ Darum ist Anbetung keine Flucht vor der Wirklichkeit, sondern der ehrlichste Bli
 
 Und dann sind da die Kränze. Jeder von uns hält etwas fest umklammert: einen Titel, eine Leistung, seinen Ruf, sogar die eigene hart erkämpfte Treue. Die Ältesten zeigen uns die Freiheit, das niederzulegen. Du musst deinen eigenen Thron nicht aufrechterhalten; es gibt schon einen, der regiert, und die Tür zu ihm steht offen.
 
-Und du stehst nicht allein vor diesem Thron. Wenn deine eigene Lampe nur noch schwach brennt, denk daran: Das Feuer vor dem Thron ist noch nie ausgegangen, und denselben Geist hat Christus zu dir gesandt – nicht durch Macht und nicht durch Kraft, sondern durch seinen Geist.
+Und du stehst nicht allein vor diesem Thron. Die Lebewesen sind *„voller Augen vorn und hinten“* (V. 6), und das Lamm hat sieben Augen – die sieben Geister Gottes –, ausgesandt über die ganze Erde (5,6). Nichts, was dir geschieht, ist vor ihm verborgen; darum musst du dich nicht fürchten. Wenn deine eigene Lampe nur noch schwach brennt, denk daran: Die sieben Feuerfackeln vor dem Thron sind noch nie erloschen. Es ist genau derselbe Geist, den Christus zu dir gesandt hat – damit du bestehen kannst, nicht durch Macht oder Kraft, sondern durch seinen Geist (vgl. Sacharja 4,6).
 
 Fang morgen an der offenen Tür an, noch bevor du dein Handy entsperrst: Lies Offenbarung 4,8–11, nenne einen „Thron“, der dir gerade Angst macht, und lege ihn bewusst vor den Thron, auf dem er sitzt.
 
