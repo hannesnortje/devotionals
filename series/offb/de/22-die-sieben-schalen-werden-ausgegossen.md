@@ -35,7 +35,7 @@ Die sechste Schale trocknet den Euphrat aus, „damit der Weg für die Könige v
 
 ## Für das Leben heute
 
-Ehrlich: Dieses Kapitel macht uns unbehaglich. Wir mögen das Lamm lieber als die Schalen. Aber frag jemanden, der Unrecht erlitten hat – eine Frau, die jahrelang misshandelt wurde, eine Gemeinde, die verfolgt wird, ein Volk, das vom Krieg verwüstet ist –, und sie werden dir sagen: Ein Gott, der das Böse nie richtet, wäre nicht gut. Offenbarung 16 ist Trost für die Leidenden, keine Waffe, um anderen zu drohen.
+Für Gläubige, die jeden Tag im Schatten von Roms Thron lebten, war dieses Kapitel eine Befreiung: Dieser Thron ist nicht ewig, und das Blut ihrer Brüder und Schwestern ist nicht vergessen. Wir lesen es aus einem anderen Blickwinkel. Ehrlich: Dieses Kapitel macht uns unbehaglich. Wir mögen das Lamm lieber als die Schalen. Aber frag jemanden, der Unrecht erlitten hat – eine Frau, die jahrelang misshandelt wurde, eine Gemeinde, die verfolgt wird, ein Volk, das vom Krieg verwüstet ist –, und sie werden dir sagen: Ein Gott, der das Böse nie richtet, wäre nicht gut. Offenbarung 16 ist Trost für die Leidenden, keine Waffe, um anderen zu drohen.
 
 Darum sollten wir dieses Kapitel nicht über „die anderen“ lesen, sondern über unser eigenes Herz. Schmerz kann einen Menschen näher zu Gott treiben, oder er kann bitter und hart machen. Was geschieht bei dir, wenn es schwer wird – Gebet oder Verbitterung? Es ist keine Schande, Gott zu sagen, dass du zornig und verletzt bist; die Seelen unter dem Altar haben das auch getan. Aber es ist ein Unterschied, ob man zu Gott schreit oder gegen Gott flucht.
 

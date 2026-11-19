@@ -35,7 +35,7 @@ Die sesde bak droog die Eufraat op, *"sodat die weg vir die konings van die opga
 
 ## Praktiese Toepassing
 
-Eerlik: hierdie hoofstuk maak ons ongemaklik. Ons hou meer van die Lam as van die bakke. Maar vra iemand wat onreg gely het – 'n vrou wat jare lank mishandel is, 'n gemeente wat vervolg word, 'n volk wat deur oorlog verwoes is – en hulle sal vir jou sê: 'n God wat nooit die kwaad oordeel nie, sou nie goed wees nie. Openbaring 16 is troos vir dié wat ly, nie 'n wapen om ander mee te dreig nie.
+Vir gelowiges wat elke dag in die skaduwee van Rome se troon geleef het, was hierdie hoofstuk 'n bevryding: daardie troon is nie ewig nie, en die bloed van hulle broers en susters is nie vergeet nie. Ons lees dit uit 'n ander hoek. Eerlik: hierdie hoofstuk maak ons ongemaklik. Ons hou meer van die Lam as van die bakke. Maar vra iemand wat onreg gely het – 'n vrou wat jare lank mishandel is, 'n gemeente wat vervolg word, 'n volk wat deur oorlog verwoes is – en hulle sal vir jou sê: 'n God wat nooit die kwaad oordeel nie, sou nie goed wees nie. Openbaring 16 is troos vir dié wat ly, nie 'n wapen om ander mee te dreig nie.
 
 Daarom moet ons hierdie hoofstuk nie oor "ander mense" lees nie, maar oor ons eie hart. Pyn kan 'n mens nader aan God dryf, of dit kan jou bitter en verhard maak. Watter een gebeur by jou wanneer dinge swaar gaan – gebed of verbittering? Daar is geen skande daarin om vir God te sê dat jy kwaad en seer is nie; die siele onder die altaar het dit ook gedoen. Maar daar is 'n verskil tussen roep na God en vloek teen God.
 

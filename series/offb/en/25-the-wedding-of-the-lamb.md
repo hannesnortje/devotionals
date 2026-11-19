@@ -37,7 +37,7 @@ Then the music changes key. The song about judgement becomes a wedding song: "Fo
 
 ## Living It Out
 
-The church does not always look like a bride. We know the scandals, the divisions, the weary congregations where fewer people turn up every year. It is easy to become cynical about the church – or to leave her quietly. Revelation 19 lets us see the church as Christ sees her: as his bride, for whom he paid with his blood and for whom he is coming back. If the Lamb loves her, we may not despise her.
+The believers in Asia were a small, ordinary, often poor group – in cities where Rome's wealth and banquets were on display everywhere. For them it was almost unbelievable to hear that they were the bride, at the table of the Lamb. Today too the church does not always look like a bride. We know the scandals, the divisions, the weary congregations where fewer people turn up every year. It is easy to become cynical about the church – or to leave her quietly. Revelation 19 lets us see the church as Christ sees her: as his bride, for whom he paid with his blood and for whom he is coming back. If the Lamb loves her, we may not despise her.
 
 The bride's robe also brings comfort for your own ordinary faithfulness. The prayers no one hears, the visit to the hospital, the honest answer at work, the patience with a difficult child – none of it vanishes into nothing. These are threads in the "fine linen". Not because you earn your place at the table with them – the robe is given – but because God weaves your small acts of love into the splendour of his bride.
 

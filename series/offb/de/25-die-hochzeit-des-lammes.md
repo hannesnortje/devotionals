@@ -37,7 +37,7 @@ Dann wechselt die Musik die Tonart. Das Lied über das Gericht wird zum Hochzeit
 
 ## Für das Leben heute
 
-Die Gemeinde sieht nicht immer aus wie eine Braut. Wir kennen die Skandale, die Spaltungen, die müden Gemeinden, in denen jedes Jahr weniger Menschen kommen. Es ist leicht, zynisch über die Kirche zu werden – oder sie still zu verlassen. Offenbarung 19 lässt uns die Gemeinde sehen, wie Christus sie sieht: als seine Braut, für die er mit seinem Blut bezahlt hat und für die er wiederkommt. Wenn das Lamm sie liebt, dürfen wir sie nicht verachten.
+Die Gläubigen in Asien waren eine kleine, gewöhnliche, oft arme Schar – in Städten, in denen Roms Reichtum und Festmähler überall zu sehen waren. Für sie war es fast unglaublich zu hören, dass gerade sie die Braut sind, am Tisch des Lammes. Auch heute sieht die Gemeinde nicht immer aus wie eine Braut. Wir kennen die Skandale, die Spaltungen, die müden Gemeinden, in denen jedes Jahr weniger Menschen kommen. Es ist leicht, zynisch über die Kirche zu werden – oder sie still zu verlassen. Offenbarung 19 lässt uns die Gemeinde sehen, wie Christus sie sieht: als seine Braut, für die er mit seinem Blut bezahlt hat und für die er wiederkommt. Wenn das Lamm sie liebt, dürfen wir sie nicht verachten.
 
 Das Gewand der Braut tröstet auch über deine eigene, gewöhnliche Treue. Die Gebete, die niemand hört, der Besuch im Krankenhaus, die ehrliche Antwort bei der Arbeit, die Geduld mit einem schwierigen Kind – nichts davon verschwindet im Nichts. Es sind Fäden im „feinen Leinen“. Nicht weil du dir damit deinen Platz am Tisch verdienst – das Gewand ist geschenkt –, sondern weil Gott deine kleinen Taten der Liebe in die Pracht seiner Braut einwebt.
 

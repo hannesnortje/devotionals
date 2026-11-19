@@ -35,7 +35,7 @@ The sixth bowl dries up the Euphrates, "so that the way would be prepared for th
 
 ## Living It Out
 
-Honestly, this chapter makes us uncomfortable. We prefer the Lamb to the bowls. But ask someone who has suffered injustice – a woman abused for years, a church under persecution, a people devastated by war – and they will tell you: a God who never judged evil would not be good. Revelation 16 is comfort for those who suffer, not a weapon for threatening others.
+For believers who lived every day in the shadow of Rome's throne, this chapter was a liberation: that throne is not eternal, and the blood of their brothers and sisters has not been forgotten. We read it from a different angle. Honestly, this chapter makes us uncomfortable. We prefer the Lamb to the bowls. But ask someone who has suffered injustice – a woman abused for years, a church under persecution, a people devastated by war – and they will tell you: a God who never judged evil would not be good. Revelation 16 is comfort for those who suffer, not a weapon for threatening others.
 
 That is why we should not read this chapter about "other people", but about our own hearts. Pain can drive a person closer to God, or it can make you bitter and hard. Which happens to you when life is hard – prayer or bitterness? There is no shame in telling God that you are angry and hurt; the souls under the altar did that too. But there is a difference between crying out to God and cursing God.
 

@@ -36,7 +36,7 @@ Und doch ist Babylon mehr als Rom. In der großen Geschichte der Bibel beginnt s
 
 ## Für das Leben heute
 
-Der ehrlichste Vers des Kapitels ist vielleicht Vers 6: Johannes staunte sehr. Wenn sogar der Apostel von Babylon beeindruckt sein konnte, dann wir auch. Sie erscheint nicht als Ungeheuer, sondern als Königin in Purpur mit einem goldenen Becher. Sie flüstert nicht „verleugne deinen Glauben“, sondern „du hast Besseres verdient“ und „das machen doch alle“. Sie verspricht Sicherheit, Ansehen und Genuss.
+Für die Gemeinden in Asien war Babylon kein Rätsel: Sie saß auf sieben Hügeln, und ihr Reichtum kam jeden Tag durch ihre Häfen und Märkte. Die Versuchung war nicht, sie zu hassen, sondern sie zu bewundern. Das gilt auch für uns. Der ehrlichste Vers des Kapitels ist vielleicht Vers 6: Johannes staunte sehr. Wenn sogar der Apostel von Babylon beeindruckt sein konnte, dann wir auch. Sie erscheint nicht als Ungeheuer, sondern als Königin in Purpur mit einem goldenen Becher. Sie flüstert nicht „verleugne deinen Glauben“, sondern „du hast Besseres verdient“ und „das machen doch alle“. Sie verspricht Sicherheit, Ansehen und Genuss.
 
 Hier hilft das Muster von Hören und Sehen. Babylon klingt beeindruckend – viele Wasser, Könige, Reichtum. Aber wenn Gott dich im Geist hinschauen lässt, siehst du die Wüste, in der sie sitzt, und das Tier, auf dem sie reitet. Schau hinter den Glanz: Was kostet es, und wer bezahlt dafür? Die Frage des Engels – „Warum staunst du?“ – ist kein Tadel; er will dir die Augen öffnen.
 

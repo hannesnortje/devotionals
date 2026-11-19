@@ -33,3 +33,4 @@ Record every decision Hannes makes for this series (date, what, why). Later sess
 | 2026-11-19 | Days 17 and 22: futurist parentheses removed (Hannes does not hold the futurist view). Leader kit notes on other readings kept. |
 | 2026-11-19 | First-audience pass, batch 1 (days 16, 20, 21, 27, 28): background paragraphs on what the passage meant for the churches in Asia (16, 20, 28) and a "then → us" bridge opening each application (16, 20, 21, 27, 28). AF checked by Gemini ("bittersoet"). |
 | 2026-11-19 | First-audience pass, batch 2 (days 13, 14, 15, 17, 18): "then → us" bridge at the start of each application. AF checked by Gemini ("Syne" capitalised for God as elsewhere). |
+| 2026-11-19 | First-audience pass, batch 3 (days 22, 23, 25, 29): "then → us" bridge in the application. Days 19, 24, 26, 30, 31 already had it. All 31 days now say what the text meant for the first hearers and bridge to us. AF checked by Gemini. |

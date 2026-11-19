@@ -37,7 +37,7 @@ Dan verander die musiek van toon. Die lied oor die oordeel word 'n bruilofslied:
 
 ## Praktiese Toepassing
 
-Die kerk lyk nie altyd soos 'n bruid nie. Ons ken die skandale, die verdeeldheid, die moeë gemeentes waar elke jaar minder mense opdaag. Dit is maklik om sinies te word oor die kerk – of om haar stilletjies te verlaat. Openbaring 19 laat ons die kerk sien soos Christus haar sien: as sy bruid, vir wie Hy met sy bloed betaal het en vir wie Hy terugkom. As die Lam haar liefhet, mag ons haar nie minag nie.
+Die gelowiges in Asië was 'n klein, gewone, dikwels arm groepie – in stede waar Rome se rykdom en feesmaaltye oral te sien was. Vir hulle was dit byna ongelooflik om te hoor dat húlle die bruid is, aan die tafel van die Lam. Ook vandag lyk die kerk nie altyd soos 'n bruid nie. Ons ken die skandale, die verdeeldheid, die moeë gemeentes waar elke jaar minder mense opdaag. Dit is maklik om sinies te word oor die kerk – of om haar stilletjies te verlaat. Openbaring 19 laat ons die kerk sien soos Christus haar sien: as sy bruid, vir wie Hy met sy bloed betaal het en vir wie Hy terugkom. As die Lam haar liefhet, mag ons haar nie minag nie.
 
 Die kleed van die bruid gee ook troos vir jou eie gewone getrouheid. Die gebede wat niemand hoor nie, die besoek by die hospitaal, die eerlike antwoord by die werk, die geduld met 'n moeilike kind – dit verdwyn nie in die niet nie. Dit is drade in die *"fyn linne"*. Nie omdat jy daarmee jou plek aan die tafel verdien nie – die kleed is gegee – maar omdat God jou klein dade van liefde in die prag van sy bruid inweef.
 

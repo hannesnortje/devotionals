@@ -36,7 +36,7 @@ Tog is Babilon meer as Rome. In die Bybel se groot verhaal begin sy by Babel, wa
 
 ## Praktiese Toepassing
 
-Die eerlikste vers in die hoofstuk is miskien vers 6: Johannes het hom baie verwonder. As selfs die apostel deur Babilon beïndruk kon wees, dan ons ook. Sy verskyn nie as 'n monster nie, maar as 'n koningin in purper met 'n goue beker. Sy fluister nie "verloën jou geloof" nie, maar "jy verdien beter" en "almal doen dit". Sy belowe sekuriteit, aansien en genot.
+Vir die gemeentes in Asië was Babilon geen raaisel nie: sy het op sewe heuwels gesit, en haar rykdom het elke dag deur hulle hawens en markte gekom. Die versoeking was nie om haar te haat nie, maar om haar te bewonder. Dit geld ook vir ons. Die eerlikste vers in die hoofstuk is miskien vers 6: Johannes het hom baie verwonder. As selfs die apostel deur Babilon beïndruk kon wees, dan ons ook. Sy verskyn nie as 'n monster nie, maar as 'n koningin in purper met 'n goue beker. Sy fluister nie "verloën jou geloof" nie, maar "jy verdien beter" en "almal doen dit". Sy belowe sekuriteit, aansien en genot.
 
 Hier help die patroon van hoor en sien. Babilon klink indrukwekkend – baie waters, konings, rykdom. Maar wanneer God jou in die Gees laat kyk, sien jy die woestyn waarin sy sit en die dier waarop sy ry. Kyk agter die glans: wat kos dit, en wie betaal daarvoor? Die engel se vraag – *"Waarom verwonder jy jou?"* – is nie 'n berisping nie; hy wil jou oë oopmaak.
 

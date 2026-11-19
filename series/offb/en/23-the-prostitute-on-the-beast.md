@@ -36,7 +36,7 @@ Yet Babylon is more than Rome. In the great story of the Bible she begins at Bab
 
 ## Living It Out
 
-The most honest verse in the chapter may be verse 6: John was greatly amazed. If even the apostle could be impressed by Babylon, so can we. She does not appear as a monster but as a queen in purple with a golden cup. She does not whisper "deny your faith", but "you deserve better" and "everyone does it". She promises security, status and pleasure.
+For the churches in Asia, Babylon was no riddle: she sat on seven hills, and her wealth came through their harbours and markets every day. The temptation was not to hate her but to admire her. That holds for us too. The most honest verse in the chapter may be verse 6: John was greatly amazed. If even the apostle could be impressed by Babylon, so can we. She does not appear as a monster but as a queen in purple with a golden cup. She does not whisper "deny your faith", but "you deserve better" and "everyone does it". She promises security, status and pleasure.
 
 This is where the pattern of hearing and seeing helps. Babylon sounds impressive – many waters, kings, riches. But when God lets you look in the Spirit, you see the wilderness she sits in and the beast she rides. Look behind the glamour: what does it cost, and who pays for it? The angel's question – "Why are you amazed?" – is not a rebuke; he wants to open your eyes.
 
