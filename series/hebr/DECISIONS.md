@@ -18,3 +18,4 @@ Record every decision Hannes makes for this series (date, what, why). Later sess
 | 2026-11-16 | Day 9: Melchizedek introduced (Gen 14:18–20, king and priest, pointer to ch. 7 via 5:11); Gethsemane note: Christ's perfect obedience earned for us what we could not (Phil 2:8, Rom 5:19, Rom 1:16–17, obedience of faith Rom 1:5) – Hannes's emphasis; truth 5 rewritten. AF checked by Gemini; Hannes approved. |
 | 2026-11-16 | Day 9: end of Gethsemane note now "our older brother and forerunner (2:11; 6:20), who earned our inheritance for us" (Hannes's wording). |
 | 2026-11-17 | Day 9: 5:8–9 passage replaced with Hannes's Gemini-polished wording ("kernwaarhede", "gehoorsaamheidsweg … volle bestemming", "erfenis reeds vir ons oopgesluit"). |
+| 2026-11-19 | Day 12: word note on "high priest for ever according to the order of Melchizedek" (6:20; Ps 110:4; Levitical priests died; pointer to ch. 7 tomorrow). Hannes chose option B. |
