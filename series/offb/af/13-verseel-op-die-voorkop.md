@@ -36,7 +36,7 @@ En dan gebeur dieselfde as in hoofstuk 5. Johannes **hoor** 'n getal: *"honderd 
 
 ## Praktiese Toepassing
 
-"Wie kan staande bly?" vra ons wanneer die werk ons uitbrand, wanneer ons skuld ons inhaal, wanneer die dokter se woorde ons laat wankel. Openbaring 7 antwoord nie: die sterkes nie. Dit antwoord: dié wat aan God behoort. Hulle staan, nie omdat hulle nooit gestruikel het nie, maar omdat hulle klede in die bloed van die Lam gewas is.
+Vir die gemeentes in Asië, wat elke dag moes kies aan wie hulle behoort – die keiser of die Lam – was die seël op die voorkop 'n groot troos: God het hulle reeds as Syne gemerk, voordat die storm kom. Vir ons klink die vraag anders, maar dit bly dieselfde vraag. "Wie kan staande bly?" vra ons wanneer die werk ons uitbrand, wanneer ons skuld ons inhaal, wanneer die dokter se woorde ons laat wankel. Openbaring 7 antwoord nie: die sterkes nie. Dit antwoord: dié wat aan God behoort. Hulle staan, nie omdat hulle nooit gestruikel het nie, maar omdat hulle klede in die bloed van die Lam gewas is.
 
 Die wêreld sê elke dag vir ons wie ons is: suksesvol of 'n mislukking, gewild of oor die hoof gesien. Die eerste lesers het dit geken – lojaal aan die keiser of verdag. Maar God het iets op jou voorkop geskryf wat niemand kan uitvee nie. Dit bring ook 'n vraag, nie 'n dreigement nie: as die voorkop wys aan wie jy behoort, wat sien die mense om jou in wat jy dink en doen?
 

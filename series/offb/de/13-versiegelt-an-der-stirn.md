@@ -36,7 +36,7 @@ Und dann geschieht dasselbe wie in Kapitel 5. Johannes **hört** eine Zahl: „h
 
 ## Für das Leben heute
 
-„Wer kann bestehen?“, fragen wir, wenn die Arbeit uns ausbrennt, wenn unsere Schuld uns einholt, wenn die Worte des Arztes uns ins Wanken bringen. Offenbarung 7 antwortet nicht: die Starken. Sie antwortet: die, die Gott gehören. Sie stehen, nicht weil sie nie gestolpert wären, sondern weil ihre Gewänder im Blut des Lammes gewaschen sind.
+Für die Gemeinden in Asien, die jeden Tag wählen mussten, wem sie gehören – dem Kaiser oder dem Lamm –, war das Siegel auf der Stirn ein großer Trost: Gott hatte sie schon als die Seinen gezeichnet, bevor der Sturm kam. Für uns klingt die Frage anders, aber es bleibt dieselbe Frage. „Wer kann bestehen?“, fragen wir, wenn die Arbeit uns ausbrennt, wenn unsere Schuld uns einholt, wenn die Worte des Arztes uns ins Wanken bringen. Offenbarung 7 antwortet nicht: die Starken. Sie antwortet: die, die Gott gehören. Sie stehen, nicht weil sie nie gestolpert wären, sondern weil ihre Gewänder im Blut des Lammes gewaschen sind.
 
 Die Welt sagt uns jeden Tag, wer wir sind: erfolgreich oder gescheitert, beliebt oder übersehen. Die ersten Leser kannten das – kaisertreu oder verdächtig. Aber Gott hat dir etwas auf die Stirn geschrieben, das niemand auslöschen kann. Darin liegt auch eine Frage, keine Drohung: Wenn die Stirn zeigt, wem du gehörst – was sehen die Menschen um dich herum an dem, was du denkst und tust?
 

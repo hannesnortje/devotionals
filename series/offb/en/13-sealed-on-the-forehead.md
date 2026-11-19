@@ -36,7 +36,7 @@ And then the same thing happens as in chapter 5. John **hears** a number: "a hun
 
 ## Living It Out
 
-"Who can stand?" we ask when work burns us out, when our guilt catches up with us, when the doctor's words leave us shaken. Revelation 7 does not answer: the strong. It answers: those who belong to God. They stand, not because they have never stumbled, but because their robes have been washed in the blood of the Lamb.
+For the churches in Asia, who had to choose every day to whom they belonged – the emperor or the Lamb – the seal on the forehead was a great comfort: God had already marked them as his own before the storm came. For us the question sounds different, but it remains the same question. "Who can stand?" we ask when work burns us out, when our guilt catches up with us, when the doctor's words leave us shaken. Revelation 7 does not answer: the strong. It answers: those who belong to God. They stand, not because they have never stumbled, but because their robes have been washed in the blood of the Lamb.
 
 Every day the world tells us who we are: successful or a failure, popular or overlooked. The first readers knew this too – loyal to the emperor or suspect. But God has written something on your forehead that no one can wipe away. That also brings a question, not a threat: if the forehead shows whom you belong to, what do the people around you see in what you think and do?
 

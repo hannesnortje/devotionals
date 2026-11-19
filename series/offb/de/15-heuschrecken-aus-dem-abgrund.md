@@ -38,7 +38,7 @@ Und dann kommen die erschütterndsten Worte des Kapitels: „Und die übrigen Me
 
 ## Für das Leben heute
 
-Wir kennen alle die Versuchung zu denken, ein großer Schock werde die Menschen zur Umkehr bringen: „Wenn sie nur sehen, wie schlimm es steht, werden sie zu Gott zurückkehren.“ Aber Offenbarung 9 und unsere eigene Erfahrung sagen etwas anderes. Krisen kommen und gehen, und die meisten Menschen machen einfach weiter. Wir auch. Wie oft hat uns eine Krankheit, ein Unfall oder ein Verlust wachgerüttelt – und ein paar Wochen später war alles wieder beim Alten?
+Die Gemeinden in Asien sahen Erdbeben, Hunger und Krieg über ihre Städte kommen – und sahen, wie die Menschen dennoch bei den Tempeln und den Götzen blieben. Offenbarung 9 half ihnen, das zu verstehen, ohne den Mut zu verlieren. Wir kennen alle die Versuchung zu denken, ein großer Schock werde die Menschen zur Umkehr bringen: „Wenn sie nur sehen, wie schlimm es steht, werden sie zu Gott zurückkehren.“ Aber Offenbarung 9 und unsere eigene Erfahrung sagen etwas anderes. Krisen kommen und gehen, und die meisten Menschen machen einfach weiter. Wir auch. Wie oft hat uns eine Krankheit, ein Unfall oder ein Verlust wachgerüttelt – und ein paar Wochen später war alles wieder beim Alten?
 
 Die Frage betrifft also nicht nur „die Welt da draußen“. Was sind die Werke deiner Hände, auf die du vertraust? Heute sind es selten Bilder aus Stein und Holz, aber es kann deine Karriere sein, dein Erspartes, dein Ruf, das Handy in deiner Hand. Es kann weder sehen noch hören noch gehen, und doch halten wir daran fest, als hinge unser Leben davon ab. Und langsam werden wir ihm gleich: taub für Gott, blind für unseren Nächsten.
 

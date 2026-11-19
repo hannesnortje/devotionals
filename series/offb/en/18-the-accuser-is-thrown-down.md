@@ -36,7 +36,7 @@ Then the woman flees into the wilderness, "where she has a place prepared by God
 
 ## Living It Out
 
-Many believers know the accuser's voice well. It whispers in the night: You are a hypocrite. Look at what you said again. God gave up on you long ago. The accuser often uses the truth – we really have sinned – but he uses it to drive us away from God, not towards him. That is the difference between the conviction the Spirit works, which leads to the cross, and Satan's accusation, which ends in despair.
+Whoever in Smyrna or Pergamum was accused and brought before the authorities now knew: behind Rome's lawsuits stands the old accuser – and he has already been thrown out of heaven. The accusation that hurts us most today rarely comes from a court; it comes from within. Many believers know the accuser's voice well. It whispers in the night: You are a hypocrite. Look at what you said again. God gave up on you long ago. The accuser often uses the truth – we really have sinned – but he uses it to drive us away from God, not towards him. That is the difference between the conviction the Spirit works, which leads to the cross, and Satan's accusation, which ends in despair.
 
 Revelation 12 gives you the answer Joshua received in Zechariah 3. You do not have to conduct your own defence or polish your record. The accuser has been thrown down – not because you have become better, but by the blood of the Lamb. And the second weapon is "the word of their testimony": saying out loud what God has done.
 

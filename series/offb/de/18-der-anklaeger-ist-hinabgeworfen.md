@@ -36,7 +36,7 @@ Dann flieht die Frau in die Wüste, „wo sie einen Ort hat, von Gott bereitet�
 
 ## Für das Leben heute
 
-Viele Gläubige kennen die Stimme des Anklägers gut. Sie flüstert in der Nacht: Du bist ein Heuchler. Sieh dir an, was du schon wieder gesagt hast. Gott hat dich längst aufgegeben. Der Ankläger gebraucht oft die Wahrheit – wir haben wirklich gesündigt –, aber er gebraucht sie, um uns von Gott wegzutreiben, nicht zu ihm hin. Das ist der Unterschied zwischen dem Schuldbewusstsein, das der Geist wirkt und das zum Kreuz führt, und der Anklage des Satans, die in Verzweiflung endet.
+Wer in Smyrna oder Pergamon angeklagt und vor die Behörden gebracht wurde, wusste nun: Hinter Roms Prozessen steht der alte Ankläger – und er ist schon aus dem Himmel geworfen. Die Anklage, die uns heute am meisten verletzt, kommt selten von einem Gericht; sie kommt von innen. Viele Gläubige kennen die Stimme des Anklägers gut. Sie flüstert in der Nacht: Du bist ein Heuchler. Sieh dir an, was du schon wieder gesagt hast. Gott hat dich längst aufgegeben. Der Ankläger gebraucht oft die Wahrheit – wir haben wirklich gesündigt –, aber er gebraucht sie, um uns von Gott wegzutreiben, nicht zu ihm hin. Das ist der Unterschied zwischen dem Schuldbewusstsein, das der Geist wirkt und das zum Kreuz führt, und der Anklage des Satans, die in Verzweiflung endet.
 
 Offenbarung 12 gibt dir die Antwort, die Josua in Sacharja 3 bekam. Du musst dich nicht selbst verteidigen oder deine Bilanz aufpolieren. Der Ankläger ist hinabgeworfen – nicht weil du besser geworden bist, sondern durch das Blut des Lammes. Und die zweite Waffe ist „das Wort ihres Zeugnisses“: laut zu sagen, was Gott getan hat.
 

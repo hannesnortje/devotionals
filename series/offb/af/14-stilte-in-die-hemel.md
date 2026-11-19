@@ -39,7 +39,7 @@ Die trompette wat volg, klink soos die plae van Egipte – hael en vuur met bloe
 
 ## Praktiese Toepassing
 
-Baie van ons bid en hoor niks. Die kind bly ver weg, die diagnose verander nie, die onreg by die werk duur voort. Ons begin wonder of ons gebede bo die plafon uitkom. Openbaring 8 trek die gordyn oop en wys ons wat ons nie kan sien nie: die hemel word stil, 'n engel versorg ons gebede soos kosbare reukwerk, en hulle styg *"voor God"* op. Jou gebede is nie verlore nie.
+Vir die klein gemeentes in Asië, wie se stem in Rome niks getel het nie, was dit 'n verrassing: hulle gebede in huise en werkswinkels beweeg die hemel. Ons voel dikwels net so klein. Baie van ons bid en hoor niks. Die kind bly ver weg, die diagnose verander nie, die onreg by die werk duur voort. Ons begin wonder of ons gebede bo die plafon uitkom. Openbaring 8 trek die gordyn oop en wys ons wat ons nie kan sien nie: die hemel word stil, 'n engel versorg ons gebede soos kosbare reukwerk, en hulle styg *"voor God"* op. Jou gebede is nie verlore nie.
 
 Dit leer ons ook iets oor stilte. Ons lewens is vol geraas, en selfs ons gebede is dikwels net nog 'n stroom woorde. Maar as die hemel stil kan word om te luister, kan ons ook stil word voor God – nie om Hom te oortuig nie, maar om te onthou wie op die troon sit.
 

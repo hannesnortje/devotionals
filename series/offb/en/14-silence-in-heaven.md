@@ -39,7 +39,7 @@ The trumpets that follow sound like the plagues of Egypt – hail and fire mixed
 
 ## Living It Out
 
-Many of us pray and hear nothing. The child stays far away, the diagnosis does not change, the injustice at work goes on. We begin to wonder whether our prayers get past the ceiling. Revelation 8 pulls back the curtain and shows us what we cannot see: heaven falls silent, an angel tends our prayers like precious incense, and they rise "before God". Your prayers are not lost.
+For the small churches in Asia, whose voice counted for nothing in Rome, this was a surprise: their prayers in houses and workshops move heaven. We often feel just as small. Many of us pray and hear nothing. The child stays far away, the diagnosis does not change, the injustice at work goes on. We begin to wonder whether our prayers get past the ceiling. Revelation 8 pulls back the curtain and shows us what we cannot see: heaven falls silent, an angel tends our prayers like precious incense, and they rise "before God". Your prayers are not lost.
 
 This also teaches us something about silence. Our lives are full of noise, and even our prayers are often just one more stream of words. But if heaven can fall silent to listen, we too can become still before God – not to persuade him, but to remember who sits on the throne.
 

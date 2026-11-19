@@ -39,7 +39,7 @@ Die Trompeten, die nun folgen, klingen wie die Plagen Ägyptens – Hagel und Fe
 
 ## Für das Leben heute
 
-Viele von uns beten und hören nichts. Das Kind bleibt fern, die Diagnose ändert sich nicht, das Unrecht am Arbeitsplatz geht weiter. Wir fragen uns, ob unsere Gebete über die Zimmerdecke hinauskommen. Offenbarung 8 zieht den Vorhang zurück und zeigt uns, was wir nicht sehen können: Der Himmel wird still, ein Engel pflegt unsere Gebete wie kostbares Räucherwerk, und sie steigen „vor Gott“ auf. Deine Gebete sind nicht verloren.
+Für die kleinen Gemeinden in Asien, deren Stimme in Rom nichts zählte, war das eine Überraschung: Ihre Gebete in Häusern und Werkstätten bewegen den Himmel. Wir fühlen uns oft genauso klein. Viele von uns beten und hören nichts. Das Kind bleibt fern, die Diagnose ändert sich nicht, das Unrecht am Arbeitsplatz geht weiter. Wir fragen uns, ob unsere Gebete über die Zimmerdecke hinauskommen. Offenbarung 8 zieht den Vorhang zurück und zeigt uns, was wir nicht sehen können: Der Himmel wird still, ein Engel pflegt unsere Gebete wie kostbares Räucherwerk, und sie steigen „vor Gott“ auf. Deine Gebete sind nicht verloren.
 
 Das lehrt uns auch etwas über Stille. Unser Leben ist voller Lärm, und selbst unsere Gebete sind oft nur ein weiterer Strom von Worten. Aber wenn der Himmel still werden kann, um zuzuhören, können auch wir vor Gott still werden – nicht um ihn zu überzeugen, sondern um uns daran zu erinnern, wer auf dem Thron sitzt.
 

@@ -38,7 +38,7 @@ And then come the most shocking words of the chapter: "And the rest of humankind
 
 ## Living It Out
 
-We all know the temptation to think that a great shock will make people turn round: "If only they see how bad things are, they will come back to God." But Revelation 9 and our own experience say otherwise. Crises come and go, and most people simply carry on. So do we. How often has an illness, an accident or a loss shaken us awake – and a few weeks later everything was back as it was?
+The churches in Asia saw earthquakes, famine and war come over their cities – and saw how people still stayed with the temples and the idols. Revelation 9 helped them to understand this without losing heart. We all know the temptation to think that a great shock will make people turn round: "If only they see how bad things are, they will come back to God." But Revelation 9 and our own experience say otherwise. Crises come and go, and most people simply carry on. So do we. How often has an illness, an accident or a loss shaken us awake – and a few weeks later everything was back as it was?
 
 So the question is not only about "the world out there". What are the works of your hands that you trust in? Today they are seldom images of stone and wood, but it may be your career, your savings, your reputation, the phone in your hand. It can neither see nor hear nor walk, and yet we cling to it as though our life depended on it. And slowly we become like it: deaf to God, blind to our neighbour.
 

@@ -36,7 +36,7 @@ Wie is die twee getuies? Johannes gee self die sleutel: *"Dit is die twee olyfbo
 
 ## Praktiese Toepassing
 
-Baie gelowiges voel soos die voorhof wat nie gemeet word nie: aan die buitekant, vertrap, oor die hoof gesien. By die werk weeg jy dalk elke woord voordat jy oor jou geloof praat; op skool word jou kind dalk uitgelag omdat sy voor ete bid. Openbaring 11 belowe nie dat dit nie sal gebeur nie. Dit belowe iets dieper: die binneste is gemeet. Niemand kan jou plek by die altaar van jou wegneem nie.
+Die eerste lesers het geweet hoe dit is om vertrap te word: Jerusalem is deur Rome verwoes, en self is hulle in hul stede uitgesluit. Tog laat Johannes hulle twee getuies sien – 'n kerk wat nie stilgemaak kan word nie. Vandag lyk die voorhof anders, maar die gevoel is bekend. Baie gelowiges voel soos die voorhof wat nie gemeet word nie: aan die buitekant, vertrap, oor die hoof gesien. By die werk weeg jy dalk elke woord voordat jy oor jou geloof praat; op skool word jou kind dalk uitgelag omdat sy voor ete bid. Openbaring 11 belowe nie dat dit nie sal gebeur nie. Dit belowe iets dieper: die binneste is gemeet. Niemand kan jou plek by die altaar van jou wegneem nie.
 
 Die twee getuies leer ons ook dat getuienis nie oor sukses gaan nie. Hulle profeteer jare lank – en dan lyk dit of alles verniet was, en die wêreld stuur vir mekaar geskenke. Dit is die ervaring van baie getroue mense: die predikant wie se gemeente krimp, die ouers wat al jare vir 'n kind bid, die kollega wat die enigste is wat nie met oneerlikheid saamspeel nie. Maar die laaste woord is nie die fees op die straat nie. Dit is die stem uit die hemel: *"Kom hier op!"*
 

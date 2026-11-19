@@ -36,7 +36,7 @@ Who are the two witnesses? John gives the key himself: "These are the two olive 
 
 ## Living It Out
 
-Many believers feel like the outer court that is not measured: outside, trampled, overlooked. At work you may weigh every word before you speak about your faith; at school your child may be laughed at for praying before lunch. Revelation 11 does not promise that this will not happen. It promises something deeper: the inner part has been measured. No one can take your place at the altar from you.
+The first readers knew what it is to be trampled: Jerusalem had been destroyed by Rome, and they themselves were shut out in their cities. Yet John lets them see two witnesses – a church that cannot be silenced. Today the outer court looks different, but the feeling is familiar. Many believers feel like the outer court that is not measured: outside, trampled, overlooked. At work you may weigh every word before you speak about your faith; at school your child may be laughed at for praying before lunch. Revelation 11 does not promise that this will not happen. It promises something deeper: the inner part has been measured. No one can take your place at the altar from you.
 
 The two witnesses also teach us that witness is not about success. They prophesy for years – and then it looks as if it was all for nothing, and the world sends gifts to one another. That is the experience of many faithful people: the minister whose congregation is shrinking, the parents who have prayed for a child for years, the colleague who is the only one not going along with dishonesty. But the last word is not the party in the street. It is the voice from heaven: "Come up here!"
 

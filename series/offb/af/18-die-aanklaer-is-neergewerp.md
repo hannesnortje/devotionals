@@ -36,7 +36,7 @@ Dan vlug die vrou na die woestyn, *"waar sy 'n plek het wat deur God voorberei i
 
 ## Praktiese Toepassing
 
-Baie gelowiges ken die aanklaer se stem goed. Dit fluister in die nag: Jy is 'n huigelaar. Kyk wat jy weer gesê het. God het lankal moed opgegee met jou. Die aanklaer gebruik dikwels die waarheid – ons het werklik gesondig – maar hy gebruik dit om ons van God weg te dryf, nie na Hom toe nie. Dit is die verskil tussen die skuldgevoel wat die Gees werk, wat na die kruis lei, en die aanklag van die Satan, wat in wanhoop eindig.
+Wie in Smirna of Pergamum aangekla en voor die owerhede gebring is, het nou geweet: agter Rome se hofsake staan die ou aanklaer – en hy is reeds uit die hemel gewerp. Die aanklag wat ons vandag die meeste seermaak, kom selde van 'n hof; dit kom van binne. Baie gelowiges ken die aanklaer se stem goed. Dit fluister in die nag: Jy is 'n huigelaar. Kyk wat jy weer gesê het. God het lankal moed opgegee met jou. Die aanklaer gebruik dikwels die waarheid – ons het werklik gesondig – maar hy gebruik dit om ons van God weg te dryf, nie na Hom toe nie. Dit is die verskil tussen die skuldgevoel wat die Gees werk, wat na die kruis lei, en die aanklag van die Satan, wat in wanhoop eindig.
 
 Openbaring 12 gee vir jou die antwoord wat Josua in Sagaria 3 gekry het. Jy hoef nie jou eie verdediging te voer of jou rekord skoon te poets nie. Die aanklaer is neergewerp – nie omdat jy beter geword het nie, maar deur die bloed van die Lam. En die tweede wapen is *"die woord van hulle getuienis"*: om hardop te sê wat God gedoen het.
 

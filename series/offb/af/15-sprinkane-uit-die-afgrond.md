@@ -38,7 +38,7 @@ En dan kom die skokkendste woorde van die hoofstuk: *"En die res van die mense, 
 
 ## Praktiese Toepassing
 
-Ons ken almal die versoeking om te dink dat 'n groot skok mense sal laat omdraai: "As hulle net sien hoe sleg dit gaan, sal hulle na God terugkeer." Maar Openbaring 9 en ons eie ervaring sê iets anders. Krisisse kom en gaan, en die meeste mense gaan net voort. Ons ook. Hoeveel keer het 'n siekte, 'n ongeluk of 'n verlies ons wakker geskud – en 'n paar weke later was alles weer by die oue?
+Die gemeentes in Asië het aardbewings, hongersnood en oorlog oor hulle stede sien kom – en gesien hoe die mense tog by die tempels en die afgode bly. Openbaring 9 het hulle gehelp om dit te verstaan sonder om moed te verloor. Ons ken almal die versoeking om te dink dat 'n groot skok mense sal laat omdraai: "As hulle net sien hoe sleg dit gaan, sal hulle na God terugkeer." Maar Openbaring 9 en ons eie ervaring sê iets anders. Krisisse kom en gaan, en die meeste mense gaan net voort. Ons ook. Hoeveel keer het 'n siekte, 'n ongeluk of 'n verlies ons wakker geskud – en 'n paar weke later was alles weer by die oue?
 
 Die vraag is dus nie net oor "die wêreld daar buite" nie. Wat is die werke van jou hande waarop jy vertrou? Vandag is dit selde beelde van klip en hout, maar dit kan jou loopbaan wees, jou spaargeld, jou reputasie, die foon in jou hand. Dit kan nie sien of hoor of loop nie, en tog hou ons daaraan vas asof ons lewe daarvan afhang. En stadig word ons soos hulle: doof vir God, blind vir ons naaste.
 
