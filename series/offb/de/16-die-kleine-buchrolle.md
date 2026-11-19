@@ -19,6 +19,8 @@ Danach hebt der Engel seine rechte Hand und schwört „bei dem, der in alle Ewi
 
 Und dann muss Johannes selbst die Buchrolle nehmen und essen. Hesekiel hat dasselbe erlebt. Im Exil gab Gott ihm eine Buchrolle, auf beiden Seiten beschrieben mit Klageliedern und Wehklagen, und sagte: Iss diese Rolle. Sie war in seinem Mund süß wie Honig – aber danach ging er bitter in der Erregung seines Geistes davon (Hesekiel 2,8–3,3.14). Auch Jeremia kannte das: Gottes Worte waren ihm eine Freude (Jeremia 15,16), und doch brachte ihm dasselbe Wort Verfolgung ein.
 
+Für die Gemeinden in Asien war das eine bittersüße Berufung. Das Wort, das sie empfangen hatten, war süß: Das Lamm hat gesiegt, und sie gehören ihm. Aber es in Ephesus oder Pergamon laut auszusprechen, war bitter: Es kostete sie ihren Platz in den Zünften, ihren guten Ruf und manchmal ihr Leben, wie bei Antipas (2,13). Philadelphia hatte wenig Kraft, aber eine offene Tür empfangen (3,8). Der Auftrag an Johannes, *„Du musst wieder prophezeien“*, war auch ihr Auftrag.
+
 ### Einsichten aus dem Griechischen
 
 - **Eine kleine Buchrolle, geöffnet (*biblaridion ēneōgmenon* – βιβλαρίδιον ἠνεῳγμένον, V. 2):** Dieselbe Verbform wie bei der Tür im Himmel, die *geöffnet steht* (4,1). Viele Ausleger meinen, es sei die Buchrolle aus Kapitel 5, die das Lamm inzwischen geöffnet hat und die nun Johannes gegeben wird; andere sehen eine kleinere, eigene Botschaft. Wie auch immer: Sie ist offen, und sie ist für ihn bestimmt.
@@ -39,7 +41,7 @@ Und dann muss Johannes selbst die Buchrolle nehmen und essen. Hesekiel hat dasse
 
 ## Für das Leben heute
 
-Viele von uns lesen die Bibel wie jemand, der am Buffet probiert: hier ein Vers, dort ein tröstlicher Gedanke. Das ist nicht falsch, aber Johannes wird aufgefordert, die Buchrolle *aufzuessen*. Gottes Wort will in uns hineingehen, unser Denken formen und ein Teil von uns werden – und das braucht Zeit, Wiederholung und Stille.
+Den ersten Lesern sagte dieses Kapitel: Gottes Antwort auf eine Welt, die nicht umkehren will, ist euer Zeugnis – und es wird süß und bitter sein. Dieselbe Berufung liegt auf uns. Viele von uns lesen die Bibel wie jemand, der am Buffet probiert: hier ein Vers, dort ein tröstlicher Gedanke. Das ist nicht falsch, aber Johannes wird aufgefordert, die Buchrolle *aufzuessen*. Gottes Wort will in uns hineingehen, unser Denken formen und ein Teil von uns werden – und das braucht Zeit, Wiederholung und Stille.
 
 Wenn das geschieht, wirst du beides schmecken, die Süße und die Bitterkeit. Die Süße: die Zusage, dass du dich nicht fürchten musst (1,17), die Vergebung des Lammes. Die Bitterkeit: das Wort, das sagt, du sollst dem vergeben, der dich verletzt hat; die Wahrheit, die du am Arbeitsplatz oder in deiner Familie aussprechen musst und die dich etwas kosten kann. Wenn die Bibel für dich nur süß ist, liest du vielleicht nur die Hälfte. Wenn sie nur bitter ist, hast du das Lamm vergessen.
 

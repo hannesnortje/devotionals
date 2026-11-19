@@ -15,6 +15,8 @@ Die Bybel se eerste sin sê dat God in die begin die hemel en die aarde geskep h
 
 En die see? In die Ou Testament is die see dikwels die beeld van chaos en bedreiging; uit die see het Daniël se diere opgekom (Daniël 7:3), en in Openbaring die dier van hoofstuk 13. En die see was Babilon se handelsroete: toe sy geval het, het die seemanne op 'n afstand gestaan en gehuil, want op die see het die rykdom van die wêreld na Rome gevaar (18:17–19). In die nuwe skepping is daar geen chaos meer nie, geen skeiding nie – en geen mark wat alles koop en verkoop nie.
 
+Dink aan die eerste lesers. In die gemeentes van Asië was daar slawe wat nooit vry sou word nie, weduwees en armes, en families wat broers en susters aan die vervolging verloor het. Aan Smirna is gesê: *"Wees getrou tot die dood toe"* (2:10). Vir hulle was die belofte *"en die dood sal daar nie meer wees nie"* geen mooi idee nie, maar die einde van alles wat hulle elke dag gedra het.
+
 Dan kom die hart van die visioen. *"Kyk, die tent van God is by die mense, en Hy sal sy tent by hulle span."* Dit is die taal van die uittog. In die woestyn het God vir Moses gesê om vir Hom 'n heiligdom te maak, sodat Hy in hulle midde kan woon (Eksodus 25:8), en sy heerlikheid het die tent gevul (Eksodus 40:34). Die uittog uit Egipte was nooit net 'n ontvlugting nie; dit het gelei na die beloofde land en na 'n God wat by sy volk woon. So is dit ook met die nuwe uittog van Openbaring. Toe Babilon geval het, het die stem uit die hemel geroep: *"Gaan uit haar uit, my volk"* (18:4). Dit is 'n uittog uit Babilon, nie uit die skepping nie. Die doel is nie dat ons na 'n hemel ver weg ontsnap nie, maar dat God neerdaal en by ons kom woon.
 
 ### Insigte uit die Grieks
@@ -37,7 +39,7 @@ Dan kom die hart van die visioen. *"Kyk, die tent van God is by die mense, en Hy
 
 ## Praktiese Toepassing
 
-Sommige trane word nie in hierdie lewe afgevee nie. Die kind wat nooit gebore is nie, die huwelik wat gebreek het, die geliefde wat aan kanker gesterf het, die liggaam wat nie meer wil nie. Openbaring 21 gee nie 'n verklaring vir elke traan nie. Dit gee iets beters: 'n belofte dat God self elkeen sal afvee – nie 'n engel nie, God self.
+Vir die eerste lesers was hierdie belofte nie net 'n troosgedagte by 'n begrafnis nie, maar die krag om getrou te bly. Vir ons is dit nie anders nie. Sommige trane word nie in hierdie lewe afgevee nie. Die kind wat nooit gebore is nie, die huwelik wat gebreek het, die geliefde wat aan kanker gesterf het, die liggaam wat nie meer wil nie. Openbaring 21 gee nie 'n verklaring vir elke traan nie. Dit gee iets beters: 'n belofte dat God self elkeen sal afvee – nie 'n engel nie, God self.
 
 Hierdie visioen help ons ook om eerlik te kyk na waarin ons belê. Ons tyd, ons geld en ons drome gaan dikwels na dinge wat saam met die eerste aarde verbygaan. Die skepping is nie sleg nie – God maak dit juis nuut – maar ons hart moet nie aan Babilon se weelde vaskleef nie. Wie weet dat die nuwe skepping kom, kan vandag met oop hande leef.
 

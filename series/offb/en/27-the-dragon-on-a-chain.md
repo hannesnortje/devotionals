@@ -37,7 +37,7 @@ The first readers knew of brothers and sisters who had been "beheaded because of
 
 ## Living It Out
 
-It does not always feel as though Satan is bound. We see war, persecution and broken families, and our own struggle with sin. Revelation 20 does not deny this. But it shows us what the news does not: the gospel is still going out. People in countries where the church was unknown for centuries pray to Jesus today in their own language. The chain holds.
+For the churches in Asia it did not look as though Satan was bound: Antipas had been killed, Smyrna had been told of prison, and the emperor's temples stood everywhere. Yet it was through their small churches that the gospel went out – from Ephesus the whole province of Asia heard the word (Acts 19:10). For us too it does not always feel as though Satan is bound. We see war, persecution and broken families, and our own struggle with sin. Revelation 20 does not deny this. But it shows us what the news does not: the gospel is still going out. People in countries where the church was unknown for centuries pray to Jesus today in their own language. The chain holds.
 
 For anyone grieving a loved one who died in faith, this chapter is a gentle comfort. They are not gone. John sees them living and reigning with Christ. The second death has no authority over them – nor over you, if you belong to him.
 

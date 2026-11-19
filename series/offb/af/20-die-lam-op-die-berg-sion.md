@@ -15,6 +15,8 @@ Sion was die berg van Jerusalem, die plek waar God sy koning aangestel het (Psal
 
 Saam met die Lam staan *"honderd vier-en-veertigduisend wat sy naam en die naam van sy Vader op hulle voorkoppe geskryf gehad het."* Ons het hulle in hoofstuk 7 leer ken: die hele volk van God, verseël voordat die storm kom. Hier kry die seël sy inhoud. Dit is 'n naam. In Israel het die hoëpriester 'n goue plaat op sy voorkop gedra met die woorde "Heilig aan die HERE" (Eksodus 28:36–38). Nou dra die hele volk die Naam, as 'n koninkryk van priesters. En in die laaste hoofstuk van die Bybel sal dit weer klink: *"sy naam sal op hulle voorkoppe wees"* (22:4).
 
+Vir die gemeentes in Asië was hierdie toneel die antwoord op 'n eensame vraag. In Pergamum het hulle gewoon *"waar die troon van die Satan is"* (2:13), en in Tiatira het werk en brood afgehang van die gildes en hulle feesmaaltye. Wie nie gebuig het nie, het dikwels alleen gevoel. Maar Johannes tel hulle: honderd vier-en-veertigduisend – 'n volle volk, nie 'n handjievol nie. Hulle is nie 'n klein minderheid aan die rand van Rome se wêreld nie, maar die volk wat by die Koning staan.
+
 Die res van die hoofstuk is 'n voorskou van alles wat nog kom – die ewige evangelie, die val van Babilon, die twee oeste – en dit begin by die Lam en sy volk.
 
 ### Insigte uit die Grieks
@@ -36,7 +38,7 @@ Die res van die hoofstuk is 'n voorskou van alles wat nog kom – die ewige evan
 
 ## Praktiese Toepassing
 
-Ons lewe in 'n tyd van etikette. Jou werk, jou inkomste, jou voorkoms en jou getal volgers sê vir die wêreld wie jy is. Baie van ons dra daardie etikette swaar, asof hulle op ons voorkoppe geskryf is. Openbaring 14 sê: daar is 'n ander naam wat oor jou geskryf is, en dit is nie jou prestasie of jou mislukking nie. Dit is die Naam van die Vader en van die Lam.
+Vir die gelowiges in Pergamum en Tiatira was die vraag: aan wie behoort ek – en is ek alleen? Ons vra dieselfde, net in ander klere. Ons lewe in 'n tyd van etikette. Jou werk, jou inkomste, jou voorkoms en jou getal volgers sê vir die wêreld wie jy is. Baie van ons dra daardie etikette swaar, asof hulle op ons voorkoppe geskryf is. Openbaring 14 sê: daar is 'n ander naam wat oor jou geskryf is, en dit is nie jou prestasie of jou mislukking nie. Dit is die Naam van die Vader en van die Lam.
 
 Om daardie Naam te dra, is eerstens 'n troos. Op die dae wanneer jy voel dat die dier sterker is en dat jou geloof klein is, staan jy steeds saam met die Lam op Sion. Dit is nie jy wat jouself daar hou nie. Hy het jou gekoop.
 

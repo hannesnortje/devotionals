@@ -36,7 +36,7 @@ Dann, in Vers 5, wird „der Tempel des Zeltes des Zeugnisses im Himmel“ geöf
 
 ## Für das Leben heute
 
-Es gibt Zeiten, in denen das Singen leichtfällt, und Zeiten, in denen du die Worte kaum über die Lippen bringst. Vielleicht stehst du noch nicht am Ufer, sondern mitten im Meer: eine Diagnose, die sich nicht ändert, eine Ehe, die schwer geworden ist, ein Arbeitsplatz, an dem Treue dich etwas kostet. Offenbarung 15 verlangt nicht, dass du so tust, als wäre alles gut; es zeigt dir, wo die Geschichte endet: bei einem Volk, das am Meer steht und singt.
+Die ersten Leser hörten dieses Lied, während sie selbst noch mitten im Meer waren: Der Druck auf dem Marktplatz war nicht vorbei, und manche Brüder und Schwestern waren schon tot. Doch Johannes lässt sie schon jetzt das Lied vom anderen Ufer hören. Das gilt auch für uns. Es gibt Zeiten, in denen das Singen leichtfällt, und Zeiten, in denen du die Worte kaum über die Lippen bringst. Vielleicht stehst du noch nicht am Ufer, sondern mitten im Meer: eine Diagnose, die sich nicht ändert, eine Ehe, die schwer geworden ist, ein Arbeitsplatz, an dem Treue dich etwas kostet. Offenbarung 15 verlangt nicht, dass du so tust, als wäre alles gut; es zeigt dir, wo die Geschichte endet: bei einem Volk, das am Meer steht und singt.
 
 Darum ist das Lied der Kirche nicht nur Ausdruck dessen, wie wir uns fühlen. Es ist eine Tat des Glaubens. Wenn eine kleine Gemeinde an einem gewöhnlichen Sonntag singt, übt sie schon das Lied am Ufer ein. Jedes Mal, wenn wir singen: „gerecht und wahrhaftig sind deine Wege“, sagen wir etwas, das wir noch nicht immer sehen können, das Gott aber schon weiß.
 

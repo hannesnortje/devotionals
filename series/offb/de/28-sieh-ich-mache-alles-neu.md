@@ -15,6 +15,8 @@ Der erste Satz der Bibel sagt, dass Gott im Anfang den Himmel und die Erde schuf
 
 Und das Meer? Im Alten Testament ist das Meer oft das Bild für Chaos und Bedrohung; aus dem Meer stiegen Daniels Tiere herauf (Daniel 7,3) und in der Offenbarung das Tier von Kapitel 13. Und das Meer war Babylons Handelsweg: Als es fiel, standen die Seeleute von fern und weinten, denn über das Meer fuhr der Reichtum der Welt nach Rom (18,17–19). In der neuen Schöpfung gibt es kein Chaos mehr, keine Trennung – und keinen Markt, der alles kauft und verkauft.
 
+Denk an die ersten Leser. In den Gemeinden Asiens gab es Sklaven, die nie frei werden würden, Witwen und Arme, und Familien, die Brüder und Schwestern in der Verfolgung verloren hatten. Smyrna wurde gesagt: *„Sei treu bis zum Tod“* (2,10). Für sie war die Verheißung *„und der Tod wird nicht mehr sein“* keine schöne Idee, sondern das Ende von allem, was sie Tag für Tag trugen.
+
 Dann kommt das Herz der Vision. „Sieh, das Zelt Gottes ist bei den Menschen, und er wird sein Zelt bei ihnen aufschlagen.“ Das ist die Sprache des Auszugs. In der Wüste sagte Gott zu Mose, er solle ihm ein Heiligtum machen, damit er in ihrer Mitte wohne (2. Mose 25,8), und seine Herrlichkeit erfüllte das Zelt (2. Mose 40,34). Der Auszug aus Ägypten war nie nur eine Flucht; er führte ins verheißene Land und zu einem Gott, der bei seinem Volk wohnt. So ist es auch mit dem neuen Auszug der Offenbarung. Als Babylon fiel, rief die Stimme vom Himmel: „Geht hinaus aus ihr, mein Volk“ (18,4). Das ist ein Auszug aus Babylon, nicht aus der Schöpfung. Das Ziel ist nicht, dass wir in einen fernen Himmel entfliehen, sondern dass Gott herabkommt und bei uns wohnt.
 
 ### Einsichten aus dem Griechischen
@@ -37,7 +39,7 @@ Dann kommt das Herz der Vision. „Sieh, das Zelt Gottes ist bei den Menschen, u
 
 ## Für das Leben heute
 
-Manche Tränen werden in diesem Leben nicht abgewischt. Das Kind, das nie geboren wurde, die Ehe, die zerbrochen ist, der geliebte Mensch, der an Krebs gestorben ist, der Körper, der nicht mehr will. Offenbarung 21 gibt nicht für jede Träne eine Erklärung. Es gibt etwas Besseres: die Verheißung, dass Gott selbst jede einzelne abwischen wird – nicht ein Engel, Gott selbst.
+Für die ersten Leser war diese Verheißung nicht nur ein Trostgedanke am Grab, sondern die Kraft, treu zu bleiben. Für uns ist es nicht anders. Manche Tränen werden in diesem Leben nicht abgewischt. Das Kind, das nie geboren wurde, die Ehe, die zerbrochen ist, der geliebte Mensch, der an Krebs gestorben ist, der Körper, der nicht mehr will. Offenbarung 21 gibt nicht für jede Träne eine Erklärung. Es gibt etwas Besseres: die Verheißung, dass Gott selbst jede einzelne abwischen wird – nicht ein Engel, Gott selbst.
 
 Diese Vision hilft uns auch, ehrlich anzusehen, worin wir investieren. Unsere Zeit, unser Geld und unsere Träume gehen oft in Dinge, die mit der ersten Erde vergehen. Die Schöpfung ist nicht schlecht – Gott macht sie ja neu –, aber unser Herz soll nicht an Babylons Luxus hängen. Wer weiß, dass die neue Schöpfung kommt, kann heute mit offenen Händen leben.
 

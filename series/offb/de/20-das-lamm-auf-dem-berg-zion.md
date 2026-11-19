@@ -15,6 +15,8 @@ Zion war der Berg Jerusalems, der Ort, an dem Gott seinen König eingesetzt hat 
 
 Mit dem Lamm stehen „hundertvierundvierzigtausend, die seinen Namen und den Namen seines Vaters an ihren Stirnen geschrieben hatten.“ Wir haben sie in Kapitel 7 kennengelernt: das ganze Volk Gottes, versiegelt, bevor der Sturm kommt. Hier bekommt das Siegel seinen Inhalt. Es ist ein Name. In Israel trug der Hohepriester ein goldenes Stirnblatt mit den Worten „Heilig dem HERRN“ (2. Mose 28,36–38). Nun trägt das ganze Volk den Namen, als ein Königreich von Priestern. Und im letzten Kapitel der Bibel klingt es noch einmal: „sein Name wird an ihren Stirnen sein“ (22,4).
 
+Für die Gemeinden in Asien war diese Szene die Antwort auf eine einsame Frage. In Pergamon wohnten sie, *„wo der Thron des Satans ist“* (2,13), und in Thyatira hingen Arbeit und Brot von den Zünften und ihren Festmählern ab. Wer sich nicht beugte, fühlte sich oft allein. Aber Johannes zählt sie: hundertvierundvierzigtausend – ein vollständiges Volk, keine Handvoll. Sie sind keine kleine Minderheit am Rand von Roms Welt, sondern das Volk, das beim König steht.
+
 Der Rest des Kapitels ist eine Vorschau auf alles, was noch kommt – das ewige Evangelium, der Fall Babylons, die zwei Ernten –, und sie beginnt beim Lamm und seinem Volk.
 
 ### Einsichten aus dem Griechischen
@@ -36,7 +38,7 @@ Der Rest des Kapitels ist eine Vorschau auf alles, was noch kommt – das ewige 
 
 ## Für das Leben heute
 
-Wir leben in einer Zeit der Etiketten. Deine Arbeit, dein Einkommen, dein Aussehen und die Zahl deiner Follower sagen der Welt, wer du bist. Viele von uns tragen schwer an diesen Etiketten, als stünden sie auf unserer Stirn geschrieben. Offenbarung 14 sagt: Über dich ist ein anderer Name geschrieben, und das ist weder deine Leistung noch dein Versagen. Es ist der Name des Vaters und des Lammes.
+Für die Gläubigen in Pergamon und Thyatira lautete die Frage: Wem gehöre ich – und bin ich allein? Wir fragen dasselbe, nur in anderen Kleidern. Wir leben in einer Zeit der Etiketten. Deine Arbeit, dein Einkommen, dein Aussehen und die Zahl deiner Follower sagen der Welt, wer du bist. Viele von uns tragen schwer an diesen Etiketten, als stünden sie auf unserer Stirn geschrieben. Offenbarung 14 sagt: Über dich ist ein anderer Name geschrieben, und das ist weder deine Leistung noch dein Versagen. Es ist der Name des Vaters und des Lammes.
 
 Diesen Namen zu tragen ist zuerst ein Trost. An den Tagen, an denen du das Gefühl hast, das Tier sei stärker und dein Glaube klein, stehst du trotzdem mit dem Lamm auf dem Zion. Nicht du hältst dich dort. Er hat dich erkauft.
 

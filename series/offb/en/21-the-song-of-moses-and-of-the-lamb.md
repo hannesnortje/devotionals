@@ -36,7 +36,7 @@ Then, in verse 5, "the temple of the tent of witness in heaven was opened". This
 
 ## Living It Out
 
-There are times when singing comes easily, and times when you can hardly get the words out. Perhaps you are not yet standing on the shore but in the middle of the sea: a diagnosis that does not change, a marriage that has become hard, a workplace where faithfulness costs you something. Revelation 15 does not ask you to pretend that all is well; it shows you where the story ends: with a people standing beside the sea and singing.
+The first readers heard this song while they themselves were still in the middle of the sea: the pressure of the marketplace was not over, and some brothers and sisters were already dead. Yet John lets them hear the song from the far shore already now. That holds for us too. There are times when singing comes easily, and times when you can hardly get the words out. Perhaps you are not yet standing on the shore but in the middle of the sea: a diagnosis that does not change, a marriage that has become hard, a workplace where faithfulness costs you something. Revelation 15 does not ask you to pretend that all is well; it shows you where the story ends: with a people standing beside the sea and singing.
 
 That is why the church's song is not merely an expression of how we feel. It is an act of faith. When a small congregation sings on an ordinary Sunday, it is already rehearsing the song of the shore. Every time we sing "just and true are your ways", we say something we cannot always see yet, but which God already knows.
 

@@ -36,7 +36,7 @@ Dan, in vers 5, gaan *"die tempel van die tent van die getuienis in die hemel"* 
 
 ## Praktiese Toepassing
 
-Daar is tye wanneer dit maklik is om te sing, en tye wanneer jy die woorde skaars oor jou lippe kry. Miskien staan jy nog nie aan die oewer nie, maar midde-in die see: 'n diagnose wat nie verander nie, 'n huwelik wat swaar gaan, 'n werkplek waar getrouheid jou iets kos. Openbaring 15 vra nie dat jy maak asof alles reg is nie; dit wys jou waar die verhaal eindig: by 'n volk wat langs die see staan en sing.
+Die eerste lesers het hierdie lied gehoor terwyl hulle self nog midde-in die see was: die druk van die markplein was nie verby nie, en sommige broers en susters was reeds dood. Tog laat Johannes hulle nou al die lied van die oorkant hoor. Dit geld ook vir ons. Daar is tye wanneer dit maklik is om te sing, en tye wanneer jy die woorde skaars oor jou lippe kry. Miskien staan jy nog nie aan die oewer nie, maar midde-in die see: 'n diagnose wat nie verander nie, 'n huwelik wat swaar gaan, 'n werkplek waar getrouheid jou iets kos. Openbaring 15 vra nie dat jy maak asof alles reg is nie; dit wys jou waar die verhaal eindig: by 'n volk wat langs die see staan en sing.
 
 Daarom is die lied van die kerk nie net 'n uitdrukking van hoe ons voel nie. Dit is 'n daad van geloof. Wanneer 'n klein gemeente op 'n gewone Sondag sing, oefen sy al die lied van die oewer in. Elke keer as ons sing *"regverdig en waaragtig is u weë"*, sê ons iets wat ons nog nie altyd kan sien nie, maar wat God reeds weet.
 

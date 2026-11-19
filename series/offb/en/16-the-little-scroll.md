@@ -19,6 +19,8 @@ Then the angel raises his right hand and swears "by the one who lives for ever a
 
 And then John himself must take the little scroll and eat it. Ezekiel had the same experience. In exile God gave him a scroll, written on both sides with laments and mourning and woe, and said: eat this scroll. It was sweet as honey in his mouth – but afterwards he went away in bitterness of spirit (Ezekiel 2:8–3:3, 14). Jeremiah knew this too: God's words were a joy to him (Jeremiah 15:16), and yet the same word brought him persecution.
 
+For the churches in Asia this was a bittersweet calling. The word they had received was sweet: the Lamb has conquered, and they belong to him. But to say it out loud in Ephesus or Pergamum was bitter: it cost them their place in the guilds, their good name and sometimes their lives, as it did Antipas (2:13). Philadelphia had little power but had been given an open door (3:8). The command to John, *"You must prophesy again"*, was their command too.
+
 ### Insights from the Greek
 
 - **A little scroll, opened (*biblaridion ēneōgmenon* – βιβλαρίδιον ἠνεῳγμένον, v. 2):** The same verb form as the door in heaven that *stood open* (4:1). Many interpreters think that this is the scroll of chapter 5, which the Lamb has meanwhile opened and which is now given to John; others see a smaller, separate message. Either way, it is open, and it is meant for him.
@@ -39,7 +41,7 @@ And then John himself must take the little scroll and eat it. Ezekiel had the sa
 
 ## Living It Out
 
-Many of us read the Bible like someone sampling at a buffet: a verse here, a comforting thought there. That is not wrong, but John is told to *eat up* the scroll. God's word wants to go into us, shape our thinking and become part of us – and that takes time, repetition and silence.
+To the first readers this chapter said: God's answer to a world that will not turn back is your witness – and it will be sweet and bitter. The same calling rests on us. Many of us read the Bible like someone sampling at a buffet: a verse here, a comforting thought there. That is not wrong, but John is told to *eat up* the scroll. God's word wants to go into us, shape our thinking and become part of us – and that takes time, repetition and silence.
 
 When that happens, you will taste both the sweetness and the bitterness. The sweetness: the promise that you need not be afraid (1:17), the forgiveness of the Lamb. The bitterness: the word that says you must forgive the one who hurt you; the truth you have to speak at work or in your family and that may cost you something. If the Bible is only sweet to you, you may be reading only half of it. If it is only bitter, you have forgotten the Lamb.
 

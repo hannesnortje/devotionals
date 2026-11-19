@@ -15,6 +15,8 @@ The Bible's first sentence says that in the beginning God created the heavens an
 
 And the sea? In the Old Testament the sea is often the picture of chaos and threat; out of the sea came Daniel's beasts (Daniel 7:3), and in Revelation the beast of chapter 13. And the sea was Babylon's trade route: when she fell, the sailors stood far off and wept, for across the sea the wealth of the world sailed to Rome (18:17–19). In the new creation there is no more chaos, no more separation – and no market that buys and sells everything.
 
+Think of the first readers. In the churches of Asia there were slaves who would never be free, widows and the poor, and families who had lost brothers and sisters to persecution. Smyrna was told: *"Be faithful to the point of death"* (2:10). For them the promise *"and death will be no more"* was no pretty idea, but the end of everything they carried every day.
+
 Then comes the heart of the vision. "Look, God's tent is with people, and he will spread his tent with them." This is the language of the exodus. In the wilderness God told Moses to make him a sanctuary, so that he might dwell in their midst (Exodus 25:8), and his glory filled the tent (Exodus 40:34). The exodus from Egypt was never just an escape; it led into the promised land and to a God who dwells with his people. So it is with the new exodus of Revelation. When Babylon fell, the voice from heaven called: "Come out of her, my people" (18:4). It is an exodus out of Babylon, not out of creation. The goal is not that we escape to a heaven far away, but that God comes down and dwells with us.
 
 ### Insights from the Greek
@@ -37,7 +39,7 @@ Then comes the heart of the vision. "Look, God's tent is with people, and he wil
 
 ## Living It Out
 
-Some tears are not wiped away in this life. The child who was never born, the marriage that broke, the loved one who died of cancer, the body that no longer obeys. Revelation 21 does not give an explanation for every tear. It gives something better: a promise that God himself will wipe each one away – not an angel, God himself.
+For the first readers this promise was not just a comforting thought at a funeral, but the strength to stay faithful. For us it is no different. Some tears are not wiped away in this life. The child who was never born, the marriage that broke, the loved one who died of cancer, the body that no longer obeys. Revelation 21 does not give an explanation for every tear. It gives something better: a promise that God himself will wipe each one away – not an angel, God himself.
 
 This vision also helps us look honestly at what we invest in. Our time, our money and our dreams often go to things that pass away with the first earth. Creation is not bad – God is making it new – but our hearts should not hang on Babylon's luxury. Whoever knows that the new creation is coming can live today with open hands.
 

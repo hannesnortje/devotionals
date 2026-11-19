@@ -15,6 +15,8 @@ Zion was the mountain of Jerusalem, the place where God installed his king (Psal
 
 With the Lamb stand "a hundred and forty-four thousand who had his name and his Father's name written on their foreheads." We met them in chapter 7: the whole people of God, sealed before the storm. Here the seal is given its content. It is a name. In Israel the high priest wore a golden plate on his forehead with the words "Holy to the LORD" (Exodus 28:36–38). Now the whole people bear the Name, as a kingdom of priests. And in the last chapter of the Bible it rings out again: "his name will be on their foreheads" (22:4).
 
+For the churches in Asia this scene was the answer to a lonely question. In Pergamum they lived *"where the throne of Satan is"* (2:13), and in Thyatira work and bread depended on the guilds and their feasts. Whoever did not bow down often felt alone. But John counts them: a hundred and forty-four thousand – a complete people, not a handful. They are not a small minority on the edge of Rome's world, but the people who stand with the King.
+
 The rest of the chapter is a preview of everything still to come – the eternal gospel, the fall of Babylon, the two harvests – and it begins with the Lamb and his people.
 
 ### Insights from the Greek
@@ -36,7 +38,7 @@ The rest of the chapter is a preview of everything still to come – the eternal
 
 ## Living It Out
 
-We live in an age of labels. Your job, your income, your looks and your number of followers tell the world who you are. Many of us carry those labels heavily, as if they were written on our foreheads. Revelation 14 says: another name has been written over you, and it is neither your achievement nor your failure. It is the name of the Father and of the Lamb.
+For the believers in Pergamum and Thyatira the question was: to whom do I belong – and am I alone? We ask the same, just in different clothes. We live in an age of labels. Your job, your income, your looks and your number of followers tell the world who you are. Many of us carry those labels heavily, as if they were written on our foreheads. Revelation 14 says: another name has been written over you, and it is neither your achievement nor your failure. It is the name of the Father and of the Lamb.
 
 To bear that name is first of all a comfort. On the days when you feel that the beast is stronger and your faith is small, you still stand with the Lamb on Zion. It is not you who keep yourself there. He has purchased you.
 

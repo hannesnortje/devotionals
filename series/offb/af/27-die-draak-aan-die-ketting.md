@@ -37,7 +37,7 @@ Die eerste lesers het geweet van broers en susters wat *"onthoof is ter wille va
 
 ## Praktiese Toepassing
 
-Dit voel nie altyd asof die Satan gebind is nie. Ons sien oorlog, vervolging en ontwrigte gesinne, en ons eie stryd met die sonde. Openbaring 20 ontken dit nie. Maar dit wys ons wat die nuus nie wys nie: die evangelie gaan steeds uit. Mense in lande waar die kerk eeue lank onbekend was, bid vandag in hulle eie taal tot Jesus. Die ketting hou.
+Vir die gemeentes in Asië het dit nie gelyk asof die Satan gebind is nie: Antipas is doodgemaak, Smirna is die tronk toegesê, en die keiser se tempels het oral gestaan. Tog het die evangelie juis deur hulle klein gemeentes uitgegaan – van Efese uit het die hele provinsie Asië die woord gehoor (Handelinge 19:10). Ook vir ons voel dit nie altyd asof die Satan gebind is nie. Ons sien oorlog, vervolging en ontwrigte gesinne, en ons eie stryd met die sonde. Openbaring 20 ontken dit nie. Maar dit wys ons wat die nuus nie wys nie: die evangelie gaan steeds uit. Mense in lande waar die kerk eeue lank onbekend was, bid vandag in hulle eie taal tot Jesus. Die ketting hou.
 
 Vir wie rou oor 'n geliefde wat in die geloof gesterf het, is hierdie hoofstuk 'n sagte troos. Hulle is nie weg nie. Johannes sien hulle lewe en regeer saam met Christus. Die tweede dood het geen gesag oor hulle nie – en ook nie oor jou nie, as jy aan Hom behoort.
 

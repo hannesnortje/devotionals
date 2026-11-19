@@ -19,6 +19,8 @@ Daarna lig die engel sy regterhand op en sweer *"by Hom wat tot in alle ewigheid
 
 En dan moet Johannes self die boekrolletjie neem en eet. Esegiël het dieselfde beleef. In die ballingskap het God hom 'n boekrol gegee, aan albei kante beskryf met klaagliedere en weeklag, en gesê: eet hierdie rol. Dit was in sy mond soet soos heuning – maar daarna het hy in bitterheid van gees weggegaan (Esegiël 2:8–3:3, 14). Jeremia het dit ook geken: God se woorde was vir hom 'n vreugde (Jeremia 15:16), en tog het dieselfde woord hom vervolging gekos.
 
+Vir die gemeentes in Asië was dit 'n bittersoet roeping. Die woord wat hulle ontvang het, was soet: die Lam het oorwin, en hulle behoort aan Hom. Maar om dit in Efese of Pergamum hardop te sê, was bitter: dit het hulle hul plek in die gildes, hul goeie naam en soms hul lewe gekos, soos vir Antipas (2:13). Filadelfia het min krag gehad, maar 'n oop deur ontvang (3:8). Die opdrag aan Johannes, *"Jy moet weer profeteer"*, was ook hulle opdrag.
+
 ### Insigte uit die Grieks
 
 - **'n Klein boekrolletjie wat oopgemaak was (*biblaridion ēneōgmenon* – βιβλαρίδιον ἠνεῳγμένον, v. 2):** Dieselfde werkwoordsvorm as die deur in die hemel wat *oop staan* (4:1). Baie uitleggers dink dit is die boekrol van hoofstuk 5, wat die Lam intussen oopgemaak het en wat nou aan Johannes gegee word; ander sien 'n kleiner, aparte boodskap. Hoe ook al: dit is oop, en dit is vir hom bedoel.
@@ -39,7 +41,7 @@ En dan moet Johannes self die boekrolletjie neem en eet. Esegiël het dieselfde 
 
 ## Praktiese Toepassing
 
-Baie van ons lees die Bybel soos iemand wat by 'n buffet proe: 'n vers hier, 'n troosgedagte daar. Dit is nie verkeerd nie, maar Johannes word gevra om die boekrol *op te eet*. God se woord wil in ons ingaan, ons denke vorm en deel van ons word – en dit neem tyd, herhaling en stilte.
+Vir die eerste lesers het hierdie hoofstuk gesê: God se antwoord op 'n wêreld wat nie wil omdraai nie, is julle getuienis – en dit sal soet en bitter wees. Dieselfde roeping lê op ons. Baie van ons lees die Bybel soos iemand wat by 'n buffet proe: 'n vers hier, 'n troosgedagte daar. Dit is nie verkeerd nie, maar Johannes word gevra om die boekrol *op te eet*. God se woord wil in ons ingaan, ons denke vorm en deel van ons word – en dit neem tyd, herhaling en stilte.
 
 Wanneer dit gebeur, sal jy sowel die soetheid as die bitterheid proe. Die soetheid: die belofte dat jy nie bang hoef te wees nie (1:17), die vergewing van die Lam. Die bitterheid: die woord wat sê jy moet vergewe wie jou seergemaak het, die waarheid wat jy by die werk of in jou familie moet sê en wat jou iets kan kos. As die Bybel vir jou net soet is, lees jy dalk net die helfte. As dit net bitter is, het jy die Lam vergeet.
 

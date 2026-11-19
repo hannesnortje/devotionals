@@ -37,7 +37,7 @@ Die ersten Leser wussten von Geschwistern, die „enthauptet worden waren wegen 
 
 ## Für das Leben heute
 
-Es fühlt sich nicht immer so an, als sei der Satan gebunden. Wir sehen Krieg, Verfolgung und zerbrochene Familien und unseren eigenen Kampf mit der Sünde. Offenbarung 20 leugnet das nicht. Aber es zeigt uns, was die Nachrichten nicht zeigen: Das Evangelium geht weiter hinaus. Menschen in Ländern, in denen die Kirche jahrhundertelang unbekannt war, beten heute in ihrer eigenen Sprache zu Jesus. Die Kette hält.
+Für die Gemeinden in Asien sah es nicht so aus, als sei der Satan gebunden: Antipas war getötet worden, Smyrna war das Gefängnis angekündigt, und die Tempel des Kaisers standen überall. Doch gerade durch ihre kleinen Gemeinden ging das Evangelium hinaus – von Ephesus aus hörte die ganze Provinz Asien das Wort (Apostelgeschichte 19,10). Auch uns kommt es nicht immer so vor, als sei der Satan gebunden. Wir sehen Krieg, Verfolgung und zerbrochene Familien und unseren eigenen Kampf mit der Sünde. Offenbarung 20 leugnet das nicht. Aber es zeigt uns, was die Nachrichten nicht zeigen: Das Evangelium geht weiter hinaus. Menschen in Ländern, in denen die Kirche jahrhundertelang unbekannt war, beten heute in ihrer eigenen Sprache zu Jesus. Die Kette hält.
 
 Für alle, die um einen geliebten Menschen trauern, der im Glauben gestorben ist, ist dieses Kapitel ein sanfter Trost. Sie sind nicht fort. Johannes sieht sie leben und mit Christus herrschen. Der zweite Tod hat keine Vollmacht über sie – und auch nicht über dich, wenn du zu ihm gehörst.
 
