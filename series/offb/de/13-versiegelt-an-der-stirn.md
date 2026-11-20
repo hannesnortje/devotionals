@@ -33,7 +33,7 @@ Und dann geschieht dasselbe wie in Kapitel 5. Johannes **hört** eine Zahl: „h
 
 3. **Die Rettung gehört Gott und dem Lamm – nicht uns.** Die Menge singt nicht von ihrer eigenen Ausdauer: „Die Rettung gehört unserem Gott, der auf dem Thron sitzt, und dem Lamm!“ Ihre Gewänder sind weiß, aber nicht, weil sie sie selbst sauber gehalten hätten: „sie haben ihre Gewänder gewaschen und sie weiß gemacht im Blut des Lammes“.
 
-4. **Die Geschichte endet dort, wo Gott bei seinem Volk wohnt.** „Der auf dem Thron sitzt, wird sein Zelt über ihnen aufschlagen“ – die Sprache der Stiftshütte in der Wüste (2. Mose 40,34), des Wortes, das unter uns gewohnt hat (Johannes 1,14), und der neuen Schöpfung (21,3). Die Verheißung Jesajas – kein Hunger, kein Durst, keine sengende Sonne (Jesaja 49,10) – wird wahr, „denn das Lamm in der Mitte des Thrones wird sie weiden“.
+4. **Die Geschichte endet dort, wo Gott bei seinem Volk wohnt.** „Der auf dem Thron sitzt, wird sein Zelt über ihnen aufschlagen“ – die Sprache der Stiftshütte in der Wüste (2. Mose 40,34), des Wortes, das unter uns gewohnt hat (Johannes 1,14), und der neuen Schöpfung (21,3). Die Verheißung Jesajas – kein Hunger, kein Durst, keine sengende Sonne (Jesaja 49,10) – wird wahr, „denn das Lamm in der Mitte des Thrones wird sie weiden“. Was David vom HERRN sang – er ist mein Hirte, er führt mich zu Wassern, an denen ich ruhen kann (Psalm 23,1–2) –, gilt nun vom Lamm. Die Überraschung ist, dass der Hirte selbst ein Lamm ist, das geschlachtet wurde. Und die Verheißung von Jesaja 25,8 wird wahr: *„Gott wird jede Träne von ihren Augen abwischen.“*
 
 ## Für das Leben heute
 

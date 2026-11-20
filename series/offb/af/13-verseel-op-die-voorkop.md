@@ -33,7 +33,7 @@ En dan gebeur dieselfde as in hoofstuk 5. Johannes **hoor** 'n getal: *"honderd 
 
 3. **Redding behoort aan God en aan die Lam – nie aan ons nie.** Die menigte sing nie oor hulle eie volharding nie: *"Aan ons God wat op die troon sit, en aan die Lam behoort die redding!"* Hulle klede is wit, maar nie omdat hulle dit self skoon gehou het nie: *"hulle het hulle klede gewas en dit wit gemaak in die bloed van die Lam."*
 
-4. **Die verhaal eindig waar God by sy volk woon.** *"Hy wat op die troon sit, sal sy tent oor hulle span"* – die taal van die tabernakel in die woestyn (Eksodus 40:34), van die Woord wat onder ons kom woon het (Johannes 1:14), en van die nuwe skepping (21:3). Die belofte van Jesaja – geen honger, geen dors, geen skroeiende son nie (Jesaja 49:10) – word waar, *"want die Lam in die middel van die troon sal hulle soos 'n herder oppas."*
+4. **Die verhaal eindig waar God by sy volk woon.** *"Hy wat op die troon sit, sal sy tent oor hulle span"* – die taal van die tabernakel in die woestyn (Eksodus 40:34), van die Woord wat onder ons kom woon het (Johannes 1:14), en van die nuwe skepping (21:3). Die belofte van Jesaja – geen honger, geen dors, geen skroeiende son nie (Jesaja 49:10) – word waar, *"want die Lam in die middel van die troon sal hulle soos 'n herder oppas."* Wat Dawid van die HERE gesing het – Hy is my herder, Hy lei my na waters waar ek kan rus (Psalm 23:1–2) – geld nou van die Lam. Die verrassing is dat die Herder self 'n Lam is wat geslag is. En die belofte van Jesaja 25:8 word waar: *"God sal elke traan uit hulle oë afvee."*
 
 ## Praktiese Toepassing
 
