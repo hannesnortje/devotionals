@@ -13,7 +13,7 @@ An angel comes down from heaven, "holding in his hand the key of the abyss and a
 
 Chapter 20 does not necessarily follow chapter 19 in time. As so often in Revelation, the vision goes back and shows the same period from another angle. In chapter 12 we already saw the dragon thrown down when the child was "snatched up to God and to his throne" (12:5, 9) – the victory of the cross, the resurrection and the ascension. The Lord Jesus himself spoke like this. He says that no one can enter a strong man's house and plunder his goods unless he first binds the strong man (Mark 3:27). And before the cross: Now the ruler of this world will be driven out; and when I am lifted up from the earth, I will draw all people to myself (John 12:31–32).
 
-The thousand years, then, are not a period on a calendar, but the time in which we now live, between Christ's first and second coming: a full, long time measured out by God (ten times ten times ten), over against Satan's "short time" at the end. Christ reigns now, and his people reign with him. From the earliest times the church has read this chapter in different ways. Papias of Hierapolis, Justin and Irenaeus expected a literal thousand-year kingdom on earth after Christ's return; Justin himself admits that many believers saw it differently. Here we follow the line known in the church since Augustine (*The City of God*, book 20).
+The thousand years, then, are not a period on a calendar, but the time in which we now live, between Christ's first and second coming: a full, long time measured out by God (ten times ten times ten), over against Satan's "short time" at the end. Christ reigns now – not with iron like the empires of the world, but in and through his people, his army, who reign with him. He has already received all authority (Matthew 28:18), but we do not yet see everything subjected to him (Hebrews 2:8). Only at his return will his reign over everything become visible and complete (1 Corinthians 15:24–28). From the earliest times the church has read this chapter in different ways. Papias of Hierapolis, Justin and Irenaeus expected a literal thousand-year kingdom on earth after Christ's return; Justin himself admits that many believers saw it differently. Here we follow the line known in the church since Augustine (*The City of God*, book 20).
 
 The first readers knew of brothers and sisters who had been "beheaded because of the testimony of Jesus and because of the word of God." What had become of those who had lost their lives for their witness? Of the souls under the altar (6:9)? John now sees them on thrones: "And they lived and reigned with Christ for a thousand years." To the world they had lost; with Christ they reign.
 
@@ -27,7 +27,7 @@ The first readers knew of brothers and sisters who had been "beheaded because of
 
 ### Core Theological Truths
 
-1. **Christ reigns now, and Satan is on a chain.** Being bound does not mean that evil is quiet; a dog on a chain can still bark and bite within the reach of its chain. But he cannot stop the gospel. That there are churches today in almost every country of the world is itself the proof of the chain.
+1. **Christ reigns now in his people, and Satan is on a chain – until the day when he reigns over everything.** Being bound does not mean that evil is quiet; a dog on a chain can still bark and bite within the reach of its chain. But he cannot stop the gospel. That there are churches today in almost every country of the world is itself the proof of the chain. Until then it is a battle: Christ's kingdom is not of this world (John 18:36), and it grows through testimony, not through violence. But the day is coming when every knee will bow before him (Philippians 2:10).
 
 2. **The faithful dead are not lost.** The world beheaded them; God seated them on thrones. The picture comes from Daniel 7:9, 22, where thrones are set up and judgement is given to the saints of the Most High. Whoever dies in Christ does not go into nothingness, but to the throne.
 
@@ -54,7 +54,7 @@ This week, pray every day for one people or country where the gospel is still li
 
 ## Prayer
 
-*You have bound the strong man, Lord Jesus, and broken open his house. You reign now, and your people reign with you. Thank you that Satan cannot stop the gospel, and that people from every nation call on your name today.*
+*You have bound the strong man, Lord Jesus, and broken open his house. You reign now in your people, and one day you will reign over everything. Thank you that Satan cannot stop the gospel, and that people from every nation call on your name today.*
 
 *Too easily I live as if evil had the upper hand, and I fear the judgement although you have already paid for my sin. Forgive me where my works have dishonoured you, and teach me to take seriously that my life counts before your throne.*
 

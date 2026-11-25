@@ -13,7 +13,7 @@ Ein Engel kommt aus dem Himmel herab, der „den Schlüssel des Abgrunds und ein
 
 Kapitel 20 folgt nicht unbedingt zeitlich auf Kapitel 19. Wie so oft in der Offenbarung geht die Vision zurück und zeigt denselben Zeitraum aus einem anderen Blickwinkel. In Kapitel 12 haben wir schon gesehen, wie der Drache hinabgeworfen wird, als das Kind „zu Gott und zu seinem Thron emporgerissen“ wurde (12,5.9) – der Sieg von Kreuz, Auferstehung und Himmelfahrt. Der Herr Jesus selbst hat so gesprochen. Er sagt, dass niemand in das Haus eines Starken eindringen und seinen Besitz rauben kann, wenn er nicht zuerst den Starken bindet (Markus 3,27). Und vor dem Kreuz: Jetzt wird der Herrscher dieser Welt hinausgeworfen werden; und wenn ich von der Erde erhöht bin, werde ich alle zu mir ziehen (Johannes 12,31–32).
 
-Die tausend Jahre sind also kein Zeitraum im Kalender, sondern die Zeit, in der wir jetzt leben, zwischen dem ersten und dem zweiten Kommen Christi: eine volle, lange, von Gott bemessene Zeit (zehn mal zehn mal zehn), im Gegensatz zur „kurzen Zeit“ des Satans am Ende. Christus herrscht jetzt, und sein Volk herrscht mit ihm. Schon von frühester Zeit an hat die Kirche dieses Kapitel unterschiedlich gelesen. Papias von Hierapolis, Justin und Irenäus erwarteten nach der Wiederkunft Christi ein buchstäbliches tausendjähriges Reich auf der Erde; Justin räumt selbst ein, dass viele Gläubige das anders sahen. Wir folgen hier der Linie, die seit Augustinus (*Vom Gottesstaat*, Buch 20) in der Kirche bekannt ist.
+Die tausend Jahre sind also kein Zeitraum im Kalender, sondern die Zeit, in der wir jetzt leben, zwischen dem ersten und dem zweiten Kommen Christi: eine volle, lange, von Gott bemessene Zeit (zehn mal zehn mal zehn), im Gegensatz zur „kurzen Zeit“ des Satans am Ende. Christus herrscht jetzt – nicht mit Eisen wie die Reiche der Welt, sondern in und durch sein Volk, sein Heer, das mit ihm herrscht. Er hat schon alle Vollmacht empfangen (Matthäus 28,18), aber wir sehen noch nicht, dass ihm alles unterworfen ist (Hebräer 2,8). Erst bei seiner Wiederkunft wird seine Herrschaft über alles sichtbar und vollkommen (1. Korinther 15,24–28). Schon von frühester Zeit an hat die Kirche dieses Kapitel unterschiedlich gelesen. Papias von Hierapolis, Justin und Irenäus erwarteten nach der Wiederkunft Christi ein buchstäbliches tausendjähriges Reich auf der Erde; Justin räumt selbst ein, dass viele Gläubige das anders sahen. Wir folgen hier der Linie, die seit Augustinus (*Vom Gottesstaat*, Buch 20) in der Kirche bekannt ist.
 
 Die ersten Leser wussten von Geschwistern, die „enthauptet worden waren wegen des Zeugnisses Jesu und wegen des Wortes Gottes“. Was war aus denen geworden, die für ihr Zeugnis ihr Leben verloren hatten? Aus den Seelen unter dem Altar (6,9)? Johannes sieht sie jetzt auf Thronen: „Und sie lebten und herrschten mit Christus tausend Jahre.“ Für die Welt hatten sie verloren; bei Christus herrschen sie.
 
@@ -27,7 +27,7 @@ Die ersten Leser wussten von Geschwistern, die „enthauptet worden waren wegen 
 
 ### Zentrale theologische Wahrheiten
 
-1. **Christus herrscht jetzt, und der Satan liegt an der Kette.** Gebunden zu sein bedeutet nicht, dass das Böse still ist; ein Hund an der Kette kann noch bellen und beißen, so weit seine Kette reicht. Aber er kann das Evangelium nicht aufhalten. Dass es heute in fast jedem Land der Welt Gemeinden gibt, ist selbst der Beweis für die Kette.
+1. **Christus herrscht jetzt in seinem Volk, und der Satan liegt an der Kette – bis zu dem Tag, an dem er über alles herrscht.** Gebunden zu sein bedeutet nicht, dass das Böse still ist; ein Hund an der Kette kann noch bellen und beißen, so weit seine Kette reicht. Aber er kann das Evangelium nicht aufhalten. Dass es heute in fast jedem Land der Welt Gemeinden gibt, ist selbst der Beweis für die Kette. Bis dahin ist es ein Kampf: Christi Reich ist nicht von dieser Welt (Johannes 18,36), und es wächst durch Zeugnis, nicht durch Gewalt. Aber der Tag kommt, an dem sich jedes Knie vor ihm beugen wird (Philipper 2,10).
 
 2. **Die treuen Toten sind nicht verloren.** Die Welt hat sie enthauptet; Gott hat sie auf Throne gesetzt. Das Bild stammt aus Daniel 7,9.22, wo Throne aufgestellt werden und das Gericht den Heiligen des Höchsten gegeben wird. Wer in Christus stirbt, geht nicht ins Nichts, sondern zum Thron.
 
@@ -54,7 +54,7 @@ Bete in dieser Woche jeden Tag für ein Volk oder ein Land, in dem das Evangeliu
 
 ## Gebet
 
-*Du hast den Starken gebunden, Herr Jesus, und sein Haus aufgebrochen. Du herrschst jetzt, und dein Volk herrscht mit dir. Danke, dass der Satan das Evangelium nicht aufhalten kann und dass Menschen aus allen Nationen heute deinen Namen anrufen.*
+*Du hast den Starken gebunden, Herr Jesus, und sein Haus aufgebrochen. Du herrschst jetzt in deinem Volk, und eines Tages wirst du über alles herrschen. Danke, dass der Satan das Evangelium nicht aufhalten kann und dass Menschen aus allen Nationen heute deinen Namen anrufen.*
 
 *Zu leicht lebe ich, als hätte das Böse die Oberhand, und fürchte mich vor dem Gericht, obwohl du schon für meine Sünde bezahlt hast. Vergib mir, wo meine Werke dir Unehre gemacht haben, und lehre mich, ernst zu nehmen, dass mein Leben vor deinem Thron zählt.*
 

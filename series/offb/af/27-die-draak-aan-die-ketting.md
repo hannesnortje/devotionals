@@ -13,7 +13,7 @@ ref: "20:1-20:15"
 
 Hoofstuk 20 volg nie noodwendig in tyd op hoofstuk 19 nie. Soos so dikwels in Openbaring gaan die visioen terug en wys dieselfde tydperk uit 'n ander hoek. In hoofstuk 12 het ons reeds gesien hoe die draak neergewerp word toe die kind *"na God en na sy troon weggeruk"* is (12:5, 9) – die oorwinning van die kruis, die opstanding en die hemelvaart. Die Here Jesus het self so gepraat. Hy sê dat niemand die huis van 'n sterk man kan binnegaan en sy goed buit nie, tensy hy eers die sterk man vasbind (Markus 3:27). En voor die kruis: Nou word die heerser van hierdie wêreld uitgewerp; en wanneer Ek van die aarde af verhoog is, sal Ek almal na My toe trek (Johannes 12:31–32).
 
-Die duisend jaar is dus nie 'n tydperk op 'n kalender nie, maar die tyd waarin ons nou leef, tussen Christus se eerste en tweede koms: 'n volle, lang tyd, deur God afgemeet (tien maal tien maal tien), teenoor die *"kort tydjie"* van die Satan aan die einde. Christus regeer nou, en sy volk regeer saam met Hom. Van die vroegste tyd af het die kerk hierdie hoofstuk verskillend gelees. Papias van Hiërapolis, Justinus en Ireneus het 'n letterlike ryk van duisend jaar op aarde ná Christus se wederkoms verwag; Justinus erken self dat baie gelowiges dit anders gesien het. Ons volg hier die lyn wat sedert Augustinus (*Die Stad van God*, boek 20) in die kerk bekend is.
+Die duisend jaar is dus nie 'n tydperk op 'n kalender nie, maar die tyd waarin ons nou leef, tussen Christus se eerste en tweede koms: 'n volle, lang tyd, deur God afgemeet (tien maal tien maal tien), teenoor die *"kort tydjie"* van die Satan aan die einde. Christus regeer nou – nie met yster soos die ryke van die wêreld nie, maar in en deur sy volk, sy leër, wat saam met Hom regeer. Hy het reeds alle gesag ontvang (Matteus 28:18), maar ons sien nog nie dat alles aan Hom onderwerp is nie (Hebreërs 2:8). Eers by sy wederkoms word sy heerskappy oor alles sigbaar en volkome (1 Korintiërs 15:24–28). Van die vroegste tyd af het die kerk hierdie hoofstuk verskillend gelees. Papias van Hiërapolis, Justinus en Ireneus het 'n letterlike ryk van duisend jaar op aarde ná Christus se wederkoms verwag; Justinus erken self dat baie gelowiges dit anders gesien het. Ons volg hier die lyn wat sedert Augustinus (*Die Stad van God*, boek 20) in die kerk bekend is.
 
 Die eerste lesers het geweet van broers en susters wat *"onthoof is ter wille van die getuienis van Jesus en ter wille van die woord van God."* Wat het geword van dié wat hulle lewe vir hulle getuienis verloor het? Wat van die siele onder die altaar (6:9)? Johannes sien hulle nou op trone: *"En hulle het geleef en saam met Christus geregeer, duisend jaar lank."* Vir die wêreld het hulle verloor; by Christus regeer hulle.
 
@@ -27,7 +27,7 @@ Die eerste lesers het geweet van broers en susters wat *"onthoof is ter wille va
 
 ### Teologiese Kernwaarhede
 
-1. **Christus regeer nou, en die Satan is aan die ketting.** Die binding beteken nie dat die kwaad stil is nie; 'n hond aan 'n ketting kan nog blaf en byt binne die bereik van sy ketting. Maar hy kan die evangelie nie keer nie. Dat daar vandag gemeentes in byna elke land van die wêreld is, is self die bewys van die ketting.
+1. **Christus regeer nou in sy volk, en die Satan is aan die ketting – tot die dag wanneer Hy oor alles regeer.** Die binding beteken nie dat die kwaad stil is nie; 'n hond aan 'n ketting kan nog blaf en byt binne die bereik van sy ketting. Maar hy kan die evangelie nie keer nie. Dat daar vandag gemeentes in byna elke land van die wêreld is, is self die bewys van die ketting. Tot dan is dit 'n stryd: Christus se koninkryk is nie van hierdie wêreld nie (Johannes 18:36), en dit groei deur getuienis, nie deur geweld nie. Maar die dag kom wanneer elke knie voor Hom sal buig (Filippense 2:10).
 
 2. **Die getroue dooies is nie verlore nie.** Die wêreld het hulle onthoof; God het hulle op trone gesit. Die beeld kom uit Daniël 7:9, 22, waar trone geplaas word en die oordeel aan die heiliges van die Allerhoogste gegee word. Wie in Christus sterf, gaan nie die niet in nie, maar na die troon.
 
@@ -54,7 +54,7 @@ Bid hierdie week elke dag vir een volk of land waar die evangelie nog min bekend
 
 ## Gebed
 
-*U het die sterk man gebind, Here Jesus, en sy huis oopgebreek. U regeer nou, en u volk regeer saam met U. Dankie dat die Satan die evangelie nie kan keer nie, en dat mense uit elke nasie vandag u Naam aanroep.*
+*U het die sterk man gebind, Here Jesus, en sy huis oopgebreek. U regeer nou in u volk, en eendag sal U oor alles regeer. Dankie dat die Satan die evangelie nie kan keer nie, en dat mense uit elke nasie vandag u Naam aanroep.*
 
 *Ek leef te maklik asof die kwaad die oorhand het, en ek is bang vir die oordeel terwyl U reeds vir my sonde betaal het. Vergewe my as my werke U oneer aangedoen het, en leer my om ernstig te neem dat my lewe voor u troon tel.*
 
