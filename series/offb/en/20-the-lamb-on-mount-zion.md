@@ -2,7 +2,7 @@
 day: 20
 lang: en
 title: "The Lamb on Mount Zion: His Name on Our Foreheads"
-ref: "14:1-14:20"
+ref: "14:1-14:5"
 ---
 
 ## Digging Deeper: Context and Meaning
@@ -17,14 +17,14 @@ With the Lamb stand "a hundred and forty-four thousand who had his name and his 
 
 For the churches in Asia this scene was the answer to a lonely question. In Pergamum they lived *"where the throne of Satan is"* (2:13), and in Thyatira work and bread depended on the guilds and their feasts. Whoever did not bow down often felt alone. But John counts them: a hundred and forty-four thousand – a complete people, not a handful. They are not a small minority on the edge of Rome's world, but the people who stand with the King.
 
-The rest of the chapter is a preview of everything still to come – the eternal gospel, the fall of Babylon, the two harvests – and it begins with the Lamb and his people.
+Tomorrow we read on: the eternal gospel, the fall of Babylon and the two harvests. But everything begins here, with the Lamb and his people.
 
 ### Insights from the Greek
 
 - **Written on their foreheads (*gegrammenon epi tōn metōpōn autōn* – γεγραμμένον ἐπὶ τῶν μετώπων αὐτῶν, v. 1):** The verb form describes something that has been written and stays written. The name of the Lamb is a lasting gift. (The SBLGNT has "his name and his Father's name"; older editions only the Father's name.)
 - **Those who follow the Lamb (*hoi akolouthountes tō arniō* – οἱ ἀκολουθοῦντες τῷ ἀρνίῳ, v. 4):** The present tense describes a way of life: they keep following, "wherever he goes". It is Jesus' own call to his disciples: Follow me. Of the beast's worshippers it was said that "the whole earth followed the beast in amazement" (13:3); these people follow the Lamb.
 - **Firstfruits (*aparchē* – ἀπαρχὴ, v. 4):** The first sheaf of the harvest, dedicated to God as the pledge of the whole harvest (Leviticus 23:10). Jeremiah calls Israel the firstfruits of God's harvest (Jeremiah 2:3). The Lamb's people are God's first sheaf from humanity.
-- **An eternal gospel (*euangelion aiōnion* – εὐαγγέλιον αἰώνιον, v. 6):** The only time the word "gospel" occurs in Revelation – and it is proclaimed to "every nation and tribe and language and people". Even in the shadow of the beast the door is still open.
+- **A new song (*ōdēn kainēn* – ᾠδὴν καινήν, v. 3):** In the Psalms a new song is always the response to a new saving act of God (Psalm 33:3; 96:1; 98:1; Isaiah 42:10). In 5:9 it is the song of the Lamb's redemption, and later, in 15:3, the song of Moses and of the Lamb. *"and no one could learn the song except the hundred and forty-four thousand"*: you can only sing what you have experienced yourself. And notice the two songs. In 13:4 the world sings its hymn to the beast: *"Who is like the beast, and who can make war against it?"* On Zion the redeemed sing the new song before the throne.
 
 ### Core Theological Truths
 
@@ -32,9 +32,7 @@ The rest of the chapter is a preview of everything still to come – the eternal
 
 2. **The Lamb's people are an army that fights as the Lamb fights.** That they are "virgins" does not mean that only the unmarried belong to the Lamb. The Old Testament uses the picture of soldiers keeping themselves pure for holy war (Deuteronomy 23:9–14; 1 Samuel 21:5) and of Israel as the bride who faithfully follows her God (Jeremiah 2:2). And "no lie was found in their mouth" – like the remnant of whom Zephaniah says that they speak no lie (Zephaniah 3:13). Against the beast's deception stands a people of the truth.
 
-3. **The judgement is serious, but the gospel comes first.** The first angel cries, "Fear God and give him glory", and worship the one who made all things – as Jonah confessed to the sailors that he feared the God of heaven, "he who made the sea and the dry land" (Jonah 1:9). Only then come the fall of Babylon (Isaiah 21:9) and the warning to those who worship the beast, in the language of Sodom's fire and sulphur (Genesis 19:24). God warns because he wants people to turn back.
-
-4. **The Son of Man will reap.** On the white cloud sits "one like a son of man" (Daniel 7:13) with a sickle. The prophet Joel had already said: Send out the sickle, for the harvest is ripe (Joel 3:13). Many interpreters read the grain harvest (vv. 14–16) as the gathering of God's people, and the grapes in the winepress (vv. 17–20) as judgement (cf. Isaiah 63:1–6). The winepress is trodden "outside the city", over an area as large as the land itself – and some recall that Jesus too suffered outside the city (Hebrews 13:12).
+3. **The new song can only be learned, not counterfeited.** The beast has its worshippers and its hymn (13:4), but no one can fake the new song, for it is the song of people who *"have been purchased from the earth"*. Every time a church – in a house in Thyatira or in a church today – sings together of the Lamb's redemption, it is an act of resistance against the beast: we sing a different song.
 
 ## Living It Out
 
@@ -44,7 +42,7 @@ To bear that name is first of all a comfort. On the days when you feel that the 
 
 But it is also a calling. Of those who bear his name it is said: "These are the ones who follow the Lamb wherever he goes." That sometimes means going where you would rather not: to the difficult conversation, to forgiveness, to the people others avoid. And it means being a person of the truth in a world full of half-truths.
 
-And then there is the comfort of verse 13 for everyone who has lost a loved one in the Lord: "Blessed are the dead who die in the Lord from now on." They rest, and their works go with them. Nothing done in love for the Lamb is lost.
+And sing. The Lamb's people are a singing people. When the world's songs are about power, money and fame, we sing of the one who purchased us. A song you sing in a hard time is not an escape from reality, but a testimony to who really reigns.
 
 Watch your words tomorrow. When you notice that you want to tell a small lie to look good or to avoid trouble, tell the truth instead, gently – and thank the Lamb that you may bear his name.
 
@@ -53,7 +51,7 @@ Watch your words tomorrow. When you notice that you want to tell a small lie to 
 - Which of the world's "labels" weighs most heavily on you, and what changes when you write the name of the Father and the Lamb over it (v. 1)?
 - Where is the Lamb leading you at the moment that you would rather not follow (v. 4)?
 - Is there a "small lie" in your mouth that you have grown so used to that you no longer notice it (v. 5)?
-- How does verse 13 comfort you about someone you have lost – or about your own death?
+- Which song of redemption can you sing today – and which "song" of the world might you be singing along with without noticing (v. 3; 13:4)?
 
 ## Prayer
 
@@ -61,4 +59,4 @@ Watch your words tomorrow. When you notice that you want to tell a small lie to 
 
 *I confess that I wear the world's labels as if they were my true name. Forgive me for the lies, great and small, and for the times I did not want to follow you where you went.*
 
-*Teach me to follow you wherever you go, with a mouth without a lie and a heart that belongs to you. And when one day I die in the Lord, let me rest in the knowledge that you do not forget my small works of love. In Jesus' name, Amen.*
+*Teach me to follow you wherever you go, with a mouth without a lie and a heart that belongs to you. And teach me the new song, so that even on dark days I can sing of your redemption. In Jesus' name, Amen.*

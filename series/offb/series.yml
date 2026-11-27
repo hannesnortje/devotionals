@@ -20,7 +20,7 @@ avoid_words:
 strings:
   de:
     series_title: Hinter den Kulissen
-    series_subtitle: 31 Andachten zur Offenbarung des Johannes
+    series_subtitle: 32 Andachten zur Offenbarung des Johannes
     author: Dr. Johannes (Hannes) A. Nortjé
     whole_book: Das ganze Buch Offenbarung
     whole_book_intro: Der vollständige Text des Buches Offenbarung in der Übersetzung, die in diesen Andachten verwendet wird.
@@ -29,7 +29,7 @@ strings:
     translation_note: 'Bibeltext: eigene Übersetzung aus dem Griechischen von Dr. Johannes A. Nortjé. Grundtext: SBL Greek New Testament, © 2010 Society of Biblical Literature und Logos Bible Software (CC BY 4.0).'
   en:
     series_title: Behind the Curtain
-    series_subtitle: 31 devotionals on the Book of Revelation
+    series_subtitle: 32 devotionals on the Book of Revelation
     author: Dr. Johannes (Hannes) A. Nortjé
     whole_book: The whole book of Revelation
     whole_book_intro: The complete text of Revelation in the translation used in these devotionals.
@@ -38,7 +38,7 @@ strings:
     translation_note: 'Scripture: own translation from the Greek by Dr. Johannes A. Nortjé. Base text: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software (CC BY 4.0).'
   af:
     series_title: Agter die Skerms
-    series_subtitle: 31 oordenkings oor die boek Openbaring
+    series_subtitle: 32 oordenkings oor die boek Openbaring
     author: Dr. Johannes (Hannes) A. Nortjé
     whole_book: Die hele boek Openbaring
     whole_book_intro: Die volledige teks van Openbaring in die vertaling wat in hierdie oordenkings gebruik word.
