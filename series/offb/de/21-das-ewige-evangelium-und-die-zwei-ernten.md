@@ -38,7 +38,7 @@ Für die Gemeinden in Asien war das eine Umkehrung von allem, was sie jeden Tag 
 
 ## Für das Leben heute
 
-Für die Gemeinden in Asien war dieses Kapitel Verheißung und Warnung zugleich. Die Verheißung: Euer Leiden ist nicht das letzte Wort, und das Blatt wird sich wenden. Die Warnung: Trinkt nicht aus Babylons Becher, auch nicht einen kleinen Schluck beim Tempelmahl der Zunft. *„Hier ist die Ausdauer der Heiligen“* (V. 12).
+Für die Gemeinden in Asien war dieses Kapitel Verheißung und Warnung zugleich. Die Verheißung: Euer Leiden ist nicht das letzte Wort, und das Blatt wird sich wenden. Die Warnung: Trinkt nicht aus Babylons Becher, auch nicht einen kleinen Schluck beim Tempelmahl der Zunft. *„Hier ist die Ausdauer der Heiligen“* (V. 12). Das sind die drei Waffen aus 12,11 im Alltag: Zuflucht beim Blut des Lammes zu suchen, das Wort deines Zeugnisses nicht herunterzuschlucken und nicht an deinem Leben festzuklammern – bis in den Tod. Und die Toten, die im Herrn sterben (V. 13), sind genau sie: die, die *„ihr Leben nicht geliebt“* haben und die jetzt ruhen.
 
 Auch wir leben zwischen den Engeln dieses Kapitels: dem einen, der das ewige Evangelium verkündet, und dem anderen, der sagt, dass Babylon gefallen ist. Babylons Becher sieht heute anders aus – das Versprechen von Reichtum, Ansehen und Sicherheit ohne Gott –, aber er macht immer noch trunken. Er betäubt uns, sodass wir nicht mehr merken, wie abhängig wir geworden sind. Die wiederholten Gerichte der Offenbarung wollen uns weder Angst machen noch rechnen lassen, wann das Ende kommt, sondern uns wachrütteln: Der Becher ist nicht harmlos.
 

@@ -38,7 +38,7 @@ For the churches in Asia this was a reversal of everything they saw every day. T
 
 ## Living It Out
 
-For the churches in Asia this chapter was promise and warning at once. The promise: your suffering is not the last word, and the tables will be turned. The warning: do not drink from Babylon's cup, not even a small sip at the guild's temple meal. *"Here is the endurance of the saints"* (v. 12).
+For the churches in Asia this chapter was promise and warning at once. The promise: your suffering is not the last word, and the tables will be turned. The warning: do not drink from Babylon's cup, not even a small sip at the guild's temple meal. *"Here is the endurance of the saints"* (v. 12). These are the three weapons of 12:11 in practice: taking refuge in the blood of the Lamb, not swallowing the word of your testimony, and not clinging to your life – even to death. And the dead who die in the Lord (v. 13) are exactly these: those who *"did not love their life"* and who now rest.
 
 We too live between the angels of this chapter: the one who proclaims the eternal gospel, and the one who says that Babylon has fallen. Babylon's cup looks different today – the promise of wealth, status and security without God – but it still makes people drunk. It numbs us, so that we no longer notice how dependent we have become. The repeated judgements of Revelation do not want to frighten us or have us calculate when the end will come, but to wake us up: the cup is not harmless.
 

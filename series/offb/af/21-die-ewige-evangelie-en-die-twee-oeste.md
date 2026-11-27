@@ -38,7 +38,7 @@ Vir die gemeentes in Asië was dit 'n omkering van alles wat hulle elke dag gesi
 
 ## Praktiese Toepassing
 
-Vir die gemeentes in Asië was hierdie hoofstuk 'n belofte en 'n waarskuwing tegelyk. Die belofte: julle lyding is nie die laaste woord nie, en die bordjies sal verhang word. Die waarskuwing: moenie uit Babilon se beker drink nie, ook nie 'n klein slukkie by die gilde se tempelmaaltyd nie. *"Hier is die volharding van die heiliges"* (v. 12).
+Vir die gemeentes in Asië was hierdie hoofstuk 'n belofte en 'n waarskuwing tegelyk. Die belofte: julle lyding is nie die laaste woord nie, en die bordjies sal verhang word. Die waarskuwing: moenie uit Babilon se beker drink nie, ook nie 'n klein slukkie by die gilde se tempelmaaltyd nie. *"Hier is die volharding van die heiliges"* (v. 12). Dit is die drie wapens van 12:11 in die praktyk: om by die bloed van die Lam te skuil, om die woord van jou getuienis nie in te sluk nie, en om nie aan jou lewe vas te klou nie – selfs tot die dood toe. En die dode wat in die Here sterf (v. 13), is presies hulle: dié wat *"hulle lewe nie liefgehad"* het nie en wat nou rus.
 
 Ons leef ook tussen die engele van hierdie hoofstuk: die een wat die ewige evangelie verkondig, en die een wat sê dat Babilon geval het. Babilon se beker lyk vandag anders – die belofte van rykdom, aansien en veiligheid sonder God – maar dit maak steeds dronk. Dit verdoof ons sodat ons nie meer agterkom hoe afhanklik ons geword het nie. Die herhaalde oordele van Openbaring wil ons nie bang maak of laat bereken wanneer die einde kom nie, maar wakker maak: die beker is nie onskuldig nie.
 
